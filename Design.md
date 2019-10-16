@@ -15,20 +15,26 @@ We can observe the following packages:
 ##Package HELPER: it contains all the classes that will be shared by all the methods of the application especially specific classes like:
  ApiCaller which allows to connect (method: getResponse (String languageVariant, String pageTitle)) to the API and returns the wikitext (method: extractWikitextFromApiResponse (String languageVariant, String pageTitle)).
 
-## FileHandlerImpl which allows to create (method: extractFilenameFromUrl (Url string, int number), write (method: write (string filepath, string filename, list <string> data)) and check (method: isCsvValid (file file, char separator)) the validity of the CSV file.
+## FileHandlerImpl </br>
+Which allows to create (method: extractFilenameFromUrl (Url string, int number), write (method: write (string filepath, string filename, list <string> data)) and check (method: isCsvValid (file file, char separator)) the validity of the CSV file.
 
-## WikiRunner allows to parse the wikitext in html then to convert the html to a Jsoup object to perform the different processes (method: getDocument (String languageVariant, String pageTitle)).
+## WikiRunner
+Allows to parse the wikitext in html then to convert the html to a Jsoup object to perform the different processes (method: getDocument (String languageVariant, String pageTitle)).
 
 
-## Package INTERFACE: it contains a description of all the functionalities of the application that will be developed, especially data extraction, data conversion to csv, creation of csv files and statistics.
+## Package INTERFACE: 
+It contains a description of all the functionalities of the application that will be developed, especially data extraction, data conversion to csv, creation of csv files and statistics.
 Extractor: extract the data
 Converter: convert to csv file
-## Filehandler: recover the extracted data and write it to a file.
+## Filehandler: 
+Recover the extracted data and write it to a file.
 Statistics: generate statistics
 
-## Package WIKIPEDIA HTML: It contains concrete classes defining the implementation of data extraction and conversion methods of a html file.
+## Package WIKIPEDIA HTML: 
+It contains concrete classes defining the implementation of data extraction and conversion methods of a html file.
 
-## Package WIKIPEDIA WIKI It contains the concrete classes defining the implementation of methods for extracting and converting data from a wikitext file.
+## Package WIKIPEDIA WIKI 
+It contains the concrete classes defining the implementation of methods for extracting and converting data from a wikitext file.
 
 The launch of the application is done with maven test that allows executing a series of instructions contained in the following methods:
 -	TestConvertAlltoCSV (): generates the csv files and lists the statistics. 
@@ -48,12 +54,16 @@ We did not consider it necessary to make a diagram as it does not reflect releva
  As a result, we present only class and sequence diagrams to illustrate the relevant flows.
 
 ### Class diagram
+![Diagramme de classe](https://user-images.githubusercontent.com/45700033/66901199-8a262c80-effe-11e9-8481-563450130ee9.jpeg)
+
 
 ### Sequence diagram
 
 After launching the application, it follows, the generation of CSV files by the main method ConvertAlltoCSV (). However, this operation is done in several steps depending on the type of file. 
 
-Génération de fichier csv à partir d’un html : Generating csv file from an html
+Generating csv file from an html
+
+![DShtml](https://user-images.githubusercontent.com/45700033/66901386-e426f200-effe-11e9-8a7d-ca514e793037.png)
 
 
 -	 After connecting to the API and retrieving the html document, with the help of the extractTable (Document doc, string url) method of the htmlExtractor class, we treat the JSOUP document by extracting the tables.
@@ -62,7 +72,9 @@ Génération de fichier csv à partir d’un html : Generating csv file from an 
 
 •	Generating csv file from a wikitext
 
--	First, the JSOUP document is retrieved after the html has been parsed using the getDocument method (string LanguageVariant, string pagetitle) which is a method of the wikiRunner class depending on the variant of the language.
+![DSwiki](https://user-images.githubusercontent.com/45700033/66901440-fef96680-effe-11e9-9752-dd58b8019be3.png)
+
+- First, the JSOUP document is retrieved after the html has been parsed using the getDocument method (string LanguageVariant, string pagetitle) which is a method of the wikiRunner class depending on the variant of the language.
 -	Then, using the extractable (Document doc, string url) method of the wikiExtractor class, we process the JSOUP document by extracting the tables.
 -	Then, once the tables are extracted, csv files are created using the extractFilenameFromURL (string url, int number) and write (string filepath, string filename, list <string> data) methods both of the Filehandler class.
 
