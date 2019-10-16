@@ -90,9 +90,9 @@ The software developed is open source software.
 
 # Authors
 
-    Othniel KONAN</br>
-    Fabrice KADIO </br>
-    Coumba MBOUP </br>
-    Issa KEITA </br>
-    Maïmouna SANE</br>
-    Awa DOUMBIA </br>
+    Othniel KONAN
+    Fabrice KADIO
+    Coumba MBOUP
+    Issa KEITA
+    Maïmouna SANE
+    Awa DOUMBIA 
