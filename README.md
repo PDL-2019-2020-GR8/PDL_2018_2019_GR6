@@ -1,58 +1,98 @@
-# PDL_2018_2019_GR6
-A Java project aiming to extract wikipedia matrices from html and wiki text and producing csv-based file.
+# General context
 
-# Objectif
-  Ce projet a pour but d’extraire des tableaux pertinents sous formes de CSV à partir d’une URL  Wikipédia donnée. Ce qui permettra d'avoir des fichiers cohérents, homogènes et faciles à manipuler.
+Every project requires regular evaluation, to see the progress made and the work done 
+according to the plan of action. It is in this context that we must take up the project of our 
+colleagues by looking at the organization and the quality of the code. Thereafter, the limits of 
+the project allow us to analyse its performance in order to initiate a process of improvement. 
+These steps concern the improvement of the quality of the code while realising the automatic 
+tests, the addition of new functionalities to overcome the limits of the project.
 
-# Licence 
-  Logiciel open source
+# Project definition
 
-# Les technologies utilisées 
- Pour la mise en place de ce projet, nous avons utilisés des librairies et le langage de développement orienté objet Java.
-  •Jsoup pour l’extraction du code HTML et la conversion des tableaux,
-  •Mylyn pour le parsing du WikiTexte en HTML.
- 
-# Résultat
-On aura en sortie, les différents tableaux dans un répertoire output.
-Ce répertoire contient des tableaux émanant  de deux sources différentes :
-  •Tableaux extraits à partir du code html et seront enrégistrés dans le dossier output/html  
-  •Tableaux extraits à partir du code wikitext et seront enrégistrés dans le dossier output/wiki
+The project is named Wikipedia matrix or truth. The goal of the project is to set up a tool for 
+automatic extraction of tabular data in the form of CSV from Wikipedia URLs. As a matter of 
+fact, these obtained CSV files can facilitate the exploitation of these data with data 
+visualization software, in order to analyse them.
 
-# L'architecture du projet 
- Dans ce projet, l’architecture mise en place est celle du 2-tiers ou « client-serveur » dans le sens où  l’application demande un service au serveur mis en place par mediawiki, le serveur reçoit cette requête , il effectue un traitement de la page, et renvoie la ressource demandée qui est la dernière révision de la page Wikipédia concernée.
+# Technologies used
 
-# Comment exécuter l’application ? 
- Pour exécuter les différents cas de test, on se place à la racine du projet, vous avez les commandes maven suivantes: 
- 
- # HTML
- Pour exécuter le cas de test de la conversion en html </br>
-   mvn -Dtest=HTMLConverterTest test </br>
- Pour exécuter le cas de test d'extraction en html </br>
-   mvn -Dtest=HTMLExtractorTest test </br>
+The programming language used for this project is java. So several technologies are used to
+accomplish the project, we can list:
 
- # WikiText
- Pour exécuter le cas de test de la conversion en wiki </br>
-   mvn -Dtest=WikiConverterTest test </br>
- Pour exécuter le cas de test d'extraction en wiki </br>
-   mvn -Dtest=WikiExtractorTest test </br>
- 
+##### Mylyn wikitext
+  *Mylyn wikitext* is an eclipse task management system that contains wikitext extensions that 
+support markup language. Mylyn is used to parse wikitext code in HTML.
 
-Pour exécuter tous les cas de test </br>
-   mvn test
+##### Jsoup
+ *Jsoup* is an open source Java library designed to parse, extract, and manipulate data stored in 
+HTML documents. This library is used to parse and process the content of the HTML pages 
+obtained during the parsing of Mylyn. The version 1.11.3 of Jsoup is used in the project. In 
+this project, Jsoup uses the DOM, CSS and Jquery methods to extract and manipulate the
+tables of the different contents of the HTML pages. Indeed, it turns into HTML content.
 
-Assurez-vous d'avoir au moins maven 3.8.0 installé avant de lancer les tests ou configurez la version du compilateur maven dans le fichier pom.xml
+##### JUnit 5 
+*JUnit 5* is an open source framework used to develop and run automatic unit tests. This 
+framework is used to test the extractors and converters of the project.
 
-La Javadoc du projet se trouve dans le dossier documentation. Pour le parcourir, ouvrez juste le fichier index.html dans un navigateur.
+##### Apache Maven
+ *Apache Maven* is a Java project management tool that manages the dependency of our project 
+and automates its construction such as compilation, tests and production deliverable.
 
-Feel free to make suggestions.
+##### Open CSV
+*Open CSV* is an open source Java library and a CSV file parser. The version 4 is used in the 
+project to test the validity of generated CSV files.
 
-# Lien de la vidéo de demonstration
-https://drive.google.com/open?id=1SEWEGzS-YYkW1Ia2dG_sq7J0WN_6Gn5X
+##### API action media wiki
+*API action media wiki* is a web service that allows access to certain functions of the wiki. 
+This service made it possible to connect to the wiki server and to retrieve the latest version of the Wikipedia pages from the media wiki server.
 
-# Authors:
-	Ibrahima HAIDARA
-	Mariam COULIBALY
-	Mahamadou SYLLA
-	Abdoul Hamide BA
+The first version of the project supports several features for extraction of the tables; however 
+this project also sets out limits which will be the object of improvement in order to add new 
+functionalities.
+
+# Supported features
+
+The project supports several features namely, the analysis of the content of the tables 
+extracted through an algorithm. The project also offers as a feature, the search for the 
+Wikipedia page in the French version if it does not exist in English. Also when running tests, 
+URLs that do not exist in the English and French versions are put in a red colour. Then the 
+corresponding csv files are deleted if they already exist and then the new files are generated. 
+For reasons of relevance, statistical tables are generated, these tables will allow us to know
+the number of tables in percentage which were extracted and those that could not be extracted 
+in the Wikipedia pages. Finally the tool offers the possibility to change the separation 
+character in CSV files.
+
+# Features to be developed in the future
+
+After analysing the project, we see that there are improvements to be made by creating new 
+features.
+
+# Improvement
+
+Since with Mylyn we have data loss during the parsing, it would be interesting to set up a 
+library that would reduce the loss of information when parsing wikitext in html by Mylyn.
+
+# New features
+*       To test the contents of two extractors to see if the texts are the same
+
+*        Try to have the same number of tables between two extractors
+
+*        To test if what we have locally corresponds to what we have on Wikipedia
+
+*        An editor to manually correct CSV file data if they are not inserted correctly
+
+*        Extract tables from a single Wikipedia page into a CSV file.
 
 
+# Project License
+
+The software developed is open source software.
+
+# Authors
+
+    Othniel KONAN</br>
+    Fabrice KADIO </br>
+    Coumba MBOUP </br>
+    Issa KEITA </br>
+    Maïmouna SANE</br>
+    Awa DOUMBIA </br>
