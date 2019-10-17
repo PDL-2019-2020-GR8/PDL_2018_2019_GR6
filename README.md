@@ -90,9 +90,15 @@ The software developed is open source software.
 
 # Authors
 
+ ### As we have already said it this project has been develop by those students
+	Ibrahima HAIDARA
+	Mariam COULIBALY
+	Mahamadou SYLLA
+	Abdoul Hamide BA
+ ### Now it's our turn to improve their work
     Othniel KONAN
     Fabrice KADIO
-    Coumba MBOUP
+    MAIMOUNA SANE
     Issa KEITA
-    Maïmouna SANE
-    Awa DOUMBIA 
+    Awa DOUMBIA
+    Coumba MBOUP
