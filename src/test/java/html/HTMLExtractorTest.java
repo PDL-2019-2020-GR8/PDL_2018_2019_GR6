@@ -185,6 +185,60 @@ public class HTMLExtractorTest {
 	}
 
 
+	@Test
+	@DisplayName("Comparison_of_hub_gears")
+	@Tag("robustness")
+	public void testComparison_of_hub_gears() throws IOException {
+		Document doc = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_hub_gears").get();
+		Elements tables = extractor.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_hub_gears");
+		assertEquals(1, tables.size());
+	}
+
+	@Test
+	@DisplayName("Comparison_of_iSCSI_targets")
+	@Tag("robustness")
+	public void testComparison_of_iSCSI_targets() throws IOException {
+		Document doc = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_iSCSI_targets").get();
+		Elements tables = extractor.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_iSCSI_targets");
+		assertEquals(1, tables.size());
+	}
 
 
+	@Test
+	@DisplayName("Comparison_of_karate_styles")
+	@Tag("robustness")
+	public void testComparison_of_karate_styles() throws IOException {
+		Document doc = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_karate_styles").get();
+		Elements tables = extractor.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_karate_styles");
+		assertEquals(1, tables.size());
+	}
+
+
+	@Test
+	@DisplayName("Comparison_of_mobile_phone_standards")
+	@Tag("robustness")
+	public void testComparison_of_mobile_phone_standards() throws IOException {
+		Document doc = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_mobile_phone_standards").get();
+		Elements tables = extractor.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_mobile_phone_standards");
+		assertEquals(3, tables.size());
+	}
+
+
+	@Test
+	@DisplayName("Comparison_of_European_traffic_laws")
+	@Tag("robustness")
+	public void testComparison_of_European_traffic_laws() throws IOException {
+		Document doc = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_European_traffic_laws").get();
+		Elements tables = extractor.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_European_traffic_laws");
+		assertEquals(1, tables.size());
+	}
+
+	@Test
+	@DisplayName("Comparison_of_Nikon_DSLR_cameras")
+	@Tag("robustness")
+	public void testComparison_of_Nikon_DSLR_cameras() throws IOException {
+		Document doc = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_Nikon_DSLR_cameras").get();
+		Elements tables = extractor.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_Nikon_DSLR_cameras");
+		assertEquals(2, tables.size());
+	}
 }

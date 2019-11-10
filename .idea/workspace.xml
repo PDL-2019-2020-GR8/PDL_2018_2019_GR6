@@ -58,23 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.HTMLExtractorTest.testComparison_of_display_technology">
-    <configuration name="HTMLConverterTest.testPrcocessTdTextWithSeparatorAndCaracters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PDL" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="html.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="html" />
-      <option name="MAIN_CLASS_NAME" value="html.HTMLConverterTest" />
-      <option name="METHOD_NAME" value="testPrcocessTdTextWithSeparatorAndCaracters" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.HTMLExtractorTest.testComparison_of_iSCSI_targets">
     <configuration name="HTMLExtractorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PDL" />
       <extension name="coverage">
@@ -122,12 +106,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HTMLExtractorTest.testComparison_of_hub_gears" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PDL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="html.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="html" />
+      <option name="MAIN_CLASS_NAME" value="html.HTMLExtractorTest" />
+      <option name="METHOD_NAME" value="testComparison_of_hub_gears" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HTMLExtractorTest.testComparison_of_iSCSI_targets" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PDL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="html.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="html" />
+      <option name="MAIN_CLASS_NAME" value="html.HTMLExtractorTest" />
+      <option name="METHOD_NAME" value="testComparison_of_iSCSI_targets" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HTMLExtractorTest.testComparison_of_iSCSI_targets" />
+        <item itemvalue="JUnit.HTMLExtractorTest.testComparison_of_hub_gears" />
         <item itemvalue="JUnit.HTMLExtractorTest.testComparison_of_display_technology" />
         <item itemvalue="JUnit.HTMLExtractorTest.testComparison_of_distributed_file_systems" />
         <item itemvalue="JUnit.HTMLExtractorTest" />
-        <item itemvalue="JUnit.HTMLConverterTest.testPrcocessTdTextWithSeparatorAndCaracters" />
       </list>
     </recent_temporary>
   </component>
