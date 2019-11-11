@@ -122,7 +122,7 @@ public class HTMLConverter implements Converter {
 				System.out.println("Oups, smething wrong happened");
 			else {
 				for (Element currentTable : tableElements) {
-					Elements currentTableTrs = currentTable.select("tr");
+					Elements currentTableTrs = currentTable.select("tr"); //on selectionne tous les tr de currentTableTrs
 					for (int i = 0; i < currentTableTrs.size(); i++) {
 						Element currentTr = currentTableTrs.get(i);
 						Elements currentRowTds = currentTr.select("td");
@@ -132,9 +132,9 @@ public class HTMLConverter implements Converter {
 							currentTdText = new StringBuilder(currentTd.text());
 							currentTdText = processCurrentTDText(currentTdText);
 							if (j == currentRowTds.size() - 1)
-								line += currentTdText.toString();
+								line += currentTdText.toString(); //quand on arrive au dernier td du premeir tr
 							else
-								line += currentTdText.toString() + separator;
+								line += currentTdText.toString() + separator; //on separe par une virgule chaque infos
 						}
 						if (line != "") {
 							line = processLine(line);

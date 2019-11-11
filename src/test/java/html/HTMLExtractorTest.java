@@ -81,7 +81,7 @@ public class HTMLExtractorTest {
 	public void testComparison_of_audio_player_software() throws IOException {
 		Document doc = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_audio_player_software").get();
 		Elements tables = extractor.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_audio_player_software");
-		assertEquals(9, tables.size());
+		assertEquals(11, tables.size());
 	}
 
 
@@ -240,5 +240,98 @@ public class HTMLExtractorTest {
 		Document doc = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_Nikon_DSLR_cameras").get();
 		Elements tables = extractor.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_Nikon_DSLR_cameras");
 		assertEquals(2, tables.size());
+	}
+
+
+
+	@Test
+	@DisplayName("Nintendo_video_game_consoles")
+	@Tag("robustness")
+	public void testNintendo_video_game_consoles() throws IOException {
+		Document doc = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Nintendo_video_game_consoles").get();
+		Elements tables = extractor.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Nintendo_video_game_consoles");
+		assertEquals(2, tables.size());
+	}
+
+
+
+	@Test
+	@DisplayName("Comparison_of_JavaScript_charting_frameworks")
+	@Tag("robustness")
+	public void testComparison_of_JavaScript_charting_frameworks() throws IOException {
+		Document doc = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_JavaScript_charting_frameworks").get();
+		Elements tables = extractor.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_JavaScript_charting_frameworks");
+		assertEquals(1, tables.size());
+	}
+
+
+	@Test
+	@DisplayName("Comparison_of_CRM_systems")
+	@Tag("robustness")
+	public void testComparison_of_CRM_systems() throws IOException {
+		Document doc = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_CRM_systems").get();
+		Elements tables = extractor.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_CRM_systems");
+		assertEquals(2, tables.size());
+	}
+
+
+	@Test
+	@DisplayName("Comparison_of_CalDAV_and_CardDAV_implementations")
+	@Tag("robustness")
+	public void testComparison_of_CalDAV_and_CardDAV_implementations() throws IOException {
+		Document doc = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_CalDAV_and_CardDAV_implementations").get();
+		Elements tables = extractor.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_CalDAV_and_CardDAV_implementations");
+		assertEquals(2, tables.size());
+	}
+
+
+	@Test
+	@DisplayName("Comparison_of_Canon_EOS_digital_cameras")
+	@Tag("robustness")
+	public void testComparison_of_Canon_EOS_digital_cameras() throws IOException {
+		Document doc = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_Canon_EOS_digital_cameras").get();
+		Elements tables = extractor.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_Canon_EOS_digital_cameras");
+		assertEquals(2, tables.size());
+	}
+
+
+
+	@Test
+	@DisplayName("Comparison_of_DEX_software")
+	@Tag("robustness")
+	public void testComparison_of_DEX_software() throws IOException {
+		Document doc = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_DEX_software").get();
+		Elements tables = extractor.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_DEX_software");
+		assertEquals(1, tables.size());
+	}
+
+
+	@Test
+	@DisplayName("Comparison_of_DOS_operating_systems")
+	@Tag("robustness")
+	public void testComparison_of_DOS_operating_systems() throws IOException {
+		Document doc = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_DOS_operating_systems").get();
+		Elements tables = extractor.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_DOS_operating_systems");
+		assertEquals(1, tables.size());
+	}
+
+
+	@Test
+	@DisplayName("Comparison_of_Fukushima_and_Chernobyl_nuclear_accidents")
+	@Tag("robustness")
+	public void testComparison_of_Fukushima_and_Chernobyl_nuclear_accidents() throws IOException {
+		Document doc = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_Fukushima_and_Chernobyl_nuclear_accidents").get();
+		Elements tables = extractor.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_Fukushima_and_Chernobyl_nuclear_accidents");
+		assertEquals(4, tables.size());
+	}
+
+
+	@Test
+	@DisplayName("Comparison_of_online_charity_donation_services_in_the_United_Kingdom")
+	@Tag("robustness")
+	public void testComparison_of_online_charity_donation_services_in_the_United_Kingdom() throws IOException {
+		Document doc = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_online_charity_donation_services_in_the_United_Kingdom").get();
+		Elements tables = extractor.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_online_charity_donation_services_in_the_United_Kingdom");
+		assertEquals(4, tables.size());
 	}
 }

@@ -58,8 +58,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.HTMLExtractorTest.testComparison_of_iSCSI_targets">
-    <configuration name="HTMLExtractorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.HTMLExtractorTest.testComparison_of_DOS_operating_systems">
+    <configuration name="HTMLExtractorTest.testComparison_of_DOS_operating_systems" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PDL" />
       <extension name="coverage">
         <pattern>
@@ -69,7 +69,24 @@
       </extension>
       <option name="PACKAGE_NAME" value="html" />
       <option name="MAIN_CLASS_NAME" value="html.HTMLExtractorTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="testComparison_of_DOS_operating_systems" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HTMLExtractorTest.testComparison_of_JavaScript_charting_frameworks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PDL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="html.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="html" />
+      <option name="MAIN_CLASS_NAME" value="html.HTMLExtractorTest" />
+      <option name="METHOD_NAME" value="testComparison_of_JavaScript_charting_frameworks" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,22 +102,6 @@
       <option name="PACKAGE_NAME" value="html" />
       <option name="MAIN_CLASS_NAME" value="html.HTMLExtractorTest" />
       <option name="METHOD_NAME" value="testComparison_of_display_technology" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HTMLExtractorTest.testComparison_of_distributed_file_systems" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PDL" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="html.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="html" />
-      <option name="MAIN_CLASS_NAME" value="html.HTMLExtractorTest" />
-      <option name="METHOD_NAME" value="testComparison_of_distributed_file_systems" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HTMLExtractorTest.testComparison_of_DOS_operating_systems" />
+        <item itemvalue="JUnit.HTMLExtractorTest.testComparison_of_JavaScript_charting_frameworks" />
         <item itemvalue="JUnit.HTMLExtractorTest.testComparison_of_iSCSI_targets" />
         <item itemvalue="JUnit.HTMLExtractorTest.testComparison_of_hub_gears" />
         <item itemvalue="JUnit.HTMLExtractorTest.testComparison_of_display_technology" />
-        <item itemvalue="JUnit.HTMLExtractorTest.testComparison_of_distributed_file_systems" />
-        <item itemvalue="JUnit.HTMLExtractorTest" />
       </list>
     </recent_temporary>
   </component>
