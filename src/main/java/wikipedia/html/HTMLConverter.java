@@ -56,7 +56,7 @@ public class HTMLConverter implements Converter {
 	 * @return true if the url exists
 	 * @throws IOException if is not possible to connect to that url
 	 */
-	private boolean doesUrlExist(String url) throws IOException {
+	public boolean doesUrlExist(String url) throws IOException {
 		try {
 			Jsoup.connect(url).get();
 			return true;
@@ -109,7 +109,7 @@ public class HTMLConverter implements Converter {
 	 * @param filePath  the path for the files to be stored in
 	 * @throws HttpStatusException if the page does not exist
 	 */
-	public void convertToCsv(Document doc, String baseUrl, String pageTitle, String filePath)
+	public List<String> convertToCsv(Document doc, String baseUrl, String pageTitle, String filePath)
 			throws HttpStatusException {
 		List<String> data = new ArrayList<>();
 		String line = "";
@@ -143,16 +143,18 @@ public class HTMLConverter implements Converter {
 						}
 					}
 					filename = this.filehandler.extractFilenameFromUrl(pageTitle, filenameCounter);
+					// System.out.println("data html"+data.contains(data.get(1)));
 					this.filehandler.write(filePath, filename, data);
 					System.out.println(Constants.CONSOLE_WHITE_COLOR + filename + " has been generated");
 					filenameCounter++;
-					data.clear();
+					// data.clear();
 				}
 			}
 
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+		return data	;
 
 	}
 

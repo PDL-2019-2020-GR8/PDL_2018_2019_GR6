@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Pattern;
 import org.jsoup.HttpStatusException;
+import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -60,7 +61,7 @@ public class WikiConverter implements Converter {
 	 * @return true if the url exists
 	 * @throws IOException if is not possible to connect to that url
 	 */
-	private boolean doesUrlExist(String languageVariant, String pageTitle) throws IOException {
+	public boolean doesUrlExist(String languageVariant, String pageTitle) throws IOException {
 		try {
 			WikiRunner.getDocument(languageVariant, pageTitle);
 			return true;
@@ -98,9 +99,19 @@ public class WikiConverter implements Converter {
 				else if(doesUrlExist("fr", pageTitle))
 					doc = WikiRunner.getDocument("fr", pageTitle);
 		
-				convertToCsv(doc, Constants.EN_BASE_WIKIPEDIA_URL, pageTitle, Constants.WIKI_OUTPUT_DIR);
+			    convertToCsv(doc, Constants.EN_BASE_WIKIPEDIA_URL, pageTitle, Constants.WIKI_OUTPUT_DIR);
 				number++;
 			}
+			//
+			
+//			while ((url = br.readLine()) != null) {
+//				if (!doesUrlExist(Constants.EN_BASE_WIKIPEDIA_URL + url))
+//					continue;
+//
+//				Document doc = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + url).get();
+//				convertToCsv(doc, Constants.EN_BASE_WIKIPEDIA_URL, url, Constants.HTML_OUTPUT_DIR);
+//			}
+			//
 			System.out.println("CSV serialization finished, "+number+" urls have been tested");
 		} catch (Exception e) {
 		} finally {
@@ -123,7 +134,7 @@ public class WikiConverter implements Converter {
 	 * @param filePath the path for to be stored in
 	 * @throws HttpStatusException if the page does not exist
 	 */
-	public void convertToCsv(Document doc, String baseUrl, String pageTitle, String filePath) throws HttpStatusException {
+	public List<String> convertToCsv(Document doc, String baseUrl, String pageTitle, String filePath) throws HttpStatusException {
 		List<String> data = new ArrayList<>();
 		String line = "";
 		String filename;
@@ -156,16 +167,18 @@ public class WikiConverter implements Converter {
 						}
 					}
 					filename = this.filehandler.extractFilenameFromUrl(pageTitle, filenameCounter);
+					// System.out.println("wiki data length"+data.contains(data));
 					this.filehandler.write(filePath, filename, data);
 					System.out.println(Constants.CONSOLE_WHITE_COLOR+filename + " has been generated");
 					filenameCounter++;
-					data.clear();
+					// data.clear();
 				}
 			}
 
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+		return data;
 
 	}
 	

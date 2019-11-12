@@ -72,7 +72,7 @@ public class HTMLConverterTest {
 	public void testConvertAllToCSV()
 	{
 		try {
-		assertTrue(new File(Constants.HTML_OUTPUT_DIR).isDirectory());
+		 assertTrue(new File(Constants.HTML_OUTPUT_DIR).isDirectory());
 		 assertDoesNotThrow(()-> htmlConverter.convertAllToCSV());
 		
 		System.out.println("------------------ Statistics for Html Converter --------------");
