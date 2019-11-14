@@ -1,6 +1,7 @@
 Name,Operating system,License,User interface,Fixed drives,USB  eSATA and removable drives,RAID support[a],Shows S.M.A.R.T. attributes,Hard drive self-testing,Notification,Notes
 AIDA64,Windows,Trialware[1],GUI,(S)ATA,most USB,Some RAID controllers,Yes,No,Monitoring only available in the Business Edition[2],[empty]
 Argus Monitor,Windows,Trialware[3],GUI,IDE(PATA)  SATA,eSATA  USB,Some RAID controllers,Yes,?,By window  sound  email  program execution at choosable parameter changes  threshold,Also shows temperature of CPU  GPU  CPU core speed  Intel Turbo Boost status  CPU power consumption  system load and system fan speeds. Can control speed of GPU and system fans.
+CrystalDiskInfo,Windows,MIT,GUI,IDE(PATA)  SATA  NVMe,eSATA  USB  IEEE 1394,Intel CSMI,Yes,No,Mail  sound and popup,Sister utility to CrystalDiskMark. Has AAM/APM control.
 Defraggler,Windows,Freeware,GUI,IDE(PATA)  SATA,eSATA  USB,No,Yes,No,No,Primarily a defragmenter; supports basic S.M.A.R.T. stat display  includes the one-word summary of drive-health.
 Disk Utility,macOS,Commercial proprietary,GUI,No,eSATA and removable drives,?,No,No,No,Summary information includes one line for S.M.A.R.T.[4]
 GNOME Disks,Linux,LGPL v2+,GUI,IDE(PATA)  SATA,USB (when used with Live CD),?,Yes,Yes,GNOME pop-up notification,LiveCDs are available for download  allowing the user to use GNOME Disks without any changes to the computer.
