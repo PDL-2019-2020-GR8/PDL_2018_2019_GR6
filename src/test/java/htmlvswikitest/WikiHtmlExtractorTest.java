@@ -38,7 +38,7 @@ public void setup() {
 
 @Test
 @DisplayName("Comparison_of_Asian_national_space_programs")
-public void test_nb_tables_wikivshtml_Comparison_of_Asian_national_space_programs() throws IOException, UrlNotFoundException{
+public void testComparison_of_Asian_national_space_programs() throws IOException, UrlNotFoundException{
 	Document doc = WikiRunner.getDocument("en", "Comparison_of_Asian_national_space_programs");
 	Elements tables = extractorwiki.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_distributed_file_systems");
 	 Document docu = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_distributed_file_systems").get();
@@ -47,7 +47,7 @@ public void test_nb_tables_wikivshtml_Comparison_of_Asian_national_space_program
 }
 @Test
 @DisplayName("Comparison_between_Esperanto_and_Ido")
-public void test_nb_tables_wikivshtml_Comparison_between_Esperanto_and_Ido() throws IOException, UrlNotFoundException{
+public void testbetween_Esperanto_and_Ido() throws IOException, UrlNotFoundException{
 	Document doc = WikiRunner.getDocument("en", "Comparison_between_Esperanto_and_Ido");
 	Elements tables = extractorwiki.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_distributed_file_systems");
 	Document docu = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_distributed_file_systems").get();
