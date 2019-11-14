@@ -169,7 +169,7 @@ public class WikiConverter implements Converter {
 					filename = this.filehandler.extractFilenameFromUrl(pageTitle, filenameCounter);
 					// System.out.println("wiki data length"+data.contains(data));
 					this.filehandler.write(filePath, filename, data);
-					System.out.println(Constants.CONSOLE_WHITE_COLOR+filename + " has been generated");
+					System.out.println(Constants.CONSOLE_WHITE_COLOR+filename +" "+ "wiki has been generated");
 					filenameCounter++;
 					// data.clear();
 				}
