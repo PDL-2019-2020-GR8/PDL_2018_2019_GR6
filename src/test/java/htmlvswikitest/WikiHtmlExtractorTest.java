@@ -35,6 +35,27 @@ public void setup() {
 	 this.htmlConverter = new HTMLConverter();
 	 this.wikiConverter = new WikiConverter();
 }
+@Test
+@DisplayName("Comparison_of_orbital_launch_systems") 
+public void test_nb_tables_wikivshtmlComparison_of_orbital_launch_systems() throws IOException, UrlNotFoundException {
+
+	Document doc = WikiRunner.getDocument("en", "Comparison_of_orbital_launch_systems");;
+	Document docu = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_orbital_launch_systems").get();
+	Elements tables = extractorhtml.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_orbital_launch_systems");
+	Elements table = extractorwiki.extractTables(docu, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_orbital_launch_systems");
+    assertEquals(tables.size(),table.size());
+}
+
+@Test
+@DisplayName("Comparison_of_C_Sharp_and_Visual_Basic_.NET") 
+public void test_nb_tables_wikivshtmlComparison_of_C_Sharp_and_Visual_Basic() throws IOException, UrlNotFoundException {
+
+	Document doc = WikiRunner.getDocument("en", "Comparison_of_C_Sharp_and_Visual_Basic_.NET");;
+	Document docu = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_C_Sharp_and_Visual_Basic_.NET").get();
+	Elements tables = extractorhtml.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_C_Sharp_and_Visual_Basic_.NET");
+	Elements table = extractorwiki.extractTables(docu, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_C_Sharp_and_Visual_Basic_.NET");
+    assertEquals(tables.size(),table.size());
+}
 
 @Test
 @DisplayName("comparison test of the number of tables extract in html and wiki of title Comparison_of_SSH_clients ")
