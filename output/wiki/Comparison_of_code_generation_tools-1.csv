@@ -1,6 +1,6 @@
 Product,Creator,Platform,First public release,Latest stable version,Software license
 Xomega.Net for Visual Studio<ref>https://www.xomega.net</ref>,Xomega.Net,Windows,2010,7.7.4 / 2018-08-08,Proprietary
-Acceleo,Obeo,cross-platform (Java / Eclipse),2006,3.5.0 / 2014-06-10,Eclipse Public
+Acceleo,Obeo,cross-platform (Java / Eclipse),2006,3.7.7 / 2018-12-04,Eclipse Public
 Accelerator,Surround Technologies,Windows  Web  Mobile (C# / .NET),2007,6.2,Proprietary
 actifsource,actifsource GmbH,cross-platform (Java / Eclipse),[empty],4.6.3 / 2011-08-09,Proprietary
 Apeel PHP Code Generator Pro,City Business Logic,Windows,2001,11.03b / 2011-09-04,Proprietary
@@ -39,8 +39,8 @@ Jinja (Template engine),Pocoo team,cross-platform (Python),[empty],2.1.1,BSD
 JPA Modeler,Gaurav Gupta,cross-platform (Java),2014,1.7 / 2016-06-07,Apache License 2.0
 Kid (templating language),Ryan Tomayko,cross-platform (Python),[empty],0.9.6 / 2006-12-20,[empty]
 kiss! C#  VB.NET and SQL Script Generator,Cove Bay Software Limited,Windows,2013,4.0.0.0 / 2015-05-05,Proprietary
-LayerCake Generator .NET <ref>https://github.com/dhabierre/layercake-generator</ref>,Delphin Habierre,Windows (C# / .NET),2013,3.7.1 / 2015-09-06,Free / OpenSource
 Mako,Michael Bayer,cross-platform (Python),[empty],0.2.3 / 2008-05-12,MIT
+MATLAB,The MathWorks  Inc.,Windows  macOS  Linux,1984,9.5 / 2018-09-12,Proprietary
 M-Power,mrc,cross-platform (Java),2004,[empty],Proprietary
 Microsoft Visual Studio LightSwitch,Microsoft,Windows,2011,2011-07-26,Proprietary
 MinuteProject (Velocity  DB  WSDL),Florian Adler,cross-platform (Java),2004,0.8.3 / 2013-06-05,Apache License 2.0  GPL
@@ -54,10 +54,12 @@ PHPRunner,Xlinesoft,Windows,2003,5.3 / 2010-10-15,Proprietary
 Radarc Online,Icinetic,Android  iOS  Windows (C#/XAML  Java  Objective C),2012,1.2.0 / 2014-11-04,Proprietary
 Reegenerator,Kodeo Limited,Windows (C#  VB.NET),2010,2.0.5 / 2014-01-26,Proprietary
 ribosome,Martin Sustrik,cross-platform (Ruby  JavaScript or Python),2014,1.15 / 2015-07-08,MIT
+Scriptcase,Scriptcase,Web - Online,2000,9.4 / 2019-08-01,Proprietary
 T4,Microsoft,Windows,2005,2010,Proprietary
 Telosys <ref>http://www.telosys.org</ref>,OW2,cross-platform (Java : CLI and Eclipse Plugin),2011,3.0.0 / 2018-04-10,LGPLv3
 Umple,University of Ottawa,cross-platform (Java / Eclipse),2010,1.23.0 / 2015-12-21,MIT
 Velocity apache,Apache Software Foundation,cross-platform (Java),[empty],1.6.2 / 2009-03-19,Apache License 2.0
+WaveMaker,WaveMaker Inc.,cross platform (aPaaS),2003,10.0.3,Proprietary
 X2X,Triple-S GmbH,Windows,2005,X2X-2015,Proprietary
 XACT X4MR,Applied Conversion Technologies Inc,Virtual DOS,1994,3 / 1997-08-01,Proprietary
 Yii-gii,Yii community,Yii (PHP),2013-12-1,2.0.15 / 2018.03.20,New BSD License

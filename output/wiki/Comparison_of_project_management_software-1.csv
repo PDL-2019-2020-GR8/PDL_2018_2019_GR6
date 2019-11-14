@@ -2,7 +2,6 @@ Software,Web-based,Hosted On-Premises,SaaS,License,Programming language
 2-plan,<ref name="PMI Italy" />,[empty],[empty],Proprietary  Open source<ref name="2-plan license" />,Java and PHP
 24SevenOffice,[empty],[empty],[empty],[empty],[empty]
 Actionspace,[empty],[empty],[empty],[empty],[empty]
-AnyChart (AnyGantt),[empty],[empty],[empty],[empty],JavaScript
 Apache Allura,[empty],[empty],[empty],[empty],Python
 Apache OFBiz,[empty],[empty],[empty],[empty],Java  XML  FreeMarker  Groovy  JavaScript
 Apache Bloodhound,[empty],[empty],[empty],[empty],Python
@@ -10,16 +9,14 @@ Asana,[empty],[empty],[empty],[empty],[empty]
 Assembla,[empty],[empty],[empty],[empty],[empty]
 Axosoft,[empty],[empty],[empty],[empty],[empty]
 Basecamp,<ref name="Teambox_RWW" />,<ref></ref>,[empty],[empty],Ruby
+Calligra Plan,[empty],[empty],[empty],[empty],C++ and Java
 CEITON,[empty],[empty],[empty],[empty],ASP.NET  JavaScript
-[added],[added],[added],[added],[added],[added]
-Celoxis,[empty],[empty],[empty],[empty],[empty]
 Clarizen,<ref name="pcworld" />,[empty],<ref name="pcworld" />,[empty],[empty]
 Collabtive,[empty],[empty],[empty],Open source (core only),PHP
 Compuware Changepoint,[empty],[empty],[empty],[empty],[empty]
 ConceptDraw Project,[empty],[empty],[empty],[empty],[empty]
 ConceptDraw PLAN,[empty],[empty],[empty],[empty],PHP and Java
 Concerto Project Management,[empty],[empty],[empty],[empty],[empty]
-Calligra Plan,[empty],[empty],[empty],[empty],C++ and Java
 Copper Project,[empty],[empty],[empty],[empty],[empty]
 dotProject,[empty],[empty],[empty],[empty],PHP
 DynaRoad,[empty],[empty],[empty],[empty],[empty]
@@ -38,7 +35,6 @@ FusionForge,[empty],[empty],[empty],[empty],PHP
 GanttProject,[empty],[empty],[empty],[empty],Java
 Genius Project,[empty],[empty],[empty],[empty],[empty]
 Group-Office,[empty],[empty],[empty],[empty],[empty]
-Groupiful,[empty],[empty],[empty],[empty],PHP
 GroveSite,[empty],[empty],[empty],[empty],[empty]
 Hall.com,[empty],[empty],[empty],[empty],[empty]
 Helix ALM,[empty],[empty],[empty],[empty],C++
@@ -57,6 +53,7 @@ LiquidPlanner,[empty],[empty],[empty],[empty],Ruby
 LisaProject,[empty],[empty],[empty],[empty],[empty]
 MacProject,[empty],[empty],[empty],[empty],[empty]
 MantisBT,[empty],[empty],[empty],[empty],PHP
+MeisterTask,[empty],[empty],[empty],[empty],Ruby on Rails  React  Redux
 Métier,[empty],[empty],[empty],[empty],[empty]
 Microsoft Dynamics AX,[empty],[empty],[empty],[empty],X++
 Microsoft Office Project Server,[empty],[empty],[empty],[empty],[empty]
@@ -65,9 +62,9 @@ Microsoft SharePoint Server,[empty],[empty],[empty],[empty],[empty]
 Microsoft Team Foundation Server,[empty],[empty],[empty],[empty],[empty]
 Milestones Professional,[empty],[empty],[empty],[empty],C++
 Mingle,[empty],[empty],[empty],[empty],Ruby on Rails
+MyWorkPLAN,[empty],[empty],[empty],[empty],[empty]
 NetPoint,[empty],[empty],[empty],[empty],[empty]
 NetSuite,[empty],[empty],[empty],[empty],[empty]
-MyWorkPLAN,[empty],[empty],[empty],[empty],[empty]
 O3Spaces,[empty],[empty],[empty],[empty],[empty]
 OmniPlan,[empty],[empty],[empty],[empty],[empty]
 Onepager pro,[empty],[empty],[empty],[empty],ASP.NET
@@ -117,12 +114,11 @@ TaskJuggler,[empty],[empty],[empty],[empty],Ruby
 Teamcenter,[empty],[empty],[empty],[empty],[empty]
 TeamDynamixHE,[empty],[empty],[empty],[empty],[empty]
 Teamwork.com,[empty],[empty],[empty],[empty],[empty]
-The Bug Genie,[empty],[empty],[empty],[empty],PHP
 Tom's Planner,[empty],[empty],[empty],[empty],[empty]
 Trac,[empty],[empty],[empty],[empty],Python
 TrackerSuite.Net,[empty],[empty],[empty],[empty],[empty]
 Traction TeamPage,[empty],[empty],[empty],[empty],Java
-Trello,[empty],[empty],[empty],[empty],JavaScript
+Trello,[empty],[empty],[empty],[empty],CoffeeScript  Backbone.js  HTML5  Mustache templating language  MongoDB  Node.js  Socket.io
 Triskell,[empty],[empty],[empty],[empty],Java
 Tuleap,[empty],[empty],[empty],[empty],[empty]
 Twproject,[empty],[empty],[empty],[empty],[empty]

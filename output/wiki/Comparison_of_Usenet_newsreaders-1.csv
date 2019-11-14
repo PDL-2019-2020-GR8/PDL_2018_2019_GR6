@@ -1,6 +1,7 @@
 Name,Interface,Type of Client,Downloading headers XOVER,PAR,NZB,unZip or unRAR,Integrated Search Service (retention / $$$/yr),IPv6,SSL/TLS,Audio Video Streaming,Price,Platform,License,Other
 Arachne,GUI,Traditional Newsreader,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Free,DOS  Unix-like,[empty],[empty]
 BinTube,GUI,Binary Grabber,[empty],[empty],[empty],[empty],(3200 Days / Free),[empty],[empty],[empty],$59.95 / Free with subscription,Microsoft Windows,[empty],Streams media while downloading; Free with Usenet Service
+Claws Mail,GUI,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Free,Cross-platform,[empty],[empty]
 Forté Agent,GUI,Combination,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],$29,Microsoft Windows,[empty],Includes 3 month newsgroup service trial; Shareware
 Gnus,Text-based,Traditional Newsreader,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Free,Cross-platform,[empty],Runs in Emacs; also does Email
 GrabIt,GUI,Binary Grabber,[empty],[empty],[empty],[empty],( 30 days / $24.99/yr ),[empty],[empty],[empty],Free (searching extra),Microsoft Windows,[empty],Usenet Search Service
@@ -14,7 +15,6 @@ Mozilla Mail & Newsgroups,GUI,Traditional Newsreader,[empty],[empty],[empty],[em
 Mozilla Thunderbird,GUI,Traditional Newsreader,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Free,Cross-platform,[empty],Plugin support
 Newsbin Pro,GUI,Binary Grabber,[empty],[empty],[empty],[empty],( $10/yr ),[empty],[empty],[empty],$20,Microsoft Windows,[empty],Shareware
 NewsLeecher,GUI,Combination,[empty],[empty],[empty],[empty],Optional extra Add $10 per year,[empty],[empty],[empty],Varies,Microsoft Windows,[empty],Shareware
-NewsMan Pro,GUI,Combination,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],$29.95,Microsoft Windows,[empty],[empty]
 Novell GroupWise,GUI,Traditional Newsreader,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Varies,Microsoft Windows  Unix-like,[empty],[empty]
 Opera Mail,GUI,Traditional Newsreader,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Free,Cross-platform,[empty],Part of Opera up to version 12.17
 Outlook Express,GUI,Traditional Newsreader,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Microsoft Windows,[empty],Part of Microsoft Windows (up to Windows Server 2003)

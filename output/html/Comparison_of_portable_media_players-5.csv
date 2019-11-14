@@ -1,3 +1,115 @@
+Name,Manufacturer,Release,Size,Type,Capacity (GB)[1],Storage,External,Dimensions (mm × mm),Depth (mm),Weight (g),Firmware
+Archos 105,Archos,2007-08-31[2],[empty],DAP,0002 2,Flash,SDHC[3],85 × 45,7,50[4],1.6.07[5]
+Archos 405,Archos,2007-09-01[6],Mini,PMP,0002 2,Flash,SDHC[3],99.6 × 78,13.2,119.07,1.8.03[7][8]
+Archos 405,Archos,2008-02-07[9],Mini,PMP,0030 30,HDD,[empty],100 × 78,15,191,1.8.03[7][8]
+Archos 5,Archos,2008-08-19,Mid,PMP,0500 120/500,HDD,8–32 GB and Micro SD Slot (SDHC compatible),127 × 78.8,19.4,300,1.6.53[10]
+Archos 605 WiFi/GPS,Archos,2007-09-01[11],Mid,PMP,0004 4,Flash,SDHC[3],122 × 81,15,150,1.8.03[12][13]
+Archos 605 WiFi/GPS,Archos,2007-09-01[11],Mid,PMP,0160 30/80/160,HDD,[empty],122 × 81,15,190,1.8.03[12][13]
+Archos 705 WiFi,Archos,2007-11-27[14],Mega,PMP,0160 80/160,HDD,[empty],182 × 128,19.69,630,1.8.03[15]
+Cowon A3,Cowon,2007-11-14[16],Mid,PMP,0080 30/60/80,HDD,[empty],133.4 × 78.5,22,280,1.24[17]
+Cowon D2,Cowon,2006-12-05[18],Micro,PMP,0016 2/4/8/16,Flash,SDHC[3],78.0 × 55.4,16.6,91.0,2.57[19]
+Cowon Q5W,Cowon,2007-11-30[20],Mid,PMP,0080 40/60/80,HDD,[empty],138.8 × 88.5,20,380,1.5[21]
+Cowon O2PMP,Cowon,[empty],Mid,PMP,0032 8/16/32,Flash,[empty],119 × 73,18,205,[empty]
+Gigabeat T-Series,Toshiba,2007-09-25[22],Micro,PMP fack,0004 4,Flash,[empty],2.13 × 3.38,15,58.11,No release
+GP2X F-200,GamePark Holdings,2007-10-28[23],Mid,PMP  HGC,0064 64,[empty],SDHC[3],144 × 83,34,161,4.0.0[24]
+iPod,Apple,2001[25],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+iPod classic 6G,Apple,2007-09-07[26],Mini,DAP,0160 160,HDD,[empty],104 × 61,10,140,1.1.2[27]
+iPod nano 6G,Apple,2010-09-08[28],Micro,DAP,0016 8/16,Flash,[empty],38 × 41,8.9,21,1.2[29]
+iPod touch 5G,Apple,2012-10-09[30],Mini,PMP,0064 32/64,Flash,[empty],123.4 x 58.6,6.1,88,9.0
+iriver clix 2G,ReignCom,2007-04-24[31],Micro,PMP,0008 2/4/8,Flash,[empty],80 × 47,8.1–12.7,54,1.07
+PSP Slim & Lite,Sony,2007-08-30[32],Mid,PMP  HGC,0064 64[33],[empty],Memory Stick,170 × 74,18,189,6.10[34]
+Rio PMP300,Diamond Multimedia,1998-09-15,Mid,DAP,0.032,Flash,SmartMedia,89x63,16,[empty],[empty]
+Samsung Galaxy Player 4.0 & 5.0,Samsung,2011-10-16[35],Mid,PMP,0008 8/16,Flash,microSDHC,123.7 x 64.2 (4.0)  141.3 x 78.2 (5.0),9.9 (4.0)  11.9 (5.0),121 (4.0)  182 (5.0),2.3.5
+Samsung T10,Samsung,2007-09,[empty],DAP,0008 2/4/8,Flash,[empty],96 × 41.4,7.9,43,3.06[36]
+Samsung P2,Samsung,2007-09,[empty],DAP,0008 4/8,Flash,[empty],100 × 52,9.9,83,5.10[37]
+Sansa Fuze,SanDisk,2008-03-17[38],[empty],DAP,0008 2/4/8,Flash,microSDHC,78.7 × 48.3,7.6,59.5,01.02.28 & 02.03.33[39]
+Sansa Fuze+,SanDisk,2010-09-01[40],[empty],PMP,0008 4/8/16,Flash,microSD microSDHC,96.5 × 50.7,11.1,170,02.38.06[41]
+Sansa View,SanDisk,2007-10-26[42],[empty],PMP,0032 8/16/32,Flash,microSDHC,109 × 50,10,82,01.03.02a[43]
+Walkman NWZ-A820 series,Sony,2008-03-28[44],[empty],DAP,0008 4/8/16,Flash,[empty],89 × 43,10,54,1.02
+Walkman NWZ-E580 series,Sony,2013-07-10[45],[empty],DAP,0008 8/16,[empty],[empty],42.1 x 92.1,8,49,[empty]
+ZEN,Creative,2007-09-14[46],Micro,PMP,0032 2/4/8/16/32,Flash,SDHC[3],83 × 55,11,65,1.21.01[47]
+ZEN X-Fi,Creative,2008-07-10,Micro,PMP,0032 8/16/32,Flash,SD,83 × 55,13,69,1.03.01[48]
+ZEN Vision W,Creative,2006-08-30,Mid,PMP,0060 30/60,HDD,CF,134 × 75,22,276,1.10.01[49]
+Zune 30,Microsoft,2006-11-14,Mid,PMP,0030 30,HDD,[empty],112 × 61,15,160,3.3[50]
+Zune 4/8,Microsoft,2007-11-13[51],Micro,PMP,0008 4/8,Flash,[empty],91 × 41,8.4,47,3.3[50]
+Zune 16,Microsoft,2008-09-16,Micro,PMP,0016 16,Flash,[empty],91 × 41,8.4,47,3.3[50]
+Zune 80,Microsoft,2007-11-13[51],Mid,PMP,0080 80,HDD,[empty],108 × 61,13,128,3.3[50]
+Zune 120,Microsoft,2008-09-16,Mid,PMP,0120 120,HDD,[empty],108 × 61,13,128,3.3[50]
+Zune HD,Microsoft,2009-09-15,Mini,PMP,0064 16/32/64,Flash,[empty],104 × 53,8.9,74,4.5
+Zvue 260,Zvue,2007-07-17[52],[empty],DAP,0000 None,HDD,SDHC[3],106 × 65,13,120,2.80 I_071012[53]
+Name,Manufacturer,Release,Size,Type,Capacity (GB)[1],Storage,External,Dimensions (mm × mm),Depth (mm),Weight (g),Firmware
+Name,Navigation,Audio out,Speaker,Screen size (in),Screen type,Resolution (px),Frame rate (Hz),Color depth (bpp),Video out,Video battery life (hr),Audio battery life (hr)
+Archos 105[54],D-pad  7 buttons,Headphone jack,No,1.8,OLED,160 × 128,30,18,Component  Composite,Unknown,18
+Archos 405[55][56],D-pad  6 two-way buttons,Headphone jack  dock connector,No,3.5,TFT LCD,320 × 240,30,Predecessor: 24,Component  Composite,5,16
+Archos 5[57],Touchscreen,Headphone jack,Yes,4.8,TFT LCD,800 × 480,30,24,S-Video  composite via docking,7,22
+Archos 605 WiFi/GPS[58][59],D-pad/touchscreen  6 two-way buttons,Headphone jack,Yes,4.3,TFT LCD,800 × 480,30,24,Component  composite,5.5,15
+Archos 705 WiFi[60],D-pad/touchscreen  6 two-way buttons,Headphone jack,Yes,7,TFT LCD,800 × 480,30,18,Component  composite,5.5,15
+Cowon A3[61],D-pad  4 buttons,Headphone jack,Yes,4,TFT LCD,800 × 480,30,24,Component  composite  S-video,10,18
+Cowon D2[62],Touchscreen  3 buttons,Headphone jack,No,2.5,TFT LCD,320 × 240,30,24,Component  composite,10,52
+Cowon Q5W[63],Touchscreen,Headphone jack,Yes,5,TFT LCD,800 × 480,30,24,Component  S-video  composite,7,13
+Gigabeat T-Series[64],D-pad  4 buttons,Headphone jack,No,2.4,TFT LCD,320 × 240,25,18,No,5,16
+GP2X F-200[65],8-way d-pad/touchscreen  9 buttons,Headphone jack,Yes,3.5,TFT LCD,320 × 240,30,16,Component,3.5,6
+iPod classic[66],Click wheel  1 center  4 embedded buttons,Headphone jack  dock connector,Clicker only,2.5,TFT LCD,320 × 240,30,16,Component  composite,6,36
+iPod nano 5G[67],Click wheel  1 center  4 embedded buttons,Headphone jack  dock connector,Yes,2.25,TFT LCD,320 × 240,30,16,Component  composite,4,24
+iPod nano 6G[67],Multi-touch screen,Headphone jack  dock connector,No,1.54,TFT LCD,240 × 240,[empty],[empty],Component  composite,No video support,24
+iPod touch[68],Multi-touch screen  3 buttons,Headphone jack  dock connector,Yes (ex. 1st and 2nd gen.),3.5,TFT LCD,480 × 320 (4th gen. 960 × 640),30,24 (4th gen.) 18 (1st. - 3rd gen.),Component  composite,6,40 (4th gen)  30 (3rd gen)  36 (2nd gen)  24 (1st gen)
+iriver clix 2G[69],D-pad  4 embedded buttons,Headphone jack,No,2.2,AMOLED,320 × 240,30,18,No,5,25
+PSP Slim/Lite[70],Analog stick/d-pad  15 buttons,Headphone jack  dock connector,Yes,4.3,TFT LCD,480 × 272,30,24,Component  composite  d-terminal,4,10
+Samsung Galaxy Player 4.0 & 5.0[71],Touchscreen  3 buttons,Headphone jack,Yes,4.0/5.0,TFT LCD,800 × 480,[empty],[empty],[empty],5 (4.0)  8 (5.0),36 (4.0)  60 (5.0)
+Samsung T10[72],D-pad  5 buttons,Headphone jack,No,2,TFT LCD,320 × 240,30,18,No,4,30
+Samsung P2[72],Touchscreen  4 buttons,Headphone jack,No,3,TFT LCD,480 × 272,30,18,No,5,35
+Sansa Fuze[73],Scroll ring  6 buttons,Headphone jack  dock connector,No,1.9,TFT LCD,224 × 176,20,16,Composite,5,24
+Sansa Fuze+[74],Touchpad  3 buttons,Headphone jack,No,2.4,TFT LCD,320 × 240,30,16,[empty],5,24
+Sansa View[75][76],Scroll wheel  3 buttons,Headphone jack  dock connector,No,2.4,TFT LCD,320 × 240,30,16,Composite,7,35
+Walkman NWZ-A810 series[77],D-pad  7 buttons,Headphone jack,No,2,TFT LCD,320 × 240,30,16,Composite,8,33
+ZEN[78],D-pad  9 buttons,Headphone jack,No,2.5,TFT LCD,320 × 240,30,24,No,5,30
+ZEN Vision W[79],D-pad  12 buttons,Headphone jack  dock connector,Yes,4.3,TFT LCD,480 × 272,30,18,Composite,4.5,13
+Zune 4/8/16[80][81][82],Zune pad  2 buttons,Headphone jack  dock connector,No,1.8,TFT LCD,320 × 240,30,16,No,4,23 (Wi-Fi)/24
+Zune 80/120[83][84],Zune pad  2 buttons,Headphone jack  dock connector,No,3.2,TFT LCD,320 × 240,30,16,Component  composite,4,29 (Wi-Fi)/30
+Zune HD[85],Touchscreen  3 buttons,Headphone jack  dock connector,No,3.3,OLED,480 × 272,30,Unknown,HDMI  composite,8.5,33 (Wi-Fi off)
+ZVUE 260[86],D-pad  9 buttons,Headphone jack,Yes,2.5,AM TFT LCD,234 × 160,30,24,No,Unknown,6
+Product,Manufacturer,Web browser,Wireless synching,Ad hoc,On-demand,Web radio/TV
+Archos 5  7,Archos,Opera,[empty],[empty],[empty],[empty]
+Archos 604 WiFi  704 WiFi,Archos,Opera 8.5,file browsing,No,No,[empty]
+Archos 605 WiFi  705 WiFi,Archos,Opera 9,file browsing,No,Content Portals,Yes
+Archos PMA400,Archos,Opera,via FTP,Yes,No,[empty]
+Cowon Q5W,Cowon,IE Mobile,[empty],[empty],[empty],Yes (using Flash-based Internet Radio sites)
+Ibiza Rhapsody,Haier,Minimo,Yes,No,Rhapsody,radio only
+iPod Touch,Apple Inc.,Webkit,Yes,Yes,iTunes  Spotify,Yes
+Samsung Galaxy Player,Samsung,Webkit,[empty],[empty],Android Marketplace,[empty]
+Sansa Connect,SanDisk,No,[empty],[empty],Yahoo! Music,[empty]
+Sony PSP,Sony,NetFront,Yes,Yes,PlayStation Store,Yes
+Sony Walkman X Series,Sony,NetFront,No,Yes,[empty],Yes
+ZEN X-Fi,Creative,No,media server,No,Creative MediaBox,No
+Zune 4  8,Microsoft,No,Yes,Yes,Zune Marketplace,[empty]
+Zune 30,Microsoft,No,Yes,Yes,Zune Marketplace,[empty]
+Zune 80  120,Microsoft,No,Yes,Yes,Zune Marketplace,[empty]
+Zune HD,Microsoft,IE Mobile 6,Yes,Yes,Zune Marketplace,[empty]
+Name,MP3,FairPlay,ALAC,AAC,WMA-DRM,WMA Lossless,WMA,WAV,Audible,Ogg Vorbis,FLAC,Others
+Archos 105,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,No
+Archos 405,Yes,No,No,No[90],Yes,No,Yes,Yes,No,No,No,AC3[90]
+Archos 5,Yes,No,No,No[90],Yes,No,Yes,Yes,No,Yes,Yes,AC3[90]
+Archos 605 WiFi / GPS,Yes,No,No,No[90],Yes,No,Yes,Yes,No,No,No,AC3[90]
+Archos 705 WiFi,Yes,No,No,No[90],Yes,No,Yes,Yes,No,No,No,AC3[90]
+Cowon A3,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,APE  MPC  PCM  TTA  WV
+Cowon D2,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,APE
+Cowon Q5W,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,APE  MPC
+Gigabeat T-Series,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No
+GP2X F-200,Yes,No,No,No,No,No,No[91],No,No,Yes,No[92],APE  MP2  MPC [92] TTA  WV[93]
+iPod,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,AIFF
+iriver clix 2G,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+PSP Slim & Lite,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,ATRAC
+Samsung Galaxy Player,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No
+Samsung T10,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+Samsung P2,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+Sansa Fuze,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Unknown
+Sansa Fuze+,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Unknown
+Walkman NWZ-A810 series,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No
+ZEN,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No
+ZEN Vision W,Yes,No,No,No,Yes,No[94],Yes,Yes,Yes,No,No,No
+Zune,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,WMA Pro Stereo
+ZVUE 260,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,MP2
+[empty],MP3,AAC-DRM,ALAC,AAC,WMA-DRM,WMA Lossless,WMA,WAV,Audible,Ogg Vorbis,FLAC,Others
 Name,H.264,ASF,WMV,DivX / Xvid,MPEG-4,AVI,QuickTime,Other formats
 Archos 105,No,No,Yes,No,No,No,No,No
 Archos 405,No[90],No,Yes,No,Yes,Yes,No[90],MPEG-2[90]

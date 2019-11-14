@@ -1,9 +1,9 @@
 Distribution,Developer,First public release,Based on,Latest release date,Status,Purpose,Cost
 BeleniX,?,?,OpenSolaris  GNU,0.7.1 / July 19  2008,Discontinued,?,Gratis
-Nexenta OS,Nexenta Systems,2005,OpenSolaris  GNU  Ubuntu,3.1.3.5 (October 31  2012; 6 years ago (2012-10-31)) [¬±],Discontinued,?,Gratis
-NexentaStor,Nexenta Systems,?,Nexenta OS,5.0.3  April 2017[1],Active,‚ÄúEnterprise Grade Unified Block & File Storage‚Äù[2],Commercial
-OmniOS,OmniTI,2012[3],illumos  GNU,r151022 (May 12  2017; 19 months ago (2017-05-12)) [¬±][4],Active,‚ÄúProduce a self-hosting  minimalist Illumos-based release suitable for production deployment‚Äù[5],Gratis
-OpenIndiana,illumos Foundation et al.,2010,illumos  OpenSolaris  GNU,Hipster 2018.10 (October 23  2018; 2 months ago (2018-10-23)) [¬±][6],Active,‚ÄúTo become the de facto OpenSolaris distribution installed on production servers where security and bug fixes are required free of charge‚Äù[7],Gratis
-SmartOS,Joyent,?,illumos  GNU,?,Active,Cloud computing (‚Äúconverged container and virtual machine hypervisor‚Äù[8]),Gratis
-v9os,Alexander Eremin,?,illumos,2017-01-14[9],Active,‚ÄúServer-only  IPS-based minimal SPARC distribution of illumos‚Äù[10],Gratis
+Nexenta OS,Nexenta Systems,2005,OpenSolaris  GNU  Ubuntu,3.1.3.5 (October 31  2012; 7 years ago (2012-10-31)) [±],Discontinued,?,Gratis
+NexentaStor,Nexenta Systems,?,Nexenta OS,5.0.3  April 2017[1],Active,ìEnterprise Grade Unified Block & File Storageî[2],Commercial
+OmniOS,OmniTI,2012[3],illumos  GNU,r151030 (May 6  2019; 6 months ago (2019-05-06)) [±][4],Active,ìProduce a self-hosting  minimalist Illumos-based release suitable for production deploymentî[5],Gratis
+OpenIndiana,illumos Foundation et al.,2010,illumos  OpenSolaris  GNU,Hipster 2019.04 (May 12  2019; 5 months ago (2019-05-12)) [±][6],Active,ìTo become the de facto OpenSolaris distribution installed on production servers where security and bug fixes are required free of chargeî[7],Gratis
+SmartOS,Joyent,?,illumos  GNU,?,Active,Cloud computing (ìconverged container and virtual machine hypervisorî[8]),Gratis
+v9os,Alexander Eremin,?,illumos,2017-01-14[9],Active,ìServer-only  IPS-based minimal SPARC distribution of illumosî[10],Gratis
 Distribution,Developer,First public release,Based on,Latest release date,Status,Purpose,Cost

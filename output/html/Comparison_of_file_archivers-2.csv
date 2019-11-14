@@ -1,5 +1,5 @@
 [empty],Windows,DOS,Mac OS X,Linux,BSD,Other Unix,AmigaOS,Android,Windows Mobile,Windows Phone
-7-Zip,Yes[1],Command-line interface[2],Yes[2],Yes[2],Command-line interface[2],Command-line interface[2],Command-line interface[4],No,Yes,No
+7-Zip,Yes[1],Command-line interface[2],Yes[2],Yes[2],Command-line interface[2],Command-line interface[2],Command-line interface,No,Yes,No
 ALZip,Yes,Command-line interface[13],No,No,No,No,No,No,No,No
 ALZip for Mac,No,No,Yes,No,No,No,No,No,No,No
 Archive Manager,No,No,No,Yes,Yes,Yes,No,No,No,No
@@ -15,7 +15,7 @@ Filzip,Yes,No,No,No,No,No,No,No,No,No
 FreeArc,Yes,No,No,Yes,Yes,Yes,No,No,No,No
 GNU tar,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No
 iArchiver,No,No,Yes,No,No,No,No,Unknown,Unknown,?
-Info-ZIP,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes[8],No
+Info-ZIP,Yes,Yes,Yes,Yes,Yes,Yes[9],Yes,No,Yes[8],No
 KGB Archiver,Yes[7],Partial,Command-line interface,Yes,No,No,No,Yes,Unknown,?
 PeaZip,Yes[1],Unknown,Under Development[14],Yes,Yes,No,No,Unknown,Unknown,?
 PKZIP,Yes,Yes,No,Yes,No,Yes,Yes,Unknown,Unknown,?
@@ -30,4 +30,37 @@ WinZip,Yes[1],Command-line interface,Yes,No,No,No,Yes,Yes,Unknown,?
 XAD,No,No,No,Yes,Yes,Yes,Yes,Unknown,Unknown,?
 Xarchiver,No,No,No,Yes,Yes,Unknown,Unknown,Unknown,Unknown,?
 ZipGenius,Yes,Unknown,No,No,No,No,No,Unknown,Unknown,?
+ZPAQ,Yes,Unknown,Yes,Yes,No,No,No,Unknown,Unknown,?
 [empty],Windows,DOS,Mac OS X,Linux,BSD,Unix,AmigaOS,Android,Windows Mobile,Windows Phone
+[empty],Data compression,Shell integration,Password protection,Multiple volumes,Self extraction,File repairing,Batch conversion,Unicode file / directory names[5],Encryption,Filename Encryption
+7-Zip,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+ALZip,Yes,Yes,Yes,Yes,Yes,Yes,Yes[8],No,Unknown,Unknown
+Archive Manager,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+Archive Utility,Yes,Yes,No,Unknown,No,No,Yes,Yes,Unknown,Unknown
+ARJ,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,Unknown,Unknown
+Ark,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+B1 Free Archiver,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+BetterZip,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+bsdtar/libarchive,No[2],Yes,No,Yes,No,No,Yes,Yes,Unknown,Unknown
+Commander One,Yes,No,Yes,No,No,No,Yes,Yes,Unknown,Yes for 7z
+CRAX Commander,Yes,Yes,No,No,No,No,Yes,Yes,No,No
+Disk ARchiver,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+Filzip,Yes,Yes,Yes,Unknown,Yes,No,No,Unknown,Unknown,Unknown
+FreeArc,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+GNU tar,No[2],Yes,No,Yes,No,Separate,Yes,Yes,Unknown,Unknown
+iArchiver,Yes,No,Yes,Yes,No,No,No,Yes,Unknown,Unknown
+Info-ZIP,Yes,No[11],Yes,Yes[12],Yes,Yes,Yes,Yes[12],Weak,No
+KGB Archiver,Yes,Not enabled by default,Yes,Unknown,Yes,No,No,Yes,Yes,Unknown
+PeaZip,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes[9],Yes[10],Yes
+PKZIP,Yes,Yes,Yes,No,Separate,Separate,No,Yes,Yes,Unknown
+PowerArchiver,Yes,Yes,Yes,Yes,Yes,Yes,Yes[7],Yes,Yes,Yes
+StuffIt,Yes,Yes,Yes,Unknown,Yes,Yes,Yes,Yes,Yes,Unknown
+The Unarchiver,No[1],some formats,Yes,Yes,Yes,Yes,Yes,Yes[1],Yes,Unknown
+TUGZip,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Unknown
+WinAce,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Unknown
+WinRAR and RAR,Yes,Yes,Yes,Yes,Yes,Yes[3],Yes,Yes[6],Yes,Yes
+WinZip,Yes,Yes,Yes,Yes,Yes,Yes,Yes[10],Yes,Yes,Yes
+XAD,No[1],Yes,Yes,Unknown,Yes,Unknown,Unknown,Unknown,Unknown,Unknown
+Xarchiver,Yes,Yes,Yes,Unknown,Yes,Unknown,Unknown,Unknown,Unknown,Unknown
+ZipGenius,Yes,Yes,Yes,Unknown,Yes,Unknown,Yes,No,Unknown,Unknown
+[empty],Data compression,Shell integration,Password protection,Multiple volumes,Self extraction,File repairing,Batch conversion,Unicode file / directory names[5],Encryption,Filename Encryption

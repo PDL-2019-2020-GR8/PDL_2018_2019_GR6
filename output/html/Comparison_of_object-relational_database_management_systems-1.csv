@@ -4,7 +4,7 @@ CUBRID,NHN Corporation,GPL/BSD,Linux  Windows,[empty]
 DB2,IBM,Proprietary,Cross-platform,[empty]
 Greenplum Database,Greenplum division of EMC Corporation,Proprietary,?,Uses PostgreSQL codebase
 Informix,IBM,Proprietary,Cross-platform,[empty]
-CachÃ©,InterSystems,Proprietary,Cross-platform,[empty]
+Caché,InterSystems,Proprietary,Cross-platform,[empty]
 Microsoft SQL Server,Microsoft Corporation,Proprietary,Windows  Linux,Supports data objects in .NET languages
 Oracle Database,Oracle Corporation,Proprietary,Linux  Windows  Unix,[empty]
 PostgreSQL,PostgreSQL Global Development Group,PostgreSQL License,Cross-platform,[empty]

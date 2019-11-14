@@ -4,15 +4,15 @@ Predecessor file format,Microsoft Office XML formats,OpenOffice.org XML
 Standardized by,Ecma International  ISO/IEC,OASIS  ISO/IEC
 First public release date,2006,2005
 First stable version,Ecma International Standard ECMA-376 Office Open XML File Formats 1st edition,OASIS OpenDocument Format for Office Applications (OpenDocument) v1.0
-Latest stable version,ISO/IEC IS 29500-1:2012‚ÄîOffice Open XML File Formats[1],OASIS Open Document Format for Office Applications (OpenDocument) v1.2
-Latest ISO/IEC standardised version,ISO/IEC IS 29500-1:2012‚ÄîOffice Open XML File Formats[1],ISO/IEC IS 26300:2006‚ÄîOpen Document Format for Office Applications (OpenDocument) v1.0
+Latest stable version,ISO/IEC IS 29500-1:2012óOffice Open XML File Formats[1],OASIS Open Document Format for Office Applications (OpenDocument) v1.2
+Latest ISO/IEC standardised version,ISO/IEC IS 29500-1:2012óOffice Open XML File Formats[1],ISO/IEC IS 26300:2006óOpen Document Format for Office Applications (OpenDocument) v1.0
 Language type,Markup language (XML),Markup language (XML)
 XML schema representation,XML Schema (W3C) (XSD) and RELAX NG (ISO/IEC 19757-2),RELAX NG (ISO/IEC 19757-2)
 Expression of extensibility rules,NVDL (ISO/IEC 19757-4),[empty]
 Compression format,ZIP,ZIP
 Container structure,Open Packaging Convention (ISO/IEC 29500-2:2012)[2],ODF Package[3]
-Metadata format,Dublin Core (ISO 15836),subset of Dublin Core and ‚Äúurn:oasis:names:tc:opendocument:xmlns:meta‚Äù elements
-Drawing language,DrawingML  VML,‚Äúurn:oasis:names:tc:opendocument:xmlns:drawing‚Äù elements and ‚Äúurn:oasis:names:tc:opendocument:xmlns:svg-compatible‚Äù elements
+Metadata format,Dublin Core (ISO 15836),subset of Dublin Core and ìurn:oasis:names:tc:opendocument:xmlns:metaî elements
+Drawing language,DrawingML  VML,ìurn:oasis:names:tc:opendocument:xmlns:drawingî elements and ìurn:oasis:names:tc:opendocument:xmlns:svg-compatibleî elements
 Mathematical notation language,Office MathML (OMML),MathML[4][5]
 Change-tracking,supported[6],supported[7]
 Conditional formatting in spreadsheets,supported[8],supported[9]

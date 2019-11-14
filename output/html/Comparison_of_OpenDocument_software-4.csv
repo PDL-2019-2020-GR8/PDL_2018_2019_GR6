@@ -1,4 +1,52 @@
 [empty],Version,Operating systems,Office suite,Developer,License,ISO/IEC 26300:2006,Notes
+AbiWord,2.4.2,Windows  Mac OS X  Linux  Unix-based systems,[empty],AbiSource,GPL,Yes,Only supports basic ODT documents. Complex ones created in OpenOffice are likely to be broken in AbiWord.
+Calligra Words,2.4+,Windows  Mac OS X  Linux  Unix-based systems,Calligra Suite,KDE Project,GPL / LGPL,Yes,[added]
+Google Docs & Spreadsheets,2006,Any (Web-based),Standalone or Google Apps,Google,Proprietary,Yes,[empty]
+IBM Lotus Symphony,1.0+,Windows  Linux  Mac OS X,IBM Lotus Symphony,IBM,Proprietary,Yes,Based upon OpenOffice.org.
+IBM Workplace Documents,2.5+,Any (Web-based),IBM Workplace Collaboration Services,IBM,Proprietary,Yes,no longer being actively marketed
+KWord,1.4+,Linux  Unix-based systems,KOffice,KDE Project,LGPL,Yes,[added]
+LibreOffice Writer,4.0.3,Windows  Linux  Unix-based systems  Mac OS X  Solaris,LibreOffice,LibreOffice,LGPL,Yes,Multiple ODF versions supported (ISO/ODF 1.0/1.1/1.2/1.2 Extended )
+Microsoft Office Word,2007 SP2,Windows,Microsoft Office,Microsoft,Proprietary,Yes,some limitations[3]
+NeoOffice Writer,2.1,Mac OS X,NeoOffice,Patrick Luby and Edward Peterlin,GPL,no (not valid),[empty]
+OpenOffice.org Writer,3.0.0,Windows  Linux  Unix-based systems  Mac OS X  Solaris,OpenOffice.org,OpenOffice.org,LGPL,Yes,adjustable ODF version (ISO/ODF 1.2)
+OpenOffice.org Writer,2.4.1,Windows  Linux  Unix-based systems  Mac OS X  Solaris,OpenOffice.org,OpenOffice.org,LGPL,Yes,[empty]
+OpenOffice.org Writer,1.1.5,Windows  Linux  Unix-based systems  Mac OS X,OpenOffice.org,OpenOffice.org,LGPL / SISSL,[empty],Import only
+StarOffice Writer,8,Windows  Linux  Solaris,StarOffice,Sun Microsystems,Proprietary,Yes,[empty]
+TextMaker,2006 and higher,Windows  Linux  FreeBSD  Pocket PC  Windows CE,SoftMaker Office,SoftMaker,Proprietary,Yes,TextMaker 2006 - not valid files; TextMaker 2010 - valid
+TextEdit,1.5 and higher,Mac OS X,Standalone,Apple Inc.,Bundled with Mac OS X/Source code available,Yes,[empty]
+WordPerfect,X4 (2008),Windows,Corel WordPerfect Office X4,Corel,Proprietary,[empty],Import only
+Zoho Writer,2006,Any (Web-based),Standalone,AdventNet,Proprietary,Yes,[empty]
+[empty],Version,Operating systems,Office suite,Developer,License,ISO/IEC 26300:2006,Notes
+[empty],Version,Operating systems,Office suite,Developer,License,ISO/IEC 26300:2006,Notes
+Calligra Sheets,2.4+,Windows  Mac OS X  Linux  Unix-based systems,Calligra Suite,KDE Project,GPL / LGPL,Yes,[empty]
+EditGrid,[empty],Any (Web-based),[empty],Team and Concepts,Proprietary,Yes,[empty]
+Gnumeric,1.12.5+,Linux  Unix-based systems  Windows,[empty],GNOME,GPL,Yes,Saves in ODF 1.2
+Google Spreadsheets,[empty],Any (Web-based),Google Docs & Spreadsheets,Google,Proprietary,no (not valid),[empty]
+IBM Lotus Symphony,1.0+,Windows  Linux  Mac OS X,IBM Lotus Symphony,IBM,Proprietary,Yes,[empty]
+IBM Workplace Documents,2.5+,Any (Web-based),IBM Workplace Collaboration Services,IBM,Proprietary,Yes,no longer being actively marketed
+KSpread / KCells,1.4+,Linux  Unix-based systems,KOffice,KDE Project,LGPL,Yes,[empty]
+LibreOffice Calc,3.3.0,Windows  Linux  Unix-based systems  Mac OS X  Solaris,LibreOffice,LibreOffice,LGPL,Yes,[added]
+Microsoft Office Excel,2007 SP2,Windows,Microsoft Office,Microsoft,Proprietary,No (different results in validators),[empty]
+NeoOffice Calc,1.2,Mac OS X,NeoOffice,Patrick Luby and Edward Peterlin,GPL,[empty],Import only
+NeoOffice Calc,2.2.5,Mac OS X,NeoOffice,Patrick Luby and Edward Peterlin,GPL,Yes,[1]
+OpenOffice.org Calc,2.0+,Windows  Linux  Unix-based systems  Mac OS X  Solaris,OpenOffice.org,OpenOffice.org,LGPL,Yes,[empty]
+StarOffice Calc,8,Windows  Linux  Solaris,StarOffice,Sun Microsystems,Proprietary,Yes,[empty]
+Zoho Sheet,2006,Any (Web-based),Standalone,AdventNet,Proprietary,Yes,[empty]
+[empty],Version,Operating systems,Office suite,Developer,License,ISO/IEC 26300:2006,Notes
+[empty],Version,Operating systems,Office suite,Developer,License,ISO/IEC 26300:2006,Notes
+Calligra Stage,2.4+,Windows  Mac OS X  Linux  Unix-based systems,Calligra Suite,KDE Project,GPL / LGPL,Yes,[empty]
+IBM Lotus Symphony,1.0+,Windows  Linux  Mac OS X,IBM Lotus Symphony,IBM,Proprietary,Yes,[empty]
+IBM Workplace Documents,2.5+,Any (Web-based),IBM Workplace Collaboration Services,IBM,Proprietary,[empty],no longer being actively marketed
+KPresenter / KOffice Showcase,1.4+,Linux  Unix-based systems,KOffice,KDE Project,LGPL,no (not valid),[empty]
+LibreOffice Impress,3.3.0,Windows  Linux  Unix-based systems  Mac OS X  Solaris,LibreOffice,LibreOffice,LGPL,Yes,[empty]
+Microsoft Office PowerPoint,2007 SP2,Windows,Microsoft Office,Microsoft,Proprietary,Yes,[empty]
+NeoOffice Impress,1.2,Mac OS X,NeoOffice,Patrick Luby and Edward Peterlin,GPL,[empty],Import only
+NeoOffice Impress,2.2.5,Mac OS X,NeoOffice,Patrick Luby and Edward Peterlin,GPL,Yes,[2]
+OpenOffice.org Impress,2.0+,Windows  Linux  Unix-based systems  Mac OS X  Solaris,OpenOffice.org,OpenOffice.org,LGPL,Yes,[empty]
+StarOffice Impress,8,Windows  Linux  Solaris,StarOffice,Sun Microsystems,Proprietary,Yes,[empty]
+Zoho Show,2006,Any (Web-based),Standalone,AdventNet,Proprietary,no (not valid),[empty]
+[empty],Version,Operating systems,Office suite,Developer,License,ISO/IEC 26300:2006,Notes
+[empty],Version,Operating systems,Office suite,Developer,License,ISO/IEC 26300:2006,Notes
 Docvert,4.0b1,Client: any browser (open source or proprietary HTTP clients are compatible with GPLv3 web service interface). Server: Many.,Many,Matthew Holloway,GPLv3,Yes,[empty]
 3BOpenDoc,2.1,Desktop: Any (Web-based) Server: Linux  Windows,Many,3BView,Proprietary,Yes,Server based
 JODConverter,4.0.0,Windows  Linux  Unix-based systems  Mac OS X,N/A,http://www.jodconverter.org,Apache 2.0,Yes,[empty]

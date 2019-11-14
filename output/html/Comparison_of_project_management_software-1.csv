@@ -2,7 +2,6 @@ Software,Web-based,Hosted On-Premises,SaaS,License,Programming language
 2-plan,Yes[1],Yes,Yes,Proprietary  Open source[2],Java and PHP
 24SevenOffice,Yes,No,Yes,Proprietary,[empty]
 Actionspace,Yes,No,Yes,Proprietary,[empty]
-AnyChart (AnyGantt),Yes,Yes,Yes,Proprietary,JavaScript
 Apache Allura,Yes,Yes,[empty],Apache License,Python
 Apache OFBiz,Yes,Yes,Yes,Apache License,Java  XML  FreeMarker  Groovy  JavaScript
 Apache Bloodhound,Yes,Yes,Yes,Apache License,Python
@@ -10,15 +9,14 @@ Asana,Yes,No,Yes,Proprietary,[empty]
 Assembla,Yes,Yes,Yes,Proprietary,[empty]
 Axosoft,Yes,Yes,Yes,Proprietary,[empty]
 Basecamp,Yes[3],No[4],Yes,Proprietary,Ruby
+Calligra Plan,No,File-based,No,GPL,C++ and Java
 CEITON,Yes,Yes,Yes,Proprietary,ASP.NET  JavaScript
-Celoxis,Yes,Yes,Yes,[empty],[empty]
 Clarizen,Yes[5],No,Yes[5],Proprietary,[empty]
 Collabtive,Yes,Yes,Yes,Open source (core only),PHP
 Compuware Changepoint,Yes,Yes,Yes,Proprietary,[empty]
 ConceptDraw Project,No,Yes,No,Proprietary,[empty]
 ConceptDraw PLAN,Yes,No,Yes,Proprietary,PHP and Java
 Concerto Project Management,Yes,Yes,Yes,Proprietary,[empty]
-Calligra Plan,No,Unknown,Unknown,GPL,C++ and Java
 Copper Project,Yes,Yes,Yes,Proprietary,[empty]
 dotProject,Yes,Yes,Yes,GPL,PHP
 DynaRoad,No,Unknown,Unknown,Proprietary,[empty]
@@ -37,7 +35,6 @@ FusionForge,Yes,Yes,Unknown,GPL,PHP
 GanttProject,No,Yes,Unknown,GPL,Java
 Genius Project,Yes,Yes,Yes,Proprietary,[empty]
 Group-Office,Yes,Yes,Yes,Proprietary,[empty]
-Groupiful,Yes,No,Yes,Proprietary,PHP
 GroveSite,Yes,Unknown,Yes,Unknown,[empty]
 Hall.com,Yes,Unknown,Yes,Unknown,[empty]
 Helix ALM,Yes,Yes,Yes,Proprietary,C++
@@ -56,7 +53,8 @@ LiquidPlanner,Yes,No,Yes,Proprietary,Ruby
 LisaProject,No,Unknown,Unknown,Proprietary,[empty]
 MacProject,No,Unknown,Unknown,Proprietary,[empty]
 MantisBT,Yes,Yes,No,GPL,PHP
-MÃ©tier,Yes,Yes,Yes,Proprietary,[empty]
+MeisterTask,Yes,No,Yes,Proprietary,Ruby on Rails  React  Redux
+Métier,Yes,Yes,Yes,Proprietary,[empty]
 Microsoft Dynamics AX,No,Yes,No,Proprietary,X++
 Microsoft Office Project Server,Yes,Yes,Yes,Proprietary,[empty]
 Microsoft Project,Yes,Yes,Yes,Proprietary,[empty]
@@ -64,9 +62,9 @@ Microsoft SharePoint Server,Yes,Yes,Yes,Proprietary,[empty]
 Microsoft Team Foundation Server,Yes,Yes,Yes,Proprietary,[empty]
 Milestones Professional,No,Yes,No,Proprietary,C++
 Mingle,Yes,Yes,Yes,Proprietary,Ruby on Rails
+MyWorkPLAN,No,Unknown,Unknown,Proprietary,[empty]
 NetPoint,No,Unknown,Unknown,Proprietary,[empty]
 NetSuite,Yes,Unknown,Yes,Unknown,[empty]
-MyWorkPLAN,No,Unknown,Unknown,Proprietary,[empty]
 O3Spaces,No,Unknown,Unknown,Proprietary,[empty]
 OmniPlan,No,Yes,No,Proprietary,[empty]
 Onepager pro,No,Yes,No,Proprietary,ASP.NET
@@ -116,12 +114,11 @@ TaskJuggler,No,Yes,No,GPL,Ruby
 Teamcenter,Yes,Yes,Yes,Proprietary,[empty]
 TeamDynamixHE,Yes,Yes,Yes,Proprietary,[empty]
 Teamwork.com,Yes,No,Yes,Proprietary,[empty]
-The Bug Genie,Yes,Yes,Yes,Mozilla Public License,PHP
 Tom's Planner,Yes,Unknown,Unknown,Proprietary,[empty]
 Trac,Yes,Yes,Yes,(modified) BSD license,Python
 TrackerSuite.Net,Yes,Yes,Yes,Proprietary,[empty]
 Traction TeamPage,Yes,Yes,Yes,Proprietary,Java
-Trello,Yes,No,Yes,Proprietary,JavaScript
+Trello,Yes,No,Yes,Proprietary,CoffeeScript  Backbone.js  HTML5  Mustache templating language  MongoDB  Node.js  Socket.io
 Triskell,Yes,No,Yes,Proprietary,Java
 Tuleap,Yes,Yes,Yes,GPL,[empty]
 Twproject,Yes,Yes,Yes,Proprietary,[empty]

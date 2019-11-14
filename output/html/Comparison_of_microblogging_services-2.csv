@@ -1,9 +1,23 @@
+Service,Owner,Launched,Primary service,Software license,Content license,Multilingual,Ad-free
+GNU social,Open source,2010,micro-blogging,AGPLv3,CC-BY 3.0,Yes,Yes
+Diaspora,Open source,2010-11,social network,AGPLv3,AGPLv3,Yes,Yes
+Facebook,Facebook  Inc.[1],2004-02,social network,proprietary,own TOS,Yes,No
+Gab,Gab AI  Inc.,2016-08,micro-blogging,proprietary,own TOS,Yes,Yes
+micro.blog,Riverfold Software,2017-04,micro-blogging,???,???,Yes,Yes
+identi.ca,Status Net  Inc.,2008-07 [2],micro-blogging,Apache v2 (pump.io),CC-BY 3.0,Yes,Yes
+Tout,Tout,2010-04 [3],micro-blogging,proprietary,own TOS,Yes,Yes
+Twitter,Twitter  Inc.,2006-08 [4],micro-blogging,proprietary,own TOS,Yes,No
+Yammer,Yammer  Inc.,2008-09 [5],micro-blogging,proprietary,own TOS,Yes,Yes
+Mastodon,Open source,2016-10[6],micro-blogging,AGPLv3,own TOS,Yes,Yes
+Misskey,Open source,2014,micro-blogging,AGPLv3,own TOS,Yes,Yes
+Pleroma,Open source,2017,micro-blogging,AGPLv3,own TOS,Yes,Yes
+Twister,Open source,2013,micro-blogging,MIT and BSD licenses,own TOS,Yes,Yes
+Tumblr,Oath Inc.,2007,micro-blogging,proprietary,own TOS,Yes,No
 Service,Tagging[Note 1],Groups,Conversation[Note 2],Private[Note 3],Private following list,RSS,Atom,Bookmarklet
-Tumblr,Yes,No,No,Yes,?,Yes,No,?
+Tumblr,Yes,No,No,Yes,Yes,Yes,No,?
 Facebook,Yes,Yes,Yes,Yes,?,Yes,No,?
-Google+,Yes,Yes,Yes,Yes,Yes,No[7],No[7],?
-identi.ca,Yes,Yes,Yes,Yes,?,Yes,Yes,Yes[8]
-Twitter,Yes,No,Yes,Yes,Yes,No[9],No[9],No
+identi.ca / GNU social,Yes,Yes,Yes,Yes,?,Yes,Yes,Yes[7]
+Twitter,Yes,No,Yes,Yes,Yes,No[8],No[8],No
 Mastodon,Yes,No,Yes,Yes,?,No,Yes,No
-Misskey,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+Misskey,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
 micro.blog,Yes,No,Yes,No,?,Yes,No,No

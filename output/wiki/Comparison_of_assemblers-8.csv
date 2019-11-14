@@ -1,4 +1,58 @@
 Assembler,License,Instruction set,Host platform
+Atari Assembler Editor,[empty],MOS Technology 6502,Atari 8-bit family
+Atari Macro Assembler,[empty],MOS Technology 6502,Atari 8-bit family
+Lisa,[empty],MOS Technology 6502,Apple II series
+MAC/65,[empty],MOS Technology 6502  WDC 65C02,Atari 8-bit family
+Merlin,[empty],MOS Technology 6502  WDC 65C02,Apple II series
+vasm,[empty],MOS Technology 6502,various
+k2asm,Artistic License,MOS Technology 6502,Linux  Windows  macOS  possibly other Unices
+Assembler,Open source,License,Instruction set,Host platform,Development active
+ASM-One Macro Assembler,[empty],[empty],Motorola 680x0,Commodore Amiga,[empty]
+vasm,[empty],[empty],Motorola 680x0,various,[empty]
+Assembler,License,Instruction set,Host platform
+GNU Assembler,[empty],ARM,various
+vasm,[empty],ARM,various
+Assembler,License,Instruction set,Host platform
+BAL,[empty],IBM System/360,IBM BPS/360
+HLASM,[empty],z/Architecture,numerous
+IBM Assembler D,[empty],IBM System/360,IBM DOS/360
+IBM Assembler E,[empty],IBM System/360,IBM OS/360
+IBM Assembler F,[empty],IBM System/360,IBM OS/360 and CP-67/CMS
+IBM Assembler H,[empty],IBM System/360 and System/370,IBM OS/360 and successors
+IBM Assembler XF,[empty],IBM System/370,numerous
+PL360,[empty],IBM System/360,IBM OS/360
+[added],[added],[added],[added]
+Assembler,License,Instruction set,Host platform
+IBM AIX assembler,[empty],POWER,IBM AIX
+vasm,[empty],PowerPC,various
+Assembler,Operating system,FLOSS,License,Development active
+A86/A386,Windows  DOS,[empty],[empty],[empty]
+ACK,Linux  MINIX  Unix-like,[empty],[empty],1985-?
+IBM ALP,OS/2,[empty],[empty],[empty]
+AT&T,Unix System V,[empty],[empty],[empty]
+Digital Research ASM86,CP/M-86  DOS  Intel's ISIS and iRMX,[empty],[empty],[empty]
+FASM,Windows  DOS  Linux  Unix-like,[empty],[empty],[empty]
+GAS,Unix-like  Windows  DOS  OS/2,[empty],[empty],[empty]
+HLA,Windows  Linux  FreeBSD  macOS,[empty],[empty],[empty]
+Open Watcom Assembler (HJWASM a.k.a. UASM  JWASM  WASM),Linux  Windows  DOS  FreeBSD  OS/2,approved by OSI  but not by FSF,[empty],[empty]
+MASM,Windows  DOS  OS/2,[empty],[empty],[empty]
+NASM,Linux  macOS  Windows  DOS  OS/2,[empty],[empty],[empty]
+Tim Paterson's ASM,86-DOS  DOS DEBUG,[empty],[empty],[empty]
+TASM,Windows  DOS,[empty],[empty],{{?}}
+TCCASM,Unix-like  Windows,[empty],[empty],[empty]
+vasm,various,[empty],[empty],[empty]
+Xenix,Xenix 2.3 and 3.0 (before 1985),[empty],[empty],[empty]
+Yasm,Windows  DOS  Linux  Unix-like,[empty],[empty],[empty]
++,Assembler,Operating system,Open source,License,Development active
+FASM,Windows  DOS  Unix-like,[empty],[empty],[empty],[added]
+GAS,Unix-like  Windows  DOS  OS/2,[empty],[empty],[empty],[added]
+MASM,Windows  DOS  OS/2,[empty],[empty],[empty],[added]
+NASM,Windows  Linux  macOS  DOS  OS/2,[empty],[empty],[empty],[added]
+Open Watcom Assembler,Windows  DOS  Linux  FreeBSD  OS/2,[empty],[empty],[empty],[added]
+POASM,Windows  Windows Mobile,[empty],[empty],[empty],[added]
+TCCASM,Unix-like  Windows,[empty],[empty],[empty],[added]
+Yasm,Windows  DOS  Unix-like,[empty],[empty],[empty],[added]
+Assembler,License,Instruction set,Host platform
 Assembly Language for Multics (ALM),[empty],GE-645<br />Honeywell 6180,GE-645<br />Honeywell 6180
 The Macroassembler AS,[empty],29xxx  AVR  65816  ACE  F2MC-8L  F2MC-16L  HMCS400  6301  6309  H8/300(H)  H8/500  SH7000 / SH7600 / SH7700  HuC6280  PPC403GA  4004/4040  8008  MCS-48  MCS-41  MCS-51  MCS-251  MCS-96/196/296  8080/8085  8086/80186  i960  CDP1802(A)/1804(A)/1805(A)  LatticeMico8  PIC 16C5x  PIC 16C8x  PIC 17C42  MELPS-740  MELPS-7700  MELPS-4500  M16  M16C  68000 (up to 68040)  ColdFire  DSP56000  DSP56300  PowerPC 601/505  M-Core  6800  68HC11(K4)  6805  68HC(S)08  6809  68HC12 incl. XGATE  68HC16  68RS08  SC/MP  INS807x  COP4  COP8  SC14xxx  µpD7720/7725  µpD77230  µpD78C1x  75K0  78K0  78K2  78K3  78K4  V30/35  OLMS-40  OLMS-50  XA  6502  (W)65(S)C02  65C19  80C382  80C166/167  2650  8X30x  ST6  ST7  ST9  6804  SYM53C8xx  TMS3201x  TMS320C2x  TMS320C20x  TMS320C3x  TMS320C4x  TMS320C5x  TMS320C54x  TMS320C6x  TMS7000  TMS9900  TMS370xxx  MSP430(X)  TLCS-900  TLCS-90  TLCS-870  TLCS-47  TLCS-9000  TC9331  KCPSM/KCPSM3 ('PicoBlaze')  Z80  Z180  Z380  Z8  eZ8  MIL STD 1750,Win32  DOS/DPMI  DOS (no longer maintained)  OS/2 (no longer maintained)  Linux
 Babbage,[empty],GEC 4000 series,GEC 4000 series

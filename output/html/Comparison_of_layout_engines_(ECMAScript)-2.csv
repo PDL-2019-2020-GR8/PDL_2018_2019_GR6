@@ -1,5 +1,14 @@
-[empty],Trident,Gecko,WebKit,Presto,Blink
-Name of ECMAScript Engine,JScript/Chakra,Spidermonkey/TraceMonkey/JÃ¤gerMonkey/IonMonkey,JavaScriptCore/SquirrelFish Extreme,Linear B/Futhark/Carakan,V8
+Value,Meaning
+Yes,Fully supported
+No,Has never been supported
+Partial,Only some values are supported
+Incorrect,Not implemented correctly in all cases
+Experimental,May be incomplete or buggy
+Nightly build,Currently in development; full support is expected
+Depends,Only supported for the specified conditions
+Dropped,No longer supported
+Browser layout engine,Trident,Gecko,WebKit,Presto,Blink
+Corresponding JavaScript engine,JScript/Chakra,Spidermonkey/TraceMonkey/JägerMonkey/IonMonkey,JavaScriptCore/SquirrelFish Extreme,Linear B/Futhark/Carakan,V8
 ECMAScript Edition 3,Yes,0.6,Yes,1.0,Yes
 ECMAScript Edition 5,5.0,2.0,Partial,Yes,Yes
 ECMA Script Edition 6,[empty],[empty],[empty],[empty],[empty]

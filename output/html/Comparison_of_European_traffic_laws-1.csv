@@ -11,7 +11,7 @@ CY,Cyprus,100,N/A,80,50,0.05,[empty],All,12,Yes  2x,Recommended,Recommended,No,1
 CZ,Czech Republic,130 (urban 80),110 (urban 80),90,50,0 (tolerated 0.02),Yes,All,[empty],Yes,Yes,Recommended,Yes,18 (17 for B1 cars),Yes
 D,Germany[5],no (130 recommended),no (130 recommended),100 (no / 130 recommended with two or more lanes per direction),50,0.05,No[6],All,N/A,Yes,Yes,Recommended,No,18 (17 with supervision of >30 years old driver),No
 DK,Denmark,130,N/A,80,50,0.05,Yes,All,N/A,Yes,Recommended,Recommended,No,18,Yes
-E,Spain,120,120,100,50,0.05,Yes,All,N/A,Yes  2x,Recommended,Recommended,No,18,Yes
+E,Spain,doesn't use,120,100,50,0.05,Yes,All,N/A,Yes  2x,Recommended,Recommended,No,18,Yes
 EST,Estonia,120,110,90,50,0,[empty],All,N/A,Yes,Yes,Yes,No,18 (16 with supervision of a person with 2+ years of driving experience),Yes
 F,France,130 (rain/wet 110),110 (rain/wet 100),90 (rain/wet 80),50,0.05,Yes,All,10,Yes,Recommended,Recommended,No,18 (15 with supervision of a person with 5+ years of driving experience),Yes
 FIN,Finland,120[7],N/A,80,50,0.05,No,All,3,Yes,Recommended,Recommended,No,18,Yes
@@ -29,17 +29,17 @@ LV,Latvia,N/A,90,90,50,0.05,[empty],All,[empty],Yes,Yes,Yes,No,18,Yes
 M,Malta,N/A,N/A,80,50,0.08,[empty],Yes[9],11,Recommended,Recommended,Recommended,No,18,Yes
 MC,Monaco,N/A,N/A,[empty],50,0.05,[empty],N/A,10,Recommended,Recommended,Recommended,No,18,Yes
 MD,Moldova,N/A,N/A,90,60,0,[empty],All,12,Yes,Yes,Yes,No,18,Yes
-MK,Macedonia,130,N/A,80,60,0.05,Yes,All,12,Yes,Yes,Recommended,Yes,18,Yes
+MK,North Macedonia,130,N/A,80,60,0.05,Yes,All,12,Yes,Yes,Recommended,Yes,18,Yes
 MNE,Montenegro,120,N/A,80,50,0.05,Yes,All,12,Yes,Recommended,Recommended,No,[empty],Yes
 N,Norway,110,N/A,80,50,0.02,Yes,All,N/A,Yes,Recommended,Recommended,No,18,Yes
 NL,Netherlands,130,100,80,50,0.05,Yes[10],All,12,Recommended,Recommended,Recommended,No,18 (17 with supervision of someone with 5+ years drive-experience),Yes
 PT,Portugal,120,100,90,50,0.05,Yes,All,12,Yes,Recommended,Recommended,No,18,Yes
-PL,Poland,140,100 (120 on expressways),90 (100 on expressways),50 (5â€“23)  60 (23â€“5),0.02,Yes,All,N/A,Yes,Recommended,Yes,No,18 (16 for B1 cars),No
+PL,Poland,140,100 (120 on expressways),90 (100 on expressways),50 (5–23)  60 (23–5),0.02,Yes,All,N/A,Yes,Recommended,Yes,No,18 (16 for B1 cars),No
 RO,Romania,130,100 (110 on expressways),90,50,0,Yes,All,12,Yes,Yes,Yes,No,18 (16 for B1 cars),No
 RSM,San Marino,N/A,N/A,70,50,0.08,[empty],All,12,Recommended,Recommended,Recommended,No,18,Yes
 RUS,Russia[11],110,N/A,90,60,0,Yes,All,12,Yes,Yes,Yes,No,18,Yes
 S,Sweden,110,N/A,70,50,0.02,Yes,All,N/A,Yes,Recommended,Recommended,No,18,No
-SK,Slovakia,130,130,90,50,0,Yes,All,12,Yes,Yes,Recommended,Yes,18,Yes
+SK,Slovakia,130,130,90,50,0,Yes,All,12,Yes,Yes,Recommended,Yes,18 (17 with supervision of someone with 10+ years drive-experience),Yes
 SLO,Slovenia,130,100,90,50,0.05,[empty],All,12,Yes,Yes,Recommended,No,18,Yes
 SRB,Serbia,120,100,80,50,0.03,Yes,All,12,Yes,Yes,Yes,No,18,Yes
 TR,Turkey,120,110 (cars) / 90 (rest),90,50,0.05,Yes,All,10,Yes,Yes,Yes,No,18,Yes

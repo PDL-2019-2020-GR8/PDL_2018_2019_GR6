@@ -1,3 +1,26 @@
+Name,Creator,Primary Purpose(s),First release date,Most recent update,Most recent version,Cost,License,Main user interface type,Development status
+Bidule,Plogue,Realtime synthesis  live coding  algorithmic composition  acoustic research  all-purpose programming language,2002,2017-06,0.9757,Non-free,Proprietary,Graphical,Mature
+ChucK,Ge Wang and Perry Cook,Realtime synthesis  live coding  pedagogy  acoustic research  algorithmic composition,2004,2018-02-09,v1.4.0.0,Free,GPL,Document,Immature
+Csound,Barry Vercoe,Realtime performance  sound synthesis  algorithmic composition  acoustic research,1986,2019-07-12,v6.13.0,Free,LGPL,Document  graphical,Mature
+Impromptu,Andrew Sorensen,Live coding  algorithmic composition  hardware control  realtime synthesis  2d/3d graphics programming,2006,2010-10,v2.5,Free,Proprietary,Document,Stable
+Kyma,Carla Scaletti,Realtime audio synthesis  hardware control  acoustic research  algorithmic composition  data sonification  live-performance multi-effects processing,1986,2018-9-03,v7.23,Non-free,Proprietary,Graphical,Mature
+Max/MSP,Miller Puckette,Realtime audio + video synthesis  hardware control  GUI design,1980s (mid),2019-09-24,v8.1.0,Non-free,Proprietary,Graphical,Mature
+Pure Data,Miller Puckette,Realtime synthesis  hardware control  acoustic research,1990s,2019-08-27,v0.50,Free,BSD-like,Graphical,Mature
+Reaktor,Native Instruments,Realtime synthesis  hardware control  GUI design,1996,2017-08-16,6.2,Non-free,Proprietary,Graphical,Mature
+SuperCollider,James McCartney,Realtime synthesis  live coding  algorithmic composition  acoustic research  all-purpose programming language,1996-03,2019-08-31,v3.10.3,Free,GPL,Document,Mature
+Sporth,Paul Batchelor,Sound design  algorithmic composition  live coding  embedded systems,2015,2016-05,-,Free,MIT,Document,Immature
+VCV Rack,Andrew Belt,Realtime audio synthesis,2017-09,2019-09-29,1.1.5,Free,BSD-like,Graphical,Immature
+Name,Textual/graphical,Object-oriented,Type system
+Bidule,Graphical,No,[empty]
+ChucK,Textual,Yes,Static
+Csound,Textual/Graphical (FLTK/Qt/HTML5),No,In development
+Impromptu,Mostly textual,-,Dynamic & static
+Kyma,Mostly Graphical,Yes,Dynamic
+Max/MSP,Graphical,No,[empty]
+Pure Data,Graphical,No,[empty]
+Reaktor,Graphical,No,[empty]
+SuperCollider,Textual/Graphical (Cocoa/Swing/Qt),Yes,Dynamic
+MPEG-4/SA,Textual,No,No
 Name,Operating system(s),Source code language(s),Programming (plugin) API language(s),Other technical features
 Bidule,Mac OS X  Windows,C++,C++,ASIO/ CoreAudio (Mac)/ ReWire support. Possible to write custom modules via API if NDA accepted.
 ChucK,Mac OS X  Linux  Windows,C++,[empty],Unified timing mechanism (no separation between audio-rate and control-rate)  command-line access
@@ -9,3 +32,4 @@ Pure Data,Mac OS X  Linux  Windows  iPod  Android,C,C  C++  FAUST  Haskell  Java
 Reaktor,Mac OS X  Windows,[empty],[empty],[empty]
 SuperCollider,Mac OS X  Linux  Windows  FreeBSD,C  C++  Objective-C,C++,Client-server architecture; client and server can be used independently  command-line access
 Sporth,Linux  Mac OS X,C,C  Scheme,Many frontends built using the API exist  including Chuck  PD  and LADSPA
+VCV Rack,Mac OS X  Linux  Windows,C++,C++,[empty]

@@ -1,15 +1,118 @@
+OLAP Server,Company,Website,Latest stable version,Software license,License Pricing
+Apache Kylin,Apache Software Foundation,[1],2.5.1,Apache 2.0,free
+Druid,Open source community,[2],0.11.0,Apache 2.0,free
+Apache Pinot (Incubating),Apache Software Foundation,[3],0.1.0,Apache 2.0,free
+Essbase,Oracle,[4],11.1.2.4,Proprietary,[1]
+IBM Cognos TM1,IBM,[5],10.2.2 FP7,Proprietary,-
+icCube,icCube,[6],6.8.9,Proprietary,community/[2]
+Infor BI OLAP Server,Infor,[7],10.6.0,Proprietary,-
+Jedox OLAP Server,Jedox,[8],2019.3,Proprietary,[3]
+Kyligence,Kyligence,[9],3.2.1,Proprietary,-
+Kyvos,Kyvos Insights,[10],5.2,Proprietary,-
+Microsoft Analysis Services,Microsoft,[11],2016,Proprietary,[4]
+MicroStrategy Intelligence Server,MicroStrategy,[12],10.11,Proprietary,-
+Mondrian OLAP server,Pentaho,[13],3.7,EPL,free
+Oracle Database OLAP Option,Oracle,[14],11g R2,Proprietary,[5]
+SAP NetWeaver BW,SAP,[15],7.30,Proprietary,-
+SAS OLAP Server,SAS Institute,[16],9.4,Proprietary,-
+OLAP Server,MOLAP,ROLAP,HOLAP,Offline
+Apache Kylin,Yes,No,No,Yes
+Druid,Yes,Yes,Yes,Yes
+Apache Pinot (Incubating),Yes,Yes,Yes,Yes
+Essbase,Yes,No,No,[empty]
+IBM Cognos BI,Yes,Yes,Yes,[empty]
+IBM Cognos TM1,Yes,No,No,Cognos Insight Distributed mode
+icCube,Yes,No,No,Offline Cubes
+Infor BI OLAP Server,Yes,No,No,Local cubes
+Jedox OLAP Server,Yes,No,No,No
+Kyligence,Yes,Yes,Yes,Yes
+Kyvos,Yes,Yes,Yes,Yes
+Microsoft Analysis Services,Yes,Yes,Yes,Local cubes  PowerPivot for Excel  Power BI Desktop
+MicroStrategy Intelligence Server,Yes,Yes,Yes,MicroStrategy Office  Dynamic Dashboards
+Mondrian OLAP server,No,Yes,No,[empty]
+Oracle Database OLAP Option,No,Yes,No,[empty]
+SAP NetWeaver BW,Yes,Yes,No,[empty]
+SAS OLAP Server,Yes,Yes,Yes,[empty]
+OLAP Server,XML for Analysis,OLE DB for OLAP,MDX,Stored procedures,Custom functions,SQL,LINQ[17],Visualization,JSON,REST API
+Apache Kylin,No,No,No,No,Yes,Yes,[empty],Superset  Zeppelin  Tableau  Qlik  Redash,Yes,Yes
+Druid,No,No,No,No,Yes,Druid SQL,No,Superset  Pivot  Redash,Yes,Yes
+Apache Pinot (Incubating),No,No,No,No,Yes,Pinot SQL,No,Superset,Yes,Yes
+Essbase,Yes,Yes,Yes,Yes,Yes,No,Yes,SmartView (Excel-AddIn)  WebAnalysis  Financial Reports,?,?
+IBM Cognos TM1,Yes,Yes,Yes,Yes,Yes,No,Yes,TM1 Web/TM1 Contributor  IBM Cognos Insight  IBM Performance Modeler  IBM Cognos Cafe for Excel  Cognos BI  TM1 Perspectives for Excel,Yes,Yes
+icCube,Yes,Yes,Yes,Java [18] R[19],Yes,In the reporting,Yes,icCube reporting and all XMLA compliant visualization tools like Excel  etc,Yes,Yes
+Infor BI OLAP Server,Yes,Yes,Yes,OLAP Rules  Push Rules  Application Engine,Yes,Yes,No,Application Studio,?,?
+Jedox OLAP Server,Yes,Yes,Yes,Cube Rules  SVS Triggers,Yes,No,Yes,Microsoft Excel  Qlik  Tableau  Jedox Web  Power BI,No,Yes
+Kyligence,No,No,Yes,No,Yes,Yes,[empty],IBM Cgonos  Business Objects  OBIEE  MicroStrategy  Microsoft Excel  Microsoft Power BI  Qlik  Superset Tableau,Yes,Yes
+Kyvos,Yes,Yes,Yes,No,Yes,Yes,No,Kyvos Insights  Microsoft Excel  Qlik  Tableau  Power BI  MicroStrategy  IBM Cognos  Business Objects,Yes,Yes
+Microsoft Analysis Services,Yes,Yes,Yes,.NET[20],Yes[21],Yes[22],Yes,Microsoft Excel  SharePoint  Microsoft Power BI  and 70+ other visualization tools,No,No
+MicroStrategy Intelligence Server,Yes,No,Yes,Yes,Yes,Yes,Yes,Dossier  Dashboard  Reports,Yes,Yes
+Mondrian OLAP server,Yes,Yes[23],Yes,Yes,Yes[24],Yes,Yes,Yes [25],?,?
+Oracle Database OLAP Option,No,Yes[26],Yes[26],Java  PL/SQL  OLAP DML,Yes,Yes[27],No,?,?,?
+SAP NetWeaver BW,Yes,Yes,Yes,No,Yes,No,Yes,?,?,?
+SAS OLAP Server,Yes,Yes,Yes,No,No,No,Yes,Web Report Studio,?,?
+OLAP Server,Real Time,Write-back,Partitioning,Usage Based Optimizations,Load Balancing and Clustering
+Apache Kylin,Developing,No,Yes,Yes,Yes
+Druid,Yes,?,Yes,Yes,Yes
+Apache Pinot (Incubating),Yes,?,Yes,Yes,Yes
+Essbase,Yes,Yes,Yes,Yes,Yes
+IBM Cognos BI,Yes,No,Yes,Yes,?
+IBM Cognos TM1,Yes,Yes,Yes,?,?
+icCube,Yes[28],Yes[29],Yes[30],?,?
+Infor BI OLAP Server,Yes,Yes,Yes,?,?
+Jedox OLAP Server,Yes,Yes,Yes,?,?
+Kyligence,No,No,Yes,Yes,Yes
+Kyvos,Yes,Yes,Yes,Yes,Yes
+Microsoft Analysis Services,Yes,Yes,Yes,Yes,Yes
+MicroStrategy Intelligence Server,?,Yes[31],Yes,Yes,Yes
+Mondrian OLAP server,Yes,Planned,Yes,?,?
+Oracle Database OLAP Option,?,Yes,Yes,No,?
+SAP NetWeaver BW,?,Yes,Yes,?,?
+SAS OLAP Server,?,Yes,Yes,?,?
+OLAP Server,Semi-additive measures,Many-to-Many,Multi-Cube Model,Perspectives,KPI,Multilingual,Named Sets,Multi-attribute Hierarchies,Actions
+Apache Kylin,No,No,Yes,No,Yes,Yes,No,Yes,Yes
+Druid,Yes,Yes,Yes,?,No,Yes,?,Yes,Yes
+Apache Pinot (Incubating),Yes,Yes,Yes,?,?,No,No,No,No
+Essbase,Yes,?,?,?,Yes,Yes,Yes,Yes,?
+IBM Cognos BI,Yes,Yes,?,?,?,?,Yes,Yes,?
+IBM Cognos TM1,Yes,Yes,Yes,?,?,?,?,?,?
+icCube,Yes[32],Yes[33],Yes,Yes,?,Yes,Yes,?,?
+Infor BI OLAP Server,Yes,?,Yes,?,Yes,?,?,?,?
+Jedox OLAP Server,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?
+Kyligence,Yes,No,Yes,No,Yes,Yes,?,Yes,?
+Kyvos,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No
+Microsoft Analysis Services,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+MicroStrategy Intelligence Server,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Mondrian OLAP server,Yes[34],?,?,?,?,?,?,?,?
+Oracle Database OLAP Option,Yes,?,?,?,?,?,?,?,?
+SAP NetWeaver BW,Yes,?,?,?,?,?,?,?,?
+SAS OLAP Server,Yes,?,?,?,?,?,?,?,?
+OLAP Server,# cubes,# measures,# dimensions,# dimensions in cube,# hierarchies in dimension,# levels in hierarchy,# dimension members
+Apache Kylin,Unrestricted,Unrestricted,Unrestricted,Unrestricted,Unrestricted,Unrestricted,Unrestricted
+Druid,Unrestricted[a],Unrestricted,Unrestricted,Unrestricted,Unrestricted,Unrestricted,Unrestricted
+Apache Pinot (Incubating),Unrestricted[a],Unrestricted,Unrestricted,Unrestricted,-,-,Unrestricted
+Essbase[35],?,?,?,255,255,?,20.000.000 (ASO)  1.000.000 (BSO)
+IBM Cognos TM1,Unrestricted[a],Unrestricted,Unrestricted[a],256,Unrestricted[a],Unrestricted,Unrestricted
+icCube,2.147.483.647,2.147.483.647,2.147.483.647,2.147.483.647,2.147.483.647,2.147.483.647,2.147.483.647
+Infor BI OLAP Server,?,10.000.000,?,30,?,?,10.000.000
+Jedox OLAP Server,2 32 {\displaystyle 2^{32}} (32 bits),2 32 {\displaystyle 2^{32}},2 32 {\displaystyle 2^{32}} (32 bits),250,2 32 {\displaystyle 2^{32}},2 32 {\displaystyle 2^{32}},2 32 {\displaystyle 2^{32}}
+Kyligence,Unrestricted,Unrestricted,Unrestricted,Unrestricted,Unrestricted,Unrestricted,Unrestricted
+Kyvos,Unrestricted,Unrestricted,Unrestricted,Unrestricted,1,Unrestricted,Unrestricted
+Microsoft Analysis Services[36],2.147.483.647,2.147.483.647,2.147.483.647,2.147.483.647 (max. number of dimensions in a database),2.147.483.647,2.147.483.647,2.147.483.647 (xOLAP) Unrestricted (In-memory)
+MicroStrategy Intelligence Server,Unrestricted[a],Unrestricted[a],Unrestricted[a],?,Unrestricted[a],Unrestricted[a],Unrestricted[a]
+SAS OLAP Server[37],Unrestricted[a],1024,128,?,128,19,4.294.967.296
 OLAP Server,Windows,Linux,UNIX,z/OS,AIX
 Apache Kylin,No,Yes,Yes,No,No
 Druid,No,Yes,Yes,[empty],[empty]
+Apache Pinot (Incubating),No,Yes,Yes,[empty],[empty]
 Essbase,Yes,Yes,Yes,No,[empty]
 IBM Cognos TM1,Yes,Yes,Yes,No,Yes
 icCube,Yes,Yes,Yes,Yes,Yes
 Infor BI OLAP Server,Yes,No,No,No,[empty]
 Jedox OLAP Server,Yes,Yes,Yes,No,[empty]
 Kyligence,No,Yes,Yes,No,No
-Kyvos BI on Big Data,No,Yes,Yes,No,No
+Kyvos,No,Yes,Yes,No,No
 Microsoft Analysis Services,Yes,No,No,No,[empty]
-MicroStrategy Intelligence Server,Yes,Yes,Yes,No,[empty]
+MicroStrategy Intelligence Server,Yes,Yes,Yes,No,Yes
 Mondrian OLAP server,Yes,Yes,Yes,Yes,[empty]
 Oracle Database OLAP Option,Yes,Yes,Yes,Yes,[empty]
 SAP NetWeaver BW,Yes,Yes,Yes,Yes,[empty]

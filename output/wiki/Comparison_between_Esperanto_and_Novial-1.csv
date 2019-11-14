@@ -7,7 +7,7 @@ D  d,[empty],D  d
 E  e,or,E  e
 F  f,[empty],F  f
 G  g,[empty],G  g
-Ĝ  ĝ,[empty],J  j
+Ĝ  �?,[empty],J  j
 H  h,[empty],H  h
 Ĥ  ĥ,[empty],K  k
 I  i,[empty],I  i
@@ -22,10 +22,10 @@ P  p,[empty],P  p
 Kv kv,[empty],Qu  qu
 R  r,[empty],R  r
 S  s,[empty],S  s; Z  z
-Ŝ  ŝ,[empty],Sh  sh; Ch  ch
+Ŝ  �?,[empty],Sh  sh; Ch  ch
 T  t,[empty],T  t
 U  u,[empty],U  u
-Ŭ  ŭ,[empty],U  u (after a vowel)
+Ŭ  �,[empty],U  u (after a vowel)
 V  v,[empty],V  v; W  w
 Ks  ks; kz,[empty],X  x
 Z  z,[empty],Z  z; S  s

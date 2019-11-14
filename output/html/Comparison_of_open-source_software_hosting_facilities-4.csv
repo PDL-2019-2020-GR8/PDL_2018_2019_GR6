@@ -1,12 +1,83 @@
+Name,Manager,Established,Server side: all free software,Client side: all-free JS code,Developed or used CDE,Require free software on registration,Ad-free,Notes
+Assembla,Assembla  Inc,2005,No,Unknown,Unknown,No,Yes,[empty]
+Azure DevOps Services,Microsoft,2012[1],No,No,Azure DevOps Services Microsoft Visual Studio,No,Yes,Most features are free for open source projects or teams of 5 members or less[2]
+Bitbucket,Atlassian,2008,No,No,Unknown,No,Yes,Denies service to Cuba  Iran  North Korea  Sudan and Syria
+Buddy,Buddy  LLC.,2015,No,No,Unknown,No,Yes,Cloud version free for 1 project with no limit on size. Self-hosted version free up to 10 users with Fair Source license[3] applied.
+CloudForge,CollabNet,2012,No,Unknown,Unknown,No,Yes,[empty]
+Gitea,Gitea organization (open source community)[4],2016,Yes,Yes,Unknown,No,Yes,Gitea is an open-source software tool funded on Open Collective that is designed for self-hosting  but also provides a free first-party instance.
+GForge,The GForge Group Inc. [5],2006,Partial,Yes,Cloud version � free up to 5 users. On-premises version - free up to 5 users.,No,Yes,GForge is free for open source projects.
+GitHub,GitHub  Inc,2008-04,No,No,Unknown,No,Yes,List of government takedown requests: [1]
+GitLab,GitLab Inc.,2011-09[6],Partial[7],Yes[8],GitLab Community Edition (CE) � free software GitLab Enterprise Edition (EE) � proprietary,No,Yes,Denies Service to Crimea  Cuba  Iran  North Korea  Sudan  and Syria[9]
+GNU Savannah,Savannah Administration,2001-01,Yes,Yes,Savane,Yes,Yes,Project by the Free Software Foundation and projects with a GPL compatible license. Staff must approve requests for project approval  deletion  and so forth  which can take time if staffing levels are low. Code access review[10]
+Helix TeamHub,Perforce Software,1995,No,No,Cloud version � free up to 5 users. On-premises version requires a license.,No,Yes,Free cloud version has no limits on projects within 5gb storage limit. On-premises version has DevOps pipeline technology and free replicas.
+Launchpad,Canonical,2004,Yes,No,Launchpad,No,Yes,Supports Bazaar and Git for version-controlled repository hosting.[11][12]
+OSDN,OSDN K.K. (Q11237954),2002�04,Unknown,Yes,Unknown,No,No,For open-source projects only.[13]
+Ourproject.org,Comunes Collective,2002,Yes,Yes,FusionForge,No,Yes,For free software  free culture and free content projects.
+OW2 Consortium,OW2 Consortium,Unknown,Unknown,No,Unknown,No,Yes,Oriented on middleware technology.
+Phabricator,Phacility  Inc,2010,Yes,Yes,Unknown,No,Yes,Hosted option provided by Phacility
+Rosetta Code,Unknown,2007,Unknown,Unknown,Unknown,Yes,Yes,Programming chrestomathy wiki for common algorithms
+SEUL,Unknown,1997-05,Unknown,No,Unknown,No,Yes,[empty]
+SourceForge,BizX LLC,1999-11,Yes[14][15],Yes,Apache Allura,No,No,For open-source projects only.[16] Denies service when accessed from Cuba  Iran  North Korea  Sudan  Syria[17]
+Name,Manager,Established,Server side: all free software,Client side: all-free JS code,Developed or used CDE,Require free software on registration,Ad-free,Notes
+Name,Code review,Bug tracking,Web hosting,Wiki,Translation system,Shell server,Mailing list,Forum,Personal repository,Private repository,Announce,Build system,Team,Release binaries,Self-hosting
+Assembla,Yes[18],Yes,Yes,Yes,Yes,No,No,No,Yes,Yes[19],Yes,Yes,Yes,Unknown,No
+Azure DevOps Services,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Commercially (Azure DevOps Server)
+Bitbucket,Yes[20],Yes[a],Yes[21],Yes,No,No,No,No,Yes,Yes[b],No,Yes[22],Yes,No[23],Commercially (Bitbucket Server formerly Stash)[c]
+Buddy,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes[d],Yes,Yes,Yes
+CloudForge,Unknown,Yes,Yes,Yes,No,No,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,No
+GForge,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Gitea,Yes,Yes,No,Yes,Unknown,Unknown,Unknown,Unknown,Yes,Yes,Unknown,3rd-party (e.g. Travis CI  Appveyor and others)[24],Yes,Unknown,Yes
+GitHub,Yes[25],Yes[26][e],Yes[27],Yes,No,No,No,No,Yes,Yes[f],Yes,3rd-party (e.g. Travis CI  Appveyor and others)[28],Yes,Yes,Commercially (GitHub Enterprise)
+GitLab,Yes[29],Yes,Yes[30],Yes,No,No,No,No,Yes,Yes,Yes,Yes[31],Yes,Yes[32],Yes[g]
+GNU Savannah,Yes[33],Yes,Yes,No,No,Yes,Yes,No[34],No,No,Yes,No,Yes,Unknown,Yes
+Helix TeamHub,Yes[35],Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes  with hooks. Jenkins  TeamCity  etc.,No,Yes,Yes
+java.net/Project Kenai,Unknown,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No
+Kallithea,Yes,No,Yes,No,No,Unknown,No,No,Yes,Yes,No,No,Yes,Yes,Yes
+Launchpad,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes[h],Yes,Yes[i],Yes,Unknown,Yes
+OSDN,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No
+Ourproject.org,Unknown,Yes,Yes,Yes,No,Unknown,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Yes
+Phabricator,Yes,Yes,Yes,Yes,Unknown,Yes,Unknown,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Yes
+RhodeCode,Yes,No,Yes,No,No,Unknown,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+SourceForge,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes[j],Yes,No,Yes,Yes,Yes
+Name,Code review,Bug tracking,Web hosting,Wiki,Translation system,Shell server,Mailing list,Forum,Personal repository,Private repository,Announce,Build system,Team,Release binaries,Self-hosting
+Name,CVS,Git,Hg,SVN,BZR,TFVC,Arch,Perforce,Fossil
+Assembla,No,Yes,No,Yes,No,No,No,Yes,No
+Azure DevOps Services,No,Yes,No,No,No,Yes,No,No,No
+Bitbucket,No,Yes,Until Feb 2020[c],No,No,No,No,No,No
+Buddy,No,Yes,No,No,No,No,No,No,No
+CloudForge,No,Yes,No,Yes,No,No,No,No,No
+GForge,Yes,Yes,No,Yes,No,No,No,No,No
+Gitea,No,Yes,No,No,No,No,No,No,No
+GitHub,No,Yes,No,Partial[36],No,No,No,No,No
+GitLab,No,Yes,No,No,No,No,No,No,No
+GNU Savannah,Yes,Yes,Yes,Yes,Yes[37],No,Yes,No,No
+java.net,No,Yes[38],Yes[38],Yes[38],No,No,No,No,No
+Kallithea,No,Yes,Yes,No,No,No,No,No,No
+Launchpad,Import only,Yes[12][39],Import only[40],Import only,Yes,No,No,No,Unknown
+OSDN,Yes,Yes,Yes,Yes,Yes,No,No,Unknown,Unknown
+Ourproject.org,Yes,No,No,Yes,No,No,No,Unknown,Unknown
+OW2 Consortium,Yes,No,No,Yes,No,No,No,Unknown,Unknown
+Helix TeamHub,No,Yes,Yes,Yes,No,No,No,Yes,No
+Phabricator,No,Yes,Yes,Yes,No,No,No,No,No
+RhodeCode,No,Yes,Yes,Yes,No,No,No,No,No
+SEUL.org,Yes,No,No,Yes,No,No,No,Unknown,Unknown
+SourceForge,Dropped[41],Yes,Yes,Yes,Dropped[42],No,No,Unknown,Yes
+Sourcehut,No,Yes,Yes,No,No,No,No,Unknown,Unknown
+Name,CVS,Git,Hg,SVN,BZR,TFVC,Arch,Perforce,Fossil
 Name,Users,Projects,Alexa rank (lower = more popular)
-Assembla,Unknown,7005526581000000000♠526.581+[44],7004374510000000000♠37.451 as of 25 December 2018[update][45]
-Bitbucket,7006500000000000000♠5.000.000[46],Unknown,7002869000000000000♠869 as of 25 December 2018[update][47]
-GitHub,7007310000000000000♠31.000.000[48],7008100000000000000♠100.000.000[48],7001610000000000000♠61 as of 25 December 2018[update][49]
-GitLab,7005100000000000000♠100.000[50],7005546000000000000♠546.000[51][k],7003188500000000000♠1.885 as of 25 December 2018[update][52]
-GNU Savannah,7004933460000000000♠93.346[53],7003384800000000000♠3.848[53],7004673860000000000♠67.386 as of 25 December 2018[update][54]
-Launchpad,7006396528800000000♠3.965.288[55],7004408810000000000♠40.881[56],7003748100000000000♠7.481 as of 25 December 2018[update][57]
-OSDN,7004548260000000000♠54.826[58],7003629400000000000♠6.294[58],7003642900000000000♠6.429 as of 25 December 2018[update][59]
-Ourproject.org,7003635300000000000♠6.353[60],7003184600000000000♠1.846[60],7005794540000000000♠794.540 as of 25 December 2018[update][61]
-Phabricator,Unknown,Unknown,Unknown
-SourceForge,7006370000000000000♠3.700.000[62],7005500000000000000♠500.000[62],7002377000000000000♠377 as of 25 December 2018[update][63]
+Assembla,Unknown,526.581+[43],23.052 as of 9 September 2019[update][44]
+Bitbucket,5.000.000[45],Unknown,989 as of 9 September 2019[update][46]
+Buddy,Unknown,Unknown,73.518 as of 9 September 2019[update][47]
+CloudForge,Unknown,Unknown,339.271 as of 9 September 2019[update][48]
+Gitea,Unknown,Unknown,209.697 as of 9 September 2019[update][49]
+GitHub,31.000.000[50],100.000.000[50],65 as of 9 September 2019[update][51]
+GitLab,100.000[52],546.000[53][k],2.146 as of 9 September 2019[update][54]
+GNU Savannah,93.346[55],3.848[55],100.244 as of 9 September 2019[update][56]
+Launchpad,3.965.288[57],40.881[58],12.344 as of 9 September 2019[update][59]
+OSDN,54.826[60],6.294[60],8.529 as of 9 September 2019[update][61]
+Ourproject.org,6.353[62],1.846[62],1.191.954 as of 9 September 2019[update][63]
+OW2 Consortium,Unknown,Unknown,610.052 as of 9 September 2019[update][64]
+Rosetta code,Unknown,Unknown,62.045 as of 9 September 2019[update][65]
+SEUL,Unknown,Unknown,1.268.571 as of 9 September 2019[update][66]
+SourceForge,3.700.000[67],500.000[67],407 as of 9 September 2019[update][68]
 Name,Users,Projects,Alexa rank (lower = more popular)

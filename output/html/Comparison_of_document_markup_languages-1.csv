@@ -25,6 +25,7 @@ Scalable Vector Graphics (SVG),W3C,2004,Vector graphics editor,Web browser  etc.
 Script,IBM,1968,Text editor,GDDM  AFP viewer
 TeX,Donald Knuth,1978,Text editor,DVI or Portable Document Format (PDF) converter
 Texinfo,Richard Stallman,1986,Text editor,output to DVI  Portable Document Format (PDF)  HTML  DocBook  others.
+TeXmacs format,Joris van der Hoeven,[empty],Text/TeXmacs editor,PDF or Postscript files. Converters exist for TeX/LaTeX and XHTML+Mathml
 Text Encoding Initiative (TEI),Text Encoding Initiative Consortium,1990,Text/XML editor,Web Browser (using XHTML)  PDF  Word Processor (using ODF) or EPUB
 troff (typesetter runoff)  groff (GNU runoff),Joe Ossanna,1973,Text editor,groffer  or output to PostScript
 Wireless Markup Language (WML),WAP Forum,1999,Text/XML editor,Microbrowser

@@ -1,12 +1,26 @@
+[empty],GUI,Console,Software license,Latest stable version,Latest release date,Windows,Macintosh,Linux
+beye,No,Yes,GPL,6.1.0,December 12  2009,Yes,Yes,Yes
+bvi,No,Yes,GPL,1.4.0,October 7  2014,DOS  Win95 and up,Yes,Yes
+Cheat Engine,Yes,No,APL,6.8.1,June 23  2018,Yes,Yes  ver. 6.2,No
+GNU Emacs,Yes,Yes,GPL,26.2[1],April 12  2019,Yes,Yes,Yes
+FlexHex,Yes,No,Proprietary (free for non-commercial use),2.7,October 12  2018,Windows XP and up,No,No
+Frhed (Free Hex Editor),Yes,No,GPL,1.7.1,July 30  2009,Win98 and up,No,No
+Hiew,No,Yes,Proprietary,8.68,August 1  2019,Yes,No,No
+HxD,Yes,No,Proprietary (Freeware),2.2.1.0,February 17  2019,Win95  WinNT4 and up,No,No
+VEDIT,Yes,Yes,Proprietary,6.24.2,Jan 1  2015,Yes,No,No
+UltraEdit,Yes,No,Proprietary,26.10 (Windows) 18.0 (Linux / Mac OS X),May 7  2019 January 2  2018,Yes,Yes,Yes
+WinHex,Yes,No,Proprietary,19.7,August 19  2018,Win95 and up,No,No
+vim,Yes,Yes,GPL compatible,8.1.0000,May 17  2018,Yes,Yes,Yes
 [empty],Maximum file size,Partial file loading,Disk sector editing,Bit editing,Text editor,Insert/delete bytes,Character encodings(ao),Search Unicode,File structure view,Disassembler,File compare,Find in files,Bookmarks,Macro,Data inspector
 beye,8 PiB,Yes,No,Yes,No,Yes,ANSI  EBCDIC  ASCII  Macintosh,Yes,[empty],AVR  Java  x86  i386  x86-64  ARM/XScale  PowerPC  PPC64,[empty],[empty],Yes,[added],[added]
-bvi,Unlimited,Yes,[empty],Yes,Yes,Yes,ANSI  ASCII,[empty],No,No,[empty],Yes and replace,[empty],[added],[added]
-Emacs,[empty],[empty],No,No,Yes,Yes,[empty],[empty],No,No,[empty],[empty],[empty],Yes,No
-FlexHex,Unlimited,Yes,Yes,Yes,No,Yes,ANSI  OEM  UTF-16,Yes,Yes,No,Yes,No,Yes,[empty],Yes
+bvi,Unlimited[citation needed],Yes,[empty],Yes,Yes,Yes,ANSI  ASCII,[empty],No,No,[empty],Yes and replace,[empty],[added],[added]
+Emacs,Limited by RAM,[empty],No,No,Yes,Yes,[empty],[empty],No,No,[empty],[empty],[empty],Yes,No
+FlexHex,Unlimited[citation needed],Yes,Yes,Yes,No,Yes,ANSI  OEM  UTF-16,Yes,Yes,No,Yes,No,Yes,[empty],Yes
 Frhed,Limited by RAM,Yes,No(read only),Yes,No,Yes,ANSI  OEM,Yes,Yes,No,Yes,No,Yes,[added],[added]
-Hiew,Unlimited,Yes,WinNT only,Yes,Yes,Yes,ASCII OEM  Unicode Custom,Yes,Yes,x86  x86-64  MMX  SSE 4.2  3DNow! - all assembler  ARM,[empty],Yes,Yes,Yes,[added]
-HxD,Unlimited[2],Yes,Windows 9x/NT and up,Yes,No,Yes,ANSI  ASCII  OEM  EBCDIC  Macintosh,Yes,No,Yes,Yes,Yes,Yes,[empty],Yes
-VEDIT,Standard  2 GiB  Pro 64  unlimited,Yes,DOS version only,Yes,Yes,Yes,ANSI  OEM  EBCDIC  ASCII  custom,[empty],No,No,Yes,Yes,Yes,Yes,[added]
+Hiew,Unlimited[citation needed],Yes,WinNT only,Yes,Yes,Yes,ASCII OEM  Unicode Custom,Yes,Yes,x86  x86-64  MMX  SSE 4.2  3DNow! - all assembler  ARM,[empty],Yes,Yes,Yes,[added]
+HxD,Unlimited[2][citation needed],Yes,Windows 9x/NT and up,Yes,No,Yes,ANSI  ASCII  OEM  EBCDIC  Macintosh,Yes,No,Yes,Yes,Yes,Yes,[empty],Yes
+VEDIT,Standard  2 GiB  Pro 64  unlimited[citation needed],Yes,DOS version only,Yes,Yes,Yes,ANSI  OEM  EBCDIC  ASCII  custom,[empty],No,No,Yes,Yes,Yes,Yes,[added]
 UltraEdit,>4 GiB,Yes,No,No,Yes,Yes,ANSI  OEM  EBCDIC  ASCII  Mac  Unix  UTF-8,Yes,Yes,No,Yes,Yes,Yes,[added],[added]
-WinHex,Unlimited,Yes,Yes,Yes,External: notepad,Yes,Partial support of these formats: ANSI  UNICODE  OEM  UTF-8/UTF-16  EBCDIC  ASCII,Yes,Yes,Only x86 Intel opcodes,Yes,Yes and replace,[empty],Yes[3],Yes
+WinHex,Unlimited[citation needed],Yes,Yes,Yes,External: notepad,Yes,Partial support of these formats: ANSI  UNICODE  OEM  UTF-8/UTF-16  EBCDIC  ASCII,Yes,Yes,Only x86 Intel opcodes,Yes,Yes and replace,[empty],Yes[3],Yes
+vim,Limited by RAM,Yes[4],Partial[5],Yes[6],Yes,Yes,ASCII  ISO-8859  DOS (OEM)  UTF-8  UTF-16  partial EBCDIC (compiled requiered)  unicode,Yes,Plug-in[7],external; libraries,Yes[8],Plug-in[9],Plug-in[10],Yes,No
 [empty],Maximum file size,Partial file loading,Disk sector editing,Bit editing,Text editor,Insert/delete bytes,Character encodings(ao),Search Unicode,File structure view,Disassembler,File compare,Find in files,Bookmarks,Macro,Data inspector

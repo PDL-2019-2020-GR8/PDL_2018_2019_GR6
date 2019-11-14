@@ -1,3 +1,69 @@
+Firewall,License,Cost and usage limits,OS
+Avast Internet Security,Proprietary,Paid,Microsoft Windows
+Comodo Internet Security,Proprietary,Free,Windows 10/8.1/8/7/Vista x32/x64  XP x32
+Intego VirusBarrier,Proprietary,Paid,Mac OS X 10.5 or later; on an Xserve
+Kaspersky Internet Security,Proprietary,Paid / 30 day trial,Windows unknown versions x32/x64
+Lavasoft Personal Firewall,Proprietary,Paid,Windows unknown versions x32/x64
+Microsoft Forefront Threat Management Gateway,Proprietary,Discontinued,Windows unknown versions x64
+NetLimiter,Proprietary,Paid,Windows 10  8  7 x64
+Norton 360,Proprietary,Paid,Windows unknown versions x32/x64
+Online Armor Personal Firewall,Proprietary,Discontinued,Windows unknown versions x32/x64
+Outpost Firewall Pro,Proprietary,Discontinued,Windows 10  8  7  Vista  XP x32/x64
+PC Tools Firewall Plus,Proprietary,Discontinued,Windows unknown versions x32/x64
+Sygate Personal Firewall,Proprietary,Discontinued,Windows unknown versions x32
+Windows Firewall,Proprietary,Included with Windows XP SP2 and later,Windows versions x32/x64
+ZoneAlarm,Proprietary,Free / Paid,Windows 10/8.1/8/7/Vista x32/x64  XP x32
+Netfilter/iptables,GPL,Free,Linux kernel module
+nftables,GPL,Free,Linux kernel (>=3.13) module
+Shorewall,GPL,Free,Linux-based appliance
+PeerBlock,GPL,Free,Windows 8/8.1  7  Vista x32/x64
+NPF,BSD,Free,NetBSD kernel module
+PF,BSD,Free,*BSD kernel module
+ipfirewall,BSD,Free,*BSD package
+IPFilter,GPLv2,Free,Package for multiple UNIX-like operating systems
+Firewall,License,Cost,OS
+Clavister,Proprietary,Included on all Clavister NGFWs,Proprietary operating system cOS Core
+Check Point,Proprietary,Included on Check Point security gateways,Proprietary operating system Check Point IPSO and Gaia (Linux-based)
+FortiGate,Proprietary,Included on all Fortigate devices,Proprietary  FortiOS  Based on the Linux kernel
+Palo Alto Networks,Proprietary,Included on Palo Alto Networks firewalls,Proprietary operating system PANOS
+Sophos,Proprietary,Included on Sophos UTM,Linux-based appliance
+Cisco ASA Firepower,Proprietary,Included on all CISCO ASA devices,Proprietary operating system
+Cisco PIX,Proprietary,Included on all CISCO PIX devices,Proprietary operating system
+Juniper SSG,Proprietary,Included on Netscreen security gateways,Proprietary operating system ScreenOS
+Juniper SRX,Proprietary,Included on SRX security gateways,Proprietary operating system Junos
+Sonicwall,Proprietary,Included on Dell appliance,Proprietary operating system SonicOS Based on the Linux kernel
+Barracuda Firewall,Proprietary,Included Firewall Next Generation appliance,Windows-based appliance embedded firewall distribution
+Cyberoam,Proprietary,Included Firewall Sophos appliance,Windows-based appliance embedded firewall distribution
+D-Link,Proprietary,Included Firewall DFL,Windows-based appliance embedded firewall distribution
+Endian Firewall,Proprietary,Free / Paid,Linux-based appliance
+Forcepoint NGFW,Proprietary,Included on all Forcepoint NGFW devices,Proprietary operating system
+OPNsense,Simplified BSD / FreeBSD License,Free / Paid,FreeBSD-based appliance firewall distribution
+pfSense,ESF/Apache 2.0,Free / Paid,FreeBSD-based appliance firewall distribution
+Untangle,GPL,Free / Paid,Linux-based appliance firewall distribution
+Zeroshell,GPL,Free / Paid,Linux/NanoBSD-based appliance firewall distribution
+SmoothWall,GPL,Free / Paid,Linux-based appliance embedded firewall distribution [4]
+IPFire,GPL,Free (Donations welcomed),Linux-based appliance embedded firewall distribution
+WatchGuard,Proprietary,Included on all Firebox devices,Proprietary  Fireware OS  Based on the Linux kernel
+WinGate,Proprietary,Free / Paid,Windows-based appliance embedded firewall distribution
+Can Target:,Changing default policy to accept/reject (by issuing a single rule),IP destination address(es),IP source address(es),TCP/UDP destination port(s),TCP/UDP source port(s),Ethernet MAC destination address,Ethernet MAC source address,Inbound firewall (ingress),Outbound firewall (egress)
+Trend Micro Internet Security,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Untangle,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Vyatta,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Windows XP Firewall,No,No,Yes,Partial[a],No,No,No,Yes,No
+Windows Vista Firewall,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Windows 7 / Windows 2008 R2 Firewall,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+WinGate,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+Zeroshell,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Zorp,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+pfSense,Yes,Yes,Yes,Yes,Yes,No[5],No[5],Yes,Yes
+IPFire,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Can:,work at OSI Layer 4 (stateful firewall),work at OSI Layer 7 (application inspection),Change TTL? (Transparent to traceroute),Configure REJECT-with answer,DMZ (de-militarized zone) - allows for single/several hosts not to be firewalled.,Filter according to time of day,Redirect TCP/UDP ports (port forwarding),Redirect IP addresses (forwarding),Filter according to User Authorization,Traffic rate-limit / QoS,Tarpit,Log
+Sidewinder,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Untangle,Yes,Yes (Some modules),No,No,Yes,Yes (With Policy manager),Yes,Yes,Yes,Yes,Yes,Yes
+WinGate,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+Zeroshell,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+pfSense,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+IPFire,Yes,Yes,?,No,Yes,Yes,Yes,Yes,?,Yes,No,Yes
 Features:,Configuration: GUI  text or both modes?,Remote Access: Web (HTTP)  Telnet  SSH  RDP  Serial COM RS232  ...,Change rules without requiring restart?,Ability to centrally manage all firewalls together
 Untangle,both,SSH (Not enabled by default)  Web GUI ,Yes,Yes
 WinGate,GUI,Proprietary user interface,Yes,N/A

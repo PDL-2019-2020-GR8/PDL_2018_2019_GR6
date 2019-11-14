@@ -1,3 +1,227 @@
+Name,Author,First public release,Stable version,Cost,Software license,Based framework,Written in
+AIMP,AIMP DevTeam,August 8  2006,Windows: v4.60  build 2156 (October 21  2019; 20 days ago (2019-10-21)[1]) [±] Android: v2.90  build 858 (August 31  2019; 2 months ago (2019-08-31)[2]) [±],Free,Proprietary,BASS audio library (decoder),Delphi
+Amarok,Mark Kretschmann,June 1  2003,2.9 (March 7  2018; 20 months ago (2018-03-07)) [±],Free,GPLv2,via Phonon: GStreamer  xine  MPlayer  VLC  DirectShow  QuickTime,C++
+Aqualung,Tom Szilagyi et al.,January 1  2006,0.9beta11 January 30  2013; 6 years ago (2013-01-30),Free,GPLv2 or later,[empty],C
+aTunes,Alex Aranda et al.,January 1  2006,3.1.2 (June 22  2014; 5 years ago (2014-06-22)) [±],Free,GPLv2,[empty],Java
+Audacious,Audacious Development Team,October 30  2005,3.10.1 (December 26  2018; 10 months ago (2018-12-26)[3]) [±],Free,BSD,XMMS based,C  C++ (GTK+)
+Banshee,Aaron Bockover,February 17  2005,2.6.2 (February 18  2014; 5 years ago (2014-02-18)[4]) [±],Free,MIT,GStreamer,C#
+Clementine,Clementine Team,March 1  2011,1.3.1 (April 19  2016; 3 years ago (2016-04-19)) [±],Free,GPL,GStreamer,C++ (Qt)
+cmus,Timo Hirvonen,January 18  2005,2.8.0 (January 29  2019; 9 months ago (2019-01-29)) [±],Free,GPL,[empty],C
+Cog,Vincent Spader,May 1  2006,0.07 (December 24  2007; 11 years ago (2007-12-24)) [±],Free,GPL,[empty],Objective-C
+Exaile,Adam Olsen,May 24  2006,4.0.0 (June 6  2019; 5 months ago (2019-06-06)) [±],Free,GPLv2 or later,GStreamer,Python (GTK+)
+Ecoute,Louka Desroziers & Julien Sagot,September 2008,3.0.8,Free (until version 4),Proprietary,AV Foundation & QuickTime,Objective-C
+Flash MP3 Player,Reality Software,March 11  2008,1.00,Free,Proprietary,[empty],[empty]
+foobar2000,Peter Pawlowski,November 29  2002,1.4.8 (September 21  2019; 50 days ago (2019-09-21)[5]) [±],Free,Proprietary (core)  BSD (SDK),[empty],C++
+Guayadeque Music Player,Juan Rios,March 12  2009,0.4.5,Free,GPL,GStreamer,C++ (wxWidgets  wxSqlite)
+iTunes,Apple Inc.,January 9  2001,12.9.2 (December 5  2018; 11 months ago (2018-12-05)) [±],Free,Proprietary,QuickTime,?
+JRiver Media Center,JRiver  Inc.,February 1  1999,25.0.18 (April 3  2019; 7 months ago (2019-04-03)[6]) [±],Non-free,Proprietary,JRiver code,C++
+JuK,Scott Wheeler,February 1  2003,3.11 (February 4  2014; 5 years ago (2014-02-04)[7]) [±],Free,GPL,[empty],C++
+MediaMonkey Standard,Ventis Media Inc.,August 25  2003,4.1.24 (March 28  2019; 7 months ago (2019-03-28)) [±],Free,Proprietary,[empty],Delphi  C
+MediaMonkey Gold,Ventis Media Inc.,August 25  2003,4.1.24 (March 28  2019; 7 months ago (2019-03-28)) [±],Non-free,Proprietary,[empty],Delphi  C
+MediaMonkey Lifetime,Ventis Media Inc.,August 25  2003,4.1.24 (March 28  2019; 7 months ago (2019-03-28)) [±],Non-free,Proprietary,[empty],[empty]
+Groove Music,Microsoft,2012,[empty],Free,Proprietary,[empty],[empty]
+MPXPLAY,MPXPLAY,January 1  1998,3.05 (February 3  2019; 9 months ago (2019-02-03)) [±],Free,GPL,[empty],C
+Music on Console,Damian Pietras,January 1  2002,2.5.1 (April 24  2016; 3 years ago (2016-04-24)) [±],Free,GPL,[empty],C
+Music Player Daemon,Warren Dukes,May 1  2003,0.21.15 (September 25  2019; 46 days ago (2019-09-25)[8]) [±],Free,GPL,[empty],C
+MusicBee,Steven Mayall,December 4  2008,3.3.7115 (June 26  2019; 4 months ago (2019-06-26)) [±],Free,Proprietary,BASS audio library,Visual Basic .NET
+musikCube,Casey Langen,January 1  2005,1.1 Final[9] (March 23  2012; 7 years ago (2012-03-23)) [±],Free,BSD,[empty],[empty]
+Napster,William Christopher Gorog,October 1  2003,4.6.3.4 (August 31  2010; 9 years ago (2010-08-31)) [±],Non-free,Proprietary,[empty],[empty]
+Quod Libet,Quod Libet Team,November 8  2004,4.0.2 (January 17  2018; 21 months ago (2018-01-17)) [±],Free,GPL,GStreamer,Python (GTK) PyGTK
+Rdio,Rdio Inc,[when?],Microsoft Windows: 1.12.0.0 (2013) WP 8+ : 4.0.5.0 (28 October 2013; 6 years ago (2013-10-28)) iOS: 3.0.3 (27 September 2014; 5 years ago (2014-09-27)),(subscription required),Proprietary,[empty],[empty]
+Rhapsody,RealNetworks,January 1  2003,14.0 (16 October 2006) [±],(subscription required),Proprietary,[empty],[empty]
+Rhythmbox,Colin Walters,April 1  2004,3.4.2 (October 8  2017; 2 years ago (2017-10-08)) [±],Free,GPL,GStreamer,C
+Songbird,POTI Inc.,February 8  2006,2.2.0  Build 2453 (February 4  2013; 6 years ago (2013-02-04)) [±],Free,GPL,GStreamer,[added]
+Sonic Visualiser,Centre for Digital Music at Queen Mary  University of London,[empty],3.1.1 (August 14  2018),Free,GPLv2 or later,[empty],[empty]
+Sonique,Media Science,November 1  1998,1.96 (March 2002),Free,Proprietary,[empty],[empty]
+Style Jukebox,Digital Geek LTD,July 1  2009,2.2.1 (October 8  2016; 3 years ago (2016-10-08)) [±],Free,Proprietary,[empty],C#
+Winamp,Nullsoft,April 21  1997,5.8.3660 (October 19  2018; 12 months ago (2018-10-19)) [±],Free,Proprietary,Wasabi,C/C++
+XMMS,XMMS Team,November 1  1997,1.2.11 (November 16  2007; 11 years ago (2007-11-16)) [±],Free,GPL,original,C
+XMPlay,Un4seen Developments,1998,3.8 (December 23  2013),Free,Proprietary,original (based on the BASS audio library),[empty]
+Name,Author,First public release date,Stable version,Cost,Software license,Based framework,Written in
+Audio player,Windows,OS X,Linux,iOS,Android,BSD Unix,Solaris,Other Unix,DOS
+AIMP,Yes,No,via Wine,No,Yes,No,No,No,No
+Amarok,Yes,beta,Yes,No,No,Yes,Yes,Yes,No
+aTunes,Yes,Yes,Yes,No,No,Yes,Yes,No,No
+Audacious,Yes,No,Yes,No,No,Yes,Yes,Yes,No
+Audion,No,Yes,No,No,No,No,No,No,No
+Banshee,alpha,beta,Yes,No,No,Yes,No,No,No
+cmus,No,Yes,Yes,No,No,Yes,Yes,Yes,No
+Cog,No,Yes,No,No,No,No,No,No,No
+Clementine,Yes,Yes,Yes,No,remote controller only,Yes,Yes,Yes,No
+Ecoute,No,Yes,No,Yes,No,No,No,No,No
+Exaile,Yes,No,Yes,No,No,Yes,No,No,No
+foobar2000,Yes,beta[osnotes 1],via Wine[osnotes 2],Yes,Yes,No,No,No,No
+Guayadeque Music Player,No,Yes,Yes,Yes,No,No,No,No,No
+Groove Music,Yes,No,No,No,No,No,No,No,No
+iTunes,Yes,Yes,No,Yes,No,No,No,No,No
+JRiver Media Center,Yes,Yes,Yes,remote controller only,Yes,No,No,No,No
+MediaMonkey,Yes,No,No,No,Yes,No,No,No,No
+MPXPLAY,Yes,No,No,No,No,No,No,No,Yes
+Music Player Daemon,cygwin,Yes,Yes,No,No,Yes,Yes,Yes,No
+MusicBee,Yes,No,Partial[15],No,No,No,No,No,No
+Musicmatch Jukebox,Yes,No,No,No,No,No,No,No,No
+musikCube,Yes,No,No,No,No,No,No,No,No
+Quod Libet,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No
+Rdio,Yes,Yes,No,Yes,Yes,No,No,No,No
+Rhapsody,Yes,No,Yes,Yes,Yes,No,No,No,No
+Rhythmbox,No,No,Yes,No,No,Yes,Yes,Yes,No
+Songbird,Yes,Yes,No,No,Yes,No,No,No,No
+Sonique,Yes,No,No,No,No,No,No,No,No
+Spotify,Yes,Yes,Yes,Yes,Yes,No,No,No,No
+Style Jukebox,Yes,No,No,Yes,Yes,No,No,No,No
+Winamp,Yes,Yes,No,No,Yes,No,No,No,No
+XMMS,No,Yes,Yes,No,No,Yes,Yes,Yes,No
+XMPlay,Yes,No,No,No,No,No,No,No,No
+Zinf,Yes,No,Yes,No,No,Yes,Yes,Yes,No
+Audio player,Windows,OS X,Linux,iOS,Android,BSD Unix,Solaris,Other Unix,DOS
+Audio player,Video playback,Outbound streaming,Skinnable,Media database,Gapless audio decoding,Visualizer,Remote controllable,Intelligent playlists from database (based on criteria)
+AIMP,No,via Plugins,Yes,Yes,Yes,Yes,via Plugins,No
+Amarok,Partial[featurenotes 1],Yes,Partial[featurenotes 2],Yes,Yes,Yes,Yes,Yes
+Audacious,No,No,Yes,No,Yes,Yes,Yes,No
+Audion,No,No,Yes,No,?,Yes,?,No
+cmus,No,No,Yes,Yes,Yes,No,Yes,No
+Cog,No,No,No,No,Yes,No,Yes,No
+Clementine,No,No,No,Yes,Yes,Yes,Yes,Yes
+Exaile,No,?,No,Yes,Yes,No,Yes[16],Yes
+foobar2000,No,Partial[a],Yes[featurenotes 3],Yes,Yes,Yes,Partial[a],Yes
+iTunes,Yes,Yes,Partial[a],Yes,Yes,Yes,Yes,Yes
+JRiver Media Center,Yes,via Plugins,Yes,Yes,Yes,Yes,via Plugins,Yes
+JuK,No,No,No,Yes,No,No,Yes[featurenotes 4],?
+MediaMonkey,Yes,Partial[a],Yes,Yes,Yes,Yes,Partial[a],Yes
+MPXPLAY,Yes (with MMC v2.00a),?,text-interface,Yes,Yes,Yes,Yes (also LCD ability),?
+Music Player Daemon,No,Yes,Client dependent,Yes,Yes,Client dependent,Yes,Client dependent
+MusicBee,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+Musicmatch Jukebox,No,No,Yes,Yes,?,Yes,Yes,?
+musikCube,No,No,No,Yes,No,Partial[a],?,Yes
+Quod Libet,No,No,No,Yes,Yes,No,Yes,Yes
+Rhapsody,No,No,No,Yes,?,No,?,?
+Rhythmbox,No,No,No,Yes,Yes,Yes,Yes,Yes
+Sonique,Partial[a],No,Yes,No,No,Yes,?,No
+Spotify,Yes,?,No,No,Yes,No,Yes (via app),No
+Winamp,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+XMMS,Partial[a],Partial[a],Yes,No,Partial[a],Yes,Yes,No
+XMPlay,Partial[a],Partial[a],Yes,No,Yes,Yes,No,No
+Zinf,No,No,Yes,Yes,?,No,?,?
+Audio player,Video playback,Outbound streaming,Skinnable,Media database,Gapless audio decoding,Visualizer,Remote controllable,Intelligent playlists from database (based on criteria)
+Audio player,ReplayGain,Tag mass,Tag flexible[featurenotes 5],Time stretch,Pitch shift,A-B repeat,Bookmark,Auto resume,Shutdown on play complete,Archive ability
+AIMP,Yes,Yes[featurenotes 6],Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Amarok,Yes,Yes,Yes,No,No,Yes[featurenotes 7],Yes,Yes,No,No
+Audacious,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No
+Audion,?,?,?,?,?,?,?,?,?,?
+cmus,Yes,No,No,No,No,No,No,Yes,No,No
+Cog,?,?,?,?,?,?,?,?,?,?
+Clementine,Yes,Yes,No,No,No,?,No,No,No,No
+Exaile,Yes,Yes,Yes[17],No,No,Yes[a],Yes[a],Yes,Yes[a],No
+foobar2000,Yes,Yes,Yes,Yes[a],Yes[a],Yes[a],Partial[a],Yes,Partial[a],Yes
+iTunes,Yes,Yes,No,No,No,No,Yes,Yes,No,No
+JRiver Media Center,Yes,Yes,Yes,Yes,Yes,Yes[featurenotes 8],Yes,Yes,Yes,No
+JuK,?,?,?,?,?,?,?,?,?,?
+MediaMonkey,Yes,Yes,Yes,Partial[a],Partial[a],Partial[a],Partial[a],Yes,Yes,?
+MPXPLAY,?,?,?,?,?,?,?,?,?,?
+MusicBee,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+Musicmatch Jukebox,?,Partial[featurenotes 9],?,No,No,?,?,?,?,?
+musikCube,?,?,?,?,?,?,?,?,?,?
+Quod Libet,Yes,Yes,Yes,Partial[featurenotes 10],Partial[featurenotes 10],No,Yes,Yes,No,No
+Rhapsody,?,?,?,?,?,?,?,?,?,?
+Rhythmbox,Yes,Yes,No,No,No,No,No,Yes,No,No
+Sonique,No,No,?,Yes,Yes,No,No,No,No,?
+Spotify,No,No,No,No,No,No,No,Yes,No,No
+Winamp,Yes,Yes,?,No,Yes,?,Yes,?,No,?
+XMMS,Partial,Yes,?,No,No,No,No,Yes,No,No
+XMPlay,Yes,No,No,No,No,No,Yes,Yes,No,Yes
+Zinf,?,?,?,?,?,?,?,?,No,?
+Audio player,ReplayGain,Tag mass,Tag flexible,Time stretch,Pitch shift,A-B repeat,Bookmark,Auto resume,Shutdown on play complete,Archive ability
+Audio player,AVI,ASF,QuickTime,Ogg,OGM,Matroska,MP4,MPEG-21,NUT,FLV
+AIMP,No,Yes,No,Yes,No,No,Partial,No,No,No
+Amarok,Yes,Yes,Yes,Yes,Basic,Basic,Yes,?,?,Yes
+Audacious,No,Yes,No,Yes,No,No,Yes,No,No,Audio only
+Audion,No,No,No,No,No,No,No,?,?,?
+cmus,No,No,No,Vorbis only,No,Basic,Yes,?,?,?
+Cog,No,No,No,Yes,No,No,Partial,?,?,?
+foobar2000,Partial[a],Yes,No,Yes,No,Yes[containernotes 1],Yes,?,?,Audio only
+JuK,No,No,No,Vorbis only,No,No,No,?,?,?
+JRiver Media Center,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes
+MediaMonkey,No,No,No,Vorbis only,No,No,No,?,?,?
+MOC,Yes,?,?,Yes,?,Yes,Yes,?,?,Yes
+MPXPLAY,Yes,Yes,No,Yes,?,?,Yes,?,?,?
+MusicBee,No,No,No,Vorbis only,No,No,AAC only,No,No,No
+Musicmatch Jukebox,No,No,No,No,No,No,No,?,?,?
+musikCube,No,No,No,Vorbis only,No,No,No,?,?,?
+Rhapsody,No,No,No,No,No,No,No,?,?,?
+Rhythmbox,No,Yes,No,Vorbis only,No,No,Yes[f],?,?,?
+Sonique,No[g],No,No,Yes,No,No,No,?,?,?
+Winamp,Yes,Yes,Yes[a],Yes,Yes,Yes,Yes,?,?,Yes
+XMMS,No,No,No,Vorbis only,No,No,No,?,?,?
+Zinf,No,No,No,Vorbis only,No,No,No,?,?,?
+Audio player,AVI,ASF,QuickTime,Ogg,OGM,Matroska,MP4,MPEG-21,NUT,FLV
+Audio player,Flash,RealPix,QuickTime Video Effects in mov,HTML+TIME(+VML),smil/smi,SVG,MIDI(smf),MIDI(kar),MIDI(xmf),MIDI(rmi),MIDI(xmi),NSF,SPC,PSF
+AIMP,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No
+Amarok,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+Audacious,No,No,No,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes
+Audion,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+cmus,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Cog,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+foobar2000,No,No,No,No,No,No,Yes (plugin),?,?,Yes (plugin),Yes (plugin),Yes (plugin),Yes (plugin),Yes (plugin)
+JuK,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+JRiver Media Center,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+MediaMonkey,?,?,?,?,?,?,?,?,?,?,?,Yes (Winamp plugin),Yes (Winamp plugin),Yes (Winamp plugin)
+MPXPLAY,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+MusicBee,?,?,?,?,?,?,?,?,?,?,?[f],Yes,?,?
+Musicmatch Jukebox,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+musikCube,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+Rhapsody,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+Rhythmbox,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+Sonique,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+XMMS,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+Zinf,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+Audio player,Flash,RealPix,QuickTime Video Effects in mov,HTML+TIME(+VML),smil/smi,SVG,MIDI(smf),MIDI(kar),MIDI(xmf),MIDI(rmi),MIDI(xmi),NSF,SPC,PSF
+Audio player,HTTP,RTSP (RTSPU  RTSPT),MMS (MMSU  MMST),Podcasting,Other
+AIMP,Yes,No,Yes,No,No
+Amarok,Yes,Yes,Yes,Yes,UPNP
+Audacious,Yes,No,Yes,No,?
+Audion,Yes,No,No,No,?
+cmus,Yes,No,No,No,?
+Cog,No,No,No,No,?
+foobar2000,Yes,Partial[protocolnotes 1],Yes,Partial[protocolnotes 2],?
+JuK,?,?,?,?,?
+JRiver Media Center,Yes,Yes,Yes,Yes,?
+MediaMonkey,Yes,No,No,Yes[protocolnotes 3],?
+MusicBee,Yes,?,?,Yes,?
+Musicmatch Jukebox,Yes,?,?,?,?
+musikCube,Yes,No,No,?,?
+Rhapsody,Yes,Yes,Yes,Yes,?
+Rhythmbox,Yes,Yes,No,Partial[protocolnotes 4],UPNP
+Sonique,Yes,?,?,?,?
+XMMS,Yes,?,?,?,?
+Zinf,Yes,Yes,No,No,?
+Audio player,HTTP,RTSP (RTSPU  RTSPT),MMS (MMSU  MMST),Podcasting,Other
+Audio player,asx  wax  wvx,M3U,pls,XSPF,CUE
+AIMP,Yes,Yes,Yes,Yes,Yes
+Amarok,Yes,Yes,Yes,Yes,Yes
+Audacious,Partial,Yes,Yes,Yes,Yes
+Audion,?,?,?,?,?
+Clementine,Yes,Yes,Yes,Yes,Yes
+cmus,No,Yes,Yes,No,?
+Cog,?,?,?,?,?
+Exaile,Yes,Yes,Yes,Yes,?
+foobar2000,Yes,Yes,Yes,Yes,Yes
+iTunes,No,Yes,?,?,No
+JRiver Media Center,Yes,Yes,Yes,Yes,Yes
+JuK,?,?,?,?,?
+MediaMonkey,?,Yes,?,No,?
+MPXPLAY,?,Yes,Yes,?,Yes
+MusicBee,Yes,Yes,Yes,Yes,Yes
+Musicmatch Jukebox,?,Yes,?,?,?
+musikCube,?,?,?,?,?
+Quod Libet,Partial,Yes,Yes,No,?
+Rhapsody,?,?,?,?,?
+Rhythmbox,?,?,Yes,?,No
+Sonique,?,Yes,Yes,?,?
+Spotify[21],No,No,No,No,No
+Winamp,Yes,Yes,Yes,Yes,?
+XMMS,?,Yes,Yes,?,?
+Zinf,?,?,?,No,?
+Audio player,asx/wax/wvx,M3U,pls,XSPF,CUE
 Audio player,ID3v1,ID3v2,APEv2 tag,Vorbis comment,Cue sheet,CD-Text,WAVE chunks
 AIMP,Yes,Yes,Yes,Yes,Yes,Yes,Yes
 Amarok,Yes[metadatanotes 1],Yes[metadatanotes 1][metadatanotes 2],Yes[metadatanotes 1],Yes,Yes[metadatanotes 3],?,Yes
@@ -10,6 +234,7 @@ iTunes,Yes,Yes,Yes,?,?,?,?
 JRiver Media Center,Yes,Yes,Yes,Yes,Yes,Yes,Yes
 JuK,Yes[metadatanotes 1],Yes[metadatanotes 1],Yes[metadatanotes 1],Yes[metadatanotes 1],?,?,?
 MediaMonkey,Yes,Yes,Yes,Yes,?,Yes,?
+Mixxx,Yes,Yes,Yes,Yes,No,No,Yes
 MPXPLAY,Yes,Yes,Yes,Yes,?,?,?
 MusicBee,Yes,Yes,Yes,Yes,Yes,Yes,Yes
 Musicmatch Jukebox,Yes,Yes,No,?,?,Yes,?

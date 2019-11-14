@@ -1,3 +1,6 @@
+Name,License,Platform,Languages,Resizing,Upload,Output,IPTC Support,GeoTagging Support,Tags Categories Keywords
+jAlbum,Proprietary,Windows  Mac  Linux,Multilingual,Automatic,FTP,XHTML  HTML5  CSS,[empty],[empty],[empty]
+maGalleryCreator,Proprietary,Mac,English,Automatic,-,html  css,Yes,-,[empty]
 Name,License,Platform,Languages,Resizing,Upload,Output,IPTC Support,GeoTagging Support,Tags Categories Keywords,Dynamic Image Processing,Access Control,LDAP support,Version
 Flash Gallery,Creative Commons Attribution,Flash  PHP  XML,English,Automatic,FTP,Flash  XHTML  CSS,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Gallery Project (discontinued),GPL,PHP/MySQL  (PostgreSQL  Oracle  DB2  Microsoft SQL Server only in 2.x version),Multilingual,Automatic (GD/ImageMagick),Local filesystem  HTTP  Java applet  Gallery Remote  Picasa 2  Import from Gallery 1.x  Windows XP Publishing Wizard  Local server  GLoSS  WebDAV (as of 2.2),XHTML 1.0 Strict  CSS,, in G2,module,, keywords in G2,[empty],, as of G3,[empty],[empty]

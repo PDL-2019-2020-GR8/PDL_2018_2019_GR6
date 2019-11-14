@@ -17,7 +17,7 @@ JBoss Enterprise SOA Platform,JBoss  a division of Red Hat  Inc.,5.1,February 20
 Magic xpi Integration Platform,Magic Software Enterprises,4.0,May 2015,[empty],No,Proprietary,[empty]
 Openadaptor,The Software Conservancy,3.4.6,February 2011,Free,Yes,variant of MIT,[empty]
 OpenESB,OpenESB Community,3.1.2,December 2018,Free / Enterprise Edition with commercial support,Yes,CDDL,[empty]
-OpenLink Virtuoso,OpenLink Software,7.2.4,2016-04-24,Varies[4],Yes,Dual (GPL or proprietary),[empty]
+OpenLink Virtuoso,OpenLink Software,7.2.5.1,2018-08-15,Varies[4],Yes,Dual (GPL or proprietary),[empty]
 Oracle BPEL Process Manager[5],Oracle Corporation,12.1.3.0.0,June 2014,Varies[6],No,Proprietary,[empty]
 Oracle Enterprise Service Bus[5],Oracle Corporation,12.1.3.0.0,June 2014,Varies[7],No,Proprietary,[empty]
 PEtALS ESB,OW2 Consortium,3.1.3,July 2011,Free / Commercial support available,Yes,GNU LGPL,[added]

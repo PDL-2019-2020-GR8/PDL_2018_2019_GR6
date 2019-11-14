@@ -1,3 +1,123 @@
+Data types,Java,C#
+Arbitrary-size decimals,Reference type; no operators[1],Third party library[2]
+Arbitrary-size integers,Reference type; no operators,Yes[3]
+Arrays,Yes[4],Yes
+Boolean type,Yes,Yes
+Character,Yes[5],Yes
+Complex numbers,Third-party library[6],Yes
+Date/time,Yes; reference type[7],Yes; value type
+Enumerated types,Yes; reference type,Yes; scalar
+High-precision decimal number,No; but see 'Arbitrary-size decimals' above,128-bit (28 digits) Decimal type[8]
+IEEE 754 binary32 floating point number,Yes,Yes
+IEEE 754 binary64 floating point number,Yes,Yes
+Lifted (nullable) types,No; but wrapper types,Yes
+Pointers,No;[9] only method references[10],Yes[11]
+Reference types,Yes,Yes
+Signed integers,Yes; 8  16  32  64 bits,Yes; 8  16  32  64 bits
+Strings,Immutable reference type  Unicode,Immutable reference type  Unicode
+Type annotations,Yes,Yes
+Single-root (unified) type system,No; but wrapper types,Yes[12]
+Tuples,No; limited 3rd party available.[13],Yes[14]
+Unsigned integers,No; but some method support.[15],Yes; 8  16  32  64 bits
+Value types,No; only primitive types,Yes
+[empty],Java,C#
+Definition,In Java  the enumeration type is a class  and its values are objects (instances) of that class. The only valid values are the ones listed in the enumeration. The enumeration type may declare fields  allowing each individual enumerated value to reference additional data associated uniquely with that specific value. The enumeration type may also declare or override methods  or implement interfaces.[23],Enumerations in C# are implicitly derived from the Enum type that again is a value type derivative. The value set of a C# enumeration is defined by the underlying type that can be a signed or unsigned integer type of 8  16  32 or 64 bits. The enumeration definition defines names for the selected integer values.[23][24] By default the first name is assigned the value 0 (zero) and the following names are assigned in increments of 1. Any value of the underlying primitive type is a valid value of the enumeration type  though an explicit cast may be needed to assign it.
+Combining,Java enumeration set and map collections provide functionality to combine multiple enumeration values to a combined value. These special collections allows compiler optimization to minimize the overhead incurred by using collections as the combination mechanism.,C# supports bit-mapped enumerations where an actual value may be a combination of enumerated values bitwise or'ed together. The formatting and parsing methods implicitly defined by the type will attempt to use these values.
+Reference types,Java,C#
+Garbage collection,Yes,Yes
+Weak references,Yes,Yes
+Reference queue (interaction with garbage collection),Yes,Yes
+Soft references,Yes,Yes
+Phantom references,Yes,No
+Proxy support,Yes; proxy generation,Yes; object contexts
+Arrays and Collections,Java,C#
+Abstract data types,Yes,Yes
+One-dimensional  zero-based index arrays,Yes,Yes
+Multidimensional arrays  rectangular (single array),No,Yes
+Multidimensional arrays  jagged (arrays of arrays),Yes,Yes
+Non-zero based arrays,No,Some
+Unified arrays and collections,No,Yes
+Maps/dictionaries,Yes,Yes
+Sorted dictionaries,Yes,Yes[30]
+Sets,Yes,Yes
+Sorted sets,Yes,Yes[31]
+Lists/vectors,Yes,Yes
+Queues/stacks,Yes,Yes
+Priority queue,Yes,Yes[32][33]
+Bags/multisets,Third-party library,Yes
+Concurrency optimized collections,Yes,Yes[34]
+Expressions and operators,Java,C#
+Arithmetic operators,Yes,Yes
+Logical operators,Yes,Yes
+Bitwise logic operators,Yes,Yes
+Conditional,Yes,Yes
+String concatenation,Yes,Yes
+Casts,Yes,Yes
+Boxing,Yes; implicit,Yes; implicit
+Unboxing,Yes; implicit,Yes; explicit
+Lifted operators,No  but see java.util.Optional,Yes
+Overflow control,No,Yes
+Strict floating point evaluation,Yes; opt-in/out,Yes; opt-in[39]
+Verbatim (here-)strings,No,Yes[40]
+Statements,Java,C#
+Loops,Yes,Yes
+Conditionals,Yes,Yes
+Flow control,Yes,Yes
+Assignment,Yes,Yes
+Exception control,Yes,Yes
+Variable declaration,Yes,Yes
+Variable type inference,Yes[42],Yes
+Deterministic disposal (ARM-blocks),Yes,Yes
+Object orientation,Java,C#
+Classes,mandatory,mandatory
+Interfaces,Yes,Yes
+Abstract classes,Yes,Yes
+Member accessibility levels,Yes; public  package  protected  private,Yes; public  internal  protected  private  protected internal
+Class-level inner classes,Yes;static inner classes are class level,Yes; all inner classes are class level
+Instance-level inner classes,Yes,No
+Statement-level (local) anonymous classes,Yes,Yes; but without methods
+Partial classes,No; Third-party library[46],Yes
+Implicit (inferred) anonymous classes,No,Yes[47]
+Deprecation/obsolescence,Yes,Yes
+Overload versioning,Some,Yes
+Enums can implement interfaces,Yes,No
+Properties,No  but see JavaBeans spec,Yes
+Events,Provided by standard libraries,Built-in language feature
+Operator overloading,No,Yes
+Indexers,No,Yes
+Implicit conversions,No; but see autoboxing,Yes
+Explicit conversions,Yes,Yes
+Fields and initialization,Java,C#
+Fields,Yes,Yes
+Constants,Yes,Yes; but no support for constant passed parameters[51]
+Static (class) constructors,Yes,Yes
+Instance constructors,Yes,Yes
+Finalizers/destructors,Yes,Yes
+Instance initializers,Yes,No; can be simulated with instance constructor
+Object initialization,Bottom-up (fields and constructors),Top-down (fields); bottom-up (constructors)
+Object initializers,Yes,Yes
+Collection initializers,No; static varargs methods,Yes
+Array initializers,Yes,Yes
+Methods and properties,Java,C#
+Static imports,Yes,Yes[52]
+Virtual methods,Virtual by default,Non-Virtual by default
+Abstract,Yes,Yes
+Sealing,Yes,Yes
+Explicit interface implementation,Default methods,Yes[53]
+Value (input) parameters,Yes,Yes
+Reference (input/output) parameters,No,Yes
+Output (output) parameters,No,Yes
+Constant (immutable) parameters,Yes; final parameters,Yes[54]
+Variadic methods,Yes,Yes
+Optional arguments,No;[55] Instead method overloading or varargs,Yes
+Named arguments,No,Yes
+Generator methods,No,Yes
+Extension/default methods,Yes,Yes
+Conditional methods,No,Yes
+Partial methods,No,Yes
+Exceptions,Java,C#
+Checked exceptions,Yes,No
+Try-catch-finally,Yes,Yes
 Generics,Java,C#
 Implementation,Type erasure,Reification
 Runtime realization,No,Yes

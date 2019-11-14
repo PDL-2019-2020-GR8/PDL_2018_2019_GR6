@@ -34,8 +34,8 @@ Rank,Country and (Argentine provinces),Intl.&nbsp;$
 32,[empty],27.735
 33,[empty],27.692
 34,[empty],27.083
-—,Santa Cruz,26.438
-—,Tierra del Fuego,25.993
+-,Santa Cruz,26.438
+-,Tierra del Fuego,25.993
 35,[empty],25.118
 36,[empty],24.674
 37,[empty],23.971
@@ -53,19 +53,19 @@ Rank,Country and (Argentine provinces),Intl.&nbsp;$
 46,[empty],18.977
 47,[empty],18.977
 48,[empty],18.575
-49,<ref>The IMF is using a 2008 population estimate based on a 2001 census whose validity has been called into question. A 2003 U.S. State Department report on Equatorial Guinea stated that "although the 2002 (sic) census estimated the population at 1.015.000  credible estimates put the number at closer to 500.000. The opposition claimed that the Government inflated the census in anticipation of the December presidential election. (...) Opposition leaders charged earlier in the year that census results showing a twofold population increase were flawed and that numbers were inflated to perpetuate election fraud." https://www.state.gov/g/drl/rls/hrrpt/2002/18181.htm</ref>,18.058
+49,<ref>The IMF is using a 2008 population estimate based on a 2001 census whose validity has been called into question. A 2003 U.S. State Department report on Equatorial Guinea stated that "although the 2002 (sic) census estimated the population at 1.015.000  credible estimates put the number at closer to 500.000. The opposition claimed that the Government inflated the census in anticipation of the December presidential election. (...) Opposition leaders charged earlier in the year that census results showing a twofold population increase were flawed and that numbers were inflated to perpetuate election fraud." https://2001-2009.state.gov/g/drl/rls/hrrpt/2002/18181.htm</ref>,18.058
 50,[empty],17.537
 51,[empty],17.106
 52,[empty],15.948
-—,Río Negro,15.046
+—,R�o Negro,15.046
 53,[empty],14.907
 —,Buenos Aires,14.773
 —,San Luis,14.649
 54,[empty],14.545
 55,[empty],14.534
 56,[empty],14.529
-57,[empty],14.408
-—,Santa Fe,14.216
+-,[empty],14.408
+57,Santa Fe,14.216
 58,[empty],14.192
 —,San Juan,14.154
 59,[empty],14.081
@@ -82,7 +82,7 @@ Rank,Country and (Argentine provinces),Intl.&nbsp;$
 65,[empty],12.600
 —,Salta,12.594
 —,Santiago del Estero,12.532
-—,Entre Ríos,12.420
+—,Entre R�os,12.420
 66,[empty],12.322
 67,[empty],12.313
 —,Corrientes,12.148

@@ -1,5 +1,15 @@
+IDE,License,Windows,Linux,macOS,Other platforms,Debugger,GUI builder,Profiler,Static code analysis,MXML,Export to Mobile
+Adobe Animate Formerly Adobe Flash Professional,Proprietary,Yes,No,Yes,JVM,Yes,Yes,Yes,Yes,Yes,Yes
+Flash Builder,Proprietary,Yes,No,Yes,JVM,Yes,Yes,Yes,Yes,Yes,Yes
+FlashDevelop,MIT License,Yes,No,No,[empty],Yes,No,Yes,No,Yes,Yes
+IntelliJ IDEA,Proprietary,Yes,Yes,Yes,FreeBSD  OpenBSD  Solaris,Yes,No,Yes,Yes,Yes,Yes
+Powerflasher FDT,Proprietary,Yes,Yes,Yes,JVM,Yes,No,Yes,Yes,Yes,Yes
+IDE,License,Windows,Linux,macOS,Other platforms,Debugger,GUI builder,Toolchain,Profiler,Code coverage,Autocomplete,Static code analysis,GUI-based design,Class browser,Latest stable release
+Eclipse w/ AonixADT[1],EPL,Yes,Yes,Yes,FreeBSD  JVM  Solaris,Yes,Yes[2],No,Unknown,Unknown,Yes,Unknown,No,Yes,December 2009
+GNAT Programming Studio,GPL,Yes,Yes,Yes,DragonFly BSD  FreeBSD  NetBSD  OpenBSD  Solaris,Yes,Yes[3],Yes,Yes,Yes,Yes,Yes,No,Yes,June 2014
+SlickEdit,Proprietary,Yes,Yes,Yes,Solaris  Solaris SPARC  AIX  HP-UX,Yes,No,No,No,No,Yes,No,No,Yes,2018
+Understand,Proprietary,Yes,Yes,Yes,Solaris,No,No,No,No,No,Yes,Yes,No,Yes,December 2015
 IDE,License,Windows,Linux,macOS,Other platforms,Debugger,Assemblers,Auto-complete,Macros/templates,Latest stable release
-SASM,GPL,Yes,Yes,No,Unknown,Yes,NASM  MASM  GAS and FASM,Yes,Yes,3.5.0 / 19 March 2016
-Fresh,EUPL and 2-clause BSD,Yes,No,No,Unknown,No,FASM,Unknown,Unknown,2.2.0 / May 1  2014
-RadASM,Freeware,Yes,No,No,Unknown,Yes,MASM  FASM  NASM  TASM  GoAsm  High Level Assembly,Yes,Yes,2.2.2.0 / March 17  2010
-SlickEdit,Proprietary,Yes,Yes,Yes,Solaris  Solaris SPARC  AIX  HP-UX,No,MASM  High Level Assembly  Linux Assembly  OS/390 Assembly,Yes,Yes,October 2016
+Fresh,EUPL and 2-clause BSD,Yes,No,No,Unknown,No,FASM,Unknown,Unknown,1.73.04 / April 30  2018
+SASM,GPL,Yes,Yes,No,Unknown,Yes,NASM  MASM  GAS and FASM,Yes,Yes,3.10.1 / 8 October 2018
+SlickEdit,Proprietary,Yes,Yes,Yes,Solaris  Solaris SPARC  AIX  HP-UX,No,MASM  High Level Assembly  Linux Assembly  OS/390 Assembly,Yes,Yes,2018

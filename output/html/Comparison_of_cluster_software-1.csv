@@ -1,4 +1,5 @@
 Software,Maintainer,Category,Development status,ArchitectureOCS,High-Performance/ High-Throughput Computing,License,Platforms supported,Cost,Paid support available
+Accelerator,Altair,Job Scheduler,actively developed,Master/worker distributed,HPC/HTC,Proprietary,Linux  Windows,Cost,Yes
 Amoeba,[empty],[empty],[empty],[empty],[empty],MIT,[empty],[empty],[empty]
 Base One Foundation Component Library,[empty],[empty],[empty],[empty],[empty],Proprietary,[empty],[empty],[empty]
 DIET,INRIA  SysFera  Open Source,All in one,[empty],GridRPC  SPMD  Hierarchical and distributed architecture  CORBA,HTC/HPC,CeCILL,Unix-like  Mac OS X  AIX,Free,[empty]

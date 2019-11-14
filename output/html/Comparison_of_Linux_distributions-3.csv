@@ -1,47 +1,216 @@
-Distribution,x86,x86-64,ia64,ppc[62],ppc64,sparc32,sparc64,arm,hppa[63],loongson,mips[64],sh,s390,s390x,alpha[65],m68k[66],riscv
-Alpine Linux,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,[added]
-Arch Linux,Yes Unofficial[67] Official discontinued 2017-11-08[68],Yes,No,Discontinued unofficial port,No,No,No,Yes Unofficial[69],No,Discontinued. Unofficial port[70],No,No,No,No,No,No,[added]
-BackTrack,Discontinued from BackTrack 5 and superseded by Kali Linux[71],Discontinued from BackTrack 5 and superseded by Kali Linux,No,No,No,No,No,Discontinued from BackTrack 5 and superseded by Kali Linux,No,No,No,No,No,No,No,No,[added]
+Distribution,Founder,Maintainer,Initial release year,Current stable version,Security updates (years),Release date,System distribution commitment,Forked from,Target audience,Cost,Status
+Alpine Linux,Alpine Linux Team,Alpine Linux Team,2006,3.10[2],?,2019-06-13,X,LEAF Project,security  lightweight  general,Gratis,Active
+ALT Linux,ALT Linux Team,ALT Linux Team  ALT Linux LLC,2001,8.2[3],?,2013-07-10,X,Mandrake Linux,general  school,Gratis,Active
+antiX,Anticapitalista,Anticapitalista,2007,17.4.1[4],?,2017-08-24,X,Debian  MEPIS,old computers,Some editions are gratis,Active
+ArchBang,Willensky Aristide,Stan McLaren,2011,Rolling,Rolling,?,X,Arch Linux (UKM Edition),general,Gratis,Active
+Arch Linux,Judd Vinet,dev team,2002,Rolling,Rolling,Rolling,X,Independent  inspired from CRUX,general,Gratis,Active
+BLAG,Brixton Linux Action Group,Brixton Linux Action Group,2002,140k,?,2011-05-04,100% Free: GNU FSDG,Fedora,desktop,Gratis,Inactive
+Bodhi Linux,Bodhi Linux Team,Bodhi Linux Team,2011,5.0.0[5],?,2018-08-22,X,Debian  Ubuntu,desktop  lightweight,Gratis,Active
+Canaima,CANTV / CNTI / CENTIDEL / Edelca / VIT / FUNDACITE / Free software community,CANTV / CNTI / CENTIDEL / Edelca / VIT / FUNDACITE / Free software community,2007,6.0[6],?,2018-03-19,X,Debian  Ubuntu,Government of Venezuela,Gratis,Active
+CentOS,CentOS Project,CentOS Project,2003,7.7-1909,10 years[7],2019-09-17,X,Red Hat Enterprise Linux (RHEL),server  workstation,Gratis,Active
+Chakra,Jan Mette and Arch Linux KDEmod developers,The Chakra Project Team,2010,Rolling,Rolling,?,X,Arch Linux[8],desktop,Gratis,Active
+Chrome OS,Sundar Pichai,Google,2009,75.0.3770.129[9],6.5 years[10],2019-07-09,X,Chromium OS,web applications,Gratis,Active
+ClearOS,Peter Baldwin,ClearFoundation,2000,7.6.0[11],?,2019-05-09,X,RHEL  CentOS,server  gateway  network,Some editions are gratis,Active
+CrunchBang Linux,Philip Newborough,Philip Newborough,2008,11[12],?,2013-05-06,X,Debian,desktop,Gratis,Inactive
+Damn Small Linux,John Andrews,dev team,2003,4.4.10[13],?,2008-11-18,X,Debian  Knoppix,lightweight  portable,Gratis,Active
+Debian,Ian Murdock,Debian Project,1993,10.1[14],~3 years[g 1],2019-09-07,Debian Social Contract and DFSG (main is 100% free  non-free packages are optional)[15],Softlanding Linux System (SLS)[16],general  server  desktop,Gratis,Active
+Debian Edu,[empty],Debian Project,2004,9.0+edu0[17],~3 years[g 1],2017-06-18,Debian Social Contract and DFSG,Debian,schools,Gratis,Active
+Devuan,The "Veteran Unix Admins" (VUA),The "Veteran Unix Admins" (VUA),2016,2.0.0[18],?,2018-09-16,X [19],Debian,general,Gratis,Active
+Deepin,Wuhan Deepin Technology Co.  Ltd.,Wuhan Deepin Technology Co.  Ltd.,2004,15.10.2[20],?,2019-07-05,?,Debian(current)  Ubuntu  Morphix(formerly),general,Gratis,Active
+Dragora GNU/Linux-Libre,Matias A. Fonzo,Matias A. Fonzo,2009,3.0-alpha2[21],?,2018-09-28,100% Free: GNU FSDG,Independent  inspired from Slackware,general,Gratis,Active
+dyne:bolic,Jaromil,Jaromilx,2005,3.0.0,?,2011-09-08,100% Free: GNU FSDG,Debian,multimedia,Gratis,Inactive
+Elementary OS,Daniel Foré,elementary LLC,2011,5.0[22],?,2018-10-16,X,Ubuntu  Debian,general,Gratis,Active
+ELinOS,SYSGO,SYSGO,1999,6.2[23],?,2017-10-01,X,–,embedded systems,Partial,Active
+Emdebian Grip,Embedded Debian Project,Embedded Debian Project,2009,3.1,End-of-life,2013-06-15,X,Debian,embedded systems,Gratis,Inactive
+EndeavourOS,Bryan Poerwoatmodjo,EndeavourOS,2019,Rolling,Rolling,2019-07-15,X,Arch Linux,general,Gratis,Active
+Fedora,Fedora Project,Fedora Project,2003,31[24],1 year,2019-10-29,Fedora Licensing Guidelines[25],Red Hat Linux,general,Gratis,Active
+Freespire,Lindows.com  Inc.,PC/OpenSystems LLC,2001,4.8[26],?,2018-12-20,X,Ubuntu,desktop,Gratis,Active
+Gentoo Linux,Daniel Robbins,Gentoo Foundation  Inc.,2002,Rolling,Rolling,Rolling,Gentoo Social Contract,Enoch Linux,general,Gratis,Active
+Guix,Ludovic Courtès,Ludovic Courtès  Ricardo Wurmus  the Guix community,2012,1.0.1[27],Rolling,2019-05-02,100% Free: GNU FSDG,–,general,Gratis,Active
+gNewSense,Brian Brazil and Paul O'Malley,Sam Geeraerts with sponsorship from the FSF,2006,4.0 (Ucclia)[28],?,2016-05-02,100% Free: GNU FSDG,Debian,general  server,Gratis,Active
+gnuLinEx,Regional Government of Extremadura,dev team,2002,LinEx 2013,?,2013-02-11,X,Debian,desktop,Gratis,Inactive
+Grml,Michael Prokop,The Grml Team,2005,2018.12[29],?,2018-12-31,X,Debian,live  maintenance  security  network  forensic  accessibility,Gratis,Active
+Hyperbola GNU/Linux-libre,Hyperbola Founders,Hyperbola Founders,2017,0.3[30],3 years (stable)  5 years (old stable)[31],2019-09-23,100% Free: GNU FSDG followed in Hyperbola Social Contract,Arch Linux,general,Gratis,Active
+Instant WebKiosk,Marco Buratto,Binary Emotions,2012,16.0[32],?,2017-04-05,X,Debian,web kiosks  digital signage  personal web navigation,Gratis,Active
+Kali Linux,Max Moser  Mati Aharoni  Martin J. Muench,Offensive Security,2013,2019.2[33],?,2019-05-21,X,Debian,auditing  forensic  security  network,Gratis,Active
+Knoppix,Klaus Knopper,dev team,2000,8.6[34],?,2019-08-08,X,Debian,live,Gratis,Active
+Kodibuntu,The XBMC Project,Team Kodi,2008,?,?,?,X,Debian  Ubuntu,multimedia,Gratis,Inactive
+Korora,Chris Smart,Dev Team,2005,26[35],?,2017-09-16,X,Fedora,desktop,Gratis,Inactive
+LibreCMC,LibreCMC team,LibreCMC team,2010,1.4.8[36],?,2019-06-30,100% Free: GNU FSDG,Merged from LibreWRT,embedded systems,Gratis,Active
+Linspire,Linspire  Inc.,Linspire  Inc.,2001,7.0 SP1[37],?,2018-04-08,X,Ubuntu,?,Commercial[38],Active
+Linux Mint,Clement Lefebvre,dev team,2006,19.2[39],~3 years (LMDE); 5 years (main editions),2019-08-02,X,Debian(LMDE)  Ubuntu (LTS versions),desktop,Gratis,Active
+Linux Lite,Jerry Bezencon,Linux Lite Team,2012,4.4[40],?,2018-11-01,X,Ubuntu,desktop,Gratis,Active
+Mageia,Mageia Community,mageia.org,2010,7.1[41],1 year,2019-07-01,X,Mandriva Linux,general,Gratis,Active
+Mandriva Linux,Mandrakesoft S.A.,Mandriva S.A.,1998,2011,?,2011-08-28,X,Red Hat Linux,general,Some editions are gratis,Inactive
+Manjaro Linux,Roland Singer,dev team,2012[42],Rolling,Rolling,Rolling,X,Arch Linux,general,Gratis,Active
+MEPIS,Warren Woodford,MEPIS LLC,2003,11.9.90,?,?,X,Debian,desktop  server,Gratis,Inactive
+Musix GNU+Linux,Musix team,Musix team,2008,3.0.1,?,2014-03-13,100% Free: GNU FSDG,Debian,multimedia,Gratis,Active
+Netrunner,Blue Systems,dev team,2009,2018.08[43],as per Debian Testing or Manjaro (rolling),2018-03-11,X,Debian  Manjaro/Arch,desktop,Gratis,Active
+NixOS,Eelco Dolstra and Armijn Hemel,NixOS Foundation,2003,19.03,0.5 years,2019-05-02,X,–,general  server  desktop,Gratis,Active
+Novell Open Enterprise Server,Novell,Novell  Inc. dev team,2003,OES 2018 SP1,?,?,X,SUSE Linux Enterprise Server,server,Commercial[44],Active
+OpenELEC,Stephan Raue  OpenELEC Team,OpenELEC Team,2011,8.0.4,?,2017-06-04,X,Kodi,multimedia,Gratis,Active
+openSUSE,SUSE Linux  Novell,openSUSE Project,2006,Leap 15.1[45],3 years[46],2019-05-22,X,–,general  desktop,Gratis,Active
+OpenWrt,?,OpenWrt team,2007,18.06.4[47],?,2019-07-01,X,–,embedded systems,Gratis,Active
+OpenMandriva Lx,OpenMandriva Association,OpenMandriva Association,2013,4.0,?,2019-05-12,100% Free: GNU FSDG,Mandriva Linux,general,Gratis,Active
+Oracle Linux,Oracle Corporation,Oracle Corporation,2006,7.6[48],?,2018-11-07,X,Red Hat Enterprise Linux (RHEL),server,Gratis,Active
+Parabola GNU/Linux-libre,Parabola Hackers,Parabola Hackers,2009,Rolling[49],Rolling,2017-05-28,100% Free: GNU FSDG followed in Parabola Social Contract,Arch Linux,general,Gratis,Active
+Pardus,Scientific and Technological Research Council of Turkey (TÜB?TAK),TÜB?TAK,2005,17.5[50],?,2018-11-03,X,Gentoo (2011.2) Debian,general,Gratis,Active
+Parsix,Alan Baghumian,Parsix Project,2005,8.15,?,2017-01-25,X,Debian,desktop,Gratis,Inactive
+PCLinuxOS,Bill Reynolds,dev team,2003,2019.06[51],Semi-rolling,2019-06-16,X,Mandriva Linux,desktop,Gratis,Active
+Pop! OS,Carl Ritchell,System76,2017,19.10,?,2019-10-19,X,Ubuntu,desktop  server  laptop,Gratis,Active
+Pentoo,Michael Zanetta  Rick Farina  Jens Pranaitis,Pentoo,2005,2019.1,?,2019-01-17,X,Gentoo Linux,auditing  security,Gratis,Active
+Porteus,Fanthom,Porteus,2010,4.0[52],?,2018-04-29,X,Slackware,lightweight  portable,Gratis,Active
+Puppy Linux,Barry Kauler,Puppy Foundation,2003,8.0[53],?,2019-04-11,X,Independent  inspired from Vector linux,lightweight  portable,Gratis,Active
+Qubes OS,Joanna Rutkowska,Invisible Things Lab,2012,4.0.1[54],?,2019-01-09,X,Xen and Fedora,security by compartmentalization  desktop,Gratis,Active
+Red Hat Enterprise Linux (RHEL),Red Hat,Red Hat,2002,8.0,10 years[55],2019-05-07,X,Red Hat Linux  Fedora,server  workstation,Commercial[56][57],Active
+Red Hat Linux,Red Hat,Red Hat,1995,9,?,2003-03-31,X,–,server  workstation,Gratis,Inactive
+ROSA,?,LLC NTC IT ROSA,2011,R11[58],?,2019-03-15,X,Mandriva,server  general,Gratis,Active
+Rocks Cluster Distribution,UCSD Supercomputing Center  Clustercorp,UCSD Supercomputing Center  Clustercorp,2000,7.0,?,2015-12-01,X,Red Hat Linux,server  workstation,Gratis,Active
+Sabayon Linux,Fabio Erculiani,dev team,2005,19.03[59],?,2019-03-31,X,Gentoo Linux,general,Gratis,Active
+Salix OS,Cyrille Pontvieux  George Vlahavas  Pierrick Le Brun  Thorsten Mühlfelder,Salix team,2009,14.2,?,2016-08-29,X,Slackware,general,Gratis,?
+Scientific Linux,CERN  Fermilab,dev team,2004,7.6[60],?,2018-12-03,X,Red Hat Linux  Red Hat Enterprise Linux (RHEL),server  workstation,Gratis,Active
+Slackware,Patrick Volkerding,dev team,1993,14.2[61],?,2016-06-30,X,Softlanding Linux System (SLS),general,Gratis,Active
+Slax,Tomas Matejicek,Tomas Matejicek,2002,9.9.1[62],?,2019-06-17,X,Debian  Slackware (until Slax 9),live,Gratis,Active
+SliTaz GNU/Linux,Christophe Lincoln,dev team,2008,Rolling,Rolling,2017-12-03,X,Independent,portable,Gratis,Active
+Solus,Ikey Doherty,dev team,2005,Rolling,Rolling,2017-08-15,X,–,desktop,Gratis,Active
+SolydXK,Arjen Balfoort,dev team,2013,201902[63],Debian packages as per Debian,2019-03-03,X,Debian,desktop,Gratis,Active
+SparkyLinux,?,Sparky Linux team,2012,5.7.1[64],?,2019-04-03,X,Debian,general  video games,Gratis,Active
+Source Mage GNU/Linux,Ryan Abrams  Eric Schabell,dev team,2002,0.62-11,?,2017-10-22,Source Mage Social Contract,Sorcerer,general,Gratis,Active
+SteamOS,Valve Corporation,Valve Corporation,2013,2.195[65],?,2019-07-19,X,Debian,video games,Gratis,Active
+SUSE Linux Enterprise,SUSE,Microfocus,2000,15SP1,?,2017-09-07,X,Slackware  Jurix,workstation  server  supercomputer,Commercial[66],Active
+Tails,?,Tails Development Team,2009,3.14.2[67],–[g 2],2019-06-23,X,Debian,security-focused aimed for anonymity and privacy,Gratis,Active
+Tiny Core Linux,Robert Shingledecker,Team Tiny Core,2009,10.1,?,2019-01-20,X,Independent  inspired from Damn Small Linux,portable,Gratis,Active
+Tor-ramdisk,Anthony G. Basile,dev team,2008,20170130,?,2017-01-30,X,Gentoo Linux Embedded  uClibc,Tor server,Gratis,Active
+Trisquel GNU/Linux,Rubén Rodríguez Pérez (quidam),Rubén Rodríguez Pérez (quidam),2005,8.0[g 3],5 years,2018-04-18,100% Free: GNU FSDG,Ubuntu LTS,desktop,Gratis,Active
+TurnKey GNU/Linux,Alon Swartz  Liraz Siri,TurnKey GNU/Linux Team,2008,15.x[68],Debian packages as per Debian; TurnKey packages for life of current major version (plus backports per request),2019-06-28,Debian Social Contract and DFSG,Debian,server based software appliance library aiming to balance security and ease of use,Gratis,Active
+Ubuntu and Derivatives[69],Canonical Ltd.,Canonical Ltd.,2004,19.10[70],Standard releases 1 year  LTS releases 5 years. Flavor LTS releases 3 or 5 years.,2019-10-17,X,Debian,general  server  desktop  supercomputer  IBM mainframe,Gratis,Active
+Univention Corporate Server,Univention GmbH,Univention GmbH,2004,4.4[71],up to 6 months for the free Core Edition; if maintenance is purchased  it's up to 7 years  see:[72],2019-03-12,X,Debian,home  business  and school,Core Edition is gratis,Active
+Ututo,Diego Saravia  Daniel Olivera,UTUTO dev team,2000,XS 2012,?,2012-04-27,100% Free: GNU FSDG,Ututo XS: Gentoo Linux  Ututo UL: Ubuntu,general,Gratis,Active
+VectorLinux,Robert S. Lange,dev team,1999,VL 7.2[73],?,2017-08-28,X,Slackware,desktop,Gratis,?
+Void Linux,Juan Romero Pardines,Juan RP and contributors,2008,Rolling,Rolling,2017-10-07,X,Independent  partially inspired by FreeBSD/NetBSD,general,Gratis,Active
+Webconverger,Kai Hendry,Webconverger Limited,2007,35.0,?,2016-05-19,X,Debian,kiosk software  digital signage,Commercial,Active
+Xandros,Xandros Incorporated,Xandros Incorporated,2001,?,?,2007-07-26,X,Corel Linux,?,Commercial,Inactive
+Zentyal,eBox Technologies,eBox Technologies,2005,6.0[74],?,2018-10-30,X,Debian  Ubuntu,small business server,Some editions are gratis,?
+Zenwalk,Jean-Philippe Guillemin,dev team,2004,Rolling[75],?,2018-03-09,X,Slackware,general,Gratis,Active
+Zorin OS,Zorin Group,Zorin Group,2009,OS 15[76],?,2019-06-05,X,Ubuntu,general  desktop  windows & mac-like experience,Zorin OS Lite & Core are free  while Business and Ultimate are paid for,Active
+Distribution,Founder,Maintainer,Initial release year,Current stable version,Security updates (years),Release date,System distribution commitment,Forked from,Target audience,Cost,Status
+Distribution,Default Linux kernel,Default file system,Default init system,Install-time desktop environment or window manager selection,Reproducible builds
+Alpine Linux,Binary blobs,ext4,openrc,none,No
+ALT Linux,Binary blobs,ext3,systemd,KDE Plasma Workspaces  Xfce,No
+Arch Linux,Binary blobs[80],none[81],systemd,none,No
+BLAG,Linux-libre,ext3,sysvinit,GNOME,No
+Bodhi Linux,Binary blobs,ext4,systemd,Moksha (Enlightenment fork),No
+Canaima,Binary blobs[80],?,systemd,Cinnamon and MATE,No
+CentOS,Binary blobs[80],xfs,systemd,GNOME,No
+Chakra,Binary blobs,ext4,systemd,KDE Plasma Workspaces,No
+ClearOS,Binary blobs,ext3,systemd,none (Web based),No
+CoreOS,Binary blobs,ext4,systemd,None,No
+CrunchBang Linux,Binary blobs,ext4,sysvinit,Openbox,No
+Damn Small Linux,Binary blobs,ext3,sysvinit,JWM,No
+Debian,By default Linux-libre  but the Debian Project also hosts a non-free repository allowing blobs to be installed optionally.[80] Built with Linux-libre tools.[82],ext4,systemd,GNOME  KDE  Xfce  LXDE[83],In progress[84][85]
+Devuan,Binary blobs,ext4,sysvinit,Xfce,No
+Dragora GNU/Linux-Libre,Linux-libre,ext4,runit,Xfce,No
+dyne:bolic,Linux-libre,?,systemd,GNOME,No
+Fedora,Binary blobs,ext4,systemd,GNOME (default Workstation Edition)  Spins for: KDE Plasma Workspaces  Xfce  LXDE  MATE (with Compiz)  Cinnamon  Sugar on a Stick,In progress[86]
+Funtoo,Binary blobs,none,openrc,None,No
+Gentoo,Binary blobs,none,openrc,Awesome  Enlightenment  Fluxbox  GNOME  KDE  LXDE-Meta  Openbox  XBMC and Xfce (live DVD)[87],No
+gNewSense,Debian Linux kernel  and (unlike Debian) blobs cannot be installed[82],ext3,sysvinit,GNOME,No
+gnuLinEx,Binary blobs,ext2,?,GNOME,No
+Guix,Linux-libre,btrfs  ext4,GNU Shepherd,GNOME  Xfce  Mate  Enlightenment  i3  ratpoison  xmonad,In progress[88]
+Hyperbola GNU/Linux-libre,Linux-libre,none,openrc[89],none,No
+Instant WebKiosk,Binary blobs,SquashFS,systemd,Has no DE. It's a browser-only interface,No
+Kali Linux,Binary blobs,ext3,systemd,GNOME,No
+Knoppix,Binary blobs,xfs,microknoppix,LXDE,No
+LibreCMC[90],Binary blobs,ext4,busybox-init,none,No
+Linux Mint[91],Binary blobs[80],ext4,systemd,MATE  Cinnamon  KDE 4  XFCE,No
+Mageia,Binary blobs,ext4,systemd,KDE Plasma Workspaces  GNOME,No
+Mandriva Linux,Binary blobs,ext4,systemd,KDE Plasma Workspaces,No
+Manjaro Linux,Binary blobs,none[92],systemd,Xfce  KDE  GNOME [93],No
+MEPIS,Binary blobs,ext3  ext4,sysvinit,KDE Plasma Workspaces,No
+Musix GNU+Linux[94],Linux-libre,ext4,initscripts,LXDE,No
+OpenELEC,Binary blobs,SquashFS,shell script,XBMC Media Center,No
+openSUSE,Binary blobs,btrfs,systemd,KDE Plasma Workspaces  GNOME  Xfce,In progress[95]
+OpenWrt,Binary blobs,overlayfs+SquashFS/JFFS2[96],procd[97],none,No
+Parabola GNU/Linux-libre,Linux-libre,none,openrc or systemd,none,No
+Pardus,Binary blobs,ext4,systemd,KDE Plasma Workspaces,No
+Parsix,Binary blobs,ext4,systemd,GNOME,No
+PCLinuxOS,Binary blobs,none,sysvinit,KDE Plasma Workspaces  GNOME  LXDE  Xfce  Enlightenment  Openbox,No
+Pentoo,Binary blobs,SquashFS,openrc,Enlightenment,No
+Porteus,Binary blobs,Squashfs  ext2  ext3  ext4  FAT32  reiser  xfs,sysvinit,KDE  LXDE  Xfce  Openbox  Razor-qt,No
+Puppy Linux,Binary blobs,SquashFS containing ext2,busybox-init,JWM,No
+Red Hat Enterprise Linux,Binary blobs,xfs,systemd,GNOME,No
+Rxart Desktop,Binary blobs,ext3,?,KDE Plasma Workspaces,No
+Sabayon Linux,Binary blobs,ext4[98],systemd,KDE Plasma Workspaces  GNOME,No
+Scientific Linux,Binary blobs,ext4,sysvinit  systemd[99],GNOME,No
+Slackware,Binary blobs[80],ext4,sysvinit compatible BSD init scripts,KDE Plasma Workspaces  Xfce  Fluxbox  Blackbox  twm,No
+Slax,Binary blobs,SquashFS,sysvinit,KDE Plasma Workspaces,No
+SliTaz GNU/Linux,Binary blobs,ext3,busybox-init,Openbox,No
+Solus,Binary blobs,ext4,systemd,Budgie  Gnome  MATE,No
+Source Mage GNU/Linux,Binary blobs,ext2,simpleinit-msb,none,No
+SteamOS,Binary blobs,?,systemd,Steam,No
+SUSE Linux Enterprise Desktop,Binary blobs[80],ext3,systemd,GNOME,No
+Tails,Vanilla Linux[80],?,systemd,GNOME,No
+Tor-ramdisk,Binary blobs,ext2,?,none,No
+Trisquel,Linux-libre,ext4  xfs,systemd,GNOME  LXDE,No
+TurnKey GNU/Linux,Binary blobs,ext4,systemd,none - headless server by design; provides Webmin for administration,No
+Ubuntu/Edubuntu,Binary blobs[80],ext4[100],systemd,Unity,No
+Ubuntu GNOME,Binary blobs,ext4,systemd,GNOME 3,No
+Ubuntu MATE,Binary blobs,ext4,systemd,MATE,No
+Kubuntu,Binary blobs,ext4[100],systemd,KDE Plasma Workspaces,No
+Xubuntu,Binary blobs,ext4[100],systemd,Xfce,No
+Lubuntu,Binary blobs,ext4,systemd,LXDE,No
+Ututo,Ututo XS (stable) is de-blobed with Linux-libre tools.[101] Ututo UL (development) uses Linux-libre. Ututo UL means "Ubuntu-Libre",ext3,systemd,GNOME,No
+VectorLinux,Binary blobs,ReiserFS,sysvinit,KDE  Openbox  Fluxbox  IceWM  Xfce,No
+Void Linux,Binary blobs,none,runit,none,No
+Webconverger,Binary blobs,gitfs,sysvinit,dwm enforcing a Browser-only interface,No
+XBMC Live,Binary blobs,ext3,systemd,XBMC Media Center,No
+Zentyal,Binary blobs,ext4,systemd,LXDE,No
+Zenwalk,Binary blobs,ext4,sysvinit,Xfce,No
+Distribution,Default Linux kernel,Default file system,Default init system,Install-time desktop environment or window manager selection,Reproducible builds
+Distribution,x86,x86-64,ia64,ppc[102],ppc64,sparc32,sparc64,arm,hppa[103],loongson,mips[104],sh,s390,s390x,alpha[105],m68k[106],riscv
+Alpine Linux,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No
+Arch Linux,Unofficial[107] Official discontinued 2017-11-08[108],Yes,No,Discontinued unofficial port,No,No,No,Unofficial[109],No,Discontinued. Unofficial port[110],No,No,No,No,No,No,[added]
+BackTrack,Discontinued from BackTrack 5 and superseded by Kali Linux[111],Discontinued from BackTrack 5 and superseded by Kali Linux,No,No,No,No,No,Discontinued from BackTrack 5 and superseded by Kali Linux,No,No,No,No,No,No,No,No,[added]
 BLAG,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,[added]
-Bodhi Linux,Yes,Yes,No,No,No,No,No,Discontinued 2013-10-23[72],No,No,No,No,No,No,No,No,[added]
+Bodhi Linux,Yes,Yes,No,No,No,No,No,Discontinued 2013-10-23[112],No,No,No,No,No,No,No,No,[added]
 BOSS Linux,Yes,Yes,No,Yes,Yes,No,No,?,No,No,No,No,No,No,No,No,[added]
-CentOS,AltArch,Yes,Discontinued 3.5-3.8 4.1-4.7[73],Beta  Discontinued 4.0,AltArch,Beta 4.2[73][74],No,AltArch,No,No,No,No,Discontinued 3.5-3.8 4.1-4.7[73][75],Discontinued 3.5-3.8 4.1-4.7[73][75],Discontinued 4.2-4.3[73][76][77],No,[added]
+CentOS,AltArch,Yes,Discontinued 3.5-3.8 4.1-4.7[113],Beta  Discontinued 4.0,AltArch,Beta 4.2[113][114],No,AltArch,No,No,No,No,Discontinued 3.5-3.8 4.1-4.7[113][115],Discontinued 3.5-3.8 4.1-4.7[113][115],Discontinued 4.2-4.3[113][116][117],No,[added]
 Chakra,No,Yes,No,No,No,No,No,?,No,No,No,No,No,No,No,No,[added]
 CRUX,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,[added]
-Debian[78],Yes,Yes 4.0+,Discontinued 3.0-7.0[79],Discontinued 2.2-8,Yes,Discontinued 2.1-4.0[80],Discontinued -7[81],Yes 2.2+,Discontinued 3.0-5.0,Yes,Yes 3.0+,In progress,Discontinued 3.0-7,Yes 7+,Discontinued 2.1-5.0,Discontinued 2.0-3.1,In progress[82]
+Debian[118],Yes,Yes 4.0+,Discontinued 3.0-7.0[119],Discontinued 2.2-8,Yes,Discontinued 2.1-4.0[120],Discontinued -7[121],Yes 2.2+,Discontinued 3.0-5.0,Yes,Yes 3.0+,In progress,Discontinued 3.0-7,Yes 7+,Discontinued 2.1-5.0,Discontinued 2.0-3.1,In progress[122]
 Devuan,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,[added]
 Dragora GNU/Linux-Libre,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,[added]
 dyne:bolic,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,[added]
-Fedora[83],Yes,Yes,Discontinued from Fedora 9 [84],Discontinued from Fedora 17,Yes,No,Inactive from Fedora 12[85],Yes[86],No,In progress,Inactive from Fedora 13 [87],No,No,Yes,No,No,In progress[88]
+Fedora[123],Yes,Yes,Discontinued from Fedora 9 [124],Discontinued from Fedora 17,Yes,No,Inactive from Fedora 12[125],Yes[126],No,In progress,Inactive from Fedora 13 [127],No,No,Yes,No,No,In progress[128]
 Finnix,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,[added]
-Gentoo[89],Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes[90],Yes,Yes[91],Yes[92][93],Yes,Yes,Yes,Yes,Yes,[added]
+Gentoo[129],Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes[130],Yes,Yes[131],Yes[132][133],Yes,Yes,Yes,Yes,Yes,Test release[134]
 gNewSense,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,[added]
-GuixSD[94],Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,[added]
-Hyperbola GNU/Linux-libre,Yes,Yes,No,No,In progress[95],No,No,No,No,No,No,No,No,No,No,No,In progress[96]
+Guix[135],Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,[added]
+Hyperbola GNU/Linux-libre,Yes,Yes,No,No,In progress[136],No,No,No,No,No,No,No,No,No,No,No,In progress[137]
 Kali Linux,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,[added]
 LibreCMC,No,No,No,No,No,No,No,No,No,No,Yes XBurst,No,No,No,No,No,[added]
-Manjaro Linux,Yes Unofficial[97],Yes,No,No,No,No,No,Yes Unofficial[98],No,No,No,No,No,No,No,No,[added]
+Manjaro Linux,Yes Unofficial[138],Yes,No,No,No,No,No,Yes Unofficial[139],No,No,No,No,No,No,No,No,[added]
 MEPIS,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,[added]
 Musix GNU+Linux,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,[added]
 OpenELEC,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,[added]
-openSUSE[99],Discontinued 42.1,Yes,No,No[100],No[100],No,partial[101],partial[102],No,No,No,No,No,No,No,No,[added]
-OpenWrt[103],Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,[added]
-Oracle Linux[104],Yes,Yes,Discontinued 5[105],No,No,No,No,No,No,No,No,No,No,No,No,No,[added]
-Parabola GNU/Linux-libre,Yes,Yes,No,No,Test release[106],No,No,Yes  ARMv7[107][108],No,Discontinued[109],Discontinued[109],No,No,No,No,No,Test release[110]
-Red Flag Linux,Discontinued 8.0[111],Discontinued 8.0[111],Discontinued 3[112],No,Discontinued 3[112],No,No,No,No,No,No,No,No,No,No,No,[added]
-Red Hat Linux[113],Discontinued 9.0,No,Discontinued 7.1-7.2,Test release 5.1[114],No,Discontinued 4.0-4.2 5.1-6.2,Test release 5.1[114],No,No,No,Test release 5.1[114],No,Discontinued 7.2,Yes,Discontinued 2.1-7.1,Test release 5.1[114],[added]
-Red Hat Enterprise Linux[115],Discontinued 2.1-6[116],Yes 3+,Discontinued 2.1-5[117],Yes 3+,Yes 3+,No,No,No,No,No,No,No,Discontinued 3-4[118],Yes 3+,No,No,[added]
+openSUSE[140],Discontinued 42.1,Yes,No,No[141],No[141],No,partial[142],partial[143],No,No,No,No,No,No,No,No,[added]
+OpenWrt[144],Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,[added]
+Oracle Linux[145],Yes,Yes,Discontinued 5[146],No,No,No,No,No,No,No,No,No,No,No,No,No,[added]
+Parabola GNU/Linux-libre,Yes,Yes,No,No,Test release[147],No,No,Yes  ARMv7[148][149],No,Discontinued[150],Discontinued[150],No,No,No,No,No,Test release[151]
+Red Flag Linux,Discontinued 8.0[152],Discontinued 8.0[152],Discontinued 3[153],No,Discontinued 3[153],No,No,No,No,No,No,No,No,No,No,No,[added]
+Red Hat Linux[154],Discontinued 9.0,No,Discontinued 7.1-7.2,Test release 5.1[155],No,Discontinued 4.0-4.2 5.1-6.2,Test release 5.1[155],No,No,No,Test release 5.1[155],No,Discontinued 7.2,Yes,Discontinued 2.1-7.1,Test release 5.1[155],[added]
+Red Hat Enterprise Linux[156],Discontinued 2.1-6[157],Yes 3+,Discontinued 2.1-5[158],Yes 3+,Yes 3+,No,No,No,No,No,No,No,Discontinued 3-4[159],Yes 3+,No,No,[added]
 Sabayon Linux,Discontinued,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,[added]
 Scientific Linux,Yes,Yes,Discontinued 3-4,No,No,No,No,No,No,No,No,No,No,No,No,No,[added]
 SHR,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,[added]
-Slackware,Yes,Yes,No,No,No,Discontinued ?[119],No,Yes,No,No,No,No,Discontinued ?[120],Discontinued ?[120],Discontinued 8.1[121],No,[added]
+Slackware,Yes,Yes,No,No,No,Discontinued ?[160],No,Yes,No,No,No,No,Discontinued ?[161],Discontinued ?[161],Discontinued 8.1[162],No,[added]
 Solus,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
 Source Mage GNU/Linux,Yes,Yes,No,Yes,No,No,No,No,No,?,No,No,No,No,No,No,[added]
-SUSE Linux Enterprise Server[122],Yes,Yes,Yes,Yes,Yes,No,No,AArch64 only[123],No,No,No,No,No,Yes,No,No,[added]
-Tor-ramdisk,Yes,Yes[124],No,No,No,No,No,No,No,No,Yes[125],No,No,No,No,No,[added]
+SUSE Linux Enterprise Server[163],Yes,Yes,Yes,Yes,Yes,No,No,AArch64 only[164],No,No,No,No,No,Yes,No,No,[added]
+Tor-ramdisk,Yes,Yes[165],No,No,No,No,No,No,No,No,Yes[166],No,No,No,No,No,[added]
 Trisquel GNU/Linux,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,[added]
 TurnKey GNU/Linux,Selected ISOs available,Yes,No,No,No,No,No,No - but under development by community,No,No,No,No,No,No,No,No,[added]
-Ubuntu/Kubuntu/Xubuntu/Lubuntu,Yes,Yes,No,Yes,Yes,No,No,Yes  including 64-bit ARMv8-A,No,No,No,No,No,No,No,No,[added]
+Ubuntu/Kubuntu/Xubuntu/Lubuntu,Yes,Yes,No,Yes,Yes,No,No,Yes  including 64-bit ARMv8-A,No,No,No,No,No,Ubuntu only  16.04+[167],No,No,[added]
 Ututo,Yes,Yes,No,No,No,No,No,No,No,In progress,No,No,No,No,No,No,[added]
 Void Linux,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,[added]
 XBMCbuntu,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,[added]

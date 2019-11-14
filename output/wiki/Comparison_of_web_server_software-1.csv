@@ -1,37 +1,35 @@
 Server,Developed by,Software license,Last stable version,Latest release date
 AOLserver,NaviSoft,[empty],4.5.2,2012-09-19
-Apache HTTP Server,Apache Software Foundation,[empty],2.4.37,2018-10-23
-Apache Tomcat,Apache Software Foundation,[empty],9.0.10,2018-06-25
+Apache HTTP Server,Apache Software Foundation,[empty],2.4.41,2019-08-14
+Apache Tomcat,Apache Software Foundation,[empty],9.0.21,2019-06-07
 Boa,Jon Nelson and Larry Doolittle,[empty],0.94.13,2002-07-30 (discontinued)
-Caddy,Matt Holt,[empty],0.10.7,2017-08-26
+Caddy,Matt Holt,[empty],1.0.0,2019-04-24
 Caudium,The Caudium Group,[empty],1.4.18,2012-02-24
-[[Cherokee (Webserver)|Cherokee HTTP Server]],Álvaro López Ortega,[empty],1.2.103,2013-04-21
-GlassFish,"Oracle Corporation (initial code from Sun Microsystems)",[empty],4.1.2,2017-03-31
-Hiawatha,Hugo Leisink,[empty],10.8.1,2018-04-10
+[[Cherokee (Webserver)|Cherokee HTTP Server]],�?lvaro López Ortega,[empty],1.2.103,2013-04-21
+GlassFish,"Oracle Corporation (initial code from Sun Microsystems)",[empty],5.1,2019-01-28
+Hiawatha,Hugo Leisink,[empty],10.9,2019-02-18
 HFS,Rejetto,[empty],2.3i,2016-06-14
 IBM HTTP Server,IBM,proprietary,9.0.0,2016-03-11
-Internet Information Services,Microsoft,proprietary,10,2015-07-29
-Jetty,Eclipse Foundation,[empty],9.4.7,2017-09-14
+Internet Information Services,Microsoft,proprietary,10.0.17763.1,2018-10-02
+Jetty,Eclipse Foundation,[empty],9.4.18,2019-04-29
 Jexus,Bing Liu,proprietary,5.5.2,2014-04-27
-lighttpd,Jan Kneschke (Incremental),[empty],1.4.52,2018-11-28
-LiteSpeed Web Server,LiteSpeed Technologies,proprietary,5.2.7,2018-04-23
-Mongoose,Cesanta Software,[empty],6.10,2017-10-31
+lighttpd,Jan Kneschke (Incremental),[empty],1.4.54,2019-05-27
+LiteSpeed Web Server,LiteSpeed Technologies,proprietary,5.3.7,2019-03-15
+Mongoose,Cesanta Software,[empty],6.14,2019-03-04
 Monkey HTTP Server,Monkey Software,[empty],1.6.9,2016-05-04
-NaviServer,Various,[empty],4.99.16,2017-12-30
+NaviServer,Various,[empty],4.99.18,2019-02-24
 NCSA HTTPd,Robert McCool,proprietary,1.5.2a,1996-10-08
-Nginx,NGINX  Inc.,[empty],1.14.1,2018-11-14
-[[Virtuoso Universal Server|OpenLink Virtuoso]],OpenLink Software,[empty],7.2.4,2016-04-24
-OpenLiteSpeed,LiteSpeed Technologies,[empty],1.4.31,2018-04-11
+Nginx,NGINX  Inc.,[empty],1.16.0,2019-04-23
+[[Virtuoso Universal Server|OpenLink Virtuoso]],OpenLink Software,[empty],7.2.5.1,2018-10-22
 Oracle HTTP Server,Oracle Corporation,proprietary,12.1.2,2014-09-23
 Oracle iPlanet Web Server,Oracle Corporation,[empty],7.0.23,2016-02-12
 Oracle WebLogic Server,Oracle Corporation<br />(formerly BEA Systems),proprietary,12cR3 (12.1.3),2014-06-26
-Resin Open Source,Caucho Technology,[empty],4.0.49,2016-10-19
+Resin Open Source,Caucho Technology,[empty],4.0.57,2018-07-19
 Resin Professional,Caucho Technology,proprietary,4.0.49,2016-10-19
 thttpd,Jef Poskanzer for ACME Laboratories,[empty],2.27,2014-10-03
 TUX web server,Ingo Molnár,[empty],3.2.6.18,2006-09-20
-Wakanda Server,Wakanda,[empty],1.1.2,2016-11-25
+Wakanda Server,Wakanda,[empty],2.1.0,2017-07-27
 WEBrick,Ruby Community,[empty],1.9.3 p286 (Ruby),2012-10-12
-Windows Webserver,mwiede Software,proprietary,1.4,2017-12-12
 Xitami,iMatix Corporation,[empty],5.0a0,2009-02-19
 Yaws,Claes Wikström,[empty],2.0.4,2016-09-22
 Zeus Web Server,Zeus Technology,proprietary,4.3r5,2010-01-13

@@ -8,5 +8,5 @@ C++,Java
 <source lang="cpp"> c = new Foo; // c is set to the value of the address of the Foo object created by operator new</source>,<source lang="java"> c = new Foo(); // binds c to reference a new Foo object</source>
 <source lang="cpp"> Foo &d = *c; // binds d to reference the same object to which c points</source>,<source lang="java"> Foo d = c; // binds d to reference the same object as c</source>
 <source lang="cpp"> c->x = 5; // modifies the object pointed to by c</source>,<source lang="java"> c.x = 5; // modifies the object referenced by c</source>
-<source lang="cpp"> a.bar(5); // invokes Foo::bar() for a c->bar(5); // invokes Foo::bar() for *c </source>,<source lang="java"> a.bar(5); // invokes Foo.bar() for a c.bar(5); // invokes Foo.bar() for c </source>
+<source lang="cpp"> d.bar(5); // invokes Foo::bar() for a c->bar(5); // invokes Foo::bar() for *c </source>,<source lang="java"> d.bar(5); // invokes Foo.bar() for a c.bar(5); // invokes Foo.bar() for c </source>
 <source lang="cpp"> std::cout << d.x << std::endl; // outputs 5  because d references the // same object to which c points</source>,<source lang="java"> System.out.println(d.x); // outputs 5  because d references the // same object as c</source>

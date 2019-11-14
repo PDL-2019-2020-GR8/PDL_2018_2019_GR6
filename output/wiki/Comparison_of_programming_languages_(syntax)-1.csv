@@ -2,7 +2,7 @@ Language,Statement separator-terminator,Secondary separator<ref name="ss1">For m
 ABAP,period separated,[added]
 Ada,semicolon terminated,[added]
 ALGOL,semicolon separated,[added]
-ALGOL 68,semicolon and comma separated<ref>Three different kinds of clauses  each separates phrases and the units differently: serial-clause using go-on-token (viz. semicolon): begin a; b; c end – units are executed in order. collateral-clause using and-also-token (viz. “ ”): begin a  b  c end – order of execution is to be optimised by the compiler. parallel-clause using and-also-token (viz. “ ”): par begin a  b  c end – units must be run in parallel threads. </ref>,[added]
+ALGOL 68,semicolon and comma separated<ref>Three different kinds of clauses  each separates phrases and the units differently: serial-clause using go-on-token (viz. semicolon): begin a; b; c end – units are executed in order. collateral-clause using and-also-token (viz. “ �?): begin a  b  c end – order of execution is to be optimised by the compiler. parallel-clause using and-also-token (viz. “ �?): par begin a  b  c end – units must be run in parallel threads. </ref>,[added]
 APL,newline terminated,⋄ separated
 AppleScript,newline terminated,[added]
 AutoHotkey,newline terminated,[added]
@@ -35,12 +35,12 @@ Objective-C,semicolon terminated,[added]
 OCaml,semicolon separated,[added]
 Pascal,semicolon separated,[added]
 Perl,semicolon separated,[added]
-Perl 6,semicolon separated,[added]
 PHP,semicolon terminated,[added]
 Pick Basic,newline terminated,semicolon separated
 PowerShell,newline terminated,semicolon separated
-Prolog,period terminated,[added]
+Prolog,comma separated (conjunction)  semicolon separated (disjunction)  period terminated (clause),[added]
 Python,newline terminated,semicolon
+Raku,semicolon separated,[added]
 Ruby,newline terminated,semicolon
 Rust,semicolon terminates statements,comma separates expressions
 Scala,newline terminated (semicolon optional),semicolon

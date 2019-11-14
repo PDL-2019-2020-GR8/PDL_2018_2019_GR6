@@ -1,3 +1,12 @@
+Value,Meaning
+Yes,Fully supported
+No,Has never been supported
+Partial,Only some values are supported
+Incorrect,Not implemented correctly in all cases
+Experimental,May be incomplete or buggy
+Nightly build,Currently in development; full support is expected
+Depends,Only supported for the specified conditions
+Dropped,No longer supported
 [empty],Trident,Tasman,Gecko,WebKit,KHTML,Presto
 DOM1,6.0,Yes,1.0,85,Yes,1.0
 DOM2,Mostly,Partial,Mostly,Partial,Mostly,Mostly

@@ -1,6 +1,8 @@
 Name,License,Deployment,Platforms
-10SCAPE<ref></ref>,Proprietary<ref></ref>,SaaS,All
-Docusnap<ref></ref>,Proprietary,Desktop,Windows
-Graphical Networks<ref></ref>,Proprietary,Desktop,Windows
-Netbrain Tech<ref></ref>,Proprietary,Desktop,Windows
+netTransformer,GPL,Desktop,Windows/Linux/macOS
+OpenNMS,AGPLv3,Desktop,Linux  macOS  others
+SolarWinds,Proprietary,Desktop,Windows
+PathSolutions,Proprietary,Desktop,Windows
+Spiceworks,Proprietary,Desktop,Windows
+Auvik,Proprietary,Desktop,Linux  Windows
 [added],[added],[added],[added]

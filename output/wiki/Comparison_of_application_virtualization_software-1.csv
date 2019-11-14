@@ -11,3 +11,4 @@ Parrot,register,automatic,[empty],[empty],<ref></ref>,[empty],[empty],[empty],[e
 Dalvik,register,automatic,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Squeak,stack,automatic,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 BEAM (Erlang),register,automatic,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MoarVM,register,automatic,[empty],[empty],[empty],[empty],[empty],[empty],[empty]

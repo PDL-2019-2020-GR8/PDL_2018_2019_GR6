@@ -1,14 +1,17 @@
 Name,License,Deployment,Platforms
-10-Strike<ref name="10-Strike Network Diagram"></ref>,Proprietary,Desktop,Windows
-CloudView NMS<ref></ref>,Shareware,Desktop,Windows  Linux  macOS
-Manage Engine<ref></ref>,Proprietary,Desktop,Windows
-MaSSHandra<ref></ref>,Proprietary<ref></ref>,Desktop,Windows  Linux  macOS
-netTransformer<ref></ref>,GPL,Desktop,Windows/Linux/macOS
-OpenNMS<ref></ref>,AGPLv3<ref></ref>,Desktop,Linux  macOS  others
-SolarWinds<ref></ref>,Proprietary,Desktop,Windows
-PathSolutions<ref></ref>,Proprietary,Desktop,Windows
-Spiceworks<ref></ref>,Proprietary<ref></ref>,Desktop,Windows
-The Dude<ref></ref>,Proprietary<ref></ref>,Desktop,Windows  Linux
-WhatsUp Gold<ref></ref>,Proprietary,Desktop,Windows
-SmartHawk<ref></ref>,Proprietary,Desktop,Windows  Linux
+netTransformer,GPL,Desktop,Windows/Linux/macOS
+OpenNMS,AGPLv3,Desktop,Linux  macOS  others
+SolarWinds,Proprietary,Desktop,Windows
+PathSolutions,Proprietary,Desktop,Windows
+Spiceworks,Proprietary,Desktop,Windows
+Auvik,Proprietary,Desktop,Linux  Windows
+[added],[added],[added],[added]
+Name,License,Deployment,Platforms
+[added],[added],[added],[added]
+Cacoo (Software),Proprietary,SaaS,Windows  macOS
+ConceptDraw PRO,Proprietary,Desktop,Windows  macOS
+Microsoft Visio,Proprietary,Desktop,Windows
+SmartDraw,Proprietary,Desktop,Windows
+Lucidchart,Proprietary,SaaS,Linux  macOS  Windows
+Gliffy,Proprietary,SaaS,Linux  macOS  Windows
 [added],[added],[added],[added]

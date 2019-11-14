@@ -44,7 +44,7 @@ Corel Paint Shop Pro Pattern,[empty],[empty],[empty],.pat,[empty],Supported by C
 CPC,Cartesian Perceptual Compression,Cartesian Products  Inc.,[empty],.cpc  .cpi,image/cpi,Highly compressed raster imaging format.,Yes
 CPKT,APP5-CPKT Format,[empty],JPEG,.jpg  .jpe  .jpeg,image/jpeg,Used by PROSERPINE.,[empty]
 CPT,Corel Photo-Paint Image,[empty],[empty],.cpt,[empty],Variant of TIFF up to and including version 6.0; proprietary as of 7.0 (1997),[empty]
-Crack Art,[empty],Detlef Röttger & Jan Borchers,[empty],.ca1  .ca2  .ca3,[empty],An application on Atari ST,[empty]
+Crack Art,[empty],Detlef R�ttger & Jan Borchers,[empty],.ca1  .ca2  .ca3,[empty],An application on Atari ST,[empty]
 CUT,[empty],[empty],[empty],.cut,[empty],Used by DSHELL.,[empty]
 CMYK,[empty],[empty],[empty],.cmyk,[empty],[empty],[empty]
 CMYKA,[empty],[empty],[empty],.cmyka,[empty],[empty],[empty]
@@ -63,6 +63,7 @@ Dr. Halo,[empty],[empty],[empty],.cut,[empty],[empty],[empty]
 Encapsulated PostScript,page description/scripting language (see PostScript),Adobe,[empty],.epi  .eps  .eps2  .eps3  .epsf  .epsi  .ept,application/postscript,printing/publishing industry standard format,[empty]
 ECW,Enhanced Compressed Wavelet,ERDAS,[empty],.ecw,[empty],Wavelet image format used primarily with geo-referenced aerial and satellite imagery,No
 EDG,EDGE2 Original Format,TAKABO,[empty],.edg,[empty],Used by EDGE2,[empty]
+EGI,Exclusive Graphics Format,[empty],[empty],.egi,[empty],[empty],[empty]
 EMF,Enhanced Metafile Format,Microsoft,[empty],.emf  .emz,[empty],Microsoft Office,[empty]
 EMF+,Enhanced Metafile Format Plus Extensions,Microsoft,[empty],.emf  .emz,[empty],[empty],[empty]
 ERF,EPSON RAW,EPSON,TIFF,.erf,[empty],[empty],[empty]
@@ -148,7 +149,7 @@ MSL,Magick Scripting Language,ImageMagick Studio,[empty],.msl,[empty],Supported 
 MVG,Magick Vector Graphics,ImageMagick Studio,[empty],.mvg,[empty],Supported by ImageMagick,[empty]
 MPC,Magick Persistent Cache image file format,ImageMagick Studio,[empty],.mpc,[empty],Supported by ImageMagick,[empty]
 MRW,Minolta RAW,Minolta,[empty],.mrw,[empty],[empty],[empty]
-NSK-TIFF,NSK-TIFF,Nihon Shinbun Kyokai (日本新聞協会),TIFF,[empty],[empty],[empty],[empty]
+NSK-TIFF,NSK-TIFF,Nihon Shinbun Kyokai (??????),TIFF,[empty],[empty],[empty],[empty]
 OAZ,OAZ Fax,Oaz Communications,[empty],.oaz,[empty],Used by NetFax Manager,[empty]
 ODG,OpenDocument drawing,[empty],[empty],.odg,[empty],[empty],[empty]
 ORA,OpenRaster,freedesktop.org,OpenDocument/XML,.ora,[empty],DrawPile  GIMP  Krita  MyPaint  Nathive  Pinta,No
@@ -181,7 +182,7 @@ PIC2,[empty],Yanagisawa,[empty],.p2,[empty],Supported by some old Japanese appli
 PLD,PhotoLine Document,Computerinsel GmbH,[empty],.pld,application/pld,Native format of the PhotoLine image editing program.,?
 PMP,[empty],Sony,JPEG,.pmp,[empty],Used by Sony Cyber-Shot,[empty]
 PNG,Portable Network Graphics,World Wide Web Consortium,[empty],.png,image/png,W3C endorsed replacement for GIF. Supported by most web browsers.,No
-PostScript,page description/scripting language  levels 1–3,Adobe,[empty],.ps  .ps2  .ps3,[empty],printing/publishing industry standard format,[empty]
+PostScript,page description/scripting language  levels 1�3,Adobe,[empty],.ps  .ps2  .ps3,[empty],printing/publishing industry standard format,[empty]
 PPM,Portable Pixmap File Format,[empty],[empty],.ppm,image/x-portable-pixmap,Very easy to understand. Programs to analyze and write to this format are easily written.,No
 PSD,Photoshop Document,Adobe Systems,[empty],.psd  .psb  .pdb  .pdd,image/vnd.adobe.photoshop[8],Used mainly for storing image manipulation & editing data.,Yes
 PSP,Paint Shop Pro Document,Corel Corporation,[empty],.psp  .tub  .pspimage,image/x-psp,Supported by Paint Shop Pro  GIMP,?
@@ -200,8 +201,8 @@ RHIF,Rhapsoft Image Format,Romain Piveteau,SQLite,.rhif,[empty],LiveQuarz file f
 R3D,RED REDCODE RAW,Red,[empty],.r3d,[empty],[empty],[empty]
 SAI,[empty],SYSTEMAX,[empty],.sai,[empty],Supported by PaintTool SAI,[empty]
 SCT,Scitex Continuous Tone Picture,[empty],[empty],.sct,[empty],[empty],[empty]
-SDA,[empty],Sun Microsystems,[empty],.sda,[empty],Supported by StarOffice Draw 3–5,[empty]
-SDD,[empty],Sun Microsystems,[empty],.sdd,[empty],Supported by StarOffice Draw 3–5,[empty]
+SDA,[empty],Sun Microsystems,[empty],.sda,[empty],Supported by StarOffice Draw 3�5,[empty]
+SDD,[empty],Sun Microsystems,[empty],.sdd,[empty],Supported by StarOffice Draw 3�5,[empty]
 SFW,Seattle File Works image,Seattle File Works,JPEG (JFIF),.sfw  .pwp,[empty],JPEG-converters sfwjpg and pwpjpg for Unix/Linux and Windows,[empty]
 SGB,[empty],Sun Microsystems,[empty],.sgb,[empty],Supported by StarOffice Graphics 2,[empty]
 SGI,Silicon Graphics Image,[empty],[empty],.sgi  .rgb  .rgba  .bw  .int  .inta  .icon,[empty],[empty],[empty]

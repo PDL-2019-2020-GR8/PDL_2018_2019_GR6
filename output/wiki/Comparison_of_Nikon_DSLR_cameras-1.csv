@@ -15,14 +15,14 @@ D1H,Professional,-,APS-C,CCD,Sony,2.7,5,1005,96%,0.8x,200,200,1600,1600,2.0" 130
 D850,Professional,EXPEED 5,Full-frame,CMOS,Sony,45.7,153,180000,100%,0.78x,32,64,25600,102400,3.2" 2539k,Tilting,SD  XQD,Yes,Yes,7(9),200.000,1005,146 x 124 x 78.5,4K30 1080p60 1080p120,2017 3Q,WiFi + Bluetooth built in,GP-1(A)
 D810,Professional,EXPEED 4,Full-frame,CMOS,Sony,36.3,51,91000,100%,0.7x,32,64,12800,51200,3.2" 1229k,[empty],CF  SDHC  SDXC (×2),Yes,Yes,5,200.000,880,146 x 123 x 81.5,1080p60,2014 2Q,-,GP-1(A)
 D800,Professional,EXPEED 3,Full-frame,CMOS,Sony,36.3,51,91000,100%,0.7x,50,100,6400,25600,3.2" 921k,[empty],CF  SDHC  SDXC,Yes,Yes,4,200.000,900,145 × 122 × 81,1080p30,2012 1Q,-,GP-1(A)
-D700,High-end,EXPEED,Full-frame,CMOS,Nikon,12.1,51,1005,95%,0.7x,100,200,6400,25600,3.0" 921k,[empty],CF,Yes,No,5,150.000,995,147 × 123 × 77,[empty],2008 3Q,-,GP-1(A)
+D700,High-end,EXPEED,Full-frame,CMOS,Nikon,12.1,51,1005,95%,0.7x,100,200,6400,25600,3.0" 921k,[empty],CF,Yes,No,5(8),150.000,995,147 × 123 × 77,[empty],2008 3Q,-,GP-1(A)
 D750,High-end,EXPEED 4,Full-frame,CMOS,Sony,24.3,51,91000,100%,0.7x,50,100,12800,51200,3.2" 1229k,[empty],SD SDHC SDXC (×2),Yes,Yes,6.5,150.000,750,150.5 × 113 × 78,1080p60,2014 3Q,WiFi built in,GP-1(A)
 Df,High-end,EXPEED 3,Full-frame,CMOS,Nikon,16.2,39,2016,100%,0.7x,50,100,12800,204800,3.2" 921k,[empty],SD/SDHC/SDXC,Yes,No,5.5,150.000,710,144 × 110 × 67,[empty],2013 4Q,-,GP-1(A)
 D610,Advanced,EXPEED 3,Full-frame,CMOS,Sony,24.3,39,2016,100%,0.7x,50,100,6400,25600,3.2" 921k,[empty],SD/SDHC/SDXC (×2),Yes,Yes,6,150.000,760,141 × 113 × 82,1080p30 720p60,2013 3Q,-,GP-1(A)
 D600,Advanced,EXPEED 3,Full-frame,CMOS,Sony,24.3,39,2016,100%,0.7x,50,100,6400,25600,3.2" 921k,[empty],SD/SDHC/SDXC (×2),Yes,Yes,5.5,150.000,760,141 × 113 × 82,[empty],2012 3Q,-,GP-1(A)
-D500,Advanced,EXPEED 5,APS-C,CMOS,Sony,20.9,153,180000,100%,1x,50,100,51200,1640000,3.2″ 2359k,Tilting,SD/SDHC/SDXC  XQD,Yes,Yes,10,200.000,760,147 × 115 × 81,4K30 1080p60,2016 1Q,WiFi + Bluetooth built in,GP-1(A) + SnapBridge
-D300S,Advanced,EXPEED,APS-C,CMOS,Sony,12.3,51,1005,100%,0.94x,100,200,3200,6400,3.0" 921k,[empty],CF  SD  SDHC,Yes,Yes,7,150.000,840,147 × 114 × 74,[empty],2009 3Q,-,GP-1(A)
-D300,Advanced,EXPEED,APS-C,CMOS,Sony,12.3,51,1005,100%,0.94x,100,200,3200,6400,3.0" 921k,[empty],CF  MicroDrive,Yes,No,6,150.000,825,147 × 114 × 74,[empty],2007 3Q,-,GP-1(A)
+D500,Professional,EXPEED 5,APS-C,CMOS,Sony,20.9,153,180000,100%,1x,50,100,51200,1640000,3.2″ 2359k,Tilting,SD/SDHC/SDXC  XQD,Yes,Yes,10,200.000,760,147 × 115 × 81,4K30 1080p60,2016 1Q,WiFi + Bluetooth built in,GP-1(A) + SnapBridge
+D300S,Advanced,EXPEED,APS-C,CMOS,Sony,12.3,51,1005,100%,0.94x,100,200,3200,6400,3.0" 921k,[empty],CF  SD  SDHC,Yes,Yes,7(8),150.000,840,147 × 114 × 74,[empty],2009 3Q,-,GP-1(A)
+D300,Advanced,EXPEED,APS-C,CMOS,Sony,12.3,51,1005,100%,0.94x,100,200,3200,6400,3.0" 921k,[empty],CF  MicroDrive,Yes,No,6(8),150.000,825,147 × 114 × 74,[empty],2007 3Q,-,GP-1(A)
 D200,Advanced,-,APS-C,CCD,Sony,10.2,11,1005,95%,0.94x,100,100,1600,1600,2.5" 230k,[empty],CF  MicroDrive,No,No,5,[empty],830,147 × 113 × 74,[empty],2005 4Q,-,GP-1(A)
 D100,Advanced,-,APS-C,CCD,Sony,6.1,5,1005,95%,0.8x,200,200,1600,1600,1.8" 118k,[empty],CF  MicroDrive,No,No,3,[empty],700,115 × 117 × 81,[empty],2002 1Q,-,-
 D7500,Mid-range,EXPEED 5,APS-C,CMOS,Sony,20.9,51,180000,100%,0.94x,50,100,51200,1640000,3.2″ 922k,Tilting,SD/SDHC/SDXC,Yes,Yes,8,150.000,640,135.5 × 104 × 72.5,4K30 1080p60,2017 2Q,WiFi + Bluetooth built in,GP-1(A) + SnapBridge
@@ -42,9 +42,9 @@ D5000,Upper-entry,EXPEED,APS-C,CMOS,Sony,12.3,11,420,95%,0.78x,100,200,3200,6400
 D60,Upper-entry,EXPEED,APS-C,CCD,Sony,10.2,3,420,95%,0.8x,100,100,1600,3200,2.5" 230k,[empty],SD  SDHC,No,No,3,[empty],495,126 × 94 × 64,[empty],2008 1Q,-,-
 D40X,Upper-entry,-,APS-C,CCD,Sony,10.2,3,420,95%,0.8x,100,100,1600,1600,2.5" 230k,[empty],SD  SDHC,No,No,3,[empty],495,126 × 94 × 64,[empty],2007 2Q,-,-
 D50,Upper-entry,-,APS-C,CCD,Sony,6.1,5,420,95%,0.75x,200,200,1600,1600,2.0" 130k,[empty],SD,No,No,2.5,[empty],540,133 × 102 × 76,[empty],2005 2Q,-,-
-D3500,Entry-level,EXPEED 4,APS-C,CMOS,[empty],24.2,11,420,95%,0.85x,100,100,25600,25600,3.0" 921k,[empty],SD  SDHC  SDXC,Yes,Yes,5,[empty],365,124 x 97 x 69.5,1080p60,2018 2Q,WiFi + Bluetooth built in,SnapBridge
+D3500,Entry-level,EXPEED 4,APS-C,CMOS,[empty],24.2,11,420,95%,0.85x,100,100,25600,25600,3.0" 921k,[empty],SD  SDHC  SDXC,Yes,Yes,5,[empty],365,124 x 97 x 69.5,1080p60,2018 2Q,Bluetooth built in,SnapBridge
 D3400,Entry-level,EXPEED 4,APS-C,CMOS,[empty],24.2,11,420,95%,0.85x,100,100,25600,25600,3.0" 921k,[empty],SD  SDHC  SDXC,Yes,Yes,5,[empty],395,124 x 98 x 76,[empty],2016 3Q,Bluetooth built in,SnapBridge
-D3300,Entry-level,EXPEED 4,APS-C,CMOS,Nikon,24.2,11,420,95%,0.85x,100,100,12800,25600,3.0" 921k,[empty],SD  SDHC  SDXC,Yes,Yes,5,[empty],430,124 x 98 x 76,[empty],2014 1Q,-,GP-1(A)
+D3300,Entry-level,EXPEED 4,APS-C,CMOS,Nikon,24.2,11,420,95%,0.85x,100,100,12800,25600,3.0" 921k,[empty],SD  SDHC  SDXC,Yes,Yes,5,[empty],430,124 x 98 x 76,1080p60,2014 1Q,-,GP-1(A)
 D3200,Entry-level,EXPEED 3,APS-C,CMOS,Nikon,24.2,11,420,95%,0.8x,100,100,6400,12800,3.0" 921k,[empty],SD  SDHC  SDXC,Yes,Yes,4,100.000+,455,125 x 96 x 77,1080p30,2012 2Q,Yes (with WU-1a Wireless Adapter),GP-1(A)
 D3100,Entry-level,EXPEED 2,APS-C,CMOS,Nikon,14.2,11,420,95%,0.8x,100,100,3200,12800,3.0" 230k,[empty],SD  SDHC  SDXC,Yes,Yes,3,100.000+,455,125 × 97 × 74,[empty],2010 3Q,-,GP-1(A) + CA90
 D3000,Entry-level,EXPEED,APS-C,CCD,Sony,10.2,11,420,95%,0.8x,100,100,1600,3200,3.0" 230k,[empty],SD  SDHC,No,No,3,100.000+,485,126 × 94 × 64,[empty],2009 3Q,-,-

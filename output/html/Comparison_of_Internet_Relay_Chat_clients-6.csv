@@ -1,3 +1,196 @@
+Client,Primary developers,Distribution model,Software license,User interface,Programming language
+AdiIRC[1],Per Amundsen,Freeware,Proprietary,GUI,.NET Framework/C#
+Adium,Thijs Alkemade,Free software,GPL,GUI,Objective-C and C
+Ambassador[2],Isengrim,Free software,MPL,GUI[Note 1],JavaScript  XUL
+Bersirc[3],Jamie Frater  Nicholas Copeland,Free software,LGPL,GUI,C (Delphi originally)
+BitchX,Colten Edwards,Free software,BSD,TUI  GUI,C
+ChatZilla,Mozilla Foundation,Free software,MPL  GPL  LGPL tri-license,GUI[Note 2],JavaScript  XUL
+Colloquy,Timothy Hatcher  Kiji Roshi,Desktop: free software  mobile: commercial,BSD: mobile  GPL: desktop,GUI,Objective-C
+ERC,Alexander L. Belikoff  Sergey Berezin,Free software,GPL,TUI  GUI,Emacs Lisp
+F-IRC,Folkert van Heusden,Free software,GPL,TUI,C++
+GrumpyChat[4],Petr Bena,Free software,LGPL,GUI,C++
+HexChat[5],Berke Viktor,Free software,GPL,TUI  GUI,C
+IceChat[6][7],Paul Vanderzee,Free software,GPL,GUI,C# (Visual Basic until 2004)[8]
+Igloo,Jordan Koch,Free mobile application,Proprietary,GUI,Swift
+Instantbird,Florian Quèze,Free software,GPL,GUI,C/C++  JavaScript  CSS  XUL
+IRCCloud[9],IRCCloud Ltd.,Freemium,Proprietary,Web,JavaScript frontend  Erlang backend
+ircII,Michael Sandrof,Free software,BSD,TUI,C
+Ircle,Onno Tijdgat,Commercial 30-day trial,Proprietary,GUI,C
+Irssi,Timo Sirainen,Free software,GPL,TUI,C
+KiwiIRC,Darren Whitlen,Free software,AGPL,Web,JavaScript frontend  Node.js backend
+KVIrc,Szymon Stefanek,Free software,GPL,GUI,C++
+Konversation,KDE,Free software,GPL,GUI,C++
+LeafChat[10],Samuel Marshall,Free software,GPL,GUI,Java
+LimeChat[11][12][13],Satoshi Nakagawa,Free software,GPL[14],GUI,RubyCocoa (2007–2010)[13][14] Objective-C(2010–)[15]
+Linkinus,Conceited Software,Commercial  15-day trial,Proprietary,GUI,Objective-C
+Mibbit,Jimmy Moore,Textual Adbar,Proprietary,Web,JavaScript frontend  Java backend
+mIRC,Khaled Mardam-Bey,Shareware 30-day trial[16],Proprietary,GUI,C/C++ (Borland C++ originally)[17]
+Monochrome,Peter Pawlowski,Freeware,GPLv2,GUI,C#
+Nettalk,Nicolas Kruse,Freeware,Apache 2.0,GUI,Visual Basic
+Opera (until version 12.xx) [Note 3],[empty],Freeware,Proprietary,GUI[Note 4],C++
+Pidgin,[empty],Free software,GPL,GUI,C
+PIRCH,[empty],Shareware,Proprietary,GUI,Delphi
+PJIRC,Philippe Detournay,Free software,GPL,GUI,Java
+Quassel,Manuel Nickschas  Marcus Eggenberger  Alexander von Renteln,Free software,GPL,TUI[Note 5]  GUI[Note 6],C++
+qwebirc,Chris Porter,Free software,GPL,Web,JavaScript front end  Python backend
+rcirc,Ryan Yeske,Free software,GPL,TUI,Emacs Lisp
+Smuxi,Mirco Bauer,Free software,GPL,GUI  TUI  server[Note 6],C#
+Snak,Kent Sorensen,Commercial,Proprietary,GUI,?
+Thunderbird,Mozilla Foundation,Free software,MPL 2.0,GUI,C  C++  JavaScript
+Visual IRC,Jesse McGrew,Free software,GPL,GUI,Delphi
+WeeChat,Sebastien Helleu,Free software,GPL,TUI  GUI[Note 7],C
+XChat (evolved into HexChat)[Note 8],Peter Železný,Unix/Linux: free software; Windows: commercial  30-day trial[18] (HexChat is free of charge),GPL; or proprietary for Windows,TUI  GUI,C
+Client,Primary developers,Distribution model,Software license,User interface,Programming language
+Client,Windows 7  Vista,XP  2000,NT 4.0,NT 3.x,Me  98,95,3.1x,ReactOS,macOS (Intel/PPC),OS 9,OS 8,System 7 (PPC/68k),BeOS  Haiku,OS/2  eCS,AmigaOS (68k),AmigaOS 4  MorphOS (PPC),DOS
+Bersirc,Yes,Yes,?,No,?,?,No,?,?,No,No,No,No,No,No,No,No
+BitchX,Yes[Note 1],Yes[Note 1],Yes[Note 1],No,Yes[Note 1],Yes[Note 1],No,?,Yes,No,No,No,?,Yes,Yes,Yes,No
+ChatZilla,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,No
+Colloquy,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+degesch,No,No,No,No,No,No,No,No,?,No,No,No,No,No,No,No,No
+ERC,Yes,Yes,?,No,?,?,No,?,Yes,No,No,No,No,No,?,?,?
+HexChat,Yes,Dropped (2.9.5),No,No,No,No,No,No,No,No,No,No,?,No,No,No,No
+HydraIRC,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+IceChat,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+IRCCloud,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+ircII,Yes[Note 1],Yes[Note 1],Yes[Note 1],No,Yes[Note 1],Yes[Note 1],No,?,Yes,No,No,No,No,No,No,?,No
+IRCjr,No,Yes[Note 2],Yes[Note 2],No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+Ircle,No,No,No,No,No,No,No,No,Yes[Note 3],Yes,Yes,Yes,No,No,No,No,No
+Irssi,Yes,Yes,Yes,No,Yes,Yes,No,?,Yes,No,No,No,Yes,Yes,?,Yes,No
+jIRCii,Yes,Yes,Yes,?,Yes,Yes,No,?,Yes,Yes,Yes,?,Yes,Yes,?,Yes,No
+KiwiIRC,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Konversation,Partial,Partial,Partial,No,Partial,Partial,No,?,Partial,No,No,No,No,No,No,No,No
+KVIrc,Yes,Yes,Yes,No,Yes,No,No,Yes[44],Yes,Yes,No,No,No,Yes[45],No,No,No
+LeafChat,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+LimeChat,No,No,No,No,No,No,No,No,Yes[Note 4],No,No,No,No,No,No,No,No
+Linkinus,No,No,No,No,No,No,No,No,Yes[Note 3],No,No,No,No,No,No,No,No
+Mibbit,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+mIRC,Yes,Yes,Yes,Partial,Yes,Yes,Partial,?,No,No,No,No,No,No,No,No,No
+Nettalk,Yes,Yes,?,No,Partial[Note 5],No,No,?,No,No,No,No,No,No,No,No,No
+Opera,Yes,Yes,Dropped (10.10),No,Dropped,Dropped,Dropped,No[47],Dropped[48],Dropped,Dropped,No,Dropped,Dropped,No,No,No
+PIRCH,Yes,Yes,Yes,?,Yes,Yes,Yes,?,No,No,No,No,No,No,No,No,No
+PJIRC,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No
+Quassel,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No
+qwebirc,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+rIRC,Yes,Yes,Yes,?,?,?,?,?,No,No,No,No,No,No,No,No,No
+rcirc,Yes,Yes,?,?,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+Scrollback,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Smuxi,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+Snak,No,No,No,No,No,No,No,No,Yes,Yes,Yes,?,No,No,No,No,No
+Visual IRC,Yes,Yes,Yes,No,Yes,Yes,No,?,No,No,No,No,No,No,No,No,No
+WeeChat,Partial[Note 1],Partial[Note 1],Partial[Note 1],No,Partial[Note 1],Partial[Note 1],No,?,Yes,No,No,No,Partial,No,No,No,No
+XChat,Yes,Yes,Yes,?,Yes,Yes,No,?,Yes,No,No,No,?,?,No,No,No
+Client,Windows 7  Vista,XP  2000,NT 4.0,NT 3.x,Me  98,95,3.1x,ReactOS,OS X (Intel/PPC),OS 9,OS 8,System 7 (PPC/68k),BeOS  Haiku,OS/2  eCS,AmigaOS (68k),AmigaOS 4  MorphOS (PPC),DOS
+Client,386BSD,BSD/OS (BSD/386  BSDI),FreeBSD  NetBSD  OpenBSD,SunOS,ULTRIX,AIX,A/UX,HP-UX,IRIX,SCO OpenServer,Solaris,UnixWare,Linux,NeXTSTEP,OpenVMS,OSF/1,QNX,Tru64 UNIX
+Bersirc,?,?,?,?,?,?,?,?,?,?,?,?,Yes,?,No,?,?,?
+BitchX,?,Yes[Note 1],Yes[Note 1],Yes[Note 1],Yes[Note 1],Yes[Note 1],?,Yes[Note 1],Yes[Note 1],?,Yes[Note 1],Yes,Yes[Note 1],Yes,?,Yes[Note 1],Yes[Note 1],?
+ChatZilla,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+Colloquy,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+degesch,?,?,Yes,?,?,?,?,?,?,?,?,?,Yes,?,?,?,?,?
+DMDIrc,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+ERC,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+HexChat,?,?,Yes,Yes,?,Yes,?,Yes,Yes,?,Yes,?,Yes,?,?,?,?,Yes
+HydraIRC,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+IceChat,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+IRCCloud,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+ircII,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,?,Yes,Yes,Yes
+IRCjr,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Ircle,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Irssi,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+KiwiIRC,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Konversation,?,?,Yes,?,?,?,?,?,?,?,Yes,?,Yes,?,?,?,?,Yes
+KVIrc,?,?,Yes,?,?,?,?,?,?,?,Yes,?,Yes,?,?,?,?,?
+LeafChat,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No
+LimeChat,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Linkinus,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Mibbit,?,?,Yes,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,?,?,Yes
+mIRC,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Nettalk,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Opera,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Dropped,No
+PIRCH,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+PJIRC,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Quassel,?,?,Yes,?,?,?,?,?,?,?,Yes,?,Yes,?,?,?,?,?
+qwebirc,?,?,Yes,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,?,?,Yes
+rcirc,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Smuxi,?,?,Yes,?,?,?,?,?,?,?,Yes,?,Yes,?,?,?,?,?
+Snak,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Visual IRC,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+WeeChat,?,?,Yes[Note 2],?,?,?,?,Yes,Partial[Note 3],?,Yes[Note 2],?,Yes,?,?,?,Yes[Note 2],?
+XChat,?,?,Yes,Yes,?,Yes,?,Yes[Note 4],Yes,?,Yes,?,Yes,?,?,?,?,Yes
+Client,386BSD,BSD/OS (BSD/386  BSDI),FreeBSD  NetBSD  OpenBSD,SunOS,ULTRIX,AIX,A/UX,HP-UX,IRIX,SCO OpenServer,Solaris,UnixWare,Linux,NeXTSTEP,OpenVMS,OSF/1,QNX,Tru64 UNIX
+Client,CTCP,DCC,IPv6,SSL,TLS,DANE,OCSP,CRL,SASL,OTR
+Bersirc,?,Partial,No,No,?,?,?,?,?,No
+BitchX,Yes,Yes,Yes,Yes,Yes,?,?,?,?,No
+ChatZilla,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,script,No
+Colloquy,Yes,Yes,Yes,Yes,?,?,?,?,Yes,No[51]
+degesch,Yes,Yes,Yes,No,Yes,?,?,?,?,No
+DMDirc,Yes,Yes,Yes,Yes,?,?,?,?,?,No
+ERC,Yes,Yes,Yes,Yes,Yes,?,?,?,Yes[Note 1],No
+HexChat,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes[Note 2]
+HydraIRC,Yes,Yes,?,No,No,?,No,No,?,No
+IceChat,Yes,Yes,Yes,Yes,?,?,?,?,Yes,No
+IRCCloud,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No
+ircII,Yes,Yes,Yes,Yes,?,?,?,?,?,No
+IRCjr,Yes,No,No,No,No,?,No,No,No,No
+Ircle,Yes,Yes,?,Yes,?,?,?,?,?,No
+Irssi,Yes,Yes,Yes,Yes,Yes,Yes,No,?,Yes,Yes[52][53][Note 2]
+jIRCii,Yes,Yes,Yes,Yes,?,?,?,?,?,No
+KiwiIRC,Yes,No,Yes,Yes,Yes,?,No,No,Yes,No
+Konversation,Yes,Yes,Yes,Yes,Yes,?,?,?,Yes,No
+KVIrc,Yes,Yes,Yes,Yes,Yes,?,No,No,Yes,No
+LimeChat,?,Yes,Yes,Yes,?,?,?,?,Yes,No
+Linkinus,Yes,Yes,No,Yes,?,?,?,?,No,No
+Mibbit,?,Partial[Note 3][Note 4],No,Yes,?,?,?,?,Yes,No
+mIRC,Yes,Yes,Yes,Yes,Yes,?,?,?,Yes,No
+Nettalk,Yes,Yes,No,No,?,?,?,?,?,No
+Opera,Yes[54],Yes,Yes,Yes,Yes,?,?,?,?,No
+PIRCH,Yes,Yes,No,No,?,?,?,?,?,No
+PJIRC,?,Yes,No,No,?,?,?,?,?,No
+Quassel,Yes,No,Yes,Yes,Yes,?,No,No,Yes,No[55]
+qwebirc,Yes,No,No,Yes,No,?,No,No,No,No
+rcirc,Partial,No,No,Yes,Yes,?,?,?,?,No
+Scrollback,Partial,No,Yes,Yes,?,?,?,?,No,No
+Smuxi,Yes,No,Yes,Yes,?,?,?,?,No,No[56]
+Snak,Yes,Yes,Yes,Yes,?,?,?,?,?,No
+Visual IRC,Yes,Yes,No,No,?,?,?,?,?,No
+WeeChat,Yes,Yes,Yes,Yes,Yes,?,?,?,Yes,Yes[52][57][Note 2]
+XChat,Yes,Yes,Partial[Note 4],Yes,?,No,?,?,script,Yes[52][53][Note 2]
+Client,CTCP,DCC,IPv6,SSL,TLS,DANE,OCSP,CRL,SASL,OTR
+Client,CHAT,Whiteboard,SEND,RESUME,TSEND,SEND T,XMIT,Passive DCC,Server,RDCC,REVERSE,RSEND,Reverse / Firewall DCC,File servers (FSERVs),XDCC,VOICE
+Bersirc,?,?,?,?,?,?,?,No,No,?,?,?,?,?,?,?
+BitchX,Yes,No,Yes,Yes,Yes,Yes,?,No,No,?,?,?,?,?,Yes,?
+ChatZilla,Yes,No,Yes,No[62],?,?,No,No[Note 1],No,No,No,No,No,No,?,?
+Colloquy,Yes,?,Yes,Yes,?,?,?,Yes,No,?,?,?,?,?,Yes,?
+degesch,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+DMDirc,Yes,No,Yes,Yes,?,?,No,Yes,No,No,No,No,Yes,No,No,?
+ERC,Yes,?,Yes,?,?,?,?,?,?,?,?,?,?,?,?,?
+HexChat,Yes,No,Yes,Yes,?,?,?,Yes,?,?,?,?,?,?,Yes,?
+HydraIRC,Yes,No,Yes,Yes,?,?,No,?,?,?,?,?,?,No,No,?
+IceChat,Yes,No,Yes,?,?,?,No,?,?,?,?,?,?,No,No,?
+IRCCloud,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+ircII,?,?,?,?,?,?,?,No,No,?,?,?,?,?,?,?
+IRCjr,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,?
+Ircle,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+Irssi,Yes,No,Yes,Yes,?,?,?,Yes,Yes,?,?,?,?,?,?,?
+KiwiIRC,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,?
+Konversation,Yes,Yes,Yes,Yes,?,?,?,Yes,No,?,?,?,Yes,?,Yes,?
+KVIrc,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes[Note 2],Yes[Note 2],Yes[Note 3]
+LimeChat,?,?,?,?,?,?,?,Yes,Yes,?,?,?,?,?,?,?
+Linkinus,?,?,?,?,?,?,?,Yes,No,?,?,?,?,?,?,?
+Mibbit,No,?,?,?,?,?,?,No,No,?,?,?,?,?,?,?
+mIRC,Yes,?,Yes,Yes[Note 4],?,?,?,Yes,Yes,Yes[Note 5],?,?,Yes,Yes,Yes[Note 5],?
+Nettalk,Yes,No,Yes,Yes,No,No,No,No,Partial,No,No,No,No,?,?,?
+Opera,No,?,?,?,?,?,?,Yes,No,?,?,?,?,?,?,?
+PIRCH,Yes,No,Yes,Yes[Note 4],?,?,No,No,No,No,No,No,No,No,No,?
+PJIRC,Yes,No,Yes,Yes,?,?,?,?,?,?,?,?,?,?,?,?
+Quassel,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,?
+qwebirc,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,?
+rcirc,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,?
+Smuxi,?,?,?,?,?,?,?,No,No,?,?,?,?,?,?,?
+Snak,Yes,?,Yes,Yes,?,Yes,?,No,No,?,?,?,?,?,?,?
+Visual IRC,?,Yes,?,Yes[Note 4],?,?,?,Yes,No,?,?,?,Yes,?,?,Yes[Note 3]
+WeeChat,Yes,?,Yes,?,?,?,?,No,No,?,?,?,?,?,Yes,?
+XChat,Yes,?,Yes,Yes,No,No,?,Yes,Yes,?,?,?,Yes,?,Yes[Note 6],?
+Client,CHAT,Whiteboard,SEND,RESUME,TSEND,SEND T,XMIT,Passive DCC,Server,RDCC,REVERSE,RSEND,Reverse / Firewall DCC,File servers (FSERVs),XDCC,VOICE
 Client,Multi-server,UTF-8,Proxy server,irc:// URI scheme,Automatic updates,Scripting language
 Bersirc,Yes,No,?,?,?,N/A
 BitchX,Yes,No,?,?,?,Enhanced IrcII script
@@ -6,15 +199,16 @@ Colloquy,Yes,Yes,?,Yes,Yes[Note 1],AppleScript  Cocoa  F-Script  JavaScript  Pyt
 degesch,Yes,Yes,Yes,N/A,N/A,Lua
 DMDirc,Yes,Partial,?,Yes,Yes,Custom Actions system  Java plugins
 ERC,Yes,Yes,Yes[Note 2],?,Yes[Note 3],Emacs Lisp
-HexChat,Yes,Yes,Yes,Yes,Yes,Perl  Python  Tcl  Lua[Note 4]  Javascript  C  C++  and via D-Bus.
+HexChat,Yes,Yes,Yes,Yes,Yes,Perl  Python  Tcl  Lua[Note 4]  JavaScript  C  C++  and via D-Bus.
 HydraIRC,Yes,Yes,?,?,Yes,No
 IceChat,Yes,Yes,No,?,Yes,VBScript
 ircII,Yes,Yes[Note 5],?,?,?,IrcII script
 IRCjr,No,No,No,No,No,N/A
+IRCCloud,Yes,Yes,Yes,Yes,N/A,JavaScript
 Ircle,Yes,No,?,?,?,AppleScript
 Irssi,Yes,Yes,Yes,No,No,Perl
 jIRCii,Yes,Yes,Yes,?,No,Sleep
-KiwiIRC,Yes,Yes,Yes,Yes,N/A,Javascript  Node.js
+KiwiIRC,Yes,Yes,Yes,Yes,N/A,JavaScript  Node.js
 Konversation,Yes,Yes,Yes,Yes,?,Shell script  Ruby  Python  Perl  Java  C++  C#  JavaScript[Note 6]
 KVIrc,Yes,Yes,Yes,Yes,No,KVS (custom)  Perl  Python  C++
 LeafChat,Yes,Yes,?,N/A,Yes,Java

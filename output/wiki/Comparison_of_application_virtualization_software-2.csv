@@ -1,3 +1,17 @@
+Virtual machine,Machine model,Memory management,Code security,Interpreter,JIT,AOT,Shared libraries,Common Language Object Model,Dynamic typing
+Android Runtime (ART),register,automatic,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Common Language Runtime (CLR),stack,automatic or manual,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Dis (Inferno),register,automatic,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DotGNU Portable.NET,stack,automatic or manual,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Java virtual machine (JVM),stack,automatic,[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>
+JikesRVM,stack,automatic,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LLVM,register,manual,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mono,stack,automatic or manual,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Parrot,register,automatic,[empty],[empty],<ref></ref>,[empty],[empty],[empty],[empty]
+Dalvik,register,automatic,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Squeak,stack,automatic,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BEAM (Erlang),register,automatic,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MoarVM,register,automatic,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Virtual machine,Languages,Comments,Interpreter,JIT,Implementation language,SLoC
 Common Language Runtime (CLR),C#  C++/CLI  F#  VB.NET,bytecode is CIL; .NET Core Runtime on GitHub,[empty],[empty],C#  C++,[empty]
 Adobe Flash Player (aka Tamarin),ActionScript  SWF (file format),interactive web authoring tool. bytecode is named "ActionScript Byte Code (.abc)",[empty],[empty],C++,135k (initially released)
@@ -9,7 +23,7 @@ Glulx,Inform 6  Inform 7  others,[empty],[empty],[empty],Various implementations
 HHVM,PHP  Hack,Is an open-source virtual machine designed for executing programs written in Hack and PHP.,[empty],[empty],C++  OCaml,[empty]
 Icon,Icon,Base source code provides both the interpreter as well as an unsupported compile-to-C version. The runtime code  that is shared between the compiler and the interpreter  is written in a variant of C called RTT.,[empty],[empty],C  RTT (a custom front-end to C  provided with the base source for Icon).,~180k total. (source to bytecode: ~11k  bytecode interpreter: ~46k  iconc: ~23k  common/headers: ~13k  rtt: ~15k)
 JVM,Java  Kotlin  Jython  Groovy  JRuby  C  C++  Clojure  Scala and several others,Reference implementation by Sun ; OpenJDK: code under GPL ; IcedTea: code and tools under GPL,[empty],[empty],JDK  OpenJDK & IcedTea with regular JIT : Java  C  ASM ; IcedTea with the "Zero" JIT : Java  C,JVM is around 6500k lines; TCK is 80k tests and around 1000k lines
-LLVM,C  C++  Kotlin  Objective-C  Ada  Fortran  and Rust,MSIL  C and C++ output are supported. ActionScript Byte Code output is supported by Adobe Alchemy. bytecode is named "LLVM Bytecode (.bc)". assembly is named "LLVM Assembly Language (*.ll)".,[empty],[empty],C++,811k <ref name="ohloh-llvm">The LLVM Compiler Infrastructure  ohloh.net  2011 Nov 30</ref>
+LLVM,C  C++  Kotlin  Objective-C  Swift  Ada  Fortran  and Rust,MSIL  C and C++ output are supported. ActionScript Byte Code output is supported by Adobe Alchemy. bytecode is named "LLVM Bytecode (.bc)". assembly is named "LLVM Assembly Language (*.ll)".,[empty],[empty],C++,811k <ref name="ohloh-llvm">The LLVM Compiler Infrastructure  ohloh.net  2011 Nov 30</ref>
 Lua,Lua,[empty],[empty],LuaJIT,C,13k + 7k LuaJIT
 MMIX,MMIXAL,[empty],[empty],[empty],[empty],[empty]
 Mono,CLI languages including: C#  VB.NET  IronPython  IronRuby  and others,Common Language Runtime clone,[empty],[empty],C#  C,2332k
@@ -17,7 +31,7 @@ Oz,Oz  Alice,[empty],[empty],[empty],[empty],[empty]
 NekoVM,currently Neko and Haxe,[empty],[empty],x86 only,C,46k
 O-code machine,BCPL,[empty],[empty],[empty],[empty],[empty]
 p-code machine,Pascal,UCSD Pascal  widespread in late 70s including Apple II,[empty],[empty],[empty],[empty]
-Parrot,Perl (6 & 5)  NQP-rx  PIR  PASM  PBC  BASIC  bc  C99  ECMAScript  Lisp  Lua  m4  Tcl  WMLScript  XML  and others,[empty],[empty],[empty],C  Perl,111k C  240k Perl
+Parrot,Perl 5  Raku  NQP-rx  PIR  PASM  PBC  BASIC  bc  C99  ECMAScript  Lisp  Lua  m4  Tcl  WMLScript  XML  and others,[empty],[empty],[empty],C  Perl,111k C  240k Perl
 Perl virtual machine,Perl,op-code tree walker,[empty],[empty],C  Perl,175k C  9k Perl
 CPython,Python,[empty],[empty],Psyco,C,387k C  368k Python  10k ASM  31k Psyco
 PyPy,Python,Self-hosting implementation of Python  next generation of Psyco,[empty],[empty],Python,[empty]

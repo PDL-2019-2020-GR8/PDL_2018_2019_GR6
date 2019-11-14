@@ -10,9 +10,9 @@ Language type,Markup language (XML),Markup language (XML)
 XML schema representation,XML Schema (W3C) (XSD) and RELAX NG (ISO/IEC 19757-2),RELAX NG (ISO/IEC 19757-2)
 Expression of extensibility rules,NVDL (ISO/IEC 19757-4),[empty]
 Compression format,ZIP,ZIP
-Container structure,Open Packaging Convention (ISO/IEC 29500-2:2012)<ref name="iso29500-2">http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=61796</ref>,ODF Package<ref>http://blogs.sun.com/dancer/entry/dispelling_myths_around_odf</ref>
-Metadata format,Dublin Core (ISO 15836),subset of Dublin Core and “urn:oasis:names:tc:opendocument:xmlns:meta” elements
-Drawing language,DrawingML  VML,“urn:oasis:names:tc:opendocument:xmlns:drawing” elements and “urn:oasis:names:tc:opendocument:xmlns:svg-compatible” elements
+Container structure,Open Packaging Convention (ISO/IEC 29500-2:2012)<ref name="iso29500-2">http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=61796</ref>,ODF Package<ref></ref>
+Metadata format,Dublin Core (ISO 15836),subset of Dublin Core and “urn:oasis:names:tc:opendocument:xmlns:meta�? elements
+Drawing language,DrawingML  VML,“urn:oasis:names:tc:opendocument:xmlns:drawing�? elements and “urn:oasis:names:tc:opendocument:xmlns:svg-compatible�? elements
 Mathematical notation language,Office MathML (OMML),MathML<ref>http://wiki.services.openoffice.org/wiki/ODFValidator</ref><ref>http://www.robweir.com/blog/2006/08/demo-mathematica-mathml-and-odf.html</ref>
 Change-tracking,<ref name="changetracking">http://blogs.msdn.com/dmahugh/archive/2009/05/13/tracked-changes.aspx</ref>,<ref>http://documentation.openoffice.org/HOW_TO/word_processing/Word-to-OOo.html</ref>
 Conditional formatting in spreadsheets,<ref name="cf">http://blogs.msdn.com/dmahugh/archive/2007/10/02/conditional-formatting.aspx</ref>,<ref>http://openoffice.blogs.com/openoffice/2007/01/conditional_for.html?cid=123250788</ref>

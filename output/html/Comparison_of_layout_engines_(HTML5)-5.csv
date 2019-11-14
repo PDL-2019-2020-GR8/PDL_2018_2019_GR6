@@ -1,3 +1,26 @@
+HTML
+Dynamic HTML HTML5 audio canvas video XHTML Basic Mobile Profile C-HTML HTML element span and div HTML attribute HTML frame HTML editor Character encodings Unicode Language code Document Object Model Browser Object Model Style sheets CSS Font family Web colors HTML scripting JavaScript WebGL WebCL W3C Validator WHATWG Quirks mode Web storage Rendering engine
+Comparisons
+Document markup languages HTML support XHTML 1.1
+Engine,Status,Embedded in
+WebKit,Active,Safari browser  plus all browsers hosted on the iOS App Store
+Blink,Active,Google Chrome and all other Chromium-based browsers like Opera and Microsoft Edge
+Gecko,Active,Firefox browser and Thunderbird email client  plus forks like SeaMonkey and Waterfox
+KHTML,Discontinued,Konqueror browser
+Presto,Discontinued,formerly in the Opera browser
+EdgeHTML,Discontinued,formerly in the Microsoft Edge browser
+Trident,Discontinued,Internet Explorer browser and Microsoft Outlook email client
+Value,Meaning
+Yes,Fully supported
+No,Has never been supported
+Partial,Only some values are supported
+Incorrect,Not implemented correctly in all cases
+Experimental,May be incomplete or buggy
+Nightly build,Currently in development; full support is expected
+Depends,Only supported for the specified conditions
+Dropped,No longer supported
+[empty],Trident,Gecko,WebKit,KHTML,Presto
+bdo,<3.1[IE 5.0],1.0,Yes,Partial[note 7],1.0
 [empty],Trident,edgeHTML,Gecko,WebKit,Presto
 Ogg Theora,Manual install[note 12],[empty],1.9.1[g 101],Depends[note 13],2.5
 H.264,5.0[t 46],[empty],33.0[49][g 102],Depends (525)[note 13][w 78],Depends[note 14]

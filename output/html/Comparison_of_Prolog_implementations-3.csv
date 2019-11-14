@@ -1,7 +1,26 @@
+Name,Type checker,Determinacy checker,Call-pattern checker
+Ciao,Yes,Yes,Yes
+GNU Prolog,[empty],[empty],[empty]
+Jekejeke Prolog,[empty],[empty],[empty]
+SICStus Prolog,[empty],Yes,[empty]
+SWI-Prolog,[empty],Yes,[empty]
+Visual Prolog,Yes,Yes,Yes
+XSB,[empty],[empty],[empty]
+YAP-Prolog,[empty],[empty],[empty]
+Name,Tail-Call Optimization,Choice Point Elimination,Environment Trimming,Just-in-Time Indexing
+Ciao,Yes,Yes,Yes,?
+ECLiPSe,Yes,Yes,Yes,multi-argument (compile time)
+GNU Prolog,Yes,Yes,Yes,?
+Jekejeke Prolog,Yes (runtime),Yes (runtime),Yes (runtime),Yes
+SICStus Prolog,Yes,Yes,Yes,[empty]
+SWI-Prolog,Yes,Yes,Yes,Yes
+Visual Prolog,Yes (compile time),Yes (compile time),N/A,N/A (compile time)
+XSB,Yes,Yes,Yes,?
+YAP-Prolog,Yes,Yes,Yes,Yes
 Name,Version,Date
 BProlog,8.1,2014-02-23
 JIProlog,4.1.6.1,2018-03-17
-Ciao,1.14.2,2011-08-15
+Ciao,1.18.0,2018-12-19
 DOS-PROLOG,6.0,[empty]
 ECLiPSe,7.0,2018-01-22
 GNU Prolog,1.4.5,2018-07-14
@@ -12,10 +31,10 @@ jTrolog,[empty],[empty]
 LPA-PROLOG,6.0,[empty]
 Open Prolog,[empty],[empty]
 Poplog Prolog,V15.65,2015-10-14
-SICStus Prolog,4.3.5,2016-12-08
+SICStus Prolog,4.5.1,2019-04-03
 Strawberry Prolog,3.0 Beta 4,2013-12-10
-SWI-Prolog,8.0.0,2019-01-14
+SWI-Prolog,8.0.3,2019-06-19
 tuProlog,3.2.1,2017-02-14
-Visual Prolog,8.0  Build 801,2017-11-15
+Visual Prolog,9.0  Build 902,2019-04-26
 XSB Prolog,3.8,2017-10-29
 YAProlog,6.3.3,2013-01-21

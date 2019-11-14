@@ -8,6 +8,7 @@ DEELX
 FREJ
 GLib/GRegex
 GRETA
+Gregex
 Helios RXPF
 Hyperscan
 ICU
@@ -16,6 +17,7 @@ java.util.regex
 JRegex
 MATLAB
 Oniguruma
+Onigmo (Oniguruma-mod)
 Pattwo
 PCRE
 Qt/QRegExp

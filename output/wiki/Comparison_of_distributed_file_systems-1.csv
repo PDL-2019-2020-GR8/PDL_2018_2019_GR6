@@ -1,20 +1,15 @@
-Client,Written in,License,Access API
-Ceph,C++,[empty],librados (C  C++  Python  Ruby)  S3  Swift  FUSE
-BeeGFS,C / C++,FRAUNHOFER FS (FhGFS) EULA <ref></ref> GPLv2 client,POSIX
-GlusterFS,C,[empty],libglusterfs  FUSE  NFS  SMB  Swift  libgfapi
-Infinit<ref></ref>,C++,(to be open sourced)<ref></ref>,FUSE  Installable File System  NFS/SMB  POSIX  CLI  SDK (libinfinit)
-Isilon OneFS,C/C++,[empty],POSIX  NFS  SMB/CIFS  HDFS  HTTP  FTP  SWIFT Object  CLI  Rest API
-ObjectiveFS<ref></ref>,C,[empty],POSIX  FUSE
-MooseFS,C,[empty],POSIX  FUSE
-Quantcast File System,C,[empty],C++ client  FUSE (C++ server: MetaServer and ChunkServer are both in C++)
-Spectrum Scale (GPFS),C  C++,[empty],POSIX  NFS  SMB  Swift
-Lustre,C,[empty],POSIX  liblustre  FUSE
-MapR-FS,C  C++,[empty],POSIX  NFS  FUSE  S3
-OpenAFS,C,[empty],Virtual file system  Installable File System
-OpenIO<ref></ref>,C,[empty],Native (Python  C  Java)  HTTP/REST  S3  Swift  FUSE (POSIX  NFS  SMB  FTP)
-PanFS,C  C++,[empty],DirectFlow  POSIX  NFS  SMB/CIFS  HTTP  CLI
-scality,C,[empty],fuse  NFS file system  rest  AWS S3
-Tahoe-LAFS,Python,GNU GPL 2+ and other<ref></ref>,HTTP (browser or CLI)  SFTP  FTP  FUSE via SSHFS  pyfilesystem
-HDFS,Java,[empty],Java and C client  HTTP
-XtreemFS,Java  C++,[empty],libxtreemfs (Java  C++)  FUSE
-Ori<ref></ref>,C  C++,[empty],libori  FUSE
+Client,Written in,License,Access API,High availability,Shards,Initial release year,Memory requirements (GB)
+Alluxio (Virtual Distributed File System),Java,[empty],HDFS  FUSE  HTTP/REST  S3,[empty],[empty],2013,[empty]
+Ceph,C++,[empty],librados (C  C++  Python  Ruby)  S3  Swift  FUSE,[empty],[empty],2010,1 per TB of storage
+GlusterFS,C,[empty],libglusterfs  FUSE  NFS  SMB  Swift  libgfapi,[empty],[empty],2005,[empty]
+MooseFS,C,[empty],POSIX  FUSE,[empty],[empty],2008,[empty]
+Quantcast File System,C,[empty],C++ client  FUSE (C++ server: MetaServer and ChunkServer are both in C++),[empty],[empty],2012,[empty]
+LizardFS,C++,[empty],POSIX  FUSE  NFS-Ganesha  Ceph FSAL (via libcephfs),[empty],[empty],2013,[empty]
+Lustre,C,[empty],POSIX  NFS-Ganesha  NFS  SMB,[empty],[empty],2003,[empty]
+OpenAFS,C,[empty],Virtual file system  Installable File System,[empty],[empty],2000 <ref>https://www.openafs.org/release/openafs-1.0.html</ref>,[empty]
+OpenIO<ref></ref>,C,[empty],Native (Python  C  Java)  HTTP/REST  S3  Swift  FUSE (POSIX  NFS  SMB  FTP),[empty],[empty],2015,0.5
+SeaweedFS,Go  Java,[empty],HTTP (REST)  POSIX  FUSE  S3  HDFS,[empty],[empty],2015,[empty]
+Tahoe-LAFS,Python,</ref>}},HTTP (browser or CLI)  SFTP  FTP  FUSE via SSHFS  pyfilesystem,[empty],[empty],2007,[empty]
+HDFS,Java,[empty],Java and C client  HTTP,[empty],[empty],2005,[empty]
+XtreemFS,Java  C++,[empty],libxtreemfs (Java  C++)  FUSE,[empty],[empty],2009,[empty]
+Ori<ref></ref>,C  C++,[empty],libori  FUSE,[empty],[empty],2012,[empty]

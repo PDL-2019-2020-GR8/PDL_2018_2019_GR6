@@ -1,4 +1,138 @@
+Language,Intended use,Imperative,Object-oriented,Functional,Procedural,Generic,Reflective,Event-driven,Other paradigm(s),Standardized?
+1C:Enterprise,Application  RAD  business  general  web  mobile,Yes,[empty],Yes,Yes,Yes,Yes,Yes,Object-based  Prototype-based programming,No
+ActionScript 3.0,Application  client-side  web,Yes,Yes,Yes,[empty],[empty],[empty],Yes,[empty],1996  ECMA
+Ada,Application  embedded  realtime  system,Yes,Yes[2],[empty],Yes[3],Yes[4],[empty],[empty],concurrent [5] distributed [6],1983  2005  2012  ANSI  ISO  GOST 27831-88[7]
+Aldor,Highly domain-specific  symbolic computing,Yes,Yes,Yes,[empty],[empty],[empty],[empty],[empty],No
+ALGOL 58,Application,Yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],No
+ALGOL 60,Application,Yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],1960  IFIP WG 2.1  ISO[8]
+ALGOL 68,Application,Yes,[empty],[empty],[empty],[empty],[empty],[empty],concurrent,1968  IFIP WG 2.1  GOST 27974-88 [9]
+Ateji PX,Parallel application,[empty],Yes,[empty],[empty],[empty],[empty],[empty],pi calculus,No
+APL,Application  data processing,Yes,Yes,Yes,Yes,Yes,Yes,Yes,array-oriented  tacit,1989  ISO
+Assembly language,General,Yes,[empty],[empty],[empty],[empty],[empty],[empty],any  syntax is usually highly specific  related to the target processor,IEEE 694-1985[10]
+AutoHotkey,GUI automation (macros)  highly domain-specific,Yes,Yes[11],[empty],Yes,[empty],[empty],Yes,[empty],No
+AutoIt,GUI automation (macros)  highly domain-specific,Yes,[empty],[empty],Yes,[empty],[empty],Yes,[empty],No
+Ballerina,Integration  agile  server-side  general,Yes,Yes,Yes,Yes,[empty],[empty],Yes,concurrent  transactional  statically and strongly typed programming  diagrammatic / visual programming,2018 De facto standard via Ballerina Language Specification[12]
+Bash,Shell  scripting,Yes,[empty],[empty],Yes,[empty],[empty],[empty],[empty],No  but optionally POSIX.2 [13]
+BASIC,Application  education,Yes,[empty],[empty],Yes,[empty],[empty],[empty],[empty],1983  ANSI  ISO  ECMA
+BeanShell,Application  scripting,Yes,Yes,Yes,[empty],[empty],Yes,[empty],[empty],In progress  JCP[14]
+BLISS,System,[empty],[empty],[empty],Yes,[empty],[empty],[empty],[empty],No
+BlitzMax,Application  game,Yes,Yes,[empty],Yes,[empty],Yes,[empty],[empty],No
+Boo,Application  game scripting,[empty],Yes,[empty],[empty],[empty],[empty],[empty],[empty],No
+Bro,domain-specific  application,Yes,[empty],[empty],[empty],[empty],[empty],Yes,[empty],No
+C,Application  system [15] general purpose  low-level operations,Yes,[empty],[empty],Yes,Yes,[empty],[empty],[empty],1989  ANSI C89  ISO C90  ISO C99  ISO C11  ISO C18[16]
+C++,Application  system,Yes,Yes,Yes,Yes,Yes,[empty],[empty],[empty],1998. ISO/IEC 2003  ISO/IEC 2011 ISO/IEC 2014 ISO/IEC 2017[17]
+C#,Application  RAD  business  client-side  general  server-side  web,Yes,Yes,Yes[18],Yes,Yes,Yes,Yes,structured  concurrent,2000  ECMA  ISO[19]
+Clarion,General  business  web,Yes,Yes,Yes[20],[empty],[empty],[empty],[empty],[empty],Unknown
+Clean,General,[empty],[empty],Yes,[empty],Yes,[empty],[empty],[empty],No
+Clojure,General,[empty],[empty],Yes,[empty],[empty],[empty],[empty],concurrent,No
+CLU,General,Yes,Yes,[empty],Yes,Yes,[empty],[empty],[empty],No
+COBOL,Application  business,Yes,Yes,[empty],Yes,[empty],[empty],[empty],[empty],ANSI X3.23 1968  1974  1985; ISO/IEC 1989:1985  2002  2014
+Cobra,Application  business  general  web,Yes,Yes,Yes,[empty],Yes,Yes,[empty],[empty],No
+ColdFusion (CFML),Web,[empty],Yes,[empty],Yes,[empty],[empty],[empty],[empty],No
+Common Lisp,General,Yes,Yes,Yes,Yes,Yes,Yes,Yes,extensible syntax  Array-oriented  syntactic macros  multiple dispatch  concurrent,1994  ANSI
+COMAL 80,Education,Yes,[empty],[empty],Yes,[empty],[empty],[empty],[empty],No
+Crystal,General purpose,Yes,Yes[21],Yes,Yes,[empty],[empty],[empty],alpha stage[22],No
+Cython,Application  general  numerical computing,Yes,Yes,Yes,[empty],[empty],Yes,[empty],aspect-oriented,No
+D,Application  system,Yes,Yes,Yes,Yes,Yes,Yes,[empty],generative  concurrent,No
+Dart,Application  web  server-side  mobile  IoT,Yes,Yes,Yes,[empty],[empty],[empty],[empty],structured,Ecma-408 standard
+Dylan,Application,[empty],Yes,Yes,[empty],[empty],[empty],[empty],[empty],No
+Eiffel,General  application  business  client-side  server-side  web (EWF),Yes,Yes,Yes[23][24],[empty],Yes,Yes Erl-G,Yes Agents,distributed SCOOP  Void-safe,2005  ECMA  ISO[25]
+Elixir,Application  distributed,[empty],[empty],Yes,[empty],[empty],[empty],Yes,concurrent  distributed,No
+Erlang,Application  distributed,[empty],[empty],Yes,[empty],[empty],[empty],Yes,concurrent  distributed,No
+Euphoria,Application,[empty],[empty],[empty],Yes,[empty],Yes,[empty],[empty],No
+Factor,General,Yes,[empty],can be viewed as,[empty],Yes,Yes,[empty],stack-oriented,No
+FP,[empty],[empty],[empty],Yes,[empty],[empty],[empty],[empty],[empty],No
+F#,Application,Yes,Yes,Yes,Yes,Yes,Yes,Yes,[empty],No
+Forth,General,Yes,[empty],can be viewed as,[empty],[empty],[empty],[empty],stack-oriented,1994  ANSI
+Fortran,Application  numerical computing,Yes,Yes,Yes,Yes,Yes,[empty],[empty],array-based  vectorized  concurrent  native distributed/shared-memory parallelism,1966  ANSI 66  ANSI 77  MIL-STD-1753  ISO 90  ISO 95  ISO 2003  ISO/IEC 1539-1:2010 (2008)  ISO/IEC JTC1/SC22/WG5 N2145 (2018)
+FreeBASIC,Application  numerical computing,Yes,Yes,[empty],Yes,Yes,[empty],[empty],[empty],No
+Gambas,Application,Yes,Yes,[empty],[empty],[empty],[empty],Yes,[empty],No
+Game Maker Language,Application  games,Yes,Yes,[empty],[empty],[empty],[empty],Yes,[empty],No
+GLBasic,Application  games,Yes,Yes,[empty],Yes,[empty],[empty],[empty],simple object-oriented,No
+Go,Application  web  server-side,Yes,[26],[empty],Yes,[empty],Yes,Yes,concurrent,De facto standard via Go Language Specification
+Gosu,Application  general  scripting  web,Yes,Yes,[empty],[empty],Yes,Yes,[empty],[empty],No
+GraphTalk,Application,[empty],Yes,[empty],[empty],[empty],[empty],[empty],logic,No
+Groovy,Application  general  scripting  web,Yes,Yes,Yes,Yes,Yes,Yes,Yes,meta-programming,In progress  JCP[27]
+Harbour,Application  business  data processing  general  web,Yes,Yes,Yes,Yes,Yes,Yes,[empty],declarative,No
+Haskell,Application,[empty],[empty],Yes,[empty],Yes,[empty],[empty],lazy evaluation,2010  Haskell 2010[28]
+Haxe,Application  general  web,Yes,Yes,Yes,[empty],Yes,Yes,[empty],[empty],No
+HyperNext,Application  education,[empty],[empty],[empty],Yes,[empty],[empty],Yes,weakly typed,No
+HyperTalk,Application  RAD  general,[empty],Yes,[empty],[empty],[empty],[empty],Yes,weakly typed,Unknown
+Io,Application  host-driven scripting,Yes,Yes,[empty],[empty],[empty],[empty],[empty],[empty],No
+IPL,General,[empty],[empty],Yes,[empty],[empty],[empty],[empty],[empty],Unknown
+ISLISP,General,Yes,Yes,Yes,[empty],Yes,[empty],[empty],[empty],1997  ISO
+J,Data processing,[empty],[empty],[empty],[empty],[empty],[empty],[empty],array-oriented  function-level  tacit,No
+JADE,Application  distributed,Yes,Yes,[empty],[empty],[empty],[empty],[empty],[empty],No
+Java,Application  business  client-side  general  mobile development  server-side  web,Yes,Yes,Yes,Yes,Yes,Yes,Yes,concurrent,De facto standard via Java Language Specification
+JavaScript,Client-side  server-side  web,Yes,Yes,Yes,Yes,[empty],Yes,Yes,prototype-based,1997  ECMA
+Joy,Research,[empty],[empty],Yes,[empty],[empty],[empty],[empty],stack-oriented,No
+Julia,General  technical computing,Yes,Yes,Yes,Yes,Yes,Yes,[empty],multiple dispatch  meta  scalar and array-oriented  parallel  concurrent  distributed ("cloud"),No
+K,Data processing  business,[empty],[empty],[empty],[empty],[empty],[empty],[empty],array-oriented  tacit,Unknown
+Kotlin,Application  mobile development  server-side  client-side  web,Yes,Yes,Yes,Yes,Yes,Yes[29],Yes,[empty],No
+Ksh,Shell  scripting,Yes,Yes,[empty],Yes,[empty],[empty],[empty],several variants  custom programmable  dynamic loadable modules,1992  POSIX.2 [30]
+LabVIEW (G),Application  industrial instrumentation-automation,Yes,Yes,Yes,[empty],[empty],[empty],Yes,dataflow  visual,No
+Lisp,General,[empty],[empty],Yes,[empty],[empty],[empty],[empty],[empty],Unknown
+LiveCode,Application  RAD  general,[empty],Yes,[empty],[empty],[empty],[empty],Yes,weakly typed,No
+Logtalk,Artificial intelligence  application,[empty],Yes,[empty],[empty],[empty],Yes,Yes,logic,No
+LSL,Virtual worlds content scripting and animation,Yes,[empty],[empty],Yes,[empty],[empty],Yes,Scripts exist in in-world objects,Yes[31]
+Lua,Application  embedded scripting,Yes,Yes[32],Yes,Yes,[empty],Yes,[empty],aspect-oriented,No[33]
+Maple,Symbolic computation  numerical computing,Yes,Yes,Yes,Yes,[empty],[empty],[empty],distributed,No
+Mathematica,Symbolic language,Yes,Yes,Yes,Yes,[empty],[empty],[empty],logic  distributed,No
+MATLAB,Highly domain-specific  numerical computing,Yes,Yes,[empty],Yes,[empty],[empty],[empty],[empty],No
+Modula-2,Application  system,Yes,[empty],[empty],[empty],Yes,[empty],[empty],[empty],1996  ISO[34]
+Modula-3,Application,Yes,Yes,[empty],[empty],Yes,[empty],[empty],[empty],No
+MUMPS (M),Application  databases,Yes,[empty],[empty],Yes,[empty],[empty],[empty],concurrent  multi-user  NoSQL  transaction processing,1977  ANSI
+Nim,Application  general  web  scripting  system,Yes,Yes,Yes,Yes,Yes,Yes,[empty],multiple dispatch  Concurrent  meta,No
+Oberon,Application  system,Yes,Yes,[empty],[empty],[empty],[empty],[empty],[empty],No
+Object Pascal,Application  general  mobile app  web,Yes,Yes,[empty],Yes,Yes,Yes,Yes,structured,No
+Objective-C,Application  general,Yes,Yes,[empty],Yes,[empty],Yes,[empty],concurrent,No
+OCaml,Application  general,Yes,Yes,Yes,Yes,Yes,[empty],[empty],[empty],No
+Occam,General,Yes,[empty],[empty],Yes,[empty],[empty],[empty],concurrent  process-oriented,No
+Opa,Web applications,Yes,[empty],Yes,[empty],Yes,[empty],[empty],distributed,No
+OpenLisp,General  Embedded Lisp Engine,Yes,Yes,Yes,[empty],Yes,[empty],[empty],[empty],Supersedes ISLISP  ISO
+Oxygene,Application,Yes,Yes,[empty],[empty],Yes,[empty],[empty],[empty],No
+Oz-Mozart,Application  distribution  education,Yes,Yes,Yes,[empty],[empty],[empty],[empty],concurrent  logic,No
+Pascal,Application  education,Yes,[empty],[empty],Yes,[empty],[empty],[empty],[empty],1983  ISO[35]
+Perl,Application  scripting  text processing  Web,Yes,Yes,Yes,Yes,Yes,Yes,[empty],[empty],No
+PHP,Server-side  web application  web,Yes,Yes[36],Yes[37],Yes,[empty],Yes,[empty],[empty],"De facto" standard via language specification and Requests for Comments (RFCs)
+PL/I,Application,Yes,Yes,[empty],Yes,[empty],[empty],[empty],[empty],1969  ECMA-50 (1976)
+Plus,Application  system development,Yes,[empty],[empty],Yes,[empty],[empty],[empty],[empty],No
+PostScript,Graphics  page description,Yes,[empty],[empty],Yes,[empty],[empty],[empty],Stack-oriented,Yes (as the PostScript Reference Manual)
+PowerShell,Administration  application  general  scripting,Yes,Yes,Yes,Yes,[empty],Yes,[empty],pipeline,No
+Prolog,Application  artificial intelligence,[empty],[empty],Yes,Yes,[empty],Yes,[empty],logic  declarative,1995  ISO/IEC 13211-1:1995  TC1 2007  TC2 2012  TC3 2017
+PureBasic,Application,[empty],[empty],[empty],Yes,[empty],[empty],[empty],[empty],No
+Python,Application  general  web  scripting  artificial intelligence  scientific computing,Yes,Yes,Yes,Yes,Yes,Yes,Yes,aspect-oriented,"De facto" standard via Python Enhancement Proposals (PEPs)
+R,Application  statistics,Yes,Yes,Yes,Yes,[empty],Yes,[empty],[empty],No
+Racket,Education  general  scripting,[empty],Yes,Yes,Yes,[empty],Yes,[empty],modular  logic  meta,No
+Raku,Scripting  text processing  glue,Yes,Yes,Yes,Yes,Yes,Yes,[empty],aspect-oriented  array  lazy evaluation  multiple dispatch  metaprogramming,Yes
+REALbasic,Application,[empty],[empty],[empty],Yes,[empty],[empty],[empty],[empty],Unknown
+Rebol,Distributed,Yes,Yes,Yes,Yes,[empty],Yes,Yes,dialected,No
+RPG,Application  system,Yes,[empty],[empty],Yes,[empty],[empty],[empty],[empty],No
+Ruby,Application  scripting  web,Yes,Yes,Yes,[empty],[empty],Yes,[empty],aspect-oriented,2011(JIS X 3017)  2012(ISO/IEC 30170)
+Rust,Application  system,Yes,Yes[38],Yes,Yes,Yes,[empty],Yes,concurrent,No
+S,Application  statistics,Yes,Yes,Yes,Yes,[empty],[empty],[empty],[empty],No
+S-Lang,Application  numerical  scripting,Yes,[empty],[empty],Yes,[empty],[empty],[empty],[empty],No
+Scala,Application  distributed  web,Yes,Yes,Yes,[empty],Yes,Yes,Yes,[empty],De facto standard via Scala Language Specification (SLS)
+Scheme,Education  general,[empty],[empty],Yes,[empty],[empty],[empty],[empty],extensible syntax,1998  R6RS
+Seed7,Application  general  scripting  web,Yes,Yes,[empty],[empty],Yes,Yes,[empty],multi-paradigm  extensible  structured,No
+Simula,Education  general,Yes,Yes,[empty],[empty],[empty],[empty],Yes,discrete event simulation  multi-threaded (quasi-parallel) program execution,1968
+Small Basic,Application  education  games,Yes,[empty],[empty],[empty],[empty],[empty],Yes,component-oriented,No
+Smalltalk,Application  general  business  artificial intelligence  education  web,Yes,Yes,Yes,Yes,[empty],Yes,Yes,concurrent  declarative,1998  [ANSI
+SNOBOL,Text processing,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Unknown
+Standard ML,Application,Yes,[empty],Yes,[empty],Yes,[empty],[empty],[empty],1997  SML '97[39]
+Swift,Application  general,Yes,Yes,Yes,Yes,Yes,Yes,Yes,concurrent  Multi-paradigm,No
+Tcl,Application  scripting  web,Yes,Yes,Yes,Yes,[empty],Yes,Yes,[empty],No
+Visual Basic,Application  RAD  education  business  general  (Includes VBA)  office automation,Yes,Yes,[empty],[empty],Yes,[empty],Yes,component-oriented,No
+Visual Basic .NET,Application  RAD  education  web  business  general,Yes,Yes,Yes,Yes,Yes,Yes,Yes,structured  concurrent,No
+Visual FoxPro,Application,[empty],Yes,[empty],[empty],[empty],[empty],[empty],data-centric  logic,No
+Visual Prolog,Application,Yes,Yes,Yes,[empty],[empty],[empty],Yes,declarative  logic,No
+Wolfram Language,Symbolic language,Yes,Yes,Yes,Yes,[empty],[empty],[empty],logic  distributed,No
+XL,[empty],Yes,Yes,[empty],[empty],[empty],[empty],[empty],concept programming,No
+Xojo,Application  RAD  general  web,Yes,Yes,[empty],Yes,[empty],Yes,Yes,[empty],No
+XPath/XQuery,Databases  data processing  scripting,[empty],[empty],Yes,[empty],[empty],[empty],[empty],tree-oriented,W3C 1999 XPath 1  2010 XQuery 1  2014 XPath/XQuery 3.0
+Zsh,Shell  scripting,Yes,[empty],[empty],Yes,[empty],[empty],[empty],loadable modules,No
 Language,Failsafe I/O
+1C:Enterprise,Yes
 Ada,Yes (exceptions)
 ALGOL,Yes (exceptions or return value depending on function)
 AutoHotkey,No (global ErrorLevel must be explicitly checked)
@@ -11,10 +145,10 @@ C#,Yes
 COBOL,No
 Common Lisp,Yes ("conditions and restarts" system)
 D,Yes (throwing on failure) [FSIO 3]
-Eiffel,No â€“ It actually depends on the library and it is not defined by the language
+Eiffel,No – It actually depends on the library and it is not defined by the language
 Erlang,Yes
 Fortran,Yes
-GLBasic,No â€“ Will generally cause program to crash
+GLBasic,No – Will generally cause program to crash
 Go,Yes (unless result explicitly ignored)
 Gosu,Yes
 Harbour,Yes
@@ -31,11 +165,11 @@ Objective-C,Yes (exceptions)
 OCaml,Yes (exceptions)
 OpenLisp,Yes
 Perl,No[FSIO 4]
-Perl 6,Yes
 PHP,Yes
 Python,Yes
+Raku,Yes
 Rebol,Yes
-Rexx,Yes (with optional signal onâ€¦ trap handling)
+Rexx,Yes (with optional signal on… trap handling)
 RPG,No
 Ruby,Yes
 Rust,Yes (unless result explicitly ignored)
@@ -43,9 +177,10 @@ S,Unknown
 Smalltalk,Yes
 Scala,Yes[FSIO 5]
 Standard ML,Yes[citation needed]
-Swift â‰¥ 2.0,Yes (exceptions)
+Swift ? 2.0,Yes (exceptions)
 Tcl,Yes
 Visual Basic,Yes
+Visual Basic .NET,Yes
 Visual Prolog,Yes
 Wolfram Language,Yes
 Xojo,Yes

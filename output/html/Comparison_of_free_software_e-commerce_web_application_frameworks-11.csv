@@ -1,3 +1,196 @@
+Name,Creator,First release date,Latest stable version,Latest release date,License,Language,Web application framework,CMS extension
+AbanteCart Software,Belavier Commerce  LLC,2011,1.2.15[1],2019-05-13[±],OSL 3.0,PHP,Model-View-Controller,integrated  and 3rd party extensions
+Apache OFBiz,Apache Software Foundation,2007,16.11.06[2],2019-08-27,Apache,Java,Apache OFBiz,integrated  and 3rd party extensions
+Batavi,Batavi,?,1.3[3],2013-11-28,GPL,PHP,[empty],[empty]
+Bigcommerce,Bigcommerce Inc,?,Continuous/SaaS,Continuous/SaaS,Proprietary,PHP,[empty],[empty]
+CE Phoenix,osCommerce and Gary Burton,2019-07-04,1.0.2.0,2019-08-14,GNU GPL,PHP,Bootstrap 4,[empty]
+Drupal Commerce,Drupal Commerce,2011-08-23,2.14[4],2019-08-30[±],GPL,PHP,[empty],Drupal
+KonaKart,DS Data Systems UK Ltd,?,9.0.0.0[5],2019-08-26,GNU LGPL,Java,[empty],[empty]
+LemonStand,Limewheel Creative Inc.,?,1.5.52,2011-06-03,Proprietary,PHP,[empty],[empty]
+Magento,Varien,2007-08-13,2.3.3[6],2019-10-08[±],OSL 3.0,PHP,Zend Framework,[empty]
+Miva Merchant,Miva  Inc.,?,9.14,2019-08-07,Proprietary,MIVA Script,[empty],[empty]
+nopCommerce,Nop Solutions Ltd,2008-10-23,4.20[7],2019-06-19[±],GPL,C#,ASP.NET MVC,[empty]
+OpenCart,OpenCart Ltd.,1999-05-11,3.0.3.2[8],2019-04-09[±],GPL,PHP,[empty],[empty]
+osCommerce,osCommerce,2000-03,2.3.4.1[9],2017-08-18,GNU GPL,PHP,[empty],[empty]
+pimcore,pimcore GmbH,2010,6.2.0[10],2019-09-05[±],BSD,PHP,Symfony[11],pimcore
+PrestaShop,PrestaShop SA,2007-08-15,1.7.6.1[12],2019-08-26[±],OSL 3.0,PHP,Model-View-Controller,[empty]
+ProStores,ProStores Inc.,?,10.3,2011-05-17,Proprietary,PHP,[empty],[empty]
+Sana Commerce,Sana Commerce,?,SC v 9.0 [13],2015-02-15,Proprietary,C#,ASP.NET WebForms and ASP.NET MVC,[empty]
+Shopify,Shopify,2006[14],Continuous/SAAS[15],Continuous/SAAS,Proprietary,Ruby,Ruby on Rails,[empty]
+Spree Commerce,Sean Schofield,2007,3.7.3[16],2019-05-14[±],BSD,Ruby,Ruby on Rails,[empty]
+Storehippo,Hippo Innovations P Ltd,2014,Continuous/SAAS,Continuous/SAAS,Proprietary,Node.js,MEAN (software bundle),[empty]
+SupaDupa,SupaDupa,?,Continuous/SAAS,Continuous/SAAS,Proprietary,Ruby,Ruby on Rails,[empty]
+uCoz,uCoz Media,?,Continuous/SAAS,Continuous/SAAS,Proprietary,Perl,[empty],[empty]
+VirtueMart,Max Milbers and Team,?,3.4.5[17],2019-04-01[±],GPL,PHP,[empty],Mambo or Joomla!
+WooCommerce,WooThemes,2011[18],3.4.4[19],2018-07-25,GPL,PHP,[empty],WordPress
+Zen Cart,Zen Ventures,2003-06[20],1.5.6b[21],2019-05-27[±],GPL,PHP,[empty],[empty]
+[empty],Creator,First release date,Latest stable version,Latest release date,License,Language,Web application framework,CMS extension
+[empty],Flat file,MySQL,MySQLi,PostgreSQL,MSSQL,Oracle,SQLite,Firebird,Apache Derby,MongoDB
+Apache OFBiz,No,Yes,No,Yes,Yes,Yes,No[22],Yes,Yes,?
+Batavi,No,Yes,No,No,No,No,No,No,?,No
+Bigcommerce,No,Yes,No,Yes,No,No,No,No,?,No
+Drupal Commerce,No,Yes,Yes,Yes,No,No,Yes,No,No,?
+KonaKart,No,Yes,No,Yes,Yes,Yes,No,No,?,No
+LemonStand,Yes,Yes,No,No,No,No,No,No,?,No
+Magento,No,Yes,Yes,No,No,No,No,No,No,No
+nopCommerce,No,No,No,No,Yes,No,No,No,No,No
+OpenCart,No,Yes,Yes,?,?,?,?,?,?,No
+osCommerce,No,Yes,No,No,No,No,No,No,No,No
+pimcore,No,Yes,No,No,No,No,No,No,No,No
+PrestaShop,No,Yes,Yes,No,No,No,No,No,No,No
+Sana Commerce,No,No,No,No,Yes,No,No,No,?,No
+Shopify,No,Yes,Yes,No,No,No,No,No,?,No
+Spree Commerce,?,Yes,?,Yes,?,?,Yes,?,No,No
+Storehippo,No,No,No,No,No,No,No,No,No,Yes
+SupaDupa,No,Yes,Yes,No,No,No,No,No,?,No
+WooCommerce,No,Yes,Yes,No[23],No,No,No,No,No,No
+X-Cart,No,Yes,Yes,Yes,No,No,No,No,No,No
+Zen Cart,No,Yes,Yes,No,No,No,No,No,No,No
+[empty],Flat file,MySQL,MySQLi,PostgreSQL,MSSQL,Oracle,SQLite,Firebird,Apache Derby,MongoDB
+[empty],Source code provided,Ajax use,Digital downloads,eBay listing integration,eBay order import,Multiple skins,Point of sale order management,Subscriptions,Taxation,Template engine
+Apache OFBiz,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Bigcommerce,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Drupal Commerce,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+LemonStand,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+nopCommerce,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Magento,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+pimcore,Yes,Yes,Yes,No,No,N/A,Yes,Yes,Yes,N/A
+OpenCart,Yes,Yes,Yes,Add-on,Add-on,Yes,No,Yes,Yes,Yes
+osCommerce,Yes,Yes,Yes,?,?,N/A,Yes,Yes,Yes,N/A
+PrestaShop,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Sana Commerce,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+Shopify,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+SupaDupa,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes
+WooCommerce,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Zen Cart,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes
+[empty],Source code provided,Ajax use,Digital downloads,eBay listing integration,eBay order import,Multiple skins,Point of sale order management,Subscriptions,Taxation,Template engine
+[empty],Guest account,Customer testimonials,Featured products,Glossary  tool tip words,Image enlarge,Mini cart,Multiple addresses,Newest products,Newsletter,News,Next-previous product links,Polls,Popular products,Printing-friendly
+Apache OFBiz,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Batavi,?,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+Bigcommerce,Yes,Add-on,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3rd party add-on,Yes,No
+Drupal Commerce,Yes,Yes,Yes,Add-on,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Add-on
+KonaKart,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+LemonStand,?,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes
+nopCommerce,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+Magento,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No
+osCommerce,Add-on,Add-on,Add-on,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Add-on,Yes,Add-on
+OpenCart,Yes,Yes,Yes,?,Yes,?,Yes,Yes,Yes,Add-on,?,No,Yes,Yes
+pimcore,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+PrestaShop,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Sana Commerce,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Shopify,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+SupaDupa,?,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes
+WooCommerce,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Zen Cart,Add-on[25],Add-on[26],Yes,No,Yes,No,Add-on[27],Yes,Yes,No,Yes,No,Yes,Yes
+[empty],Guest account,Customer testimonials,Featured products,Glossary  tool tip words,Image enlarge,Mini cart,Multiple addresses,Newest products,Newsletter,News,Next-previous product links,Polls,Popular products,Printing-friendly
+[empty],Product image attaching,Product rating,Product reviews,Quotes,Reordering,Returns,Searching,Search as user types,Search cloud,Site map  viewable,Social bookmarking,Tell friends,Wish list
+Apache OFBiz,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+Batavi,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes
+Bigcommerce,Yes,3rd party,3rd party,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+Drupal Commerce,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+KonaKart,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+LemonStand,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+nopCommerce,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Magento,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+osCommerce,No,Yes,Yes,No,No,No,Yes,Add-on,No,No,Yes,Yes,No
+pimcore,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+PrestaShop,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Sana Commerce,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes
+Shopify,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3rd party module,3rd party module,Yes,Yes,Yes,Yes
+SupaDupa,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No
+WooCommerce,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Zen Cart,Yes,Yes,Yes,Yes,No,Add-on[28],Yes,3rd party module  price varies[29],No,Yes,Add-on[30],Yes,Add-on[31]
+[empty],Product image attaching,Product rating,Product reviews,Quotes,Reordering,Returns,Searching,Search as user types,Search cloud,Site map  viewable,Social bookmarking,Tell friends,Wish list
+[empty],Coupons,Gift certificates,Membership discounts,Membership-only categories,Membership-only products,Reward points,Special offers
+Apache OFBiz,Yes,Yes,Yes,No,Yes,No,Yes
+Batavi,No,No,Yes,No,No,No,Yes
+Bigcommerce,Yes,Yes,Yes,Yes,Yes,3rd party module,Yes
+Drupal Commerce,Yes,Yes,Yes,Yes,Yes,No,Yes
+KonaKart,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+LemonStand,Yes,3rd party module,Yes,Yes,Yes,No,Yes
+Magento,Yes,Yes,Yes,Yes,Yes,Yes (Enterprise Edition),Yes
+nopCommerce,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+osCommerce,Add-on,Add-on,No,No,No,No,Yes
+pimcore,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+PrestaShop,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Sana Commerce,Yes,No,Yes,Yes,Yes,No,Yes
+Shopify,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+SupaDupa,Yes,Yes,No,No,No,No,Yes
+WooCommerce,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Zen Cart,Yes,Yes,Yes,Add-on[32],Add-on[32],Yes[33],Yes
+[empty],Coupons,Gift certificates,Membership discounts,Membership-only categories,Membership-only products,Reward points,Special offers
+[empty],Product import-export,Statistics,Stock control,WYSIWYG editor
+Apache OFBiz,Yes,Yes,Yes,Yes
+Batavi,Yes,Yes,Yes,Yes
+Bigcommerce,Yes,Yes,Yes,Yes
+Drupal Commerce,Yes,Yes,Yes,Yes
+KonaKart,Yes,Yes,Yes,Yes
+LemonStand,Yes,Yes,Yes,Yes
+Magento,Yes,Yes,Yes,Yes
+nopCommerce,Yes,Yes,Yes,Yes
+osCommerce,free add-on,Yes,Yes,free add-on
+pimcore,Yes,Yes,Yes,Yes
+PrestaShop,Yes,Yes,Yes,Yes
+Sana Commerce,Yes,Yes,Yes,Yes
+Shopify,Yes,Yes,Yes,No
+SupaDupa,Yes,Yes,Yes,No
+WooCommerce,Yes,Yes,Yes,Yes
+Zen Cart,free add-on,Yes,Yes,free add-on
+[empty],Product import-export,Statistics,Stock control,WYSIWYG editor
+[empty],HTML catalog,Meta tagging,RSS feeds,SEO URLs,Site map  XML,GoodRelations RDFa
+Apache OFBiz,Yes,Yes,No,Yes,Yes,No
+Batavi,Yes,Yes,No,Yes,No,No
+Bigcommerce,Yes,Yes,Yes,Yes,Yes,No
+Drupal Commerce,Yes,Yes,Yes,Yes,Yes,Yes
+KonaKart,Yes,Yes,Yes,Yes,No,No
+LemonStand,?,?,?,?,?,?
+Magento,Yes,Yes,Yes,Yes[34],Yes,No
+nopCommerce,Yes,Yes,Yes,Yes,Yes,No
+osCommerce,No,No,free add-on,Yes,free add-on,Yes
+pimcore,Yes,Yes,Yes,Yes,Yes,Yes
+PrestaShop,Yes,Yes,Yes,Yes,Yes,Yes
+Sana Commerce,Yes,Yes,No,Yes,Yes,No
+Shopify,Yes,Yes,Yes,Yes,Yes,Yes - added manually
+SupaDupa,Yes,Yes,No,Yes,Yes,No
+WooCommerce,Yes,Yes,Yes,Yes,Yes,Yes
+Zen Cart,free add-on  printable price list,Yes,free add-on[35],free add-on,free add-on,No
+[empty],HTML catalog,Meta tagging,RSS feeds,SEO URLs,Site map  XML,GoodRelations RDFa
+[empty],Access control list,Form CAPTCHA,Staff action logging,PA/DSS certified
+Apache OFBiz,Yes,Yes,Yes,No
+Batavi,Yes,No,Yes,No
+Bigcommerce,Yes,Yes,Yes,Yes
+Drupal Commerce,Yes,free add-on,Yes,No
+KonaKart,Yes,No,Yes,No
+LemonStand,Yes,Yes,Yes,No
+Magento,Yes,Yes,enterprise,Yes / Magento Payment Bridge
+Miva Merchant,n/a,n/a,n/a,Yes
+nopCommerce,Yes,Yes,Yes,No
+osCommerce,Yes,No,No,No
+pimcore,Yes,No,No,No
+PrestaShop,Yes,Yes,No,No
+Sana Commerce,Yes,No,Yes,Yes
+Shopify,Yes,Yes,Yes,No
+SupaDupa,Yes,No,No,No
+WooCommerce,?,?,?,?
+Zen Cart,Yes,free add-on,Yes,Yes
+[empty],Access control list,Form CAPTCHA,Staff action logging,PA/DSS certified
+[empty],Multiple store fronts,Affiliates,API (remote management functions),Minimum orders,Multiple vendor support,Out-of-the-box shopping cart
+Apache OFBiz,Yes,Yes,Yes,Yes,No,Yes
+Batavi,n/a,No,No,Yes,Yes,Yes
+Bigcommerce,No,3rd party module,Yes,Yes,Yes,Yes
+Drupal Commerce,Yes,Yes,Yes,Yes,Yes,Yes
+KonaKart,n/a,No,Yes,Yes,Yes,Yes
+Magento,Yes,3rd party module,Yes,Yes,Yes,Yes
+nopCommerce,Yes,Yes,Yes,Yes,Yes,Yes
+osCommerce,n/a,No,No,Yes,No,Yes
+pimcore,Yes,Yes,Yes,Yes,Yes,No
+PrestaShop,Yes,Yes,Yes,Yes,Yes,Yes
+Sana Commerce,Yes,Yes,Yes,Yes,Yes,Yes
+Shopify,No,Yes,Yes,Yes,Yes,Yes
+SupaDupa,No,No,No,No,No,Yes
+WooCommerce,No,Yes,Yes,No,Yes,No
+Zen Cart,free add-on,3rd party module,No,free add-on  low order fee std.,No,Yes
+[empty],Multiple store fronts,Affiliates,API (remote management functions),Minimum orders,Multiple vendor support,Out-of-the-box shopping cart
 [empty],Authorize.Net AIM,Authorize.Net SIM,Barclaycard CPI,Barclaycard MPI,HSBC API,HSBC CPI,PayPal Standard
 Apache OFBiz,Yes,No,No,No,No,No,Yes
 Batavi,No,No,No,No,No,No,No
@@ -11,7 +204,6 @@ pimcore,No,No,No,No,No,No,No
 PrestaShop,Yes,Yes,Yes,Yes,Yes,Yes,Yes
 Sana Commerce,Yes,Yes,No,No,No,No,Yes
 Shopify,Yes,Yes,No,Yes,No,No,Yes
-Virto Commerce,Yes,Yes,No,No,No,No,Yes
 WooCommerce,Yes,Yes,No,No,No,No,Yes
 Zen Cart,Yes,Yes,No,No,No,No,Yes
 [empty],Authorize.Net AIM,Authorize.Net SIM,Barclaycard CPI,Barclaycard MPI,HSBC API,HSBC CPI,PayPal Standard

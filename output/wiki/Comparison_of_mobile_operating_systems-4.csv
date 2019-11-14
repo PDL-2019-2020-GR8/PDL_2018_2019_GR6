@@ -1,7 +1,56 @@
++About OS
+Feature
+Developed by
+Market share<ref></ref>
+Current version
+Development version
+Current version release dates
+License
+OS family
+Supported CPU architecture
+Programmed in
+Public issues list
+DRM-free<ref>We oppose DRM. | Defective by Design </ref>
+Device independent system updates
+Wireless system updates
+GPU accelerated GUI
+Feature
++Advanced controls
+Feature
+While-in-use permissions
+Per-app Internet access
+Per-app identity access
+Per-app user data access
+Per-app background execution
+Per-app notifications
+Per-app location access
+Per-app camera access
+Per-app microphone access
+Per-app shared files access
+Per-app network data usage auditing
+Fine grained storage usage
+Parental controls
+Screen orientation lock
+File manager
+File manager write access to external storage
+Multi-user
+Guest mode
+Do not disturb mode
+App groups
+[added]
 +Accessibility features
 Feature
 System wide base text size
 Monaural output
 Always visible scrollbar
 Reduced Animations
+[added]
++App ecosystem
+Feature
+Official app store
+Non-discriminatory stores
+Common APIs for smartphones  tablets  and PCs
+Official SDK platform(s)
+Cost to develop for the mobile OS
+Cost to publish app to official store
 [added]

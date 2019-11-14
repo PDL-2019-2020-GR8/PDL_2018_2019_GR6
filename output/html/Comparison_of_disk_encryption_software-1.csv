@@ -1,4 +1,4 @@
-Encryption,Developer,First released,Licensing,Maintained?
+Name,Developer,First released,Licensing,Maintained?
 Aloaha Crypt Disk,Aloaha,2008,Open source[citation needed],Yes
 ArchiCrypt Live,Softwaredevelopment Remus ArchiCrypt,1998,Proprietary,Yes
 BestCrypt,Jetico,1993[1],Proprietary,Yes
@@ -14,12 +14,13 @@ CrossCrypt,Steven Scherrer,2004-02-10[9],GPL,No
 CryFS,Sebastian Messmer,2015,LGPLv3,Yes
 Cryhod,Prim'X Technologies,2010,Proprietary,Yes
 Cryptainer,Cypherix Software,1999,Proprietary,Yes
+Cryptic Disk,Exlade,2003,Proprietary,Yes
 CryptArchiver,WinEncrypt,?,Proprietary,Yes
 Cryptoloop,?,2003-07-02[10],GPL,No
-Cryptomator,Skymatic UG (haftungsbeschrÃ¤nkt),2016-03-09,MIT / X Consortium License,Yes
+Cryptomator,Skymatic UG (haftungsbeschränkt),2016-03-09,GPLv3,Yes
 CryptoPro Secure Disk Enterprise,cpsd it-services GmbH,2010,Proprietary,Yes
 CryptoPro Secure Disk for BitLocker,cpsd it-services GmbH,2012,Proprietary,Yes
-CryptSync,Stefan KÃ¼ng,2012,Gpl v2,Yes
+CryptSync,Stefan Küng,2012,Gpl v2,Yes
 Discryptor,Cosect Ltd.,2008,Proprietary,No
 DiskCryptor,ntldr,2007,GPL,Yes
 DISK Protect,Becrypt Ltd,2001,Proprietary,Yes
@@ -35,7 +36,6 @@ EncFS,Valient Gough,2003[16],LGPLv3,Yes
 EncryptStick,ENC Security Systems,2009,Proprietary,Yes
 FileVault,Apple Inc.,2003-10-24,Proprietary,Yes
 FileVault 2,Apple Inc.,2011-07-20,Proprietary,Yes
-FinalCrypt,Ron de Jong,2017-11-16,Creative Commons,Yes
 FREE CompuSec,CE-Infosys,2002,Proprietary,Yes
 FreeOTFE,Sarah Dean,2004-10-10[17],Open source,No
 GBDE,Poul-Henning Kamp,2002-10-19[18],BSD,No
@@ -46,8 +46,10 @@ Knox,AgileBits,2010,Proprietary,Yes
 KryptOS,The MorphOS Development Team,2010,Proprietary,Yes
 LibreCrypt,tdk,2014-06-19[22],Open source,No
 Loop-AES,Jari Ruusu,2001-04-11,GPL,Yes
-McAfee Drive Encryption (SafeBoot),McAfee  Inc.,2007[23],Proprietary,Yes
+McAfee Drive Encryption (SafeBoot),McAfee  LLC,2007[23],Proprietary,Yes
 n-Crypt Pro,n-Trance Security Ltd,2005,Proprietary,Yes
+NetLib Encryptionizer (directory encryption),NetLib Security,1987,Proprietary,Yes
+Nodrive (Virtual Encrypted Disk),Hidden Solutions,2018,Proprietary,Yes
 PGPDisk,PGP Corporation (acquired by Symantec in 2010),1998-09-01[24],Proprietary,Yes
 Private Disk,Dekart,1993[25],Proprietary,Yes
 ProxyCrypt,v77,2013,Open source,Yes
@@ -61,6 +63,7 @@ Scramdisk 4 Linux,Hans-Ulrich Juettner,2005-08-06[29],GPL,No
 SecuBox,Aiko Solutions,2007-02-19,Proprietary,Yes
 SECUDE Secure Notebook,SECUDE,2003,Proprietary,Yes
 SecureDoc,WinMagic Inc.,1997,Proprietary,Yes
+Seqrite Encryption Manager,Quick Heal Technologies Ltd.,2017,Proprietary,Yes
 Sentry 2020,SoftWinter,1998[30],Proprietary,No
 Softraid / RAID C,OpenBSD,2007-11-01[31],BSD,Yes
 SpyProof!,Information Security Corp.,2002,Proprietary,Yes
