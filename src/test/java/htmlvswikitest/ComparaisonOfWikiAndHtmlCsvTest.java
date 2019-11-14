@@ -102,7 +102,7 @@ class ComparaisonOfWikiAndHtmlCsvTest {
 			    double resultat = 0;
 			    if(y!=0) {
 			    	 resultat = (100*i)/y;
-			    	 if(resultat <= 25) {
+			    	 if(resultat <= 30) {
 			    		 z++;
 			    	 }
 			    }
