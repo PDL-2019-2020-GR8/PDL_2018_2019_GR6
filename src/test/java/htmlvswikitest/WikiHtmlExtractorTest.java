@@ -35,14 +35,34 @@ public void setup() {
 	 this.htmlConverter = new HTMLConverter();
 	 this.wikiConverter = new WikiConverter();
 }
+
+@Test
+@DisplayName("Comparison_of_Asian_national_space_programs")
+public void test_nb_tables_wikivshtml_Comparison_of_Asian_national_space_programs() throws IOException, UrlNotFoundException{
+	Document doc = WikiRunner.getDocument("en", "Comparison_of_Asian_national_space_programs");
+	Elements tables = extractorwiki.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_distributed_file_systems");
+	 Document docu = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_distributed_file_systems").get();
+	 Elements table = extractorhtml.extractTables(docu, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_distributed_file_systems");
+	assertEquals(table.size(), tables.size());	
+}
+@Test
+@DisplayName("Comparison_between_Esperanto_and_Ido")
+public void test_nb_tables_wikivshtml_Comparison_between_Esperanto_and_Ido() throws IOException, UrlNotFoundException{
+	Document doc = WikiRunner.getDocument("en", "Comparison_between_Esperanto_and_Ido");
+	Elements tables = extractorwiki.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_distributed_file_systems");
+	Document docu = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_distributed_file_systems").get();
+	 Elements table = extractorhtml.extractTables(docu, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_distributed_file_systems");
+	assertEquals(table.size(), tables.size());	
+}
+
 @Test
 @DisplayName("Comparison_of_orbital_launch_systems") 
 public void test_nb_tables_wikivshtmlComparison_of_orbital_launch_systems() throws IOException, UrlNotFoundException {
 
 	Document doc = WikiRunner.getDocument("en", "Comparison_of_orbital_launch_systems");;
 	Document docu = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_orbital_launch_systems").get();
-	Elements tables = extractorhtml.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_orbital_launch_systems");
-	Elements table = extractorwiki.extractTables(docu, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_orbital_launch_systems");
+	Elements tables = extractorwiki.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_orbital_launch_systems");
+	Elements table = extractorhtml.extractTables(docu, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_orbital_launch_systems");
     assertEquals(tables.size(),table.size());
 }
 
@@ -52,8 +72,8 @@ public void test_nb_tables_wikivshtmlComparison_of_C_Sharp_and_Visual_Basic() th
 
 	Document doc = WikiRunner.getDocument("en", "Comparison_of_C_Sharp_and_Visual_Basic_.NET");;
 	Document docu = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_C_Sharp_and_Visual_Basic_.NET").get();
-	Elements tables = extractorhtml.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_C_Sharp_and_Visual_Basic_.NET");
-	Elements table = extractorwiki.extractTables(docu, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_C_Sharp_and_Visual_Basic_.NET");
+	Elements tables = extractorwiki.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_C_Sharp_and_Visual_Basic_.NET");
+	Elements table = extractorhtml.extractTables(docu, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_C_Sharp_and_Visual_Basic_.NET");
     assertEquals(tables.size(),table.size());
 }
 
