@@ -40,24 +40,24 @@ public void setup() {
 @DisplayName("Comparison_of_Asian_national_space_programs")
 public void testComparison_of_Asian_national_space_programs() throws IOException, UrlNotFoundException{
 	Document doc = WikiRunner.getDocument("en", "Comparison_of_Asian_national_space_programs");
-	Elements tables = extractorwiki.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_distributed_file_systems");
-	 Document docu = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_distributed_file_systems").get();
-	 Elements table = extractorhtml.extractTables(docu, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_distributed_file_systems");
+	Elements tables = extractorwiki.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_Asian_national_space_programs");
+	 Document docu = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_Asian_national_space_programs").get();
+	 Elements table = extractorhtml.extractTables(docu, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_Asian_national_space_programs");
 	assertEquals(table.size(), tables.size());	
 }
 @Test
 @DisplayName("Comparison_between_Esperanto_and_Ido")
 public void testbetween_Esperanto_and_Ido() throws IOException, UrlNotFoundException{
 	Document doc = WikiRunner.getDocument("en", "Comparison_between_Esperanto_and_Ido");
-	Elements tables = extractorwiki.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_distributed_file_systems");
-	Document docu = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_distributed_file_systems").get();
-	 Elements table = extractorhtml.extractTables(docu, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_distributed_file_systems");
+	Elements tables = extractorwiki.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_between_Esperanto_and_Ido");
+	Document docu = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_between_Esperanto_and_Ido").get();
+	 Elements table = extractorhtml.extractTables(docu, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_between_Esperanto_and_Ido");
 	assertEquals(table.size(), tables.size());	
 }
 
 @Test
-@DisplayName("Comparison_of_orbital_launch_systems") 
-public void test_nb_tables_wikivshtmlComparison_of_orbital_launch_systems() throws IOException, UrlNotFoundException {
+@DisplayName("Comparison test if the number of tables in wiki and html is equal for the title Comparison_of_orbital_launch_systems") 
+public void testComparison_of_orbital_launch_systems() throws IOException, UrlNotFoundException {
 
 	Document doc = WikiRunner.getDocument("en", "Comparison_of_orbital_launch_systems");;
 	Document docu = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_orbital_launch_systems").get();
@@ -67,8 +67,8 @@ public void test_nb_tables_wikivshtmlComparison_of_orbital_launch_systems() thro
 }
 
 @Test
-@DisplayName("Comparison_of_C_Sharp_and_Visual_Basic_.NET") 
-public void test_nb_tables_wikivshtmlComparison_of_C_Sharp_and_Visual_Basic() throws IOException, UrlNotFoundException {
+@DisplayName("Comparison test if the number of tables in wiki and html is equal for the title Comparison_of_C_Sharp_and_Visual_Basic_.NET") 
+public void testComparison_of_C_Sharp_and_Visual_Basic_NET() throws IOException, UrlNotFoundException {
 
 	Document doc = WikiRunner.getDocument("en", "Comparison_of_C_Sharp_and_Visual_Basic_.NET");;
 	Document docu = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_C_Sharp_and_Visual_Basic_.NET").get();
