@@ -37,7 +37,7 @@ public void setup() {
 }
 
 @Test
-@DisplayName("Comparison_of_Asian_national_space_programs")
+@DisplayName("Test if the number of tables in wiki and html is equal of the title Comparison_of_Asian_national_space_programs")
 public void testComparison_of_Asian_national_space_programs() throws IOException, UrlNotFoundException{
 	Document doc = WikiRunner.getDocument("en", "Comparison_of_Asian_national_space_programs");
 	Elements tables = extractorwiki.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_Asian_national_space_programs");
@@ -46,7 +46,7 @@ public void testComparison_of_Asian_national_space_programs() throws IOException
 	assertEquals(table.size(), tables.size());	
 }
 @Test
-@DisplayName("Comparison_between_Esperanto_and_Ido")
+@DisplayName("Test if the number of tables in wiki and html is equal of the title Comparison_between_Esperanto_and_Ido")
 public void testbetween_Esperanto_and_Ido() throws IOException, UrlNotFoundException{
 	Document doc = WikiRunner.getDocument("en", "Comparison_between_Esperanto_and_Ido");
 	Elements tables = extractorwiki.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_between_Esperanto_and_Ido");
@@ -56,7 +56,7 @@ public void testbetween_Esperanto_and_Ido() throws IOException, UrlNotFoundExcep
 }
 
 @Test
-@DisplayName("Comparison test if the number of tables in wiki and html is equal for the title Comparison_of_orbital_launch_systems") 
+@DisplayName("Test if the number of tables in wiki and html is equal for the title Comparison_of_orbital_launch_systems") 
 public void testComparison_of_orbital_launch_systems() throws IOException, UrlNotFoundException {
 
 	Document doc = WikiRunner.getDocument("en", "Comparison_of_orbital_launch_systems");;
@@ -67,7 +67,7 @@ public void testComparison_of_orbital_launch_systems() throws IOException, UrlNo
 }
 
 @Test
-@DisplayName("Comparison test if the number of tables in wiki and html is equal for the title Comparison_of_C_Sharp_and_Visual_Basic_.NET") 
+@DisplayName("Test if the number of tables in wiki and html is equal for the title Comparison_of_C_Sharp_and_Visual_Basic_.NET") 
 public void testComparison_of_C_Sharp_and_Visual_Basic_NET() throws IOException, UrlNotFoundException {
 
 	Document doc = WikiRunner.getDocument("en", "Comparison_of_C_Sharp_and_Visual_Basic_.NET");;
