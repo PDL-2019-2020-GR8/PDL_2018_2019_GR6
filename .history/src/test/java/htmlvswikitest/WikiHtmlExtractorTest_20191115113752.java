@@ -154,7 +154,7 @@ public void testContents_ofCsvAndHtmlFile4() throws IOException, UrlNotFoundExce
 	 String docHtmlLine3 = data2.get(3) ;
 	 String docWikiLine3 = data.get(3) ;
 	 assertEquals( docHtmlLine3, docWikiLine3);
-	 assertEquals(data2.get(3),data.get(3));
+	assertEquals(data2.get(3),data.get(3));
 	}
 	
 	@Test

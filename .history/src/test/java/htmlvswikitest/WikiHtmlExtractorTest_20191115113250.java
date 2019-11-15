@@ -129,9 +129,7 @@ public void testContents_ofCsvAndHtmlFile2() throws IOException, UrlNotFoundExce
 	 Document docWiki = WikiRunner.getDocument("en", "Comparison_of_Dewey_and_Library_of_Congress_subject_classification");
 	 List<String> data = htmlConverter.convertToCsv(dochtml, Constants.EN_BASE_WIKIPEDIA_URL,"Comparison_of_Dewey_and_Library_of_Congress_subject_classification", Constants.HTML_OUTPUT_DIR);
 	 List<String> data2  = wikiConverter.convertToCsv(docWiki, Constants.EN_BASE_WIKIPEDIA_URL, "Comparison_of_Dewey_and_Library_of_Congress_subject_classification", Constants.WIKI_OUTPUT_DIR);
-	 String docHtmlLine2 = data2.get(2) ;
-	 String docWikiLine2 = data.get(2) ;
-	 assertEquals( docHtmlLine2,docWikiLine2);
+	assertEquals(data2.get(2),data.get(2));
   }
 @Test
 @DisplayName("comparison test of the content of the html and csv file of Comparison_of_continuous_integration_software ")
@@ -140,9 +138,7 @@ public void testContents_ofCsvAndHtmlFile3() throws IOException, UrlNotFoundExce
 	 Document docWiki = WikiRunner.getDocument("en", "Comparison_of_continuous_integration_software");
 	 List<String> data = htmlConverter.convertToCsv(dochtml, Constants.EN_BASE_WIKIPEDIA_URL,"Comparison_of_continuous_integration_software", Constants.HTML_OUTPUT_DIR);
 	 List<String> data2  = wikiConverter.convertToCsv(docWiki, Constants.EN_BASE_WIKIPEDIA_URL, "Comparison_of_continuous_integration_software", Constants.WIKI_OUTPUT_DIR);
-	 String docHtmlLine4 = data2.get(4) ;
-	 String docWikiLine4 = data.get(4) ;
-	 assertEquals( docHtmlLine4,docWikiLine4);
+	assertEquals(data2.get(4),data.get(4));
   }
 @Test
 @DisplayName("comparison test of the content of the html and csv file of Comparison_of_Windows_Vista_and_Windows_XP ")
@@ -151,10 +147,7 @@ public void testContents_ofCsvAndHtmlFile4() throws IOException, UrlNotFoundExce
 	 Document docWiki = WikiRunner.getDocument("en", "Comparison_of_Windows_Vista_and_Windows_XP");
 	 List<String> data = htmlConverter.convertToCsv(dochtml, Constants.EN_BASE_WIKIPEDIA_URL,"Comparison_of_Windows_Vista_and_Windows_XP", Constants.HTML_OUTPUT_DIR);
 	 List<String> data2  = wikiConverter.convertToCsv(docWiki, Constants.EN_BASE_WIKIPEDIA_URL, "Comparison_of_Windows_Vista_and_Windows_XP", Constants.WIKI_OUTPUT_DIR);
-	 String docHtmlLine3 = data2.get(3) ;
-	 String docWikiLine3 = data.get(3) ;
-	 assertEquals( docHtmlLine3, docWikiLine3);
-	 assertEquals(data2.get(3),data.get(3));
+	assertEquals(data2.get(3),data.get(3));
 	}
 	
 	@Test
