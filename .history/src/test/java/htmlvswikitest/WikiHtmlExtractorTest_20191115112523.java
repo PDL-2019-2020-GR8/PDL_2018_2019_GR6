@@ -93,12 +93,13 @@ public void testComparison_of_SSH_clients() throws IOException, UrlNotFoundExcep
   }	
 
 @Test
-@DisplayName("Comparison_of_S.M.A.R.T._tools between html")
+@DisplayName("Comparison_of_S.M.A.R.T._tools between html et wiki csv generate")
 public void testContents_ofCSV1() throws IOException, UrlNotFoundException {
 	Document dochtml = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_S.M.A.R.T._tools").get();
 	 List<String> data = htmlConverter.convertToCsv(dochtml, Constants.EN_BASE_WIKIPEDIA_URL,"Comparison_of_S.M.A.R.T._tools", Constants.HTML_OUTPUT_DIR);
-	 String contenu = new String("Argus Monitor,Windows,Trialware[3],GUI,IDE(PATA)  SATA,eSATA  USB,Some RAID controllers,Yes,?,By window  sound  email  program execution at choosable parameter changes  threshold,Also shows temperature of CPU  GPU  CPU core speed  Intel Turbo Boost status  CPU power consumption  system load and system fan speeds. Can control speed of GPU and system fans.");
-	assertEquals(contenu,data.get(2));
+	 String wikiCsvLine2 = new String("Argus Monitor,Windows,Trialware[3],GUI,IDE(PATA)  SATA,eSATA  USB,Some RAID controllers,Yes,?,By window  sound  email  program execution at choosable parameter changes  threshold,Also shows temperature of CPU  GPU  CPU core speed  Intel Turbo Boost status  CPU power consumption  system load and system fan speeds. Can control speed of GPU and system fans.");
+	 String htlmCsvLine2 =  data.get(2);
+   assertEquals( wikiCsvLine2, htlmCsvLine2);
   }
 @Test
 @DisplayName("comparison test of the content of the html and csv file ofComparison_of_Internet_Relay_Chat_bots ")
@@ -107,9 +108,7 @@ public void testContents_ofCSV2() throws IOException, UrlNotFoundException {
 	 Document docWiki = WikiRunner.getDocument("en", "Comparison_of_Internet_Relay_Chat_bots");
 	 List<String> data = htmlConverter.convertToCsv(dochtml, Constants.EN_BASE_WIKIPEDIA_URL,"Comparison_of_Internet_Relay_Chat_bots", Constants.HTML_OUTPUT_DIR);
 	 List<String> data2  = wikiConverter.convertToCsv(docWiki, Constants.EN_BASE_WIKIPEDIA_URL, "Comparison_of_Internet_Relay_Chat_bots", Constants.WIKI_OUTPUT_DIR);
-	 String docHtmlLine2 = data2.get(2) ;
-	 String docWikiLine2 = data.get(2) ;
-	 assertEquals( docHtmlLine2,docWikiLine2);
+	assertEquals(data2.get(2),data.get(2));
   }
 @Test
 @DisplayName("comparison test of the content of the html and csv file ofComparison_of_California_ski_resorts ")
@@ -118,9 +117,7 @@ public void testContents_ofCsvAndHtmlFile() throws IOException, UrlNotFoundExcep
 	 Document docWiki = WikiRunner.getDocument("en", "Comparison_of_California_ski_resorts");
 	 List<String> data = htmlConverter.convertToCsv(dochtml, Constants.EN_BASE_WIKIPEDIA_URL,"Comparison_of_California_ski_resorts", Constants.HTML_OUTPUT_DIR);
 	 List<String> data2  = wikiConverter.convertToCsv(docWiki, Constants.EN_BASE_WIKIPEDIA_URL, "Comparison_of_California_ski_resorts", Constants.WIKI_OUTPUT_DIR);
-	 String docHtmlLine8 = data2.get(8) ;
-	 String docWikiLine8 = data.get(8) ;
-	 assertEquals( docHtmlLine8,docWikiLine8);
+	assertEquals(data2.get(8),data.get(8));
   }
 @Test
 @DisplayName("comparison test of the content of the html and csv file ofComparison_of_Dewey_and_Library_of_Congress_subject_classification ")
@@ -129,9 +126,7 @@ public void testContents_ofCsvAndHtmlFile2() throws IOException, UrlNotFoundExce
 	 Document docWiki = WikiRunner.getDocument("en", "Comparison_of_Dewey_and_Library_of_Congress_subject_classification");
 	 List<String> data = htmlConverter.convertToCsv(dochtml, Constants.EN_BASE_WIKIPEDIA_URL,"Comparison_of_Dewey_and_Library_of_Congress_subject_classification", Constants.HTML_OUTPUT_DIR);
 	 List<String> data2  = wikiConverter.convertToCsv(docWiki, Constants.EN_BASE_WIKIPEDIA_URL, "Comparison_of_Dewey_and_Library_of_Congress_subject_classification", Constants.WIKI_OUTPUT_DIR);
-	 String docHtmlLine2 = data2.get(2) ;
-	 String docWikiLine2 = data.get(2) ;
-	 assertEquals( docHtmlLine2,docWikiLine2);
+	assertEquals(data2.get(2),data.get(2));
   }
 @Test
 @DisplayName("comparison test of the content of the html and csv file of Comparison_of_continuous_integration_software ")
@@ -140,9 +135,7 @@ public void testContents_ofCsvAndHtmlFile3() throws IOException, UrlNotFoundExce
 	 Document docWiki = WikiRunner.getDocument("en", "Comparison_of_continuous_integration_software");
 	 List<String> data = htmlConverter.convertToCsv(dochtml, Constants.EN_BASE_WIKIPEDIA_URL,"Comparison_of_continuous_integration_software", Constants.HTML_OUTPUT_DIR);
 	 List<String> data2  = wikiConverter.convertToCsv(docWiki, Constants.EN_BASE_WIKIPEDIA_URL, "Comparison_of_continuous_integration_software", Constants.WIKI_OUTPUT_DIR);
-	 String docHtmlLine4 = data2.get(4) ;
-	 String docWikiLine4 = data.get(4) ;
-	 assertEquals( docHtmlLine4,docWikiLine4);
+	assertEquals(data2.get(4),data.get(4));
   }
 @Test
 @DisplayName("comparison test of the content of the html and csv file of Comparison_of_Windows_Vista_and_Windows_XP ")
@@ -151,10 +144,7 @@ public void testContents_ofCsvAndHtmlFile4() throws IOException, UrlNotFoundExce
 	 Document docWiki = WikiRunner.getDocument("en", "Comparison_of_Windows_Vista_and_Windows_XP");
 	 List<String> data = htmlConverter.convertToCsv(dochtml, Constants.EN_BASE_WIKIPEDIA_URL,"Comparison_of_Windows_Vista_and_Windows_XP", Constants.HTML_OUTPUT_DIR);
 	 List<String> data2  = wikiConverter.convertToCsv(docWiki, Constants.EN_BASE_WIKIPEDIA_URL, "Comparison_of_Windows_Vista_and_Windows_XP", Constants.WIKI_OUTPUT_DIR);
-	 String docHtmlLine3 = data2.get(3) ;
-	 String docWikiLine3 = data.get(3) ;
-	 assertEquals( docHtmlLine3, docWikiLine3);
-	 assertEquals(data2.get(3),data.get(3));
+	assertEquals(data2.get(3),data.get(3));
 	}
 	
 	@Test

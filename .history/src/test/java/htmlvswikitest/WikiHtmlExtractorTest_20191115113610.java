@@ -151,10 +151,7 @@ public void testContents_ofCsvAndHtmlFile4() throws IOException, UrlNotFoundExce
 	 Document docWiki = WikiRunner.getDocument("en", "Comparison_of_Windows_Vista_and_Windows_XP");
 	 List<String> data = htmlConverter.convertToCsv(dochtml, Constants.EN_BASE_WIKIPEDIA_URL,"Comparison_of_Windows_Vista_and_Windows_XP", Constants.HTML_OUTPUT_DIR);
 	 List<String> data2  = wikiConverter.convertToCsv(docWiki, Constants.EN_BASE_WIKIPEDIA_URL, "Comparison_of_Windows_Vista_and_Windows_XP", Constants.WIKI_OUTPUT_DIR);
-	 String docHtmlLine3 = data2.get(3) ;
-	 String docWikiLine3 = data.get(3) ;
-	 assertEquals( docHtmlLine3, docWikiLine3);
-	 assertEquals(data2.get(3),data.get(3));
+	assertEquals(data2.get(3),data.get(3));
 	}
 	
 	@Test
