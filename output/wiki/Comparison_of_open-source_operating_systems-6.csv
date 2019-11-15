@@ -1,5 +1,167 @@
+Name,License,Kernel type,Kernel programming language,Kernel thread support,OS family,Oldest non-EOL version,Forks
+Linux,[empty],Monolithic with modules,C,1:1,Unix-like,3.16,elks
+FreeBSD,[empty],Monolithic with modules,C,1:1,BSD  Unix-like,11,DragonFly BSD
+OpenBSD,[empty],Monolithic,C,1:1,BSD  Unix-like,6.4,MirOS
+NetBSD,[empty],Monolithic with modules,C,1:1,BSD  Unix-like,7.0,OpenBSD
+DragonFly BSD,[empty],Hybrid,C,1:1,BSD  Unix-like,[empty],[empty]
+OpenSolaris  illumos,[empty],Monolithic with modules,C,1:1  M:N,Unix,[empty],[empty]
+AuroraUX,[empty],Monolithic with modules,C  Ada,1:1  M:N,Unix,[empty],[empty]
+Darwin  OpenDarwin,[empty],Hybrid,C  C++,1:1,BSD  Unix  Unix-like  OS X,[empty],[empty]
+MINIX,[empty],Microkernel,C,[empty],Unix-like,[empty],[empty]
+RedoxOS,[empty],Microkernel,Rust,[empty],Unix-like,[empty],[empty]
+FreeRTOS,[empty],RTOS,C,[empty],RTOS,[empty],[empty]
+FreeDOS,[empty],Monolithic,C,[empty],DOS,1.1,[empty]
+Genode,[empty],Microkernel,C++,1:1,Genode,[empty],[empty]
+Haiku,[empty],Hybrid,C  C++,[empty],BeOS,[empty],TiltOS
+House,[empty],[empty],Haskell,[empty],own/original,[empty],[empty]
+KolibriOS,[empty],Monolithic,ASM,[empty],MenuetOS,[empty],[empty]
+MenuetOS,[empty],Monolithic,ASM,[empty],own/original,[empty],KolibriOS
+GNU,[empty],(Hurd kernel) or Monolithic (Linux-libre kernel  fork of Linux kernel  and other kernels which are not part of the GNU Project),C,1:1,Unix-like,2.4 on Linux-libre kernel (not on Hurd kernel),Linux
+ReactOS,[empty],Hybrid,C  C++,[empty],Windows-like,[empty],[empty]
+RISC OS,[empty],Monolithic (with co-operative multitaslking),ARM assembly,[empty],RISC OS,[empty],RISC OS 6
+L4  Fiasco  Pistachio,[empty],Microkernel,C++,[empty],L4,[empty],[empty]
+Plan 9,[empty],Hybrid,C,1:1  1:M Cothread style.,own  Unix informed,[empty],Inferno  Plan B
+AROS,[empty],Exokernel,C,[empty],AmigaOS,[empty],[empty]
+Syllable,[empty],Monolithic with modules,C  C++,1:1,Unix-like  BeOS  AmigaOS  POSIX,[empty],[empty]
+Inferno,[empty],[empty],C,[empty],Plan 9,[empty],OzInferno
+NuttX,[empty],RTOS,C,[empty],RTOS,[empty],[empty]
+eCos,[empty],RTOS,C  C++,[empty],RTOS,[empty],[empty]
+RTEMS,[empty],RTOS,C and ASM with native support for other languages including C++ and Ada,POSIX  RTEID/ORKID  uITRON,RTOS,4.7.1,[empty]
+HelenOS,[empty],Microkernel,C,M:N,own/original,[empty],[empty]
+E/OS,[empty],Monolithic,ASM  C,1:1,BeOS  Unix-like,[empty],[empty]
+TempleOS,[empty],Monolithic,HolyC  C  C++,[empty],Commodore 64-like,[empty],[empty]
+K42,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UnixLite,[empty],[empty],[empty],[empty],[empty],[empty],-->
+Name,License,Kernel type,Kernel programming language,Kernel thread support,OS family,Oldest non-EOL version,Forks
+Name,x86  i386  IA-32,x86 SMP,Xen,IA-64,x86-64,PowerPC,PowerPC SMP,SPARC32,SPARC SMP,Alpha,MIPS,ARM,XScale,M68k,PA-RISC,OpenRISC,others,hosted mode
+Linux,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],FR-V  Cell  ETRAX CRIS  M32R  Xtensa  h8  s390  SuperH,UML  coLinux  MkLinux  Itanium Linux-on-Linux  wombat
+FreeBSD<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],PC98,[empty]
+OpenBSD<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],SuperH ],[empty]
+NetBSD<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],SuperH  ns32k  VAX  hppa  M68010  mipseb  mipsel  sh3eb  sh3el  sparc64,[empty]
+DragonFly BSD<ref>DragonFly Frequently Asked Questions </ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],vkernel
+OpenSolaris<ref name="opensolarisarch"></ref> illumos,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+AuroraUX<ref name="opensolarisarch"/>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Darwin  OpenDarwin<ref name="opendarwincompatibility"></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],L4/Darwin
+MINIX<ref name="minixhwreq"></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FreeDOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Genode,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],RISC-V,Linux
+Haiku,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty]
+KolibriOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MenuetOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GNU,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],FR-V  Cell  ETRAX CRIS  M32R  Xtensa  h8  s390  SuperH,UML  Itanium Linux-on-Linux
+ReactOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RISC OS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+L4  Pistachio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Plan 9,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],See<ref></ref><ref></ref>,lguest  vx32
+AROS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],i386-linux  i386-freebsd
+Syllable,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Inferno,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],AMD Am29000  Texas Instruments OMAP,Microsoft Windows  Linux  FreeBSD  Plan 9  OS X  Solaris  Irix  UnixWare  HP-UX  Internet Explorer
+FreeRTOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],AVR  PIC  MSP430  HCS12  8052  MicroBlaze  Cortex-M3  H8S,[empty]
+eCos,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],CalmRISC  ColdFire  FR-V  h8  Matsushita AM3x  Nios II  NEC V8xx  SuperH,Microsoft Windows  Linux
+RTEMS,[empty],[empty],Xen,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Blackfin  Nios II  Coldfire  Texas Instruments C3x/C4x  SuperH  H8S,Linux  Solaris  Cygwin  FreeBSD  multiple CPU simulators
+HelenOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+E/OS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TempleOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],QEMU  VirtualBox  etc.
+[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+K42,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+UnixLite,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Name,x86  i386  IA-32,x86 SMP,Xen,IA-64,x86-64,PowerPC,PowerPC SMP,SPARC32,SPARC SMP,Alpha,MIPS,ARM,XScale,M68k,PA-RISC,OpenRISC,other,hosted mode
+Name,ATA,SATA,SCSI,USB 3.0,USB 2.0,USB 1.1,FireWire,PCMCIA/PC card,AGP,Nvidia official driver IA-32,Nvidia official driver IA-64,Nvidia official driver AMD64,ATI official driver x86,ATI official driver x86-64,ATI r200 free software driver,ATI r300 free software driver,Nvidia free software driver,Audio,TV tuner  video editing  or webcam
+Linux,[empty],[empty],[empty],2.6.31+<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],,nv(2d only)  nouveau(3d with mesa),[empty],[empty]
+FreeBSD,[empty],[empty],[empty],8.2+,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OpenBSD,[empty],[empty],[empty],5.7+,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name="openbsd1"></ref>,2d only<ref name="openbsd1"/>,2d only<ref></ref>,[empty],[empty]
+NetBSD,[empty],[empty],[empty],7.1<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DragonFly BSD,[empty],[empty],[empty],<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OpenSolaris  illumos,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+AuroraUX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Darwin  OpenDarwin,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MINIX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FreeDOS,[empty],[empty],[empty],[empty],<ref name="USB with DOS">USB with DOS – Limited support for some devices provided by third-party driver.</ref>,<ref name="USB with DOS"/>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Genode,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Haiku,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KolibriOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MenuetOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GNU,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ReactOS,[empty],[empty],[empty],[empty],<ref name="reactos.org">http://www.reactos.org/wiki/index.php/Installing_ReactOS#Choosing_an_installation_strategy – Very limited support.</ref>,<ref name="reactos.org"/>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RISC OS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],TV tuner<ref></ref>
+L4  Fiasco  Pistachio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Plan 9,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+AROS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],own,[empty],[empty],[empty],2D only,[empty],[empty]
+Syllable,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Inferno,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FreeRTOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+eCos,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RTEMS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HelenOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+E/OS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+K42,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+UnixLite,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+-->,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Name,ATA,SATA,SCSI,USB 3.0,USB 2.0,USB 1.1,FireWire,PCMCIA/PC card,AGP,Nvidia official driver IA-32,Nvidia official driver IA-64,Nvidia official driver AMD64,ATI official driver x86,ATI official driver x86-64,ATI r200 free software driver,ATI r300 free software driver,Nvidia free software driver,Audio,TV tuner  video editing  or webcam
+Name,Networking support,NE2000/RTL8029,RTL8139,Gigabit Ethernet,10 Gigabit Ethernet,Wireless LAN,Bluetooth,IrDA
+Linux,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FreeBSD,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OpenBSD,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NetBSD,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DragonFly BSD,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OpenSolaris  illumos,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+AuroraUX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Darwin  OpenDarwin,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MINIX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FreeDOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Genode,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Haiku,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KolibriOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MenuetOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GNU,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ReactOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+L4  Fiasco  Pistachio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Plan 9,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+AROS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Syllable,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Inferno,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FreeRTOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+eCos,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RTEMS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HelenOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+E/OS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+K42,[added],[added],[added],[added],[added],[added],[added],[added]
+UnixLite -->,[added],[added],[added],[added],[added],[added],[added],[added]
+Name,Networking support,NE2000/RTL8029,RTL8139,Gigabit Ethernet,10 Gigabit Ethernet,Wireless LAN,Bluetooth,IrDA
+Name,Firewall,TCP/IP,IPv6,IPX,PPP,PPPoE,DHCP,bridge,TUN/TAP,ssh,OpenVPN
+Linux,netfilter iptables/nftables,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FreeBSD,IPFW2  IPFilter  PF,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OpenBSD,PF,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NetBSD,IPFilter  NPF  PF,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DragonFly BSD,IPFW2  PF,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OpenSolaris  illumos,IPFilter,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+AuroraUX,IPFilter,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Darwin  OpenDarwin,IPFW,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MINIX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FreeDOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Genode,software IP routing,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Haiku,None,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KolibriOS,None,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MenuetOS,None,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GNU,netfilter iptables/nftables (with Linux-libre and Linux kernel),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ReactOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+L4  Fiasco  Pistachio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Plan 9,ipmux,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+AROS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Syllable,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Inferno,ipmux,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FreeRTOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+eCos,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RTEMS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HelenOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+E/OS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+K42,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+UnixLite -->,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Name,Firewall,TCP/IP,IPv6,IPX,PPP,PPPoE,DHCP,bridge,TUN/TAP,ssh,OpenVPN
 Name,FAT16  dosfs; FAT32  vfat,NTFS,Ext2,Ext3,XFS,ReiserFS,UFS,UFS2,HFS,HFS+,MINIXfs,BFS,ISO 9660,UDF,NFS,SMBFS,RAM disk  tmpfs,ZFS,Other special file systems
-Linux,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref>http://hawking.nonlogic.org/archives/2007/04/06/ufs2_write_support_for_linux</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],9P  FUSE  sysfs  configfs  Reiser4  JFS  Btrfs  UnionFS  Ext4
+Linux,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],9P  FUSE  sysfs  configfs  Reiser4  JFS  Btrfs  UnionFS  Ext4
 FreeBSD,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],FUSE  nullfs  UnionFS
 NetBSD,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],PUFFS  LFS  EFS
 OpenBSD,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],AFS

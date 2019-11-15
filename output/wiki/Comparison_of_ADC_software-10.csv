@@ -1,3 +1,129 @@
+ADC hub,FOSS,Software license,Active,Last Update,Notes
+ADCH++,[empty],[empty],[empty],2016-03-08 / 2.12.1,[added]
+ADCH++ GUI,[empty],[empty],[empty],[empty],[added]
+DSHub,[empty],[empty],[empty],2008-10-09 / RC1,[added]
+FlexHub,[empty],[empty],[empty],2013-10-20 / 0.2 svn 1469,[added]
+Luadch,[empty],[empty],[empty],2019-10-13 / v2.20,[added]
+Nexthub,[empty],[empty],[empty],[empty],[added]
+uhub,[empty],[empty],[empty],2014-10-17 / 0.5.0,In Debian<ref></ref> and OpenWrt<ref></ref>
+ErlHub,[empty],[empty],[empty],[empty],[added]
+Qhub,[empty],[empty],[empty],2006-07-09 / v0.10,[added]
+Starlet ADC Hub,[empty],[empty],[empty],[empty],[added]
+Starhub,[empty],[empty],[empty],[empty],[added]
+RusHub,[empty],[empty],[empty],2012-07-10 / 2.3.10,[added]
+ADC hub,FOSS,Software license,Active,[empty],[added]
+ADC hub,Windows,Linux,OS X,Other
+ADCH++,[empty],[empty],[empty],[empty]
+ADCH++ GUI,[empty],[empty],[empty],Any Python enabled platform
+DSHub,[empty],[empty],[empty],Any Java enabled platform
+FlexHub,[empty],[empty],[empty],[empty]
+Luadch,[empty],[empty],[empty],Raspberry Pi  Synology NAS  any GCC enabled platform
+Nexthub,[empty],[empty],[empty],Any C# enabled platform
+uhub,[empty],[empty],[empty],BSD  Haiku  OpenWrt  Solaris
+Erlhub,[empty],[empty],[empty],Any Erlang enabled platform
+Qhub,[empty],[empty],[empty],[empty]
+Starlet ADC Hub,[empty],[empty],[empty],OpenVMS
+Starhub,[empty],[empty],[empty],Any Java enabled platform
+RusHub,[empty],[empty],[empty],FreeBSD  Solaris
+ADC hub,Windows,Linux,OS X,Other
+ADC hub,GUI,CLI,Other,Programming language,Based on
+ADCH++,[empty],[empty],[empty],C++  Lua  Python  Ruby,[empty]
+ADCH++ GUI,[empty],[empty],[empty],C++  Python,ADCH++
+DSHub,[empty],[empty],[empty],Java  Python,[empty]
+FlexHub,Planned,[empty],[empty],Lua,[empty]
+Luadch,[empty],[empty],[empty],C++  Lua,[empty]
+Luadch GUI,[empty],[empty],[empty],wxLua,[empty]
+Nexthub,[empty],[empty],[empty],C-Sharp,[empty]
+uhub,[empty],[empty],[empty],C,[empty]
+Erlhub,[empty],[empty],[empty],Erlang,[empty]
+Qhub,[empty],[empty],[empty],[empty],[empty]
+Starlet ADC Hub,[empty],[empty],[empty],C,[empty]
+StarHub,[empty],[empty],[empty],Java,[empty]
+RusHub,[empty],[empty],[empty],C++,[empty]
+ADC hub,GUI,CLI,Other,Programming language,Based on
+ADC hub,Encryption,IPv6,Plugin,Hash algorithms,Bloom filter,ADC support,Other
+ADCH++,[empty],[empty],Lua  Python  Ruby,Tiger tree hash,[empty],TIGR  PING  ADCS,[empty]
+ADCH++ GUI,[empty],[empty],Python,Tiger tree hash,[empty],TIGR  PING  ADCS,[empty]
+DSHub,[empty],[empty],Java  Python,Tiger tree hash,[empty],TIGR  PING  ADCS,[empty]
+FLexHub,[empty],[empty],[empty],Tiger tree hash,[empty],TIGR  PING  ADCS,[empty]
+Luadch,[empty],[empty],Lua,Tiger tree hash,[empty],TIGR  PING  ADCS  KEYP  ASCH  SUDP  OSNR,[empty]
+Nexthub,[empty],[empty],C#,Tiger tree hash,[empty],TIGR  ADCS,[empty]
+uhub,[empty],[empty],C,Tiger tree hash,[empty],TIGR  PING  ADCS,[empty]
+Qhub,[empty],[empty],[empty],Tiger tree hash,[empty],TIGR,[empty]
+Starlet ADC Hub,[empty],[empty],[empty],Tiger tree hash,[empty],TIGR,[empty]
+Starhub,[empty],[empty],[empty],Tiger tree hash,[empty],TIGR,[empty]
+RusHub,[empty],[empty],[empty],Tiger tree hash,[empty],TIGR,[empty]
+ADC hub,Encryption,IPv6,Plugin,Hash algorithms,Bloom filter,ADC support,Other
+ADC client,FOSS,Software license,Active,Last Update
+AirDC++,[empty],[empty],[empty],2019
+AirDC++ Web Client,[empty],[empty],[empty],2019
+ApexDC++,[empty],[empty],[empty],2017
+DC++,[empty],[empty],[empty],2018
+jucy,[empty],[empty],[empty],2014
+LinuxDC++,[empty],[empty],[empty],2011
+EiskaltDC++,[empty],[empty],[empty],2015
+FlylinkDC++,[empty],[empty],[empty],2017
+RSX++,[empty],[empty],[empty],2011
+TkDC++,[empty],[empty],[empty],2010
+StrongDC++,[empty],[empty],[empty],2010
+RevConnect,[empty],[empty],[empty],2007
+ncdc,[empty],[empty],[empty],2019
+ADC client,FOSS,Software license,Active,[empty]
+ADC client,Windows,Linux,OS X,BSD,Haiku
+AirDC++,[empty],[empty],[empty],[empty],[empty]
+AirDC++ Web Client,[empty],[empty],<ref></ref>,[empty],[empty]
+ApexDC++,[empty],[empty],[empty],[empty],[empty]
+DC++,[empty],[empty],[empty],[empty],[empty]
+jucy,[empty],[empty],[empty],[empty],[empty]
+LinuxDC++,[empty],[empty],[empty],[empty],[empty]
+EiskaltDC++,[empty],[empty],[empty],[empty],[empty]
+FlylinkDC++,[empty],[empty],[empty],[empty],[empty]
+RSX++,[empty],[empty],[empty],[empty],[empty]
+TKDC++,[empty],[empty],[empty],[empty],[empty]
+StrongDC++,[empty],[empty],[empty],[empty],[empty]
+ncdc,[empty],[empty],[empty],[empty],[empty]
+ADC client,Windows,Linux,OS X,BSD,Haiku
+ADC client,GUI,CLI,WebUI,Programming language,Based on
+AirDC++,[empty],[empty],[empty],C++,StrongDC++
+AirDC++ Web Client,[empty],[empty],[empty],C++  TypeScript,AirDC++
+ApexDC++,[empty],[empty],[empty],C++  Lua,StrongDC++
+DC++,[empty],[empty],[empty],C++,[empty]
+Jucy,[empty],[empty],[empty],Java,[empty]
+LinuxDC++,[empty],[empty],[empty],C++,DC++
+EiskaltDC++,[empty],[empty],[empty],C++  Lua,DC++
+FlylinkDC++,[empty],[empty],[empty],C++,StrongDC++  DC++  ApexDC speed mode
+RSX++,[empty],[empty],[empty],C++  Lua,StrongDC++
+TKDC++,[empty],[empty],[empty],C++  Lua,StrongDC++  DC++
+StrongDC++,[empty],[empty],[empty],C++,DC++
+ncdc,[empty],[empty],[empty],C,[empty]
+ADC client,GUI,CLI,WebUI,Programming language,Based on
+ADC client,Magnet URI,UPnP,NAT traversal,DHT,Encryption,IPv6,Plugin/API,Proxy,Hash algorithms,Protocol support,NMDC compatible,Other
+AirDC++,[empty],[empty],[empty],[empty],[empty],[empty],Web API,[empty],Tiger tree hash,TIGR  ADCS  UCMD NATT  SEGA  PFSR  KEYP  PBD1  UBN1  MCN1  BLOM  SUDP  QP  HBRI  ASCH,[empty],[empty]
+AirDC++ Web Client,[empty],[empty],[empty],[empty],[empty],[empty],Web API,[empty],Tiger tree hash,Inherits from AirDC++,[empty],[empty]
+ApexDC++,[empty],[empty],[empty],[empty],[empty],[empty],C++  Lua,[empty],Tiger tree hash,Inherits from StrongDC++,[empty],[empty]
+DC++,[empty],[empty],[empty],[empty],[empty],[empty],C++  Lua,[empty],Tiger tree hash,TIGR  ADCS  UCMD  BLOM  NATT  SEGA,[empty],[empty]
+jucy,[empty],[empty],[empty],[empty],[empty],[empty],Eclipse RCP,[empty],Tiger tree hash,TIGR  ADCS  KEYP  SUDP  BLOM  UCMD,[empty],[empty]
+LinuxDC++,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Tiger tree hash,Inherits from DC++,[empty],[empty]
+EiskaltDC++,[empty],[empty],[empty],[empty],[empty],[empty],Lua  QtScript  QML,[empty],Tiger tree hash,TIGR  ADCS  UCMD  BLOM  NATT  SEGA  PFSR  KEYP  FS,[empty],[empty]
+FlylinkDC++,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Tiger tree hash,Inherits from StrongDC++,[empty],[empty]
+RSX++,[empty],[empty],[empty],[empty],[empty],[empty],C++  Lua,[empty],Tiger tree hash,Inherits from StrongDC++,[empty],[empty]
+TKDC++,[empty],[empty],[empty],[empty],[empty],[empty],C++  Lua,[empty],Tiger tree hash,TIGR  ADCS  UCMD  BLOM  NATT  PFSR  SEGA,[empty],[empty]
+[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+StrongDC++,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Tiger tree hash,TIGR  ADCS  UCMD  BLOM  NATT  PFSR  QP  SEGA,[empty],[empty]
+ncdc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Tiger tree hash,TIGR  ADCS  KEYP  SUDP,[empty],[empty]
+ADC client,Magnet URI,UPnP,NAT traversal,DHT,Encryption,IPv6,Plugin,Proxy,Hash algorithms,Protocol support,NMDC compatible,Other
+Other software,Software type,FOSS,Software license,Active,Last Update
+ADCCore,General library,[empty],[empty],[empty],[empty]
+DCBouncer,Relay,[empty],[empty],[empty],[empty]
+DC-Hublink,Hub linker,[empty],[empty],[empty],[empty]
+DCWatch,Hub operator helper,[empty],[empty],[empty],[empty]
+Embla,General library,[empty],[empty],[empty],[empty]
+FlowLib,General library,[empty],[empty],[empty],[empty]
+NetChatLink,Hub linker,[empty],[empty],[empty],[empty]
+Announcer Bot,Announce new Releases,[empty],[empty],[empty],[empty]
+Certmanager,Manage SSL Certificates,[empty],[empty],[empty],[empty]
+SerieBot,SerieBot,[empty],[empty],[empty],[empty]
+Other software,Software type,FOSS,Software license,Active,[empty]
 Other software,Windows,Linux,OS X,Other
 ADCCore,[empty],[empty],[empty],Any .NET4 enabled platform
 DCBouncer,[empty],[empty],[empty],[empty]

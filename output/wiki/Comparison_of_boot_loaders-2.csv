@@ -1,8 +1,47 @@
+Name,License,Can reside in,Can boot from,Can boot
+ESP (UEFI),MBR,VBR,Floppy,Hard disk
+Acronis OS Selector,[empty],[empty],[empty],[empty]
+AiR-Boot,[empty],[empty],[empty],[empty]
+AKernelLoader,[empty],[empty],[empty],[empty]
+Barebox,[empty],[empty],[empty],[empty]
+BootIt Bare Metal (formerly BootIt Next Generation),[empty],[empty],[empty],[empty]
+BootKey,[empty],[empty],[empty],[empty]
+BootManager,[empty],[empty],[empty],[empty]
+BootX (Apple),[empty],[empty],[empty],[empty]
+BootX (Linux),[empty],[empty],[empty],[empty]
+Clover (fork of rEFIt),/BSD license,[empty],[empty],[empty]
+Darwin Boot Loader,[empty],[empty],[empty],[empty]
+Das U-Boot,[empty],[empty],[empty],[empty]
+GAG,+,[empty],(SafeBoot),[empty]
+GRUB Legacy,+,[empty],[empty],[empty]
+GNU GRUB,[empty],[empty],[empty],[empty]
+GRUB4DOS,+,[empty],[empty],[empty]
+Gujin http://gujin.sourceforge.net/,[empty],[empty],[empty],[empty]
+systemd-boot / Gummiboot,[empty],[empty],[empty],[empty]
+iBoot,[empty],[empty],[empty],[empty]
+LILO,[empty],[empty],[empty],[empty]
+loader(8),[empty],[empty],[empty],[empty]
+loadlin,+,[empty],[empty],[empty]
+MasterBooter,[empty],[empty],[empty],[empty]
+NTLDR,[empty],[empty],[empty],[empty]
+OSL2000 Boot Manager,[empty],[empty],[empty],[empty]
+PLoP Bootmanager,[empty],[empty],[empty],[empty]
+RedBoot,mod +,[empty],[empty],[empty]
+rEFInd (fork of rEFIt),/BSD license,[empty],[empty],[empty]
+rEFIt (not maintained),/BSD license,[empty],[empty],[empty]
+Smart Boot Manager,+,[empty],[empty],[empty]
+SPFdisk,+,[empty],[empty],[empty]
+SYSLINUX,+,[empty],[empty],[empty]
+XOSL,[empty],[empty],[empty],[empty]
+Windows Boot Manager,[empty],[empty],[empty],[empty]
+FreeLoader (ReactOS Boot Loader),+,[empty],[empty],[empty]
+Name,Software license,Can reside in,Can boot from,Can boot
+ESP (UEFI),MBR,VBR,Floppy,Hard disk
 Name,Advanced command,Scriptable,Supported architecture,Supported filesystem,Supported OS,Supported executable,Supported protocol,Supported decompression,Others
 GRUB Legacy,[empty],[empty],x86 (PC),FAT16  FAT32  MINIX fs  Linux ext2  ext3  ext4  ReiserFS  JFS  XFS  VSTa fs  Btrfs,FreeBSD  NetBSD  OpenBSD  GNU/Linux,ELF,TFTP,gzip,[empty]
 GRUB 2,[empty],[empty],x86 (PC  UEFI  coreboot  OLPC  Mac)  IA-64  ARM (U-Boot  UEFI)  PowerPC (Mac  Pegasos II  IBM)  MIPS  SPARC (SPARC v9)  QEMU,ext2  ext3  ext4  btrfs  zfs  ufs  minix  iso9660  udf  jfs  hfs  hfs+  afs  affs  sfs  xfs  reiserfs  tar  cpio  NTFS  FAT16  FAT32,Linux (PC  mac)  FreeBSD (PC)  OpenBSD (PC)  NetBSD (PC),Multiboot and others,[empty],gzip  xz<ref></ref>,[empty]
 LILO,[empty],[empty],x86 (PC),indifferent,[empty],[empty],[empty],bzip2  gzip,[empty]
-loader(8),[empty],[empty],x86 (PC  UEFI  coreboot  OLPC  Mac)  ARM (U-Boot  UEFI)  PowerPC  SPARC v9,ISO-9660  UFS  ZFS,FreeBSD,ELF,TFTP  NFS,gzip  xz,[empty]
+loader(8),[empty],[empty],x86 (PC  UEFI  coreboot  OLPC  Mac)  ARM (U-Boot  UEFI)  MIPS  PowerPC  SPARC v9,FAT12/FAT16/FAT32/VFAT  ext2  NANDFS  ISO-9660  UFS  ZFS,FreeBSD,ELF,TFTP  NFS,gzip  bzip2,[empty]
 LOLO (Logic PD),[empty],[empty],ARM7  ARM9  ARM11  Cortex-A8  StrongARM  SH  ColdFire,FAT16  FAT32  YAFFS1  YAFFS2,Linux  WinCE,ELF  binary  BIN (WinCE)  SREC,TFTP,[empty],Supported devices: MCF54xx  MCF5329  MCF5373  LLH7A400  LLH7A404  LLH79520  LLH79524  LSH7727  LSH7750  LSH7760  PXA270  PXA320  IMX31  IMX27  OMAP35xx  OMAP37xx
 SYSLINUX,[empty],[empty],x86 (PC),ext2  ext3  ext4  btrfs  ufs 1/2  FAT16  FAT32  iso9660  udf  NTFS (since 4.06)  ?,GNU/Linux,Multiboot<ref></ref>,TFTP,gzip  bzip2  lzo  zip  lzma  ?,[empty]
 AKernelLoader,[empty],[empty],x86 (PC),FAT32  ext2  ext3,GNU/Linux,ELF  Binary,[empty],[empty],[empty]
@@ -15,7 +54,7 @@ Runnix,[empty],[empty],[empty],[empty],Linux,[empty],[empty],[empty],kexec and S
 kexec-loader,[empty],[empty],x86,most supported by Linux Kernel (ext2  ext3  ext4  reiserfs  xfs  jfs  etc..),Linux/multiboot,[empty],No networking,gzip (for kernel modules),Kernel/multiboot module support
 NTLDR,[empty],[empty],x86 (PC),[empty],Windows,[empty],[empty],[empty],default bootloader on Windows NT
 Windows Boot Manager,[empty],[empty],x86 (PC)  ARM (only on Windows Mobile remake),NTFS,Windows Vista  7  8  and 10,Portable Executable,[empty],[empty],Successor of NTLDR; used on Vista and up.
-FREELDR,[empty],[empty],x86 (PC)  ARM  PowerPC,ext2  FAT12  FAT16  FAT32  ISO  NTFS,ReactOS  Linux  Windows NT 4.0  Windows 2000  Windows XP  Windows 2003,[empty],[empty],[empty],clone of NTLDR
+FREELDR,[empty],[empty],x86 (PC)  ARM  PowerPC,ext2  FAT12  FAT16  FAT32  ISO  NTFS BtrFS,ReactOS  Linux  Windows NT 4.0  Windows 2000  Windows XP  Windows 2003,[empty],[empty],[empty],clone of NTLDR
 boot0,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],FreeBSD's master boot record
 extipl,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],IBM IPL upper compatible
 Multiple Boot Manager,[empty],[empty],[empty],[empty],PC DOS  MS-DOS  Windows  OS/2  Linux  FreeBSD  NetBSD  OpenBSD  BeOS  B-right/V  Solaris  OpenStep  Plan 9  EOTA<ref>ELM - Multiple Boot Manager</ref>,[empty],[empty],[empty],[empty]

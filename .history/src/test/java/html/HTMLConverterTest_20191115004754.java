@@ -164,32 +164,32 @@ public class HTMLConverterTest {
 	
 	
 	
-	// @Test
-	// @AfterAll
-	// @DisplayName("test validity of all csv files")
-	// @Tag("robustness")
-	// public static void testAreCsvFilesValid2() {
-	// 	File[] files = null;
-	// 	int counter = 0;
-	// 	File htmlDirectory = null;
-	// 	try {
-	// 		htmlDirectory = new File(Constants.HTML_OUTPUT_DIR);
-	// 		assertTrue(htmlDirectory.isDirectory());
-	// 		files = htmlDirectory.listFiles();
-	// 		for(File f : files) {
-	// 			counter++;
-	// 			fileHandler.isCsvFileValid(separator, f);
-	// 			System.out.println(f.getName()+" is valid : "+fileHandler.isCsvFileValid(separator, f));
-	// 			assertTrue(fileHandler.isCsvFileValid(separator, f));
-	// 		}
-	// 	} catch (Exception e) {
-	// 		// TODO: handle exception
-	// 		System.out.println(e.getMessage());
-	// 	}
+	@Test
+	@AfterAll
+	@DisplayName("test validity of all csv files")
+	@Tag("robustness")
+	public static void testAreCsvFilesValid2() {
+		File[] files = null;
+		int counter = 0;
+		File htmlDirectory = null;
+		try {
+			htmlDirectory = new File(Constants.HTML_OUTPUT_DIR);
+			assertTrue(htmlDirectory.isDirectory());
+			files = htmlDirectory.listFiles();
+			for(File f : files) {
+				counter++;
+				fileHandler.isCsvFileValid(separator, f);
+				System.out.println(f.getName()+" is valid : "+fileHandler.isCsvFileValid(separator, f));
+				assertTrue(fileHandler.isCsvFileValid(separator, f));
+			}
+		} catch (Exception e) {
+			// TODO: handle exception
+			System.out.println(e.getMessage());
+		}
 		
-	// 	System.out.println("total number of files tested : "+counter);
+		System.out.println("total number of files tested : "+counter);
 		
-	// }
+	}
 	
 	
 }

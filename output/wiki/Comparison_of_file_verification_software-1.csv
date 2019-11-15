@@ -1,16 +1,17 @@
 Software,Developer,First public release,Latest stable date (version),Cost (USD),Open source,License,Linux,Mac OS X,Windows,Framework
+7-Zip,Igor Pavlov,1999-07-19,2019-02-21,[empty],[empty],GNU LGPLv2.1+ with unRAR restriction / LZMA SDK in the public domain,[empty],[empty],[empty],C++
 AccuHash,Irnis Haliullin,[empty],2008-11-06 (2.0.18),[empty],[empty],proprietary,[empty],[empty],[empty],[empty]
 BeaverSFV,Karl-Johan Sjögren,2008-09-14,1.2,[empty],[empty],freeware,[empty],[empty],[empty],.NET
-CDCheck,Mitja Perko,2003 ?,2008-04-10 (3.1.14.0),various,[empty],proprietary,[empty],[empty],[empty],[empty]
+CDCheck,Mitja Perko,2003,2008-04-10 (3.1.14.0),various,[empty],proprietary,[empty],[empty],[empty],VCL
 Checksum Compare,Sanktu Aire,2012,2016-02-10 (v1.42),[empty],[empty],freeware,[empty],[empty],[empty],Qt
 Checksums,Acera AS,2015-05-12,2015-12-01 (1.0.2),[empty],[empty],freeware,[empty],[empty],[empty],C++
 cfv,Matthew Mueller,2000-06-22,2009-06-07 (1.18.3),[empty],[empty],GPL,[empty],[empty],[empty],Python
-[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
-CHK,Ilya Muravyov,2010,2017-11-06 (v2.35),[empty],[empty],freeware,[empty],[empty],[empty],VCL
+CHK,Ilya Muravyov,2010,2019-09-20 (v3.21),[empty],[empty],freeware,[empty],[empty],[empty],VCL
 cksum,various (POSIX),[empty],various,[empty],[empty],various,[empty],[empty],[empty],C
-CyoHash,Graham Bull,2009-09-01,2016-02-04 (2.2.0.1),[empty],[empty],BSD,[empty],[empty],[empty],C++
+CyoHash,Graham Bull,2009-09-01,2019-10-04 (2.4.0),[empty],[empty],BSD,[empty],[empty],[empty],C++
 Data Digester,Leisenfels,2013-03-14,2015-04-15 (1.6.15),[empty],[empty],proprietary,[empty],[empty],[empty],Java
 DeepDigest,Nick Stone,2012-03-24,2014-06-16 (1.3.27),[empty],[empty],GPL,[empty],[empty],[empty],Qt
+Double Commander,Alexander Koblov and others,2007,2019-02-16 (0.9.1),[empty],[empty],GPL,[empty],[empty],[empty],Object Pascal (Free Pascal/Lazarus)
 DySFV,Johan Sonesson,2007,2013-04-23 (1.4.0.0),[empty],[empty],GPL,[empty],[empty],[empty],.NET
 ExactFile,Brandon Staggs,2009,2009-02-23 (1.0.0.15),[empty],[empty],freeware,[empty],[empty],[empty],VCL
 eXpress CheckSum Calculator,Irnis Haliullin,2002,2002-12-27 (1.0),[empty],[empty],freeware,[empty],[empty],[empty],[empty]
@@ -22,7 +23,7 @@ FlashSFV,Charles DeWeese,2007,2007-07-22 (2.6),[empty],[empty],freeware/donation
 FSUM,SlavaSoft,[empty],2007-03-03 (2.52),[empty],[empty],freeware,[empty],[empty],[empty],[empty]
 Fsum Frontend,Thierry Micholt,2007,2008-05-27 (1.5.5.1),[empty],[empty],GPL,[empty],[empty],[empty],[empty]
 PowerShell (via Get-FileHash),Microsoft,2012-09-04 (3.0),2018-01-10 (6.0),[empty],[empty],MIT License,[empty],[empty],[empty],.NET Core  .NET Framework
-GtkHash<ref>https://github.com/tristanheaven/gtkhash</ref>,Tristan Heaven<ref>https://www.unix.com/man-page/all/1/gtkhash/</ref>,2007-06-29 (0.1.0),2017-11-01 (1.1.1 ),[empty],[empty],GPL,[empty],[empty],[empty],GTK
+GtkHash<ref>https://github.com/tristanheaven/gtkhash</ref>,Tristan Heaven<ref>https://www.unix.com/man-page/all/1/gtkhash/</ref>,2007-06-29 (0.1.0),2018-11-27 (1.2 ),[empty],[empty],GPL,[empty],[empty],[empty],GTK
 HashCalc,SlavaSoft,[empty],2007-03-03 (2.02),[empty],[empty],freeware,[empty],[empty],[empty],[empty]
 HashCheck Shell Extension: Gurnec version  SDL version,Kai Liu  various  gurnec (2.2.2-2.4.0)  Software Development Laboratories (3.0-3.1),2008-11-29,2016-09-07 (2.4.0),[empty],[empty],BSD,[empty],[empty],[empty],C
 HashForm,Igor Gresovnik,2010,? (1.6),[empty],[empty],freeware,[empty],[empty],[empty],.NET
@@ -37,21 +38,21 @@ md5deep (and HashDeep),Jesse Kornblum,2003,2014-01-29 (4.4),[empty],[empty],publ
 md5sum,various (POSIX),[empty],various,[empty],[empty],various,[empty],[empty],[empty],[empty]
 MD5summer,Luke Pascoe,[empty],2006-04-05 (1.2.0.11),[empty],[empty],GPL / postcards,[empty],[empty],[empty],(Delphi 7)
 MD5 Win Verifier,Serafino Sorleti,2014-03-06,2014-06-19 (1.1.0.5),[empty],[empty],freeware,[empty],[empty],[empty],.NET
-PeaZip,Giorgio Tani,2006-09-16,2018-10-28 (6.6.1),[empty],[empty],LGPL,[empty],[empty],[empty],Free Pascal
+PeaZip,Giorgio Tani,2006-09-16,2019-09-01 (6.9.2),[empty],[empty],LGPL,[empty],[empty],[empty],Free Pascal
 QuickSFV,Mercedes,1999-11-22,2008-03-13 (2.36),[empty],[empty],freeware,[empty],[empty],[empty],[empty]
 RapidCRC,[empty],2004,2005-02-05 (0.6.1),[empty],[empty],GPL,[empty],[empty],[empty],[empty]
-RekSFV,TryAndError  Inc.,2006,2017-07-23 (v1.7.6),[empty],[empty],freeware,[empty],[empty],[empty],VCL
-RHash,Aleksey (Akademgorodok),[empty],2014-08-05 (v1.3.3),[empty],[empty],freeware,[empty],[empty],[empty],C
+RekSFV,TryAndError  Inc.,2006,2019-02-23 (v1.8.1),[empty],[empty],freeware,[empty],[empty],[empty],VCL
+RHash,Aleksey (Akademgorodok),[empty],2019-02-09 (v1.3.8),[empty],[empty],freeware,[empty],[empty],[empty],C
 SafeFileManager,Mindbytez Software,2012-11,2018-08-27 (v1.2),[empty],[empty],freeware,[empty],[empty],[empty],Java
 Sigcheck,Mark Russinovich (Sysinternals - Microsoft),?,2016-07-29 (v2.53),[empty],[empty],freeware / Licensing FAQ,[empty],[empty],[empty],?
-SFV Checker,Traction Software,[empty],2013-08-05 (2.01),various,[empty],proprietary,[empty],[empty],[empty],[empty]
+SFV Checker,Traction Software,[empty],2018-08-13 (2.04),various,[empty],proprietary,[empty],[empty],[empty],[empty]
 sha1sum,various (POSIX),[empty],various,[empty],[empty],various,[empty],[empty],[empty],[empty]
 sha3sum,various (POSIX),[empty],various,[empty],[empty],various,[empty],[empty],[empty],Perl
 SuperSFV,Thomas Dixon,[empty],1.2,[empty],[empty],GPL,[empty],[empty],[empty],[empty]
-TeraCopy,Code Sector,2007,2017-02-23 (v3.0),various,[empty],freeware/shareware,[empty],[empty],[empty],[empty]
+TeraCopy,Code Sector,2007,2017-02-23 (v3.0),various,[empty],freeware/shareware,[empty],[empty],[empty],Swift  Delphi
 Tom's Hash Explorer,Tom Andreas Mannerud,2016,2016-08-19 (1.2.0.0),[empty],[empty],freeware,[empty],[empty],[empty],.NET
 Toolsley Hash & Validate,Toolsley.com,2014,various,[empty],[empty],freeware/shareware,[empty],[empty],[empty],[empty]
-Total Commander,Christian Ghisler,2010-06-17,2015-09-17 (8.52a),[empty],[empty],proprietary,[empty],[empty],[empty],Delphi
+Total Commander,Christian Ghisler,2010-06-17,2019-03-14 (9.22),[empty],[empty],proprietary,[empty],[empty],[empty],Delphi
 WinHasher,Jeffrey T. Darlington,2007-09-26,2013-08-02 (v1.6.2.67),[empty],[empty],GPL,[empty],[empty],[empty],.NET 2.0
 wxChecksums,Julien Couot,2003,2006-03-04 (v1.2.2),[empty],[empty],GPL,[empty],[empty],[empty],GTK
 Software,Developer,First public release,Latest stable date (version),Cost (USD),Open source,License,Linux,Mac OS X,Windows,Framework

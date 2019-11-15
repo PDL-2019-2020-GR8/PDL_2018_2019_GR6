@@ -1,3 +1,34 @@
++
+Product
+Adminer
+DaDaBIK
+Database Deployment Manager
+DatabaseSpy
+Database Workbench
+DataGrip
+[added]
+DBeaver
+DBEdit
+Epictetus
+HeidiSQL
+Maatkit
+Microsoft SQL Server Management Studio
+ModelRight
+MySQL Workbench
+Navicat
+Navicat Data Modeler
+Oracle Enterprise Manager
+Oracle SQL Developer
+Orbada
+pgAdmin III
+phpLiteAdmin
+phpMyAdmin
+SQL Database Studio
+SQLyog
+SQuirreL SQL
+Toad
+Toad Data Modeler
+TOra
 Tools,User Interface,Create & Alter wizard,Browse,Auto Completion,Syntax colored,Multi server support,Monitoring server
 Database,Table,Procedure,Trigger,Database,Table,Procedure,Trigger
 Adminer,Browser-based,[empty],[empty],[empty],[empty],[empty],[empty]
@@ -10,7 +41,6 @@ DBeaver,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
 [added],[added],[added],[added],[added],[added],[added],[added]
 DBEdit,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
 Epictetus,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
-ER/Builder Data Modeler,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
 Microsoft SQL Server Management Studio,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
 ModelRight,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
 MySQL Workbench,desktop,[empty],[empty],[empty],[empty],[empty],[empty]

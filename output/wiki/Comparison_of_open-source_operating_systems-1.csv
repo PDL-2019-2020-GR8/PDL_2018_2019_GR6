@@ -1,8 +1,8 @@
 Name,License,Kernel type,Kernel programming language,Kernel thread support,OS family,Oldest non-EOL version,Forks
-Linux,[empty],Monolithic with modules,C,1:1,Unix-like,2.6.32.61,[empty]
-FreeBSD,[empty],Monolithic with modules,C,1:1,BSD  Unix-like,8.4,DragonFly BSD
-OpenBSD,[empty],Monolithic,C,1:1,BSD  Unix-like,5.9,MirOS
-NetBSD,[empty],Monolithic with modules,C,1:1,BSD  Unix-like,6.0,OpenBSD
+Linux,[empty],Monolithic with modules,C,1:1,Unix-like,3.16,elks
+FreeBSD,[empty],Monolithic with modules,C,1:1,BSD  Unix-like,11,DragonFly BSD
+OpenBSD,[empty],Monolithic,C,1:1,BSD  Unix-like,6.4,MirOS
+NetBSD,[empty],Monolithic with modules,C,1:1,BSD  Unix-like,7.0,OpenBSD
 DragonFly BSD,[empty],Hybrid,C,1:1,BSD  Unix-like,[empty],[empty]
 OpenSolaris  illumos,[empty],Monolithic with modules,C,1:1  M:N,Unix,[empty],[empty]
 AuroraUX,[empty],Monolithic with modules,C  Ada,1:1  M:N,Unix,[empty],[empty]
@@ -18,6 +18,7 @@ KolibriOS,[empty],Monolithic,ASM,[empty],MenuetOS,[empty],[empty]
 MenuetOS,[empty],Monolithic,ASM,[empty],own/original,[empty],KolibriOS
 GNU,[empty],(Hurd kernel) or Monolithic (Linux-libre kernel  fork of Linux kernel  and other kernels which are not part of the GNU Project),C,1:1,Unix-like,2.4 on Linux-libre kernel (not on Hurd kernel),Linux
 ReactOS,[empty],Hybrid,C  C++,[empty],Windows-like,[empty],[empty]
+RISC OS,[empty],Monolithic (with co-operative multitaslking),ARM assembly,[empty],RISC OS,[empty],RISC OS 6
 L4  Fiasco  Pistachio,[empty],Microkernel,C++,[empty],L4,[empty],[empty]
 Plan 9,[empty],Hybrid,C,1:1  1:M Cothread style.,own  Unix informed,[empty],Inferno  Plan B
 AROS,[empty],Exokernel,C,[empty],AmigaOS,[empty],[empty]

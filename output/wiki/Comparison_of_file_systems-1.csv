@@ -2,7 +2,7 @@ File system,Creator,Year of introduction,Original operating system
 DECtape,DEC,1964,PDP-6 Monitor
 OS/3x0 FS,IBM,1964,OS/360
 Level-D,DEC,1968,TOPS-10
-George 2,ICT (later ICL),1968,George 2
+George 3,ICT (later ICL),1968,George 3
 Version 6 Unix file system (V6FS),Bell Labs,1972,Version 6 Unix
 RT-11 file system,DEC,1973,RT-11
 Disk Operating System (GEC DOS),GEC,1973,Core Operating System
@@ -16,10 +16,10 @@ CBM DOS,Commodore,1978,Commodore BASIC
 Version 7 Unix file system (V7FS),Bell Labs,1979,Version 7 Unix
 ODS-2,DEC,1979,OpenVMS
 FAT12,Seattle Computer Products (Tim Paterson),1980,QDOS/86-DOS (later IBM PC DOS 1.0)
+ProDOS,Apple,1980,Apple SOS (later ProDOS 8)
 DFS,Acorn Computers Ltd,1982,Acorn BBC Micro MOS
 ADFS,Acorn Computers Ltd,1983,Acorn Electron (later Arthur/RISC OS)
 FFS,Kirk McKusick,1983,4.2BSD
-ProDOS,Apple,1983,ProDOS 8
 FAT16,IBM  Microsoft,1984,PC DOS 3.0  MS-DOS 3.0
 MFS,Apple,1984,System 1
 Elektronika BK tape format,NPO "Scientific centre" (now Sitronics),1985,Vilnius Basic  BK monitor program
@@ -92,8 +92,11 @@ UniFS,Nasuni,2009,Cloud
 CASL,Nimble Storage,2010,Linux
 OrangeFS,Omnibond and others,2011,Linux
 VMFS5,VMware,2011,vSphere 5.0+
+CHFS,University of Szeged,2011,NetBSD 6.0+
 ReFS,Microsoft,2012,Windows Server 2012
 F2FS,Samsung Electronics,2012,Linux
 bcachefs,Kent Overstreet,2015,Linux
 APFS,Apple,2016,macOS High Sierra  iOS 10.3
 NOVA,UC  San Diego,2017,Linux
+HAMMER2,Matthew Dillon<ref name=hammer2_design></ref>,2017,DragonFly BSD 5.0
+EROFS,Huawei<ref></ref>,2018,Android

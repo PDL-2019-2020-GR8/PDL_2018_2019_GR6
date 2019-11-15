@@ -1,3 +1,184 @@
+Name,Developer,Software license,Latest stable software release,Operating system,Year (not dynamic  but easier for sorting)
+ABC,various,[empty],3.1 (<ref></ref>),Windows  Linux,2005
+Acquisition,Acquisition,[empty],[empty],macOS,2010
+BitComet,BitComet Development Group,, Adware,[empty],Windows,2018
+BitLet,various,[empty],?,(Java runtime),2015
+BitLord,House of Life,, Adware installs WhenU adware,[empty],Windows  macOS,2017
+BitTornado,John Hoffman,[empty],[empty],Windows  macOS  Linux  BSD,2006
+BitTorrent,BitTorrent,, Adware,[empty],Windows  macOS,2018
+BitTyrant,University of Washington,[empty],[empty],Windows  macOS  Linux,2007
+Blog Torrent,Downhill Battle,[empty],[empty],Windows  macOS,2005
+Deluge,various,[empty],[empty],Windows  macOS  Linux  BSD,2019
+FlashGet,Trend Media,[empty],[empty],Windows,2013
+Folx,Eltima Software,, Setapp,[empty],macOS,2018
+Free Download Manager,alervd,[empty],[empty],Windows  macOS,2018
+FrostWire,The FrostWire Project,[empty],[empty],Windows  macOS  Linux  Android,2019
+KGet,KDE,[empty],[empty],Linux,2019
+KTorrent,Joris Guisson  Ivan Vasić,[empty],[empty],Linux,2019
+Lftp,Alexander V. Lukya,[empty],[empty],Linux,2018
+LimeWire,Lime Wire LLC,[empty],[empty],Windows  macOS  Linux,2010
+Meerkat Bittorrent Client,47 Software,[empty],[empty],Windows,2011
+Miro,Participatory Culture Foundation,[empty],[empty],Windows  macOS  Linux,2013
+MLDonkey,MLDonkey Project,[empty],[empty],Windows  macOS  Linux  MorphOs,2014
+μTorrent,Ludvig Strigeus,, Adware,{{Latest stable software release/μTorrent}},Windows  macOS  Android,2018
+OneSwarm,University of Washington,[empty],[empty],[empty],2011
+Opera 12,Opera Software,[empty],Windows (Presto) – 12.17 <br />Linux  FreeBSD  macOS – 12.16,Windows  macOS  Linux,2016
+qBittorrent,Christophe Dumez,[empty],<ref></ref>,Windows  macOS  Linux  BSD,2019
+rTorrent,Jari Sundell,[empty],[empty],Linux,2019
+Robert,Sponge  co-developer of I2P,[empty],[empty],[empty],2009
+Shareaza,Shareaza Development Team,[empty],[empty],Windows,2017
+SymTorrent,Imre Kelényi,[empty],[empty],Symbian,2012
+Tixati,Kevin Hearn,[empty],[empty],Windows  Linux,2018
+Tomato Torrent,Sarwat Khan,[empty],1.5.1 (<ref></ref>),macOS,2007
+Tonido,CodeLathe,[empty],[empty],Windows  macOS  Linux  BSD,2012
+TorrentFlux,various,[empty],[empty],PHP Server,2008
+Transmission,various,[empty],[empty],Windows  macOS  Linux  BSD,2018
+Tribler,The Tribler Team,[empty],[empty],Windows  macOS  Linux  Android,2019
+Vuze (formerly Azureus),Vuze,(platform)  GPL (core engine)  Adware,[empty],Windows  macOS  Linux  Android,2017
+Xunlei,Thunder Networking Technologies,[empty],[empty],Windows  macOS  Android  iOS,2017
+Name,Developer,Software license,Latest stable software release,[empty],Year
+BitTorrent client,Windows,macOS,Linux,BSD,iOS,Android,Other
+ABC,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Acquisition,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitComet,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitLet,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitLord,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitTornado,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitTorrent,[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty]
+BitTyrant,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Blog Torrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Deluge,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FlashGet,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Folx,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Free Download Manager,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Frostwire,<ref name="frostwire-dl"></ref>,<ref name="frostwire-dl" />,<ref name="frostwire-dl" />,<ref name="frostwire-dl" />,<ref name="frostwire-dl" />,<ref name="frostwire-dl" />,</ref> Solaris  OS/2  eComStation}}<ref></ref>
+KGet,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KTorrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LimeWire,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Meerkat Bittorrent Client,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Miro,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MLDonkey,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+μTorrent,[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty]
+OneSwarm,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Opera 12,<ref name="bitness" group="Note">x86-32 and x86-64builds available</ref>,[empty],<ref name="bitness" group="Note" />,<ref name="bitness" group="Note" />,[empty],[empty],[empty]
+qBittorrent,<ref name="qbittorrent"></ref>,<ref name="qbittorrent" />,<ref name="qbittorrent" />,<ref name="qbittorrent" />,<ref name="qbittorrent" />,<ref></ref>,<ref name="qbittorrent" />
+rTorrent,, through Cygwin<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty]
+Shareaza,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SymTorrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tixati,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tomato Torrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tonido,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TorrentFlux,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Transmission,<ref name="bitness" group="Note" />,[empty],[empty],[empty],, through Cydia,[empty],[empty]
+Tribler,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Vuze,[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty]
+Xunlei,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Name,Windows,Mac OS X,Linux,BSD,iOS,Android,Other
+BitTorrent client,GUI,Remote,CLI,Other,Programming language,Based on,IPv6,μTP
+ABC,[empty],[empty],[empty],[empty],Python,BitTornado,<ref name="ipv6announcebug" group=Note>Announcements to the tracker are made via IPv6 if possible  but the client doesn't listen on the respective port.</ref>,[empty]
+Acquisition,[empty],[empty],[empty],[empty],Objective-C  Cocoa,Limewire,[empty],[empty]
+BitComet,[empty],[empty],<ref>BitComet command line interface see BitComet Command Line – BitComet Wiki</ref>,[empty],C++,-,[empty],[empty]
+BitLet,[empty],[empty],[empty],[empty],Java Applet,-,[empty],[empty]
+BitLord,[empty],[empty],[empty],[empty],Python  C++,libtorrent (Rasterbar),[empty],[empty]
+BitTornado,[empty],[empty],[empty],[empty],Python,BitTorrent,[empty],[empty]
+BitTorrent 5  Mainline,[empty],[empty],[empty],[empty],Python,-,[empty],[empty]
+BitTorrent 6,[empty],[empty],[empty],[empty],C++,μTorrent,[empty],[empty]
+BitTyrant,[empty],[empty],[empty],[empty],Java  SWT,Azureus,[empty],[empty]
+Blog Torrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Deluge,[empty],[empty],[empty],[empty],Python  C++,libtorrent (Rasterbar),[empty],<ref></ref>
+FlashGet,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Free Download Manager,[empty],[empty],[empty],[empty],C++,libtorrent (Rasterbar),[empty],[empty]
+Frostwire,[empty],[empty],[empty],[empty],Java,libtorrent (Rasterbar),[empty],<ref></ref>
+KGet,[empty],[empty],<ref group=Note>Qdbus interface</ref>,[empty],C++,-,[empty],[empty]
+KTorrent,[empty],[empty],[empty],[empty],C++,-,[empty],<ref></ref>
+LimeWire,[empty],[empty],[empty],[empty],Java,libtorrent (Rasterbar),[empty],[empty]
+Meerkat Bittorrent Client,[empty],[empty],[empty],[empty],C++,-,[empty],[empty]
+Miro,[empty],[empty],[empty],[empty],C++,libtorrent (Rasterbar),[empty],[empty]
+MLDonkey,[empty],<ref>http://mldonkey.sourceforge.net/Gui</ref>,[empty],[empty],OCaml,-,[empty],[empty]
+μTorrent,[empty],[empty],<ref></ref>,<ref></ref>,C++<ref></ref>,-,<ref></ref>,<ref></ref>
+OneSwarm,[empty],[empty],[empty],[empty],Java,Azureus,[empty],[empty]
+Opera 12,[empty],[empty],[empty],[empty],C++,-,[empty],[empty]
+qBittorrent,[empty],[empty],[empty],[empty],Python  C++,libtorrent (Rasterbar),[empty],<ref></ref>
+rTorrent,[empty],[empty],[empty],[empty],C++,libTorrent (Rakshasa),<ref></ref>,[empty]
+Shareaza,[empty],[empty],[empty],[empty],C++,-,[empty],[empty]
+SymTorrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tixati,[empty],[empty],[empty],[empty],C++,-,[empty],<ref></ref>
+Tomato Torrent,[empty],[empty],[empty],[empty],Cocoa,BitTorrent,[empty],[empty]
+Tonido,[empty],[empty],[empty],[empty],C++,libtorrent (Rasterbar),[empty],[empty]
+TorrentFlux,[empty],[empty],[empty],[empty],PHP,BitTornado,[empty],[empty]
+Transmission,[empty],[empty],[empty],[empty],C  Objective-C,libtransmission,[empty],<ref></ref>
+Tribler,[empty],[empty],[empty],[empty],Python  C++,libtorrent (Rasterbar),[empty],[empty]
+Vuze (formerly Azureus),[empty],[empty],[empty],[empty],Java  SWT,-,[empty],<ref></ref>
+Xunlei,[empty],[empty],[empty],</ref>}},C++,-,[empty],[empty]
+BitTorrent client,GUI,Web,CLI,Other,Programming language,Based on,IPv6,μTP
+BitTorrent client,Magnet URI,Preload Magnet metadata <ref name="preload_magnet_metadata" group=Note>For a torrent added from a Magnet link  obtain the list of files (and other metadata) before prompting the user for a download location.</ref>,Super-seeding,Embedded tracker,UPnP <ref name="upnp" group="Note">Automatically configure port forwarding (requires Router with UPnP support)</ref>,NAT Port Mapping Protocol,NAT traversal <ref name="udp_nat" group="Note">Many clients claim to support this  but just UPnP calls for opening a TCP port is not effective and disabled by factory default in most new hardware. "UDP NAT Traversal" is the proper working solution  supported by just a few.</ref>,DHT <ref name="dht" group="Note">DHT permits use of trackerless torrents (with supporting clients) to resume normal torrents when their tracker is down. However  some trackers that register their users for keeping tabs on fair usage (such as a ratio of bytes downloaded to uploaded) may not reliably measure and update usage for users employing DHT.</ref>,Peer exchange,Encryption,UDP tracker,LPD,Proxy server
+ABC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Acquisition,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitComet,[empty],[empty],[empty],Separate download,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitLet,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitLord,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitTornado,[empty],[empty],[empty],<ref name="linuxtracker" group=Note>Tracker included with Linux binaries and with source  but not with Windows binary.</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitTorrent 5  Mainline,[empty],[empty],[empty],<ref name="linuxtracker" group=Note />,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitTorrent 6,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name="exchange" group=Note>Exchanging with BT 6 and μTorrent clients (and now MooPolice).</ref>,[empty],[empty],[empty],[empty]
+BitTyrant,[empty],[empty],[empty],[empty],[empty],[empty],<ref group=Note>It's UDP based  an experimental feature and only supported by other Azureus based clients.</ref>,<ref name="dht_not_compatible" group=Note>Has its own DHT  a mainline-DHT compatible implementation is available as plugin.</ref>,[empty],[empty],[empty],[empty],[empty]
+Blog Torrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Deluge,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FlashGet,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Free Download Manager,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KTorrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LimeWire,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Meerkat Bittorrent Client,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MLDonkey,<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+μTorrent,[empty],<ref></ref>,<ref></ref>,<ref></ref>,<ref></ref>,[empty],<ref name="μTorrent 2.0 beta"></ref>,<ref group=Note>μTorrent's DHT implementation is the same as Mainline and BitComet's  but unfortunately this is incompatible with Azureus's implementation.</ref>,<ref name="exchange" group=Note />,<ref></ref>,[empty],<ref></ref>,[empty]
+OneSwarm,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Opera 12,[empty],[empty],[empty],<ref name=opera1></ref>,[empty],[empty],[empty],[empty],<ref name=opera2></ref>,[empty],[empty],[empty],[empty]
+qBittorrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+rTorrent,<ref>Aided with a shell script documented in </ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name=ticket></ref>,[empty]
+Shareaza,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref group=Note>Since Shareaza v2.6.0.0  Shareaza includes Mainline DHT support. Also  Shareaza can use the Gnutella2 network to find other Gnutella2 clients sharing the same torrent. This also includes clients who do not actively seed the torrent in question anymore  as long as file hashes (such as sha1 for example) are known.</ref>,[empty],[empty],<ref group=Note>Since Shareaza v2.5.5.1 r9064.</ref>,[empty],[empty]
+SymTorrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tixati,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tomato Torrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tonido,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TorrentFlux,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Transmission,[empty],<ref>unofficial build transmission daemon cygwin </ref><ref>unofficial build Transmission-Qt </ref><ref>unofficial build cfpp2p GitHub transmission </ref>,[empty],[empty],[empty],[empty],[empty],[empty],<ref group=Note>Exchanges with μTorrent and Azureus peers.</ref>,[empty],[empty],[empty],<ref>Proxy support was removed in version 2.12: </ref>
+Tribler,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Vuze (formerly Azureus),[empty],[empty],[empty],[empty],[empty],[empty],<ref group=Note>Since version 2.5.0.2. It's UDP based  an experimental feature and only supported by other Azureus clients.</ref>,<ref name="dht_not_compatible" group=Note />,[empty],[empty],[empty],[empty],[empty]
+Xunlei,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitTorrent client,Magnet URI,Preload Magnet metadata,Super-seeding,Embedded tracker,UPnP,NAT Port Mapping Protocol,NAT traversal,DHT,Peer exchange,Encryption,UDP tracker,LPD,Proxy server
+BitTorrent client,Cache <ref name="cache" group=Note>Reduces disk usage  file fragmentation (in case it is not preallocated) and latencies via larger written blocks and cached data for hash checking finished pieces.</ref>,Hash Web seeding,HTTP Web seeding,Broad-catching (RSS),Prioritization,Selective downloads,Sequential downloading,SOCKS,Tracker exchange <ref name="tex">Tracker exchange spec: BEP 28</ref>,Remote control via web,Search engine,Auto updates,Reviews and Comments,Notes
+ABC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Separate download,[empty],[empty],[empty]
+Acquisition,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],3 torrents max  infinite when registered
+BitComet,[empty],[empty],<ref>Supports the Getright Webseeding spec since v1.14  see BitComet Wiki</ref>,[empty],[empty],[empty],<ref group=Note>Called "preview mode"</ref>,[empty],[empty],[empty],[empty],[empty],[empty],Portable version available
+BitLet,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitLord,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitTornado,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],via PMS,[empty],[empty]
+BitTorrent 5  Mainline,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitTorrent 6,[empty],[empty],[empty],[empty],[empty],[empty],<ref group=Note>Only available in Pro and web version</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitTyrant,[empty],<ref name="getrightseed">Supports the Getright Webseeding spec in addition to the Bittornado spec </ref>,[empty],Plugin,[empty],[empty],[empty],[empty],[empty],Plugin<ref name="azweb" group=Note>Provides a Java-based and a simple HTML/JS based WebUI.</ref>,[empty],[empty],[empty],Upload priority optimized according to a series of research papers
+Blog Torrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Deluge,[empty],[empty],[empty],Plugin,[empty],[empty],[empty],[empty],[empty],[empty],[empty],via PMS,[empty],[empty]
+FlashGet,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],FlashGet (standalone application) is not FlashGot (Firefox Addon)
+Free Download Manager,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KTorrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],via PMS,[empty],[empty]
+LimeWire,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Meerkat Bittorrent Client,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MLDonkey,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref>See task #4401 SOCKS proxy; however  http proxy is supported.</ref>,[empty],[empty],[empty],via PMS,[empty],[empty]
+μTorrent,[empty],<ref></ref>,[empty],<ref></ref>,<ref></ref>,[empty],<ref group=Note>Only available in Pro and web version.From version 3.0 this feature is called "Streaming mode". The number of pieces to download sequentially is configurable</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OneSwarm,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],has all BitTyrant features
+Opera 12,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Web browser
+qBittorrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],via PMS,[empty],[empty]
+rTorrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],via PMS,[empty],No built-in disk cache but a delayed sync
+Shareaza,[empty],[empty],[empty],[empty],[empty],<ref group=Note>Since Shareaza v2.4.0.2 r7924.</ref>,[empty],[empty],<br /><ref group=Note>Since Shareaza v2.5.3.1.</ref><ref></ref><ref group=Note>Shareaza also uses G2 to transmit download metadata  such as BitTorrent trackers to other G2 clients.</ref>,[empty],[empty],[empty],[empty],<ref group=Note name=Shareaza />
+SymTorrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],BitTorrent client for cell phones
+Tixati,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],lightweight client  Portable version available  option to keep all peers unchoked available Integral encrypted chatrooms that allow streaming audio and video  link sharing and searching
+Tomato Torrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],supports AppleScript
+Tonido,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TorrentFlux,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Transmission,[empty],[empty],<ref name="bep19_webseeding__adds_http_referer_header_on_redirection" group=Note>Adds HTTP referer header in request on HTTP redirection (useful behavior).</ref>,[empty],[empty],[empty],<ref>unofficial build transmission daemon cygwin </ref><ref>unofficial build cfpp2p GitHub transmission </ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tribler,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],(DHT)<ref>https://www.tribler.org/faq.html</ref>,[empty],[empty],Fully distributed keyword search; integrated anti-spam measures<ref></ref>
+Vuze (formerly Azureus),[empty],[empty],<ref name="getrightseed" />,[empty],[empty],[empty],in paid version <ref>Play Now feature on official page</ref>,[empty],[empty],Plugin<ref name="azweb" group=Note />,[empty],[empty],<ref>Additional Vuze Features on VuzeWiki</ref>,The only client to bridge between i2p and the clearnet.
+Xunlei,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitTorrent client,Cache,Hash Web seeding,HTTP Web seeding,Broad-catching (RSS),Prioritization,Selective downloads,Sequential downloading,SOCKS,Tracker exchange,Remote control via web,Search engine,Auto updates,Reviews and Comments,Notes
 BitTorrent library,First public release date,Latest stable,Software license
 libtorrent (Rasterbar),<ref></ref>,[empty],[empty]
 MonoTorrent,[empty],[empty],[empty]

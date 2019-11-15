@@ -1,3 +1,160 @@
+Client,Primary developers,Distribution model,Software license,User interface,Programming language
+AdiIRC<ref></ref>,Per Amundsen,Freeware,[empty],GUI,.NET Framework/C#
+Adium,Thijs Alkemade,Free software,[empty],GUI,Objective-C and C
+Ambassador<ref>Ambassador release statement</ref>,Isengrim,Free software,[empty],GUI,JavaScript  XUL
+Bersirc<ref>Bersirc IRC Client - about Bersirc </ref>,Jamie Frater  Nicholas Copeland,Free software,[empty],GUI,C (Delphi originally)
+BitchX,Colten Edwards,Free software,[empty],TUI  GUI,C
+ChatZilla,Mozilla Foundation,Free software,[empty],GUI,JavaScript  XUL
+Colloquy,Timothy Hatcher  Kiji Roshi,Desktop: free software <br />mobile: commercial,[empty],GUI,Objective-C
+ERC,Alexander L. Belikoff  Sergey Berezin,Free software,[empty],TUI  GUI,Emacs Lisp
+F-IRC,Folkert van Heusden,Free software,[empty],TUI,C++
+GrumpyChat<ref name="GrumpyChat">GitHub project.</ref>,Petr Bena,Free software,[empty],GUI,C++
+HexChat<ref></ref>,Berke Viktor,Free software,[empty],TUI  GUI,C
+IceChat<ref></ref><ref></ref>,Paul Vanderzee,Free software,[empty],GUI,C# (Visual Basic until 2004)<ref>IceChat History. IceChat.net</ref>
+Igloo,Jordan Koch,Free mobile application,[empty],GUI,Swift
+Instantbird,Florian Quèze,Free software,[empty],GUI,C/C++  JavaScript  CSS  XUL
+IRCCloud<ref></ref>,IRCCloud Ltd.,Freemium,[empty],Web,JavaScript frontend  Erlang backend
+ircII,Michael Sandrof,Free software,[empty],TUI,C
+Ircle,Onno Tijdgat,Commercial 30-day trial,[empty],GUI,C
+Irssi,Timo Sirainen,Free software,[empty],TUI,C
+KiwiIRC,Darren Whitlen,Free software,[empty],Web,JavaScript frontend  Node.js backend
+KVIrc,Szymon Stefanek,Free software,[empty],GUI,C++
+Konversation,KDE,Free software,[empty],GUI,C++
+LeafChat<ref></ref>,Samuel Marshall,Free software,[empty],GUI,Java
+LimeChat<ref></ref><ref>"LimeChat: IRC Client for Mac". Official site.</ref><ref name="LimeChatIJ"></ref>,Satoshi Nakagawa,Free software,<ref name="limechat-source">"Limechat". GitHub.</ref>,GUI,RubyCocoa (2007–2010)<ref name="LimeChatIJ"/><ref name="limechat-source"/> Objective-C(2010–)<ref name="limechat-source-commit">“do not load RubyCocoa�? Commit on GitHub.</ref>
+Linkinus,Conceited Software,Commercial  15-day trial,[empty],GUI,Objective-C
+Mibbit,Jimmy Moore,Textual Adbar,[empty],Web,JavaScript frontend <br />Java backend
+mIRC,Khaled Mardam-Bey,Shareware 30-day trial<ref> </ref>,[empty],GUI,C/C++ (Borland C++ originally)<ref></ref>
+Monochrome,Peter Pawlowski,Freeware,GPLv2,GUI,C#
+Nettalk,Nicolas Kruse,Freeware,[empty],GUI,Visual Basic
+Opera (until version 12.xx),[empty],Freeware,[empty],GUI,C++
+Pidgin,[empty],Free software,[empty],GUI,C
+PIRCH,[empty],Shareware,[empty],GUI,Delphi
+PJIRC,Philippe Detournay,Free software,[empty],GUI,Java
+Quassel,Manuel Nickschas  Marcus Eggenberger  Alexander von Renteln,Free software,[empty],TUI  GUI,C++
+qwebirc,Chris Porter,Free software,[empty],Web,JavaScript front end <br />Python backend
+rcirc,Ryan Yeske,Free software,[empty],TUI,Emacs Lisp
+Smuxi,Mirco Bauer,Free software,[empty],GUI  TUI  server,C#
+Snak,Kent Sorensen,Commercial,[empty],GUI,[empty]
+Thunderbird,Mozilla Foundation,Free software,[empty],GUI,C  C++  JavaScript
+Visual IRC,Jesse McGrew,Free software,[empty],GUI,Delphi
+WeeChat,Sebastien Helleu,Free software,[empty],TUI  GUI,C
+XChat (evolved into HexChat),Peter Železný,Unix/Linux: free software; Windows: commercial  30-day trial<ref> </ref> (HexChat is free of charge),; or proprietary for Windows,TUI  GUI,C
+Client,Primary developers,Distribution model,Software license,User interface,Programming language
+Client,Windows 7  Vista,XP  2000,NT 4.0,NT 3.x,Me  98,95,3.1x,ReactOS,macOS (Intel/PPC),OS 9,OS 8,System 7 (PPC/68k),BeOS  Haiku,OS/2  eCS,AmigaOS (68k),AmigaOS 4  MorphOS (PPC),DOS
+Bersirc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitchX,name=bitchxinstall|group=Note}},<ref name=bitchxinstall group=Note />,<ref name=bitchxinstall group=Note />,[empty],<ref name=bitchxinstall group=Note />,<ref name=bitchxinstall group=Note />,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ChatZilla,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Colloquy,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+degesch,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ERC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HexChat,[empty],(2.9.5),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HydraIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IceChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IRCCloud,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ircII,<ref name=bitchxinstall group=Note />,<ref name=bitchxinstall group=Note />,<ref name=bitchxinstall group=Note />,[empty],<ref name=bitchxinstall group=Note />,<ref name=bitchxinstall group=Note />,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IRCjr,[empty],name=swsvpkt|group=Note}},<ref name=swsvpkt group=Note />,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ircle,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name=reqosx group=Note>Requires OS X v10.4.3 or later</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Irssi,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+jIRCii,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KiwiIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Konversation,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KVIrc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref>Connect to the ReactOS IRC Channels</ref>,[empty],[empty],[empty],[empty],[empty],<ref>2012-07-03: 4.2.0 Released!</ref>,[empty],[empty],[empty]
+LeafChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LimeChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Linkinus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name=reqosx group=Note />,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mibbit,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+mIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Nettalk,[empty],[empty],[empty],[empty],name=nowin95|group=Note}},[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Opera,[empty],[empty],(10.10),[empty],[empty],[empty],[empty],<ref></ref>,<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PIRCH,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PJIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Quassel,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+qwebirc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+rIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+rcirc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Scrollback,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Smuxi,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Snak,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Visual IRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WeeChat,<ref name=bitchxinstall group=Note />,<ref name=bitchxinstall group=Note />,<ref name=bitchxinstall group=Note />,[empty],<ref name=bitchxinstall group=Note />,<ref name=bitchxinstall group=Note />,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Client,Windows 7  Vista,XP  2000,NT 4.0,NT 3.x,Me  98,95,3.1x,ReactOS,OS X (Intel/PPC),OS 9,OS 8,System 7 (PPC/68k),BeOS  Haiku,OS/2  eCS,AmigaOS (68k),AmigaOS 4  MorphOS (PPC),DOS
+Client,386BSD,BSD/OS (BSD/386  BSDI),FreeBSD  NetBSD  OpenBSD,SunOS,ULTRIX,AIX,A/UX,HP-UX,IRIX,SCO OpenServer,Solaris,UnixWare,Linux,NeXTSTEP,OpenVMS,OSF/1,QNX,Tru64 UNIX
+Bersirc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitchX,[empty],[empty],<ref name=Unix_operating_system_support_BitchX_A group=Note />,<ref name=Unix_operating_system_support_BitchX_A group=Note />,<ref name=Unix_operating_system_support_BitchX_A group=Note />,<ref name=Unix_operating_system_support_BitchX_A group=Note />,[empty],<ref name=Unix_operating_system_support_BitchX_A group=Note />,<ref name=Unix_operating_system_support_BitchX_A group=Note />,[empty],<ref name=Unix_operating_system_support_BitchX_A group=Note />,[empty],<ref name=Unix_operating_system_support_BitchX_A group=Note />,[empty],[empty],<ref name=Unix_operating_system_support_BitchX_A group=Note />,<ref name=Unix_operating_system_support_BitchX_A group=Note />,[empty]
+ChatZilla,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Colloquy,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+degesch,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DMDIrc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ERC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HexChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HydraIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IceChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IRCCloud,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ircII,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IRCjr,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ircle,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Irssi,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KiwiIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Konversation,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KVIrc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LeafChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LimeChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Linkinus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mibbit,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+mIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Nettalk,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Opera,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PIRCH,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PJIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Quassel,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+qwebirc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+rcirc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Smuxi,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Snak,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Visual IRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WeeChat,[empty],[empty],name=Unix_operating_system_support_WeeChat_A|group=Note}},[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name=Unix_operating_system_support_WeeChat_A group=Note />,[empty],[empty],[empty],[empty],[empty],<ref name=Unix_operating_system_support_WeeChat_A group=Note />,[empty]
+XChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],name=Unix_operating_system_support_XChat_A|group=Note}},[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Client,386BSD,BSD/OS (BSD/386  BSDI),FreeBSD  NetBSD  OpenBSD,SunOS,ULTRIX,AIX,A/UX,HP-UX,IRIX,SCO OpenServer,Solaris,UnixWare,Linux,NeXTSTEP,OpenVMS,OSF/1,QNX,Tru64 UNIX
+Client,CTCP,DCC,IPv6,SSL,TLS,DANE,OCSP,CRL,SASL,OTR
+Bersirc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitchX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ChatZilla,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Colloquy,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>
+degesch,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DMDirc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ERC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HexChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HydraIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IceChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IRCCloud,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ircII,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IRCjr,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ircle,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Irssi,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name=cypherpunks_otr> </ref><ref name=irssi_xchat_otr></ref>
+jIRCii,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KiwiIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Konversation,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KVIrc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LimeChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Linkinus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mibbit,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+mIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Nettalk,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Opera,<ref> </ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PIRCH,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PJIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Quassel,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>
+qwebirc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+rcirc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Scrollback,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Smuxi,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>
+Snak,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Visual IRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WeeChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name=cypherpunks_otr /><ref></ref>
+XChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name=cypherpunks_otr /><ref name=irssi_xchat_otr />
+Client,CTCP,DCC,IPv6,SSL,TLS,DANE,OCSP,CRL,SASL,OTR
 Client,CHAT,Whiteboard,SEND,RESUME,TSEND,SEND T,XMIT,Passive DCC,Server,RDCC,REVERSE,RSEND,Reverse / Firewall DCC,File servers (FSERVs),XDCC,VOICE
 Bersirc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 BitchX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
@@ -9,6 +166,7 @@ ERC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[emp
 HexChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 HydraIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 IceChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IRCCloud,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 ircII,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 IRCjr,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Ircle,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]

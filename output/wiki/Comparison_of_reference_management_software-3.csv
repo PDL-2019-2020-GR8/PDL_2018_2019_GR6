@@ -1,5 +1,64 @@
+Software,Developer,First public release,Latest stable release date,Latest stable version,Cost (USD),Free software,License,Notes
+Bebop,ALaRI Institute,2007-11-08,2009-11-10,1.1,[empty],[empty],[empty],web-based BibTeX front-end (Apache  PHP  MySQL)
+BibBase,Christian Fritz,2005,2013-07,v3,[empty],[empty],[empty],centrally hosted website  intended for publication pages
+BibDesk,BibDesk developers,2002-04,2019-06-03,1.7.1,[empty],[empty],[empty],BibTeX front-end + repository; Cocoa-based; integration with Spotlight
+Biblioscape,CG Information,1997,2015-06-22,10.0.3.6,[empty],[empty],[empty],ODBC; web access in Pro ed; optional client/server; discontinued?
+BibSonomy,University of Kassel,2006-01,2018-07-30,3.8.13,[empty],[empty],</ref>}},centrally hosted website
+Bibus,Bibus developers,2004-06-03,2013-05-23,1.5.1,[empty],[empty],[empty],discontinued?
+Bookends,Sonny Software,1988 (Mac) / 1983 (Apple II+),2019-06-22,13.2.4 <ref></ref>,[empty],[empty],[empty],Desktop & iOS synced via iCloud  integrated web search  pdf download  auto-completion  Word plugin  BibTex support  PDF annotations stored as notes
+Citavi,Swiss Academic Software,2006-02-13,2019-01-10,6.3,</ref>}},[empty],[empty],data can be saved locally on the computer  or  for team access  in the Citavi Cloud or an intranet Microsoft SQL Server;<ref></ref> search databases from interface<ref></ref>
+CiteULike,Oversity Limited,2004-11,Shut down in 2019-03-30<ref></ref>,[empty],[empty],[empty],[empty],centrally hosted website
+colwiz,colwiz Ltd,2011,2016-05-09,[empty],[empty],[empty],[empty],Desktop (Win  Mac  Linux) & Web components  iOS and Android
+EndNote,Clarivate Analytics,1988,2018-01-09,X9,[empty],[empty],[empty],The web version EndNote basic (formerly  EndNote Web) is free of charge
+F1000Workspace,F1000/Science Navigation Group,2015-05,Continually updated online,[empty],[empty],[empty],[empty],Web-based  Microsoft Word plug-in (Win  Mac)  Google Docs add-on  browser extension(s) Chrome  Firefox  Safari  Opera  Internet Explorer 11  mobile app available
+JabRef,JabRef developers,2003-11-29,2018-06-05,4.3.1,[empty],[empty],MIT license,Java BibTeX and BibLaTeX manager
+KBibTeX,KBibTeX developers,2005-08,2018-06-21,0.8.1,[empty],[empty],[empty],BibTeX front-end  using the KDE Software Compilation
+Mendeley,Elsevier,2008-08,2018,1.19,[empty],[empty],[empty],Account required  Desktop & Web components  Windows  Linux  macOS  iPhone & iPad  Android
+Paperpile,Stefan Washietl  Gregorgy Jordan  Andreas Gruber,2013,Continually updated online,[empty],[empty],[empty],[empty],web-application  integrates with Google Docs  collaboration & sharing features  currently only on Google Chrome
+Pybliographer,pybliographer developers,1998-10-30 (0.2),2018-04-03,1.4.0,[empty],[empty],[empty],Python/GTK2
+Qiqqa,Qiqqa,2010-04,2016-09,v79,[empty],[empty],[empty],Desktop; Tablet; Web; Intranet
+ReadCube Papers (now Papers),ReadCube,2011-10,2019-01-18,v.4.0.16 (Web App),[empty],[empty],[empty],Web-based  MacOS  Windows  iOS and Android Microsoft Word plug-in browser extension (Chrome  Firefox  Edge)
+refbase,refbase developers,2003-06-03,2014-02-28,0.9.6,[empty],[empty],[empty],web-based for institutional repositories/self-archiving<ref>A centrally-hosted website is available at refbase.net.</ref>
+RefDB,refdb developers,2001-04-25,2007-11-05,0.9.9,[empty],[empty],[empty],network-transparent; XML/SGML bibliographies
+Reference Manager,Thomson Reuters,1984,2010,12.0.3,[empty],[empty],[empty],network version; built-in web publishing tool; discontinued
+Referencer,Referencer developers,2008-03-15,2014-02-27,1.2.2,[empty],[empty],[empty],BibTeX front-end
+RefWorks,Ex Libris / ProQuest,2001,2018,3,[empty],[empty],[empty],web-based  browser-accessed  Word & Google Docs
+RefME,RefME,2014,Shut down in 2017,[empty],[empty],[empty],[empty],Web  iOS and Android; Chrome and Safari Extensions available; discontinued
+SciRef,Scientific Programs,2012,2015-07-26,1.5,38.90 / Free trial version,[empty],[empty],[empty]
+Sente,Third Street Software  Inc.,2004,Shut down in 2017,6.7.9,/ Free for libraries up to 100 refs,[empty],[empty],Desktop and iPad  centralized backup/synching; discontinued
+Wikindx,Mark Grimshaw,2004-02,2019-08-20,5.8.2,[empty],[empty],CC-BY-NC-SA,web-based
+WizFolio,WizPatent,2008-06,Shut down in 2017,Avatara,/ Free Basic version,[empty],[empty],centrally hosted website; discontinued
+Zotero,Roy Rosenzweig Center for History and New Media at GMU,2006,2019-06-14,5.0.67 <ref></ref>,[empty],[empty],[empty],Multi-platform desktop version with connectors for Firefox  Chrome and Safari. Web-based access to reference library also available.
+Software,Windows,macOS,Linux,ChromeOS,BSD,Unix,iOS App,Android App,Windows App
+Bebop,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BibBase,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BibDesk,[empty],[empty],[empty],[empty],[empty],[empty],Third-party - PocketBib,[empty],[empty]
+BibSonomy,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Bibus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Bookends,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Citavi,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CiteULike,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+colwiz,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+EndNote,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+F1000Workspace,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+JabRef,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KBibTeX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mendeley,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Paperpile,[empty],[empty],[empty],[empty],(requires Chromium),(requires Chromium),[empty],[empty],[empty]
+Pybliographer,<ref name="gnome-python">The GUI requires gnome-python  which isn't available for Windows or .</ref>,<ref name="gnome-python"/>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Qiqqa,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ReadCube (now Papers),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+refbase,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RefDB,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Reference Manager,<ref>Reference Manager is not compatible with word 2010</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Referencer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RefWorks<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],No - but is responsive,[empty],[empty]
+SciRef,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Sente,[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty],[empty]
+Wikindx,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WizFolio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Zotero,[empty],[empty],[empty],[empty],[empty],[empty],[empty],- Aziz  Lite!<ref name="azizlite.ezbio.net"></ref>,[empty]
 Software,BibTeX,Endnote/Refer/BibIX,Medline,MODS XML,RIS,Other
-Aigaion,[empty],[empty],[empty],[empty],[empty],[empty]
 Bebop,[empty],[empty],[empty],[empty],[empty],[empty]
 BibBase,[empty],[empty],[empty],[empty],[empty],[empty]
 BibDesk,[empty],[empty],[empty],[empty],[empty],[empty]
@@ -15,9 +74,8 @@ JabRef,[empty],[empty],[empty],[empty],[empty],[empty]
 KBibTeX,[empty],[empty],[empty],<ref name="bibutils">Supported through the bibutils plugin</ref>,[empty],[empty]
 Mendeley,[empty],[empty],[empty],[empty],[empty],[empty]
 Paperpile,[empty],[empty],[empty],[empty],[empty],[empty]
-Papers,[empty],[empty],[empty],[empty],[empty],[empty]
 Pybliographer,[empty],[empty],[empty],[empty],[empty],[empty]
-ReadCube,[empty],[empty],[empty],[empty],[empty],[empty]
+ReadCube (now Papers),[empty],[empty],[empty],[empty],[empty],[empty]
 Qiqqa,[empty],[empty],[empty],[empty],[empty],[empty]
 refbase,[empty],[empty],[empty],[empty],[empty],[empty]
 RefDB,[empty],[empty],[empty],[empty],[empty],[empty]

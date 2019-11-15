@@ -1,3 +1,46 @@
+ADC hub,FOSS,Software license,Active,Last Update,Notes
+ADCH++,[empty],[empty],[empty],2016-03-08 / 2.12.1,[added]
+ADCH++ GUI,[empty],[empty],[empty],[empty],[added]
+DSHub,[empty],[empty],[empty],2008-10-09 / RC1,[added]
+FlexHub,[empty],[empty],[empty],2013-10-20 / 0.2 svn 1469,[added]
+Luadch,[empty],[empty],[empty],2019-10-13 / v2.20,[added]
+Nexthub,[empty],[empty],[empty],[empty],[added]
+uhub,[empty],[empty],[empty],2014-10-17 / 0.5.0,In Debian<ref></ref> and OpenWrt<ref></ref>
+ErlHub,[empty],[empty],[empty],[empty],[added]
+Qhub,[empty],[empty],[empty],2006-07-09 / v0.10,[added]
+Starlet ADC Hub,[empty],[empty],[empty],[empty],[added]
+Starhub,[empty],[empty],[empty],[empty],[added]
+RusHub,[empty],[empty],[empty],2012-07-10 / 2.3.10,[added]
+ADC hub,FOSS,Software license,Active,[empty],[added]
+ADC hub,Windows,Linux,OS X,Other
+ADCH++,[empty],[empty],[empty],[empty]
+ADCH++ GUI,[empty],[empty],[empty],Any Python enabled platform
+DSHub,[empty],[empty],[empty],Any Java enabled platform
+FlexHub,[empty],[empty],[empty],[empty]
+Luadch,[empty],[empty],[empty],Raspberry Pi  Synology NAS  any GCC enabled platform
+Nexthub,[empty],[empty],[empty],Any C# enabled platform
+uhub,[empty],[empty],[empty],BSD  Haiku  OpenWrt  Solaris
+Erlhub,[empty],[empty],[empty],Any Erlang enabled platform
+Qhub,[empty],[empty],[empty],[empty]
+Starlet ADC Hub,[empty],[empty],[empty],OpenVMS
+Starhub,[empty],[empty],[empty],Any Java enabled platform
+RusHub,[empty],[empty],[empty],FreeBSD  Solaris
+ADC hub,Windows,Linux,OS X,Other
+ADC hub,GUI,CLI,Other,Programming language,Based on
+ADCH++,[empty],[empty],[empty],C++  Lua  Python  Ruby,[empty]
+ADCH++ GUI,[empty],[empty],[empty],C++  Python,ADCH++
+DSHub,[empty],[empty],[empty],Java  Python,[empty]
+FlexHub,Planned,[empty],[empty],Lua,[empty]
+Luadch,[empty],[empty],[empty],C++  Lua,[empty]
+Luadch GUI,[empty],[empty],[empty],wxLua,[empty]
+Nexthub,[empty],[empty],[empty],C-Sharp,[empty]
+uhub,[empty],[empty],[empty],C,[empty]
+Erlhub,[empty],[empty],[empty],Erlang,[empty]
+Qhub,[empty],[empty],[empty],[empty],[empty]
+Starlet ADC Hub,[empty],[empty],[empty],C,[empty]
+StarHub,[empty],[empty],[empty],Java,[empty]
+RusHub,[empty],[empty],[empty],C++,[empty]
+ADC hub,GUI,CLI,Other,Programming language,Based on
 ADC hub,Encryption,IPv6,Plugin,Hash algorithms,Bloom filter,ADC support,Other
 ADCH++,[empty],[empty],Lua  Python  Ruby,Tiger tree hash,[empty],TIGR  PING  ADCS,[empty]
 ADCH++ GUI,[empty],[empty],Python,Tiger tree hash,[empty],TIGR  PING  ADCS,[empty]

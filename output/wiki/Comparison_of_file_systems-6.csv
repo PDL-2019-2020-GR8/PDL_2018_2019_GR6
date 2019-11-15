@@ -1,17 +1,319 @@
+File system,Creator,Year of introduction,Original operating system
+DECtape,DEC,1964,PDP-6 Monitor
+OS/3x0 FS,IBM,1964,OS/360
+Level-D,DEC,1968,TOPS-10
+George 3,ICT (later ICL),1968,George 3
+Version 6 Unix file system (V6FS),Bell Labs,1972,Version 6 Unix
+RT-11 file system,DEC,1973,RT-11
+Disk Operating System (GEC DOS),GEC,1973,Core Operating System
+CP/M file system,Digital Research (Gary Kildall),1974,CP/M<ref name="Shustek_2016"></ref><ref name="Kildall_1993"> </ref>
+ODS-1,DEC,1975,RSX-11
+GEC DOS filing system extended,GEC,1977,OS4000
+FAT (8-bit),Microsoft (Marc McDonald) for NCR,1977,Microsoft Standalone Disk BASIC-80 (later Microsoft Standalone Disk BASIC-86)
+DOS 3.x,Apple,1978,Apple DOS
+UCSD p-System,UCSD,1978,UCSD p-System
+CBM DOS,Commodore,1978,Commodore BASIC
+Version 7 Unix file system (V7FS),Bell Labs,1979,Version 7 Unix
+ODS-2,DEC,1979,OpenVMS
+FAT12,Seattle Computer Products (Tim Paterson),1980,QDOS/86-DOS (later IBM PC DOS 1.0)
+ProDOS,Apple,1980,Apple SOS (later ProDOS 8)
+DFS,Acorn Computers Ltd,1982,Acorn BBC Micro MOS
+ADFS,Acorn Computers Ltd,1983,Acorn Electron (later Arthur/RISC OS)
+FFS,Kirk McKusick,1983,4.2BSD
+FAT16,IBM  Microsoft,1984,PC DOS 3.0  MS-DOS 3.0
+MFS,Apple,1984,System 1
+Elektronika BK tape format,NPO "Scientific centre" (now Sitronics),1985,Vilnius Basic  BK monitor program
+HFS,Apple,1985,System 2.1
+Amiga OFS,Metacomco for Commodore,1985,Amiga OS
+GEMDOS,Digital Research,1985,Atari TOS
+NWFS,Novell,1985,NetWare 286
+High Sierra,Ecma International,1986,MSCDEX for MS-DOS 3.1/3.2<ref></ref>
+FAT16B,Compaq,1987,Compaq MS-DOS 3.31
+Minix V1 FS,Andrew S. Tanenbaum,1987,MINIX 1.0
+Amiga FFS,Commodore,1988,Amiga OS 1.3
+ISO 9660:1988,Ecma International  ISO,1988,MS-DOS  "classic" Mac OS  and AmigaOS
+HPFS,IBM & Microsoft,1989,OS/2 1.2
+Rock Ridge,IEEE,[empty],Unix
+JFS1,IBM,1990,AIX
+VxFS,VERITAS,1991,SVR4.0
+ext,Rémy Card,1992,Linux
+AdvFS,DEC,1993<ref></ref>,Digital Unix
+NTFS,Microsoft (Gary Kimura  Tom Miller),1993,Windows NT 3.1
+LFS,Margo Seltzer,1993,Berkeley Sprite
+ext2,Rémy Card,1993,Linux  Hurd
+Xiafs,Q. Frank Xia,1993,Linux
+UFS1,Kirk McKusick,1994,4.4BSD
+XFS,SGI,1994,IRIX
+HFS,IBM,1994,MVS/ESA (now z/OS)
+FAT16X,Microsoft,1995,MS-DOS 7.0 / Windows 95
+Joliet ("CDFS"),Microsoft,1995,Microsoft Windows  Linux  "classic" Mac OS  and FreeBSD
+UDF,ISO/ECMA/OSTA,1995,[empty]
+FAT32  FAT32X,Microsoft,1996,MS-DOS 7.10 / Windows 95 OSR2
+QFS,Sun Microsystems,1996,Solaris
+GPFS,IBM,1996,AIX  Linux
+Be File System,Be Inc. (D. Giampaolo  Cyril Meurillon),1996,BeOS
+Minix V2 FS,Andrew S. Tanenbaum,1997,MINIX 2.0
+HFS Plus,Apple,1998,Mac OS 8.1
+NSS,Novell,1998,NetWare 5
+PolyServe File System (PSFS),PolyServe,1998,Windows  Linux
+ODS-5,DEC,1998,OpenVMS 7.2
+WAFL,NetApp,1998,Data ONTAP
+ext3,Stephen Tweedie,1999,Linux
+ISO 9660:1999,Ecma International  ISO,1999,Microsoft Windows  Linux  "classic" Mac OS  FreeBSD  and AmigaOS
+JFS,IBM,1999,OS/2 Warp Server for e-business
+GFS,Sistina (Red Hat),2000,Linux
+ReiserFS,Namesys,2001,Linux
+zFS,IBM,2001,z/OS (backported to OS/390)
+FATX,Microsoft,2002,Xbox
+UFS2,Kirk McKusick,2002,FreeBSD 5.0
+OCFS,Oracle Corporation,2002,Linux
+SquashFS,Phillip Lougher  Robert Lougher,2002,Linux
+VMFS2,VMware,2002,VMware ESX Server 2.0
+Lustre,Cluster File Systems<ref></ref>,2002,Linux
+Fossil,Bell Labs,2003,Plan 9 version 4
+Google File System,Google,2003,Linux
+ZFS,Sun Microsystems,2004,Solaris
+Reiser4,Namesys,2004,Linux
+Non-Volatile File System,Palm  Inc.,2004,Palm OS Garnet
+BeeGFS,Fraunhofer/ ThinkParQ,2005,Linux  Windows via Samba
+GlusterFS,Gluster Inc.,2005,Linux
+Minix V3 FS,Andrew S. Tanenbaum,2005,MINIX 3
+OCFS2,Oracle Corporation,2005,Linux
+NILFS,NTT,2005,Linux
+VMFS3,VMware,2005,VMware ESX Server 3.0
+GFS2,Red Hat,2006,Linux
+ext4,various,2006,Linux
+exFAT,Microsoft,2006,Windows CE 6.0
+Btrfs,Oracle Corporation,2007,Linux
+JXFS,Hyperion Entertainment,2008,AmigaOS 4.1
+HAMMER,Matthew Dillon,2008,DragonFly BSD 2.0
+LSFS,StarWind Software,2009,Linux  FreeBSD  Windows
+UniFS,Nasuni,2009,Cloud
+CASL,Nimble Storage,2010,Linux
+OrangeFS,Omnibond and others,2011,Linux
+VMFS5,VMware,2011,vSphere 5.0+
+CHFS,University of Szeged,2011,NetBSD 6.0+
+ReFS,Microsoft,2012,Windows Server 2012
+F2FS,Samsung Electronics,2012,Linux
+bcachefs,Kent Overstreet,2015,Linux
+APFS,Apple,2016,macOS High Sierra  iOS 10.3
+NOVA,UC  San Diego,2017,Linux
+HAMMER2,Matthew Dillon<ref name=hammer2_design></ref>,2017,DragonFly BSD 5.0
+EROFS,Huawei<ref></ref>,2018,Android
+File system,Stores file owner,POSIX file permissions,Creation timestamps,Last access/ read timestamps,Last metadata change timestamps,Last archive timestamps,Access control lists,Security/ MAC labels,Extended attributes/ Alternate data streams/ forks,Checksum/ ECC
+BeeGFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CP/M file system,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DECtape<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Elektronika BK tape format,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Level-D,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RT-11<ref></ref>,[empty],[empty],(date only),[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Version 6 Unix file system (V6FS)<ref name="Unixv6"></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Version 7 Unix file system (V7FS)<ref name="Unixv7">See dinode structure on page 355 (FILESYS(5)) of </ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+exFAT,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FAT12/FAT16/FAT32,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HPFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NTFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],</ref>}},[empty],[empty]
+ReFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HFS Plus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UFS1,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UFS2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HAMMER,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ext,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Xiafs,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ext2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ext3,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ext4,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],</ref>}}
+NOVA,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Lustre,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+F2FS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GPFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NILFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ReiserFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Reiser4,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OCFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OCFS2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+JFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+QFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+AdvFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NSS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NWFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ODS-5,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+APFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VxFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UDF,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Fossil,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ZFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Btrfs,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Minix V1,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Minix V2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Minix V3,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VMFS2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VMFS3,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ISO 9660:1988,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Rock Ridge,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Joliet ("CDFS"),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ISO 9660:1999,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+High Sierra,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SquashFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+File system,Stores file owner,POSIX file permissions,Creation timestamps,Last access/read timestamps,Last metadata change timestamps,Last archive timestamps,Access control lists,Security/ MAC labels,Extended attributes/ Alternate data streams/ forks,Checksum/ ECC
+File system,Hard links,Symbolic links,Block journaling,Metadata-only journaling,Case-sensitive,Case-preserving,File Change Log,Internal snapshotting / branching,XIP,Filesystem-level encryption,Data deduplication,Data checksums
+DECtape,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BeeGFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Level-D,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RT-11,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+APFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Version 6 Unix file system (V6FS),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Version 7 Unix file system (V7FS),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+exFAT,[empty],[empty],[empty],(with TexFAT only),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FAT12,[empty],[empty],[empty],(with TFAT12 only),[empty],(with VFAT LFNs only),[empty],[empty],[empty],(DR-DOS with SECURITY only),[empty],[empty]
+FAT16 / FAT16B / FAT16X,[empty],[empty],[empty],(with TFAT16 only),[empty],(with VFAT LFNs only),[empty],[empty],[empty],(DR-DOS with SECURITY only),[empty],[empty]
+FAT32 / FAT32X,[empty],[empty],?,(with TFAT32 only),[empty],(with VFAT LFNs only),[empty],[empty],[empty],[empty],[empty],[empty]
+GFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HPFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NTFS,[empty],</ref> NTFS 3.0 (Windows 2000) and higher can create junctions  which allow entire directories (but not individual files) to be mapped to elsewhere in the directory tree of the same partition (file system). These are implemented through reparse points  which allow the normal process of filename resolution to be extended in a flexible manner.}},[empty],(2000),[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty]
+HFS Plus,<ref></ref>,[empty],[empty],[empty],</ref> HFS Plus version 5 optionally supports case-sensitivity. However  since case-sensitivity is fundamentally different from case-insensitivity  a new signature was required so existing HFS Plus utilities would not see case-sensitivity as a file system error that needed to be corrected. Since the new signature is 'HX'  it is often believed this is a new filesystem instead of a simply an upgraded version of HFS Plus.<ref> (hasn't been updated to discuss HFSX)</ref><ref> (Very technical overview of HFS Plus and HFSX.)</ref>}},[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UFS1,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UFS2,[empty],[empty],[empty],<ref>https://www.mckusick.com/softdep/suj.pdf</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HAMMER,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ext,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Xiafs,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ext2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ext3,[empty],[empty],(2001),(2001),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ext4,[empty],[empty],[empty],[empty],, optional <ref></ref>,[empty],[empty],[empty],[empty],, experimental <ref name="note-67"></ref>,[empty],[empty]
+NOVA,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+F2FS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],, experimental <ref name="note-68"></ref>,[empty],[empty]
+Lustre,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NILFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ReiserFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Reiser4,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OCFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OCFS2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],, experimental <ref></ref>,[empty]
+JFS,[empty],[empty],[empty],(1990),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+QFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NSS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NWFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ODS-2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ODS-5,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UDF,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VxFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Fossil,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ZFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],</ref><ref></ref><ref></ref>}},[empty],[empty]
+Btrfs,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],, planned  not being developed (Nov  2015)<ref></ref>,[empty],[empty]
+Minix V1,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Minix V2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Minix V3,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VMFS2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VMFS3,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ReFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ISO 9660,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Rock Ridge,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Joliet ("CDFS"),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SquashFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+File system,Hard links,Symbolic links,Block journaling,Metadata-only journaling,Case-sensitive,Case-preserving,File Change Log,Internal snapshotting / branching,XIP,Filesystem-level encryption,Data deduplication,Data checksums
+File system,Host OS,Offline grow,Online grow,Offline shrink,Online shrink
+FAT16 / FAT16B / FAT16X,misc.,<ref name="libparted">With software based on GNU Parted</ref>,[empty],<ref name="libparted" />,[added]
+FAT32 / FAT32X,misc.,<ref name="libparted" />,[empty],<ref name="libparted" />,[added]
+exFAT,misc.,[empty],[empty],[empty],[added]
+NTFS,Windows,[empty],[empty],[empty],[added]
+ReFS,Windows,[empty],[empty],[empty],[added]
+HFS+,macOS,[empty],[empty],[empty],[added]
+APFS,macOS,[empty],[empty],[empty],[added]
+HFS+,Linux,[empty],[empty],[empty],[added]
+SquashFS,Linux,[empty],[empty],[empty],[added]
+NOVA,Linux,[empty],[empty],[empty],[added]
+JFS<ref></ref>,Linux,[empty],[empty],[empty],[added]
+XFS<ref></ref>,Linux,[empty],[empty],[empty],[added]
+Lustre<ref name="wiki-faq-old"></ref>,Linux,[empty],[empty],[empty],[added]
+F2FS<ref>https://git.kernel.org/cgit/linux/kernel/git/jaegeuk/f2fs-tools.git/</ref>,Linux,[empty],[empty],[empty],[added]
+NTFS<ref></ref>,Linux,[empty],[empty],[empty],[added]
+ext2<ref name="unix.com"></ref>,Linux,[empty],[empty],[empty],[added]
+ext3<ref name="unix.com"/>,Linux,[empty],[empty],[empty],[added]
+ReiserFS<ref></ref>,Linux,[empty],[empty],[empty],[added]
+Reiser4<ref></ref>,Linux,[empty],[empty],[empty],[added]
+ext4<ref name="unix.com"/>,Linux,[empty],[empty],[empty],[added]
+Btrfs<ref> SUSE|url=https://www.suse.com/products/server/technical-information/|website=www.suse.com|accessdate=28 April 2018|language=en}}</ref>,Linux,[empty],[empty],[empty],[added]
+NILFS<ref></ref>,Linux,[empty],[empty],[empty],[added]
+ZFS,misc.,[empty],[empty],[empty],<ref>Mirror and single-disk vdevs can be wholly removed from a pool  but not RAID-Z vdevs. </ref>
+JFS2,AIX,[empty],[empty],[empty],[added]
+UFS2<ref></ref>,FreeBSD,[empty],(FreeBSD 10.0-RELEASE or later),[empty],[added]
+HAMMER,DragonflyBSD,[empty],[empty],[empty],[added]
+File system,Sparse files,Transparent compression,Block suballocation,Tail packing,Extents,Variable file block size,Allocate-on-flush,Copy on write,Trim support
+DECtape,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BeeGFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Level-D,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+APFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref><ref></ref>
+Version 6 Unix file system (V6FS),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Version 7 Unix file system (V7FS),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+exFAT,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FAT12,(only inside of compressed volumes)<ref name="CVF808"/>,[empty],(only inside of Stacker 3/4 and DriveSpace 3 compressed volumes<ref name="DMSDOS"></ref>),[empty],(only inside of compressed volumes)<ref name="CVF814"/>,[empty],[empty],[empty],(Linux)
+FAT16 / FAT16B / FAT16X,(only inside of compressed volumes)<ref name="CVF808"></ref>,[empty],(only inside of Stacker 3/4 and DriveSpace 3 compressed volumes<ref name="DMSDOS"/>),[empty],(only inside of compressed volumes)<ref name="CVF814"></ref>,[empty],[empty],[empty],(Linux)
+FAT32 / FAT32X,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],(Linux)
+GFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HPFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NTFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],(NT 6.1 + newer)
+HFS Plus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],(macOS)
+FFS,[empty],[empty],8:1,[empty],[empty],[empty],[empty],[empty],[empty]
+UFS1,[empty],[empty],8:1,[empty],[empty],[empty],[empty],[empty],[empty]
+UFS2,[empty],[empty],8:1,[empty],[empty],[empty],[empty],[empty],<ref>https://svnweb.freebsd.org/base?view=revision&revision=216796</ref><ref>https://www.freebsd.org/cgi/man.cgi?query=newfs&sektion=8&manpath=FreeBSD+8.4-RELEASE</ref>
+LFS,[empty],[empty],8:1,[empty],[empty],[empty],[empty],[empty],[empty]
+ext,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Xiafs,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ext2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ext3,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ext4,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NOVA,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+F2FS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>
+Lustre,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NILFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ReiserFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Reiser4,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OCFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OCFS2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],, on request<ref></ref>,(Linux)
+JFS,[empty],only in JFS1 on AIX<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],(Linux)
+QFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],(Haiku)
+NSS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NWFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ODS-5,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VxFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UDF,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Fossil,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ZFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],(FreeBSD  illumos)
+Btrfs,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VMFS2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VMFS3,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ReFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ISO 9660,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Rock Ridge,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Joliet ("CDFS"),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SquashFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+File system,Sparse files,Transparent compression,Block suballocation,Tail packing,Extents,Variable file block size,Allocate-on-flush,Copy on write,Trim support
 File system,DOS,Windows 9x,Windows NT,Linux,"classic" Mac OS,macOS,FreeBSD,OS/2,BeOS,Minix,Solaris,z/OS
-APFS,[empty],[empty],[empty],[empty],[empty],<br />(Since macOS Sierra),[empty],[empty],[empty],[empty],[empty],[empty]
+APFS,[empty],[empty],[empty],(read-only with apfs-fuse<ref>https://github.com/sgan81/apfs-fuse</ref> or linux-apfs<ref>https://github.com/eafer/linux-apfs</ref>),[empty],<br />(Since macOS Sierra),[empty],[empty],[empty],[empty],[empty],[empty]
 BeeGFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 DECtape,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Level-D,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 RT-11,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Version 6 Unix file system (V6FS),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Version 7 Unix file system (V7FS),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+exFAT,[empty],[empty],(installable drivers for Windows XP  2003. Included with Windows Vista SP1 and newer.),(available as a kernel module or FUSE driver),[empty],[empty],(available as a FUSE driver),[empty],[empty],[empty],(available as a FUSE driver),[empty]
 FAT12,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],(via dosdir  dosread  doswrite),[empty],[empty]
 FAT16 / FAT16B / FAT16X,(FAT16 from DOS 3.0  FAT16B from DOS 3.31  FAT16X from DOS 7.0),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],(via dosdir  dosread  doswrite  not FAT16X),[empty],[empty]
 FAT32 / FAT32X,(from DOS 7.10),(from Windows 95 OSR2),(from Windows 2000),[empty],?,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 GFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 HPFS,(with third-party drivers),[empty],(with NT 3.1 to 4.0 only),[empty],[empty],[empty],[empty],(from OS/2 1.2),[empty],[empty],[empty],[empty]
-NTFS,(with third-party drivers),(with 3rd-party drivers like “Paragon NTFS for Win98” “DiskInternals NTFS Reader”）,[empty],with ntfs-3g,[empty],natively read only  write support with Paragon NTFS or ntfs-3g,with ntfs-3g,[empty],with ntfs-3g,[empty],with ntfs-3g,[empty]
+NTFS,(with third-party drivers),(with 3rd-party drivers like Paragon NTFS for Win98  DiskInternals NTFS Reader),[empty],with ntfs-3g,[empty],natively read only  write support with Paragon NTFS or ntfs-3g,with ntfs-3g,[empty],with ntfs-3g,[empty],with ntfs-3g,[empty]
 Apple HFS,[empty],[empty],with Paragon HFS+ <ref name="Paragon HFS"></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Apple HFS Plus,[empty],[empty],with Paragon HFS+ <ref name="Paragon HFS"/>,- writing support only to unjournalled FS,from Mac OS 8.1,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 FFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
@@ -21,13 +323,13 @@ LFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[emp
 ext,[empty],[empty],[empty],- until 2.1.20,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Xiafs,[empty],[empty],[empty],- until 2.1.20<br /> Experimental port available to 2.6.32 and later <ref name="Porting an Ancient Filesystem to Modern Linux"></ref><ref name="Github modern-xiafs"></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 ext2,[empty],[empty],with Paragon ExtFS <ref name="Paragon ExtFS for Windows"></ref> or partial with Ext2 IFS<ref name="Ext2 IFS for Windows"> (Provides kernel level read/write access to Ext2 and Ext3 volumes in Windows NT4  2000  XP and Vista.)</ref> or ext2fsd<ref name="Ext2fs Driver"></ref>,[empty],[empty],with Paragon ExtFS <ref name="Paragon ExtFS for Mac"></ref> or ext2fsx,[empty],[empty],[empty],[empty],[empty],[empty]
-ext3,[empty],[empty],with Paragon ExtFS <ref name="Paragon ExtFS for Windows"></ref> or partial with Ext2 IFS<ref name="Ext2 IFS for Windows"/> or ext2fsd<ref name="Ext2fs Driver"/>,[empty],(read only),with Paragon ExtFS <ref name="Paragon ExtFS for Mac"></ref> or partial with ext2fsx (journal not updated on writing),(read-only)<ref name="ext3"></ref><ref name="ext3_2"></ref>,[empty],[empty],[empty],[empty],[empty]
-ext4,[empty],[empty],with Paragon ExtFS <ref name="Paragon ExtFS for Windows"></ref> or partial with Ext2 IFS<ref name="Ext2 IFS for Windows"/> or ext2fsd<ref name="Ext2fs Driver"/>,[empty],[empty],with Paragon ExtFS <ref name="Paragon ExtFS for Mac"></ref>,support in kernel since version 10.1 (read-only)<ref name="ext3"/><ref name="ext3_2"/>,[empty],[empty],[empty],[empty],[empty]
+ext3,[empty],[empty],with Paragon ExtFS <ref name="Paragon ExtFS for Windows"/> or partial with Ext2 IFS<ref name="Ext2 IFS for Windows"/> or ext2fsd<ref name="Ext2fs Driver"/>,[empty],(read only),with Paragon ExtFS <ref name="Paragon ExtFS for Mac"/> or partial with ext2fsx (journal not updated on writing),(read-only)<ref name="ext3"></ref><ref name="ext3_2"></ref>,[empty],[empty],[empty],[empty],[empty]
+ext4,[empty],[empty],with Paragon ExtFS <ref name="Paragon ExtFS for Windows"/> or partial with Ext2 IFS<ref name="Ext2 IFS for Windows"/> or ext2fsd<ref name="Ext2fs Driver"/>,[empty],[empty],with Paragon ExtFS <ref name="Paragon ExtFS for Mac"/>,support in kernel since version 10.1 (read-only)<ref name="ext3"/><ref name="ext3_2"/>,[empty],[empty],[empty],[empty],[empty]
 NOVA,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Lustre,[empty],[empty],[empty],<ref name="lustre"></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 NILFS,[empty],[empty],[empty],as an external kernel module,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 F2FS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
-ReiserFS,[empty],[empty],[empty],[empty],[empty],[empty],Read Only,[empty],[empty],[empty],[empty],[empty]
+ReiserFS,[empty],[empty],[empty],[empty],[empty],[empty],- Read Only from 6.0 to 10.x<ref></ref> and dropped in 11.0<ref></ref><ref></ref>,[empty],[empty],[empty],[empty],[empty]
 Reiser4,[empty],[empty],[empty],with a kernel patch,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 SpadFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 OCFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
@@ -43,7 +345,7 @@ ODS-5,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[e
 UDF,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 VxFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Fossil,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
-ZFS,[empty],[empty],[empty],with FUSE<ref name="zfs on fuse"></ref> or as an external kernel module<ref name="ZoL"></ref>,[empty],with Read/Write Developer Preview<ref name="zfs on mac os x"></ref>,[empty],[empty],[empty],[empty],[empty],[empty]
+ZFS,[empty],[empty],<ref></ref>,with FUSE<ref name="zfs on fuse"></ref> or as an external kernel module<ref name="ZoL"></ref>,[empty],with Read/Write Developer Preview<ref name="zfs on mac os x"></ref>,[empty],[empty],[empty],[empty],[empty],[empty]
 Btrfs,[empty],[empty],with WinBtrfs<ref name="Github btrfs"></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 VMFS2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 VMFS3,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]

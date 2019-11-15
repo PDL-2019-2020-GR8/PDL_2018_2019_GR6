@@ -2,8 +2,8 @@ Client,Creator,First public release date,Latest stable version,Software license,
 cURL,Daniel Stenberg,1998,[empty],MIT,[empty],CLI
 Cyberduck,David V. Kocher,2001,6.0.4,GPL,[empty],GUI and CLI
 FAR Manager,Eugene Roshal / FAR Group,1996,[empty],BSD,[empty],TUI
-FileZilla,Community,2001 (January),[empty],GPL,[empty],GUI
-FireFTP,Mime Čuvalo,2004 (September),[empty],MPL 1.1  Charityware,(since version 2.0.5),Firefox pre-version 57 addon
+*FileZilla,Community,2001 (January),[empty],GPL,[empty],GUI
+FireFTP,Mime Čuvalo,2004 (September),[empty],MPL 1.1  Charityware,(since version 2.0.5),Waterfox  Firefox pre-version 57 addon
 Fugu,University of Michigan Research Systems Unix Group,2003,1.2.0,BSD,[empty],GUI
 gFTP,Brian Masney,1998,2.0.19,GPL,[empty],GTK+
 lftp,Alexander V. Lukyanov,1996 (August),[empty],GPL,[empty],CLI
@@ -12,4 +12,3 @@ NcFTP,NcFTP Software Inc.,1991,3.2.6,Clarified Artistic License,[empty],CLI
 net2ftp,David C. Gartner,2003 (January),0.98,GPL,[empty],Web application
 tnftp,Luke Mewburn,1999,20151004,BSD,[empty],CLI
 WinSCP,Martin Přikryl,2000,[empty],GPL,[empty],GUI and CLI
-Yafc,Sebastian Ramacher,1999,[empty],GPL,[empty],CLI

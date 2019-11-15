@@ -1,3 +1,74 @@
+Data types,Java,C#
+Arbitrary-size decimals,<ref></ref>,<ref></ref>
+Arbitrary-size integers,[empty],<ref name="microsoft1"></ref>
+Arrays,<ref></ref>,[added]
+Boolean type,[empty],[added]
+Character,<ref></ref>,[added]
+Complex numbers,<ref></ref>,[added]
+Date/time,; reference type<ref></ref>,; value type
+Enumerated types,; reference type,; scalar
+High-precision decimal number,; but see 'Arbitrary-size decimals' above,</ref>}}
+IEEE 754 binary32 floating point number,[empty],[added]
+IEEE 754 binary64 floating point number,[empty],[added]
+Lifted (nullable) types,; but wrapper types,[added]
+Pointers,;<ref name="oracle.com"></ref> only method references<ref name="oracle1"></ref>,<ref>Only available in unsafe mode or through IntPtr managed type</ref>
+Reference types,[empty],[added]
+Signed integers,; 8  16  32  64 bits,; 8  16  32  64 bits
+Strings,[empty],[added]
+Type annotations,[empty],[added]
+Single-root (unified) type system,; but wrapper types,<ref>The type system is unified by default  unless the compiler is switched into unsafe mode where raw pointers are available as a datatype. Pointers are not derived from object nor does it have implicit conversions to/from the object data type</ref>
+Tuples,; limited 3rd party available.<ref></ref>,<ref name="Tuple Class in C#"></ref>
+Unsigned integers,; but some method support.<ref></ref>,; 8  16  32  64 bits
+Value types,; only primitive types,[added]
+[empty],Java,C#
+Definition,In Java  the enumeration type is a class  and its values are objects (instances) of that class. The only valid values are the ones listed in the enumeration. The enumeration type may declare fields  allowing each individual enumerated value to reference additional data associated uniquely with that specific value. The enumeration type may also declare or override methods  or implement interfaces.<ref name="enum"></ref>,Enumerations in C# are implicitly derived from the <kbd>Enum</kbd> type that again is a value type derivative. The value set of a C# enumeration is defined by the underlying type that can be a signed or unsigned integer type of 8  16  32 or 64 bits. The enumeration definition defines names for the selected integer values.<ref name="enum"/><ref></ref> By default the first name is assigned the value 0 (zero) and the following names are assigned in increments of 1. Any value of the underlying primitive type is a valid value of the enumeration type  though an explicit cast may be needed to assign it.
+Combining,Java enumeration set and map collections provide functionality to combine multiple enumeration values to a combined value. These special collections allows compiler optimization to minimize the overhead incurred by using collections as the combination mechanism.,C# supports bit-mapped enumerations where an actual value may be a combination of enumerated values bitwise or'ed together. The formatting and parsing methods implicitly defined by the type will attempt to use these values.
+Reference types,Java,C#
+Garbage collection,[empty],[added]
+Weak references,[empty],[added]
+Reference queue (interaction with garbage collection),[empty],[added]
+Soft references,[empty],[added]
+Phantom references,[empty],[added]
+Proxy support,; proxy generation,; object contexts
+Arrays and Collections,Java,C#
+Abstract data types,[empty],[added]
+One-dimensional  zero-based index arrays,[empty],[added]
+Multidimensional arrays  rectangular (single array),[empty],[added]
+Multidimensional arrays  jagged (arrays of arrays),[empty],[added]
+Non-zero based arrays,[empty],[added]
+Unified arrays and collections,[empty],[added]
+Maps/dictionaries,[empty],[added]
+Sorted dictionaries,[empty],<ref></ref>
+Sets,[empty],[added]
+Sorted sets,[empty],<ref></ref>
+Lists/vectors,[empty],[added]
+Queues/stacks,[empty],[added]
+Priority queue,[empty],<ref></ref><ref></ref>
+Bags/multisets,[empty],[added]
+Concurrency optimized collections,[empty],<ref></ref>
+Java,C#
+Arrays are implicitly direct specializations of <kbd>Object</kbd>. They are not unified with collection types.,Arrays in C# are implicit specializations of the <kbd>System.Array</kbd> class that implements several collection interfaces.
+Arrays and collections are completely separate with no unification. Arrays cannot be passed where sequences or collections are expected (though they can be wrapped using <kbd>Arrays.asList</kbd>).,Arrays can be passed where sequences (<kbd>IEnumerable</kbd>s) or collections/list interfaces are expected. However  the collection operations that alter the number of elements (insert/add/remove) will throw exceptions as these operations are unsupported by arrays.
+The <kbd>for</kbd> statement accepts either arrays or <kbd>Iterable</kbd>s. All collections implement <kbd>Iterable</kbd>. This means that the same short syntax can be used in for-loops.,The <kbd>foreach</kbd> statement iterates through a sequence using a specific implementation of the <kbd>GetEnumerator</kbd> method  usually implemented through the <kbd>IEnumerable</kbd> or <kbd>IEnumerable<T></kbd> interface.<ref></ref> Because arrays always implicitly implement these interfaces  the loop will iterate through arrays also.
+In both languages arrays of reference types are covariant. This means that a <kbd>String[]</kbd> array is assignable to variables of <kbd>Object[]</kbd>  as <kbd>String</kbd> is a specialization of (assignable to) <kbd>Object</kbd>. In both languages  the arrays will perform a type check when inserting new values  because type safety would otherwise be compromised. This is in contrast to how generic collections have been implemented in both languages.,[added]
+No multidimensional arrays (rectangular arrays)  but arrays of references to arrays (jagged arrays).,Multidimensional arrays (rectangular arrays)  and arrays of references to arrays (jagged arrays).
+Arrays cannot be resized (though use of the <kbd>System.arraycopy()</kbd> method can allow for multi-step array resizing),Arrays can be resized while preserving existing values using the <kbd>Array.Resize()</kbd> static array method (but this may return a new array).
+Implemented as a retrofit for the <kbd>java.util</kbd> library having extra features  like data structures like sets and linked sets  and has several algorithms to manipulate elements of a collection  like finding the largest element based on some <kbd>Comparator<T></kbd> object  finding the smallest element  finding sublists within a list  reverse the contents of a list  shuffle the contents of a list  create immutable versions of a collection  performs sorts  and make binary searches.<ref></ref>,The C# collections framework consists of classes from the <kbd>System.Collections</kbd> and the <kbd>System.Collections.Generic</kbd> namespaces with several useful interfaces  abstract classes  and data structures.<ref></ref> NET 3.5 added <kbd>System.Linq</kbd> namespace that contains various extension methods for querying collections  such as <kbd>Aggregate</kbd>  <kbd>All</kbd>  <kbd>Average</kbd>  <kbd>Distinct</kbd>  <kbd>Join</kbd>  <kbd>Union</kbd> and many others. Queries using these methods are called Language Integrated Query (LINQ).
+Java,C#
+<source lang=Java> // Is valid  as numbers is an object of type short[] short[] numbers = new short[100];  // Is valid  but it isn't clear code double values[] = new double[100];</source> || <source lang=CSharp> // Is valid  as numbers is an object of type short[] short[] numbers = new short[100];  // Won't compile! double values[] = new double[100]; </source>,[added]
+Expressions and operators,Java,C#
+Arithmetic operators,[empty],[added]
+Logical operators,[empty],[added]
+Bitwise logic operators,[empty],[added]
+Conditional,[empty],[added]
+String concatenation,[empty],[added]
+Casts,[empty],[added]
+Boxing,; implicit,; implicit
+Unboxing,; implicit,; explicit
+Lifted operators,, but see java.util.Optional,[added]
+Overflow control,[empty],[added]
+Strict floating point evaluation,; opt-in/out,; opt-in<ref></ref>
+Verbatim (here-)strings,[empty],<ref></ref>
 Statements,Java,C#
 Loops,[empty],[added]
 Conditionals,[empty],[added]

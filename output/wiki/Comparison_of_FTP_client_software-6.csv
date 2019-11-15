@@ -1,3 +1,57 @@
+Client,Creator,First public release date,Latest stable version,Software license,Copy files over 2 GB limit<ref name="ubuntuforums">ubuntuforums.org: 2007  2GB data transfer limitation? Quote: "...The common 2 GB limit is actually a bug in many FTP clients. If he is using Windows  try the latest FileZilla..."  kernel.org: FAQ: I can't download a file with size greater than 2GB  is your website broken?  Comparison of file systems#Limits</ref>,Interface
+cURL,Daniel Stenberg,1998,[empty],MIT,[empty],CLI
+Cyberduck,David V. Kocher,2001,6.0.4,GPL,[empty],GUI and CLI
+FAR Manager,Eugene Roshal / FAR Group,1996,[empty],BSD,[empty],TUI
+*FileZilla,Community,2001 (January),[empty],GPL,[empty],GUI
+FireFTP,Mime Čuvalo,2004 (September),[empty],MPL 1.1  Charityware,(since version 2.0.5),Waterfox  Firefox pre-version 57 addon
+Fugu,University of Michigan Research Systems Unix Group,2003,1.2.0,BSD,[empty],GUI
+gFTP,Brian Masney,1998,2.0.19,GPL,[empty],GTK+
+lftp,Alexander V. Lukyanov,1996 (August),[empty],GPL,[empty],CLI
+Macfusion,Michael Gorbach,0 ?,2.0.4,BSD,[empty],GUI
+NcFTP,NcFTP Software Inc.,1991,3.2.6,Clarified Artistic License,[empty],CLI
+net2ftp,David C. Gartner,2003 (January),0.98,GPL,[empty],Web application
+tnftp,Luke Mewburn,1999,20151004,BSD,[empty],CLI
+WinSCP,Martin Přikryl,2000,[empty],GPL,[empty],GUI and CLI
+Client,Creator,First public release date,Latest stable version,Software license,Copy files over 2 GB<ref name="ubuntuforums"/>,Interface
+CrossFTP,CrossFTP Software,2006,1.98.7,Proprietary,[empty],GUI
+Classic FTP,NCH Software,2007,2.52,Proprietary,[empty],GUI
+Fling FTP (free version contains adware),NCH Software,2007,1.0.7,Proprietary,[empty],Windows Explorer shell extension
+LeechFTP,Jan Debis,1998,1.3 (Discontinued),Proprietary,[empty],GUI
+pbFtpClient,Level5Software,2007,6.1,Proprietary,[empty],Windows GUI
+FTP Voyager,Rhino Software  Inc,1997 (January),16.1.0.0 (),Proprietary,[empty],GUI
+Client,Creator,First public release date,Latest stable version,Software license,Copy files over 2 GB<ref name="ubuntuforums" />
+CoreFTP,CoreFTP.com,2003,2.2 (build 1751),Freeware,[empty]
+Fetch,Fetch Softworks,1989,5.7.7,Proprietary,[empty]
+Secure FTP,Glub Tech,1999,2.6.2,Apache,[empty]
+Sysax FTP Automation,Codeorigin  LLC,2005,5.31,Proprietary,[empty]
+[added],[added],[added],[added],[added],[added]
+Client,Creator,First public release date,Latest stable version,Software license,Copy files over 2 GB<ref name="ubuntuforums" />
+AbsoluteTelnet,Celestial Software,1996,9.49,Proprietary,[empty]
+Beyond Compare,Scooter Software,1996,4.3.2,Proprietary,[empty]
+Commander One,Eltima Software,2015,1.1,Proprietary,[empty]
+CrossFTP Pro,CrossFTP Software,2006,1.98.7,Proprietary,[empty]
+CuteFTP,Alex Kunadze/Globalscape,1994,9.3.0 (Windows) / 3.1.3 (Mac),Proprietary,[empty]
+Directory Opus,GPSoftware,1990,11.10,Proprietary,[empty]
+FlashFXP,OpenSight Software  LLC,1999,5.4.0.3970,Proprietary,[empty]
+FTP Client,Vicomsoft,1997,5.0.1,Proprietary,[empty]
+SmartFTP,SmartSoft Ltd,1998,6.0.2155.0,Proprietary,[empty]
+Total Commander,Christian Ghisler,1993,9.21a,Proprietary,[empty]
+WebDrive,South River Technologies  Inc.,1998,2017,Proprietary,[empty]
+WS_FTP,Ipswitch  Inc.,1996,12.7,Proprietary,[empty]
+Yummy FTP,Yummy Software,2004,1.9.0,Proprietary  Setapp,[empty]
+Client,Creator,First public release date,Latest stable version,Software license,Copy files over 2 GB<ref name="ubuntuforums" />
+ALFTP,ESTsoft,2000,5.31,Proprietary,[empty]
+ExpanDrive (Mac),ExpanDrive  Inc,2008,[empty],Proprietary,[empty]
+ExpanDrive (Windows) (formerly SFTPDrive),ExpanDrive  Inc,2005,[empty],Proprietary,[empty]
+ForkLift,BinaryNights  LLC,2007,3.2.2,Proprietary,[empty]
+FTP Commander,Internetsoft Corporation,1997,9.21,Proprietary,[empty]
+FTP Explorer,FTPx Corp.,October  1996,1.0.1.53; January 2012,Proprietary,[empty]
+Interarchy,Nolobe Software Pty Ltd,1993 (as Anarchie),10.0.6,Proprietary,[empty]
+Steed,French Fry  SAS,2012,1.2.1.1169,Proprietary,[empty]
+Transmit,Panic  Inc.,1998,5.0.4,Proprietary,[empty]
+WISE-FTP,AceBIT,1998,7.0 (Build 7.0.4),Proprietary,[empty]
+edtFTPj,Bruce P. Blackshaw,2000,2.3.0,Proprietary,[empty]
+edtFTPnet,Bruce P. Blackshaw,2003,2.2.1,Proprietary,[empty]
 Client,Windows,macOS,Linux,BSD,Unix,AmigaOS,ChromeOS
 AbsoluteTelnet,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 ALFTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
@@ -19,7 +73,6 @@ FireFTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 FlashFXP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Fling FTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 ForkLift,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
-Client,Windows,Mac OS X,Linux,BSD,Unix,AmigaOS,ChromeOS
 FTP Client,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 FTP Commander,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 FTP Explorer,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
@@ -31,15 +84,11 @@ Interarchy,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 LeechFTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 lftp (CL),(cygwin),[empty],[empty],[empty],[empty],[empty],[empty]
 Macfusion,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
-mimiFTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
-Monsta FTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Mosaic,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 NcFTP (CL),[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 net2ftp (web-based),[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 pbFtpClient,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 PSFTP (PuTTY) (CL),[empty],[empty],[empty],[empty],[empty],[empty],[empty]
-RaiDrive,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
-Robo-FTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Secure FTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 SmartFTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Steed,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
@@ -50,8 +99,5 @@ WebDrive,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 WinSCP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 WISE-FTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 WS_FTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
-Xftp,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Yummy FTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
-sFTP Client,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
-Desktop.Tech,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Client,Windows,Mac OS X,Linux,BSD,Unix,AmigaOS,ChromeOS

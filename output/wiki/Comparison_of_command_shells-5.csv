@@ -1,24 +1,126 @@
+Shell,Usual environment,Usually invoked,Introduced,Platform-independent,Default login shell in,Default script shell in,License,Source code availability,User interface,Mouse support,Unicode support,ISO 8601 support,Console redirection,Stream redirection,Configurability,Startup/shutdown scripts,Batch scripts,Logging,available as statically linked  independent single file executable
+Thompson shell,UNIX,sh,1971,[empty],UNIX,UNIX,[empty],[empty],Text-based CLI,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Bourne shell 1977 version,7th Ed. UNIX,sh,1977,[empty],7th Ed. UNIX,7th Ed. UNIX ,[empty],[empty],Text-based CLI,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Bourne shell current version,Various UNIX,sh,1977,[empty],SunOS-5.x  FreeBSD (non-root user)<ref></ref>,SunOS-5.x,</ref>}},[empty],Text-based CLI,[empty],<ref group="nb">Since mid 1990s.</ref>,[empty],[empty],[empty],[empty],[empty],[empty],<ref group="nb">if compiled with -DACCT.</ref>,[empty]
+POSIX shell<ref></ref>,POSIX,sh,1992<ref>As part of IEEE Std.1003.2-1992 (POSIX.2); integrated into IEEE Std.1003.1 with the 2001 revision.</ref>,[empty],[empty],POSIX,[empty],[empty],Text-based CLI,[empty],[empty],[empty],[empty],[empty],[empty],Unspecified (.profile given as an example),[empty],[empty],[empty]
+bash (v4),POSIX,bash  sh,1989<ref></ref>,[empty],GNU  Linux (default for root)  macOS 10.3–10.14,GNU  Linux  Haiku  macOS 10.3–10.14,[empty],[empty],Text-based CLI,[empty],<ref>  "Bash now supports the \u and \U Unicode escape."</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+csh,POSIX,csh,1978,[empty],SunOS,[empty],[empty],[empty],Text-based CLI,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+tcsh,POSIX,tcsh  csh,1983<ref name="Greer"></ref>,[empty],FreeBSD (default for root)  formerly Mac OS X,[empty],[empty],[empty],Text-based CLI,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Hamilton C shell,Win32  OS/2,csh,1988<ref name="PCWeek"></ref>,(OS/2 version no longer maintained),[empty],[empty],[empty],[empty],Text-based CLI,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Scsh,POSIX,scsh,1994,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ksh (ksh93t+),POSIX,ksh,1983<ref name="Gomes"></ref><ref name="Harris"> </ref>,[empty],AIX  HP-UX,OpenSolaris,[empty],[empty],Text-based CLI,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+pdksh,POSIX,ksh  sh,1989?,[empty],OpenBSD<ref name="default OpenBSD">Default shell in OpenBSD is ksh (pdksh).</ref>,OpenBSD<ref name="default OpenBSD"/>,[empty],[empty],Text-based CLI,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+zsh,POSIX,zsh,1990,[empty],Deepin  GoboLinux  Grml  macOS 10.15+,Grml  macOS 10.15+,[empty],[empty],Text-based CLI,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ash,POSIX,sh,1989,[empty],Minix  BusyBox based systems,NetBSD  Minix  BusyBox based systems,[empty],[empty],Text-based CLI,[empty],(for BusyBox  supported in command-line editing  but not in string handling<ref></ref>),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CCP,CP/M  MP/M,(CCP),1976 (1974),[empty],CP/M (no login)  MP/M,CP/M  MP/M,[empty],(originally closed-source),Text-based CLI,[empty],[empty],[empty],[empty],[empty],[empty],(automatic via $$$.SUB),(only via external SUBMIT command to update $$$.SUB),[empty],[empty]
+COMMAND.COM,DOS,COMMAND,1980,(3rd party implementations  not bound to a specific DOS vendor or version  available),DOS  Windows 95  98  SE  ME,DOS  Windows 95  98  SE  ME,vendor specific  f.e. MS-EULA <ref group="nb">MS-DOS and Windows component – covered by a valid license for MS-DOS or Microsoft Windows.</ref> or BSD/GPL (free clones),(except for OpenDOS  DR-DOS  PTS/DOS and FreeDOS),Text-based CLI,[empty],[empty],(except for DR-DOS),(via COMMAND con: or CTTY con:),[empty],(via startup parameters and environment variables  DR-DOS also supports DIR /C /R user-default switch command),(automatic \AUTOEXEC.BAT for primary shell  or explicitly via /P  /P:filename.bat or /K startup options),(via CALL command or /C and /K startup options),[empty],[empty]
+OS/2 CMD.EXE,OS/2,CMD,1987,[empty],OS/2,OS/2,<ref group="nb">OS/2 component – covered by a valid license for OS/2.</ref>,[empty],Text-based CLI,[empty],[empty],[empty],[empty],[empty],[empty],(only via /K startup option),(via CALL command or /C and /K startup options),[empty],[empty]
+Windows CMD.EXE<ref group="nb" name="cmd /x">Command extensions enabled  or "CMD /X".</ref>,Win32,CMD,1993,[empty],Windows NT  2000  XP  Server 2003  Vista,Windows NT  2000  XP  Server 2003  Vista,<ref group="nb" name="ReferenceA">Windows component – covered by a valid license for Microsoft Windows.</ref>,[empty],Text-based CLI,[empty],(CHCP 65001 for UTF-8  but program arguments are still encoded in local codepage),[empty],[empty],[empty],(via registry  startup parameters  and environment variables),(automatic via registry  or explicitly via /K startup option),(via CALL command or /C and /K startup options),[empty],[empty]
+4DOS  NDOS,DOS  Windows 95  98  SE  ME,4DOS  NDOS,1989 (1986),[empty],[empty],[empty],[empty],[empty],Text-based CLI with TUI extensions,(popups  help system  %_MOUSE internal variable  INKEY /M command),[empty],[empty],(via CTTY con:  except for DRAWBOX  DRAWLINE  DRAWVLINE  LIST  SCREEN  SCRPUT  SELECT  VSCRPUT commands and file / directory coloring),[empty],(via 4DOS.INI/NDOS.INI file  startup parameters  environment variables  SETDOS command),(automatic \AUTOEXEC.BAT for primary shell and 4START.BTM/4START.BAT as well as 4EXIT.BTM/4EXIT.BAT for any shell  or explicitly via /P  /P:dir\filename.ext or /K startup options),(via CALL command or /C and /K startup options),[empty],[empty]
+4OS2,OS/2,4OS2,1992,[empty],[empty],[empty],[empty],[empty],Text-based CLI,[empty],[empty],[empty],[empty],[empty],(via 4OS2.INI file  startup parameters  environment variables  SETDOS command),(automatic via 4START.CMD/4START.BTM as well as 4EXIT.CMD/4EXIT.BTM files  or explicitly via /K startup.cmd option),(via CALL command or /C and /K startup options),[empty],[empty]
+TCC (formerly 4NT),Win32,TCC,1993,[empty],optional,optional,[empty],[empty],Text-based CLI (Take Command: GUI),(console mouse  popups  help system  %_XMOUSE  %_YMOUSE internal variables  INKEY /M command),[empty],[empty],[empty],[empty],(via registry  TCMD.INI/4NT.INI file  startup parameters  environment variables  SETDOS command),(automatic via registry and TCSTART/4START as well as TCEXIT/4EXIT  or explicitly via /K startup option),(via CALL command or /C and /K startup options),[empty],[empty]
+VMS DCL<ref></ref>,OpenVMS,Automatically for login/interactive process,1977?,[empty],VMS,VMS,Proprietary  bundled in VMS,[empty],Text-based CLI,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PowerShell,.NET,PowerShell,2006,[empty],Windows Server 2008  7  Vista  XP<ref group="nb" name="optional">Windows PowerShell is installed with Windows 7  however  it is an optional download for users of Windows Vista or Windows XP.</ref>,Windows Server 2008  7,[empty],[empty],Graphical CLI,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+rc,Plan 9  POSIX,rc,1989,[empty],Plan 9  Version 10 Unix,Plan 9  Version 10 Unix,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BeanShell,Java,[empty],2005,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+fish,POSIX,fish,2005<ref></ref>,[empty],GhostBSD,[empty],[empty],[empty],Text-based CLI,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ion,Redox  Linux,ion,2015<ref></ref>,[empty],Redox,Redox,[empty],[empty],Text-based CLI,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],(not distributed as a standalone executable  but it can be built as one)
+Shell,Usual environment,Usually invoked,Introduced,Platform-independent,Default login shell in,Default script shell in,License,Source code availability,User interface,Mouse support,Unicode support,ISO 8601 support,Console redirection,Stream redirection,Configurability,Startup/shutdown scripts,Batch scripts,Logging,available as statically linked  independent single file executable
+Shell,Functions,Exception handling,Search & replace on variable substitutions,Arith&shy;metic,Floating point,Math function library,Linear arrays or lists,Assoc&shy;iative arrays,Lambda functions,eval func&shy;tion,Pseudo&shy;random number generation,Bytecode
+Bourne shell 1977 version,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Bourne shell current version,[empty],[empty],[empty],<ref group="nb" name="ReferenceB"/>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+POSIX shell,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+bash (v4.0),[empty],[empty],Yes (via ${//} syntax)}},[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+csh,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+tcsh,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Hamilton C shell,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Scsh,[empty],?,[empty],?,?,?,[empty],?,[empty],[empty],[empty],[empty]
+ksh (ksh93t+),[empty],[empty],Yes (via ${//} syntax and builtin commands)}},[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+pdksh,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+zsh,[empty],[empty],Yes (via ${:s//} and ${//} syntax)}},[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ash,[empty],(via trap),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CCP,[empty],?,[empty],[empty],?,?,[empty],[empty],[empty],[empty],[empty],[empty]
+COMMAND.COM,[empty],(only Auto-fail (via COMMAND /F (or /N in some versions of DR-DOS)),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OS/2 CMD.EXE,[empty],[empty],[empty],?,[empty],[empty],?,[empty],[empty],[empty],[empty],[empty]
+Windows CMD.EXE,[empty],[empty],[empty],</ref>}},[empty],[empty],</ref>)}},[empty],[empty],[empty],[empty],[empty]
+4DOS,[empty],[empty],[empty],[empty],?,?,[empty],[empty],[empty],[empty],[empty],[empty]
+4OS2,?,?,?,?,?,?,?,?,[empty],[empty],(%@Random[...] function),?
+TCC (formerly 4NT),[empty],[empty],[empty],[empty],?,?,[empty],?,[empty],[empty],(%@Random[...] function),(via BATCOMP command)
+PowerShell,[empty],(Try-Catch-Finally),[empty],[empty],[empty],<ref>The .NET System.Math class defines mathematical functions that can be used through the shortcut [Math]  e.g. [Math]::Sin for the sinus function.https://technet.microsoft.com/en-us/library/dd347632.aspx</ref>,[empty],[empty],[empty],[empty],[empty],[empty]
+rc,[empty],[empty],[empty],?,?,?,[empty],?,[empty],[empty],[empty],[empty]
+BeanShell,[empty],[empty],?,[empty],?,?,[empty],[empty],[empty],[empty],[empty],[empty]
+VMS DCL,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+fish,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Shell,String processing,Alternation (Brace expansion),Pattern matching (regular expressions built-in),Pattern matching (filename globbing),Globbing qualifiers (filename generation based on file attributes),Recursive globbing (generating files from any level of subdirectories)
+Bourne shell 1977 version,?,[empty],[empty],[empty],[empty],[empty]
+Bourne shell recent version,(prefix and suffix stripping in variable expansion),[empty],[empty],[empty],[empty],[empty]
+POSIX shell,(prefix and suffix stripping in variable expansion),[empty],[empty],[empty],[empty],[empty]
+bash (v4.0),(prefix and suffix stripping in variable expansion),[empty],[empty],Yes (*  ?  [...]  {...})}},[empty],(**/...)
+csh,[empty],[empty],[empty],[empty],[empty],[empty]
+tcsh,[empty],[empty],[empty],[empty],[empty],[empty]
+Hamilton C shell,[empty],[empty],[empty],[empty],[empty],</ref>)}}
+Scsh,?,?,[empty],[empty],[empty],[empty]
+ksh (ksh93t+),(prefix  suffix stripping and string replacement in variable expansion),<ref name="Apress"></ref>,[empty],[empty],[empty],(with set -G  no following of symlinks)
+pdksh,?,<ref name="Apress"/>,[empty],[empty],[empty],[empty]
+zsh,(through variable processing: e.g. substring extraction  various transformations via parameter expansion),[empty],[empty],[empty],[empty],(**/... or ***/... to follow symlinks)
+ash,?,?,[empty],[empty],[empty],[empty]
+CCP,[empty],[empty],[empty],[empty],[empty],[empty]
+COMMAND.COM,[empty],[empty],[empty],[empty],[empty],[empty]
+OS/2 CMD.EXE,[empty],[empty],[empty],[empty],(only in DIR /A:... command),[empty]
+Windows CMD.EXE,(only through FOR /F and SET /A),[empty],[empty],[empty],(only in DIR /A:... command),(via FOR /R command  or  where available  indirectly via /S subdir option)
+4DOS,(through variable functions %@...[]  extended environment variable processing  various string commands and FOR /F and SET /A),[empty],[empty],[empty],(via /A:... attribute and /I"..." description options and /[S...] size  /[T...] time  /[D...] date  and /[!...] file exclusion ranges),(via FOR /R command  or indirectly via GLOBAL command or  where available  /S subdir option)
+4OS2,?,[empty],[empty],?,?,?
+TCC (formerly 4NT),(through variable functions %@...[]  extended environment variable processing  various string commands and FOR /F and SET /A),[empty],[empty],[empty],(via /A:... attribute and /I"..." description options and /[S...] size  /[T...] time  /[D...] date  /[O...] owner  and /[!...] file exclusion ranges),(via FOR /R command  or indirectly via GLOBAL command or  where available  /S subdir option)
+PowerShell,[empty],[empty],[empty],[empty],?,?
+rc,?,?,[empty],[empty],[empty],[empty]
+BeanShell,?,?,[empty],?,?,?
+VMS DCL,[empty],[empty],[empty],[empty],[empty],(via [SUBDIR...])
+fish,[empty],[empty],[empty],Yes (*  ?  {...})}},[empty],(**/...)
+Shell,Pipes,Command substitution,Process substitution,Subshells,TCP/UDP connections as streams,Keystroke stacking
+Bourne shell,[empty],[empty],[empty],[empty],[empty],<ref group="nb" name="xautomation">xautomation and xdotool can be used to generate keystrokes under X Window System; or a program can be run in a pseudoterminal to be able to control it (as with the expect tool).</ref>
+POSIX shell,[empty],[empty],[empty],[empty],[empty],<ref group="nb" name="xautomation"/>
+bash (v4.0),[empty],[empty],'' or named pipes)}},[empty],[empty],<ref group="nb" name="xautomation"/>
+csh,[empty],[empty],[empty],[empty],[empty],<ref group="nb" name="xautomation"/>
+tcsh,[empty],[empty],[empty],[empty],[empty],<ref group="nb" name="xautomation"/>
+Hamilton C shell,[empty],[empty],[empty],[empty],[empty],?
+Scsh,[empty],?,?,?,[empty],<ref group="nb" name="xautomation"/>
+ksh (ksh93t+),[empty],Yes ($(...) and ${<space>...;})}},'')}},[empty],[empty],<ref group="nb" name="xautomation"/>
+pdksh,[empty],[empty],[empty],[empty],[empty],<ref group="nb" name="xautomation"/>
+zsh,[empty],[empty],[empty],[empty],[empty],<ref group="nb" name="xautomation"/>
+ash,[empty],[empty],[empty],[empty],[empty],<ref group="nb" name="xautomation"/>
+CCP,[empty],[empty],[empty],[empty],[empty],[empty]
+COMMAND.COM,[empty],[empty],[empty],(only under DR-DOS multitasker via COMMAND.COM /T),[empty],[empty]
+OS/2 CMD.EXE,[empty],[empty],[empty],?,[empty],[empty]
+Windows CMD.EXE,[empty],[empty],[empty],[empty],[empty],[empty]
+4DOS,[empty],[empty],?,(via %@EXECSTR[] and %@EXEC[]  or via SET /M  ESET /M and UNSET /M and %@MASTER[...]),[empty],(via KEYSTACK and KSTACK)<ref name="4DOS_8.00_HELP"></ref>
+4OS2,[empty],?,?,?,[empty],(via KEYSTACK)
+TCC (formerly 4NT),[empty],[empty],?,(via %@EXECSTR[] and %@EXEC[]),(via FTP  TFTP  FTPS  SFTP  HTTP  HTTPS and IFTP  client only),(via KEYSTACK)
+PowerShell,[empty],[empty],[empty],[empty],[empty],?
+rc,[empty],[empty],Yes (via: <{cmd} if system supports /dev/fd/'''')}},[empty],[empty],?
+BeanShell,[empty],?,?,?,[empty],?
+VMS DCL,[empty],[empty],[empty],[empty],[empty],[empty]
+fish,[empty],(...),</ref>}},[empty],[empty],<ref group="nb" name="xautomation"/>
 Shell,Secure (password) prompt,Encrypted variables/ parameters,File/directory passwords,Execute permission,Untrusted script blocking,Restricted shell subset,Safe data subset
-Bourne shell,<ref name="tty">The shell can use the stty utility to suppress echoing of typed characters to the screen. This requires multiple steps: 1. reading the current echo state  2. switching echo off  3. reading the input  4. switching echo state back to the original state.</ref>,[empty],?,<ref name="hashbang">The execute permission is enforced by a separate program  the program loader  by refusing to invoke the interpreter (possibly a shell) specified by the script's hashbang. The interpreter does not enforce the execute permission if invoked directly as the program loader would  with the file as an argument; this only requires read permission  as does piping the file as input to the interpreter  in which case the interpreter cannot see the execute permission.</ref>,[empty],[empty],[empty]
-POSIX shell,<ref name="tty" />,[empty],?,<ref name="hashbang"/>,[empty],[empty],[empty]
-bash (v4.0),[empty],[empty],?,<ref name="hashbang"/>,[empty],[empty],[empty]
-csh,<ref name="tty" />,[empty],?,<ref name="hashbang"/>,[empty],[empty],[empty]
-tcsh,<ref name="tty" />,[empty],?,<ref name="hashbang"/>,[empty],[empty],[empty]
+Bourne shell,<ref group="nb" name="tty">The shell can use the stty utility to suppress echoing of typed characters to the screen. This requires multiple steps: 1. reading the current echo state  2. switching echo off  3. reading the input  4. switching echo state back to the original state.</ref>,[empty],?,<ref group="nb" name="hashbang">The execute permission is enforced by a separate program  the program loader  by refusing to invoke the interpreter (possibly a shell) specified by the script's hashbang. The interpreter does not enforce the execute permission if invoked directly as the program loader would  with the file as an argument; this only requires read permission  as does piping the file as input to the interpreter  in which case the interpreter cannot see the execute permission.</ref>,[empty],[empty],[empty]
+POSIX shell,<ref group="nb" name="tty"/>,[empty],?,<ref group="nb" name="hashbang"/>,[empty],[empty],[empty]
+bash (v4.0),[empty],[empty],?,<ref group="nb" name="hashbang"/>,[empty],[empty],[empty]
+csh,<ref group="nb" name="tty"/>,[empty],?,<ref group="nb" name="hashbang"/>,[empty],[empty],[empty]
+tcsh,<ref group="nb" name="tty"/>,[empty],?,<ref group="nb" name="hashbang"/>,[empty],[empty],[empty]
 Hamilton C shell,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
-Scsh,<ref name="tty" />,[empty],?,<ref name="hashbang"/>,[empty],[empty],[empty]
-ksh (ksh93t+),<ref name="tty" />,[empty],?,<ref name="hashbang"/>,[empty],[empty],[empty]
-pdksh,<ref name="tty" />,[empty],?,<ref name="hashbang"/>,[empty],[empty],[empty]
-zsh,[empty],[empty],?,<ref name="hashbang"/>,[empty],[empty],[empty]
-ash,<ref name="tty" />,[empty],?,<ref name="hashbang"/>,[empty],[empty],[empty]
+Scsh,<ref group="nb" name="tty"/>,[empty],?,<ref group="nb" name="hashbang"/>,[empty],[empty],[empty]
+ksh (ksh93t+),<ref group="nb" name="tty"/>,[empty],?,<ref group="nb" name="hashbang"/>,[empty],[empty],[empty]
+pdksh,<ref group="nb" name="tty"/>,[empty],?,<ref group="nb" name="hashbang"/>,[empty],[empty],[empty]
+zsh,[empty],[empty],?,<ref group="nb" name="hashbang"/>,[empty],[empty],[empty]
+ash,<ref group="nb" name="tty"/>,[empty],?,<ref group="nb" name="hashbang"/>,[empty],[empty],[empty]
 CCP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
-COMMAND.COM,(only under DR-DOS  prompts for password if file/directory is protected),[empty],(only under DR-DOS via \dirname;dirpwd\filename;filepwd syntax)<ref name="drpwd">Under DR-DOS the password separator for file and directory passwords is a semicolon. This is also supported under 4DOS for as long as the command does not support include lists. Under 4DOS  the password separator must be doubled for all commands supporting include lists in order to distinguish passwords from include lists. Commands not supporting include lists accept both forms. DR-DOS 7.02 and higher optionally accept a doubled semicolon as well  so that doubled semicolons work under both COMMAND.COM and 4DOS regardless of the command executed.</ref>,(only under DR-DOS  if files are password-protected for read and/or execute permission)<ref name="drexec">DR-DOS supports file passwords for read/write/delete and optionally execute permissions. Files are not protected by default  but the system can be set up so that f.e. batch scripts require a password to read.</ref>,[empty],[empty],[empty]
+COMMAND.COM,(only under DR-DOS  prompts for password if file/directory is protected),[empty],(only under DR-DOS via \dirname;dirpwd\filename;filepwd syntax)<ref group="nb" name="drpwd">Under DR-DOS the password separator for file and directory passwords is a semicolon. This is also supported under 4DOS for as long as the command does not support include lists. Under 4DOS  the password separator must be doubled for all commands supporting include lists in order to distinguish passwords from include lists. Commands not supporting include lists accept both forms. DR-DOS 7.02 and higher optionally accept a doubled semicolon as well  so that doubled semicolons work under both COMMAND.COM and 4DOS regardless of the command executed.</ref>,(only under DR-DOS  if files are password-protected for read and/or execute permission)<ref group="nb" name="drexec">DR-DOS supports file passwords for read/write/delete and optionally execute permissions. Files are not protected by default  but the system can be set up so that f.e. batch scripts require a password to read.</ref>,[empty],[empty],[empty]
 OS/2 CMD.EXE,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Windows CMD.EXE,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
-4DOS,(via INPUT /P or INKEY /P)<ref name="input/p">INPUT /P and INKEY /P echoes back asterisks for each typed character</ref>,[empty],(only under DR-DOS via \dirname;;dirpwd\filename;;filepwd syntax)<ref name="drpwd"/>,(only under DR-DOS  if files are password-protected for read and/or execute permission)<ref name="drexec"/>,[empty],[empty],[empty]
+4DOS,(via INPUT /P or INKEY /P)<ref group="nb" name="input/p">INPUT /P and INKEY /P echoes back asterisks for each typed character.</ref>,[empty],(only under DR-DOS via \dirname;;dirpwd\filename;;filepwd syntax)<ref group="nb" name="drpwd"/>,(only under DR-DOS  if files are password-protected for read and/or execute permission)<ref group="nb" name="drexec"/>,[empty],[empty],[empty]
 4OS2,?,[empty],[empty],[empty],[empty],[empty],[empty]
-TCC (formerly 4NT),(via INPUT /P  INKEY /P or QUERYBOX /P)<ref name="input/p"/>,[empty],[empty],[empty],[empty],[empty],[empty]
-PowerShell,<ref>Read-Host -AsSecureString reads a string of characters from the input device into an encrypted string  one character at a time thus ensuring that there is no memory image of the clear text which could be gleaned from scanning memory  or from crash dumps  memory dumps  paging files  log files or similar.</ref>,[empty],[empty],<ref>PowerShell script files (.ps1 files) are by default associated with the Notepad editor  not with the PowerShell execution engine. Invoking a .ps1 file will launch Notepad rather than executing the script.</ref>,<ref name="microsoft1"></ref>,<ref>Startup scripts per computer/user can import modules and expose a subset the commands/functions available in the modules.</ref>,<ref></ref>
-rc,<ref name="tty" />,[empty],?,<ref name="hashbang"/>,[empty],<ref></ref>,[empty]
+TCC (formerly 4NT),(via INPUT /P  INKEY /P or QUERYBOX /P)<ref group="nb" name="input/p"/>,[empty],[empty],[empty],[empty],[empty],[empty]
+PowerShell,<ref group="nb">Read-Host -AsSecureString reads a string of characters from the input device into an encrypted string  one character at a time thus ensuring that there is no memory image of the clear text which could be gleaned from scanning memory  or from crash dumps  memory dumps  paging files  log files or similar.</ref>,[empty],[empty],<ref group="nb">PowerShell script files (.ps1 files) are by default associated with the Notepad editor  not with the PowerShell execution engine. Invoking a .ps1 file will launch Notepad rather than executing the script.</ref>,<ref name="microsoft1"></ref>,<ref group="nb">Startup scripts per computer/user can import modules and expose a subset the commands/functions available in the modules.</ref>,<ref></ref>
+rc,<ref group="nb" name="tty"/>,[empty],?,<ref group="nb" name="hashbang"/>,[empty],<ref></ref>,[empty]
 BeanShell,?,?,?,?,?,?,?
 VMS DCL,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
-fish,[empty],[empty],?,<ref name="hashbang"/>,[empty],[empty],?
+fish,[empty],[empty],?,<ref group="nb" name="hashbang"/>,[empty],[empty],?

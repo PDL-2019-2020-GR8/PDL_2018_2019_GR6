@@ -12,7 +12,6 @@ Exaile,Adam Olsen,[empty],[empty],[empty],[empty],GStreamer,Python (GTK+)
 Ecoute,Louka Desroziers & Julien Sagot,[empty],3.0.8,(until version 4),[empty],AV Foundation & QuickTime,Objective-C
 Flash MP3 Player,Reality Software,[empty],1.00,[empty],[empty],[empty],[empty]
 foobar2000,Peter Pawlowski,[empty],[empty],[empty],(core) <br />BSD (SDK),[empty],C++
-GMusicBrowser,Quentin Sculo,[empty],1.1.15 (released on ),[empty],[empty],GStreamer/MPlayer/mpg123/mpv,GTK2 Perl
 Guayadeque Music Player,Juan Rios,[empty],0.4.5,[empty],[empty],GStreamer,C++ (wxWidgets  wxSqlite)
 iTunes,Apple Inc.,[empty],[empty],[empty],[empty],QuickTime,[empty]
 JRiver Media Center,JRiver  Inc.,[empty],[empty],[empty],[empty],JRiver code,C++
@@ -24,7 +23,7 @@ Groove Music,Microsoft,[empty],[empty],[empty],[empty],[empty],[empty]
 MPXPLAY,MPXPLAY,[empty],[empty],[empty],[empty],[empty],C
 Music on Console,Damian Pietras,[empty],[empty],[empty],[empty],[empty],C
 Music Player Daemon,Warren Dukes,[empty],[empty],[empty],[empty],[empty],C
-MusicBee,Steven Mayall,[empty],3.2.6827,[empty],[empty],BASS audio library,Visual Basic .NET
+MusicBee,Steven Mayall,[empty],[empty],[empty],[empty],BASS audio library,Visual Basic .NET
 musikCube,Casey Langen,[empty],[empty],[empty],[empty],[empty],[empty]
 Napster,William Christopher Gorog,[empty],[empty],[empty],[empty],[empty],[empty]
 Quod Libet,Quod Libet Team,[empty],[empty],[empty],[empty],GStreamer,Python (GTK) PyGTK
