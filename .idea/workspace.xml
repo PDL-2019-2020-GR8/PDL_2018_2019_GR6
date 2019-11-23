@@ -24,8 +24,16 @@
     <option name="showStatusBarWidget" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4047dec-e365-4deb-901f-7081b36c55e8" name="Default Changelist" comment="">
+    <list default="true" id="c4047dec-e365-4deb-901f-7081b36c55e8" name="Default Changelist" comment="Merge branch 'master' of https://github.com/PDL-2019-2020-GR8/PDL_2018_2019_GR6 into html&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;output/html/Comparison_of_California_ski_resorts-1.csv&#10;#&#9;output/html/Comparison_of_Dewey_and_Library_of_Congress_subject_classification-1.csv&#10;#&#9;output/html/Comparison_of_Internet_Relay_Chat_bots-1.csv&#10;#&#9;output/wiki/Comparison_of_Dewey_and_Library_of_Congress_subject_classification-1.csv&#10;#&#9;output/wiki/Comparison_of_Internet_Relay_Chat_bots-1.csv&#10;#&#9;src/main/java/wikipedia/html/HTMLExtractor.java&#10;#&#9;src/test/java/html/HTMLConverterTest.java&#10;#&#9;src/test/java/html/HTMLExtractorTest.java&#10;#&#9;src/test/java/htmlvswikitest/WikiHtmlExtractorTest.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/html/Comparison_of_California_ski_resorts-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/html/Comparison_of_California_ski_resorts-1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/html/Comparison_of_Dewey_and_Library_of_Congress_subject_classification-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/html/Comparison_of_Dewey_and_Library_of_Congress_subject_classification-1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/html/Comparison_of_Internet_Relay_Chat_bots-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/html/Comparison_of_Internet_Relay_Chat_bots-1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/wiki/Comparison_of_Dewey_and_Library_of_Congress_subject_classification-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/wiki/Comparison_of_Dewey_and_Library_of_Congress_subject_classification-1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/wiki/Comparison_of_Internet_Relay_Chat_bots-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/wiki/Comparison_of_Internet_Relay_Chat_bots-1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/wikipedia/html/HTMLExtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/wikipedia/html/HTMLExtractor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/html/HTMLConverterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/html/HTMLConverterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/htmlvswikitest/WikiHtmlExtractorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/htmlvswikitest/WikiHtmlExtractorTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,15 +47,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1TQzZi6q5AdzhM71HYhvDo2fz7k" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../aco2019" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="runEclipseCodeFormatter" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -61,8 +69,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.HTMLExtractorTest.testComparison_of_TLS_implementations">
-    <configuration name="HTMLExtractorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.HTMLExtractorTest.testComparison_of_DOS_operating_systems">
+    <configuration name="HTMLExtractorTest.testComparison_of_DOS_operating_systems" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PDL" />
       <extension name="coverage">
         <pattern>
@@ -72,12 +80,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="html" />
       <option name="MAIN_CLASS_NAME" value="html.HTMLExtractorTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="testComparison_of_DOS_operating_systems" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HTMLExtractorTest.testComparison_of_TLS_implementations" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HTMLExtractorTest.testComparison_of_JavaScript_charting_frameworks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PDL" />
       <extension name="coverage">
         <pattern>
@@ -87,54 +96,55 @@
       </extension>
       <option name="PACKAGE_NAME" value="html" />
       <option name="MAIN_CLASS_NAME" value="html.HTMLExtractorTest" />
-      <option name="METHOD_NAME" value="testComparison_of_TLS_implementations" />
+      <option name="METHOD_NAME" value="testComparison_of_JavaScript_charting_frameworks" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WikiHtmlExtractorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HTMLExtractorTest.testComparison_of_display_technology" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PDL" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="htmlvswikitest.*" />
+          <option name="PATTERN" value="html.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="htmlvswikitest" />
-      <option name="MAIN_CLASS_NAME" value="htmlvswikitest.WikiHtmlExtractorTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WikiHtmlExtractorTest.testComparison_of_SSH_clients" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PDL" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="htmlvswikitest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="htmlvswikitest" />
-      <option name="MAIN_CLASS_NAME" value="htmlvswikitest.WikiHtmlExtractorTest" />
-      <option name="METHOD_NAME" value="testComparison_of_SSH_clients" />
+      <option name="PACKAGE_NAME" value="html" />
+      <option name="MAIN_CLASS_NAME" value="html.HTMLExtractorTest" />
+      <option name="METHOD_NAME" value="testComparison_of_display_technology" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WikiHtmlExtractorTest.testContents_ofCsvAndHtmlFile3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HTMLExtractorTest.testComparison_of_hub_gears" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PDL" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="htmlvswikitest.*" />
+          <option name="PATTERN" value="html.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="htmlvswikitest" />
-      <option name="MAIN_CLASS_NAME" value="htmlvswikitest.WikiHtmlExtractorTest" />
-      <option name="METHOD_NAME" value="testContents_ofCsvAndHtmlFile3" />
+      <option name="PACKAGE_NAME" value="html" />
+      <option name="MAIN_CLASS_NAME" value="html.HTMLExtractorTest" />
+      <option name="METHOD_NAME" value="testComparison_of_hub_gears" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HTMLExtractorTest.testComparison_of_iSCSI_targets" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PDL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="html.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="html" />
+      <option name="MAIN_CLASS_NAME" value="html.HTMLExtractorTest" />
+      <option name="METHOD_NAME" value="testComparison_of_iSCSI_targets" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -142,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HTMLExtractorTest.testComparison_of_TLS_implementations" />
-        <item itemvalue="JUnit.HTMLExtractorTest" />
-        <item itemvalue="JUnit.WikiHtmlExtractorTest.testContents_ofCsvAndHtmlFile3" />
-        <item itemvalue="JUnit.WikiHtmlExtractorTest.testComparison_of_SSH_clients" />
-        <item itemvalue="JUnit.WikiHtmlExtractorTest" />
+        <item itemvalue="JUnit.HTMLExtractorTest.testComparison_of_DOS_operating_systems" />
+        <item itemvalue="JUnit.HTMLExtractorTest.testComparison_of_JavaScript_charting_frameworks" />
+        <item itemvalue="JUnit.HTMLExtractorTest.testComparison_of_iSCSI_targets" />
+        <item itemvalue="JUnit.HTMLExtractorTest.testComparison_of_hub_gears" />
+        <item itemvalue="JUnit.HTMLExtractorTest.testComparison_of_display_technology" />
       </list>
     </recent_temporary>
   </component>
@@ -161,12 +171,12 @@
       <option name="presentableId" value="Default" />
       <updated>1573407340100</updated>
     </task>
-    <task id="LOCAL-00001" summary="extractzeur Html prend en compte les tableaux imbriqués et ajout commentaire">
-      <created>1574530001859</created>
+    <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/PDL-2019-2020-GR8/PDL_2018_2019_GR6 into html&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;output/html/Comparison_of_California_ski_resorts-1.csv&#10;#&#9;output/html/Comparison_of_Dewey_and_Library_of_Congress_subject_classification-1.csv&#10;#&#9;output/html/Comparison_of_Internet_Relay_Chat_bots-1.csv&#10;#&#9;output/wiki/Comparison_of_Dewey_and_Library_of_Congress_subject_classification-1.csv&#10;#&#9;output/wiki/Comparison_of_Internet_Relay_Chat_bots-1.csv&#10;#&#9;src/main/java/wikipedia/html/HTMLExtractor.java&#10;#&#9;src/test/java/html/HTMLConverterTest.java&#10;#&#9;src/test/java/html/HTMLExtractorTest.java&#10;#&#9;src/test/java/htmlvswikitest/WikiHtmlExtractorTest.java">
+      <created>1574534029764</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1574530001859</updated>
+      <updated>1574534029765</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -185,11 +195,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="extractzeur Html prend en compte les tableaux imbriqués et ajout commentaire" />
-    <option name="LAST_COMMIT_MESSAGE" value="extractzeur Html prend en compte les tableaux imbriqués et ajout commentaire" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/PDL-2019-2020-GR8/PDL_2018_2019_GR6 into html&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;output/html/Comparison_of_California_ski_resorts-1.csv&#10;#&#9;output/html/Comparison_of_Dewey_and_Library_of_Congress_subject_classification-1.csv&#10;#&#9;output/html/Comparison_of_Internet_Relay_Chat_bots-1.csv&#10;#&#9;output/wiki/Comparison_of_Dewey_and_Library_of_Congress_subject_classification-1.csv&#10;#&#9;output/wiki/Comparison_of_Internet_Relay_Chat_bots-1.csv&#10;#&#9;src/main/java/wikipedia/html/HTMLExtractor.java&#10;#&#9;src/test/java/html/HTMLConverterTest.java&#10;#&#9;src/test/java/html/HTMLExtractorTest.java&#10;#&#9;src/test/java/htmlvswikitest/WikiHtmlExtractorTest.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/PDL-2019-2020-GR8/PDL_2018_2019_GR6 into html&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;output/html/Comparison_of_California_ski_resorts-1.csv&#10;#&#9;output/html/Comparison_of_Dewey_and_Library_of_Congress_subject_classification-1.csv&#10;#&#9;output/html/Comparison_of_Internet_Relay_Chat_bots-1.csv&#10;#&#9;output/wiki/Comparison_of_Dewey_and_Library_of_Congress_subject_classification-1.csv&#10;#&#9;output/wiki/Comparison_of_Internet_Relay_Chat_bots-1.csv&#10;#&#9;src/main/java/wikipedia/html/HTMLExtractor.java&#10;#&#9;src/test/java/html/HTMLConverterTest.java&#10;#&#9;src/test/java/html/HTMLExtractorTest.java&#10;#&#9;src/test/java/htmlvswikitest/WikiHtmlExtractorTest.java" />
   </component>
 </project>
