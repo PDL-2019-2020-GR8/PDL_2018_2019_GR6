@@ -15,7 +15,7 @@ import interfaces.Extractor;
 import interfaces.Statistics;
 
 /**
- * 
+ *
  * @author Ibrahima HAIDARA
  * @author Mariam Coulibaly
  * @author Mahamadou Sylla
@@ -27,7 +27,7 @@ public class HTMLExtractor implements Extractor {
 	private static final String wiki_regex = "^https:\\//[a-z]{2}\\.wikipedia\\.org\\/wiki/.+";
 	private Statistics statistics;
 	public static Collection<Statistics> statisticsList;
-	
+
 	public HTMLExtractor() {
 		HTMLExtractor.statisticsList = new ArrayList<>();
 	}
@@ -51,6 +51,7 @@ public class HTMLExtractor implements Extractor {
 			System.out.println(url + " is not valid");
 		} else {
 			tableElements = doc.select("table");
+			System.out.println(tableElements);
 			int initialSize = tableElements.size();
 			tableElements = convertThsToTds(tableElements);
 			tableElements = formatTables(tableElements);
@@ -77,8 +78,13 @@ public class HTMLExtractor implements Extractor {
 	 */
 	@Override
 	public Elements ignoredClasses(Elements tableElements) {
-		String[] currentTableClasses;
+		String[] currentTableClasses;//on creer un tableau qui va contenir la declaration des differentes classes
 		for (Element currentTable : tableElements) {
+			/* on retrounre le nom de la classe, si ce nom contient des espaces on divise le nom de la classe en sous chaine
+			 * qu'on met dans le tableau currentTableClasses
+			 * input = "othniel  Konan
+			 * input.split(" ")
+			 * output = [othniel], [Konan]   */
 			currentTableClasses = currentTable.className().split(" ");
 			for (String cs : currentTableClasses) {
 				if (cs.startsWith(Constrains.INFOBOX.getConstrainName())) {
@@ -92,17 +98,17 @@ public class HTMLExtractor implements Extractor {
 					&& currentTable.hasClass(Constrains.AUTOCOLLAPSE.getConstrainName())) {
 				currentTable.addClass(Constants.GENERIC_CLASS_NAME_TO_REMOVE);
 			}
-			
+
 
 		}
 
-		
+
 		return tableElements.not("."+Constants.GENERIC_CLASS_NAME_TO_REMOVE);
 	}
 
 	/**
 	 * Converts ths to tds
-	 * 
+	 *
 	 * @param tableElements the tables whose ths are transformed to tds
 	 * @return the processed tables
 	 */
@@ -126,30 +132,35 @@ public class HTMLExtractor implements Extractor {
 	@Override
 	public Elements ignoredElements(String tag, Elements tableElements) {
 		for (Element currentTable : tableElements) {
-			Elements currentTableRowElements = currentTable.select("tr"); 
+			Elements currentTableRowElements = currentTable.select("tr");
 			Elements currentTdTags;
 			for (int i = 0; i < currentTableRowElements.size(); i++) {
 				Element currentRow = currentTableRowElements.get(i);
 				Elements currentRowItems = currentRow.select("td");
-				Elements TdInnerTables =  currentRowItems.select("table");
+				Elements TdInnerTables =  currentRowItems.select("table"); //selectionne si il y a une balise table a l'interieur d'un td
 				if(TdInnerTables.size() > 0) {
-					TdInnerTables.addClass(Constants.GENERIC_CLASS_NAME_TO_REMOVE);
+					// si c'est le cas alors
+					/*Elements	addClass​(String className)	Ajoutez le nom de la classe à l' class attribut de chaque élément correspondant */
+					TdInnerTables.addClass(Constants.GENERIC_CLASS_NAME_TO_REMOVE); //on ajout a l'attribut table la constante GENERIC_CLASS_NAME_TO_REMOVE
 					currentRow.remove();
 				}
-				
+
 				for (int j = 0; j < currentRowItems.size(); j++) {
-					currentTdTags = currentRowItems.get(j).select(tag);
-					if (currentRowItems.get(j).hasAttr(Constants.ROW_SPAN_ATTRIBUTE) 
-							|| currentRowItems.get(j).hasAttr(Constants.COL_SPAN_ATTRIBUTE)
-							|| currentRowItems.get(j).hasClass(Constants.MBOX_IMAGE_CLASS)) {
-						currentTable.addClass(Constants.GENERIC_CLASS_NAME_TO_REMOVE); 
-					}
-					
+					currentTdTags = currentRowItems.get(j).select(tag); // pour chaque td  on selection le Tag
+					//if (currentRowItems.get(j).hasAttr(Constants.ROW_SPAN_ATTRIBUTE)// s'il a un rowSpan
+					//		|| currentRowItems.get(j).hasAttr(Constants.COL_SPAN_ATTRIBUTE)// ou un colSpan
+					//		|| currentRowItems.get(j).hasClass(Constants.MBOX_IMAGE_CLASS)) //ou un Mbox_Image
+					//{
+					//	currentTable.addClass(Constants.GENERIC_CLASS_NAME_TO_REMOVE); //on ajoute un attribut de type GENERIC_CLASS_NAME_TO_REMOVE
+					//	}
+
 					if(currentRowItems.get(j).hasClass("extra_td_to_remove"))
-						currentRowItems.get(j).remove();
-					
+						currentRowItems.get(j).remove(); // on supprime tous les td qui on un attribut de class "extra_td_to_remove"
+
 
 					if (!currentTdTags.isEmpty()) {
+						/*Si le tag founis en paramettre à la fonction ignoredElements() est égale à 'div' ou 'code'
+						 * alors add */
 						if (tag.equals("p") || tag.equals("br")) {
 							//currentRowItems.get(j).remove();
 						}
@@ -157,10 +168,12 @@ public class HTMLExtractor implements Extractor {
 							currentTable.addClass(Constants.GENERIC_CLASS_NAME_TO_REMOVE);
 					}
 				}
-				
+
 			}
 		}
+		/*ici on supprime tous les tableElemetns qui on un attribut de type GENERIC_CLASS_NAME_TO_REMOVE*/
 		return tableElements.not("."+Constants.GENERIC_CLASS_NAME_TO_REMOVE);
+		/*Element.not(String Query) --> Supprimez de la liste les éléments correspondant à la Selectorrequête.*/
 	}
 
 	/**
@@ -177,7 +190,7 @@ public class HTMLExtractor implements Extractor {
 		}
 		return tableElements.not("."+Constants.GENERIC_CLASS_NAME_TO_REMOVE);
 	}
-	
+
 	private Elements fillEmptyTds(Elements tableElements) {
 		for (Element currentTable : tableElements) {
 			Elements currentTableRowElements = currentTable.select("tr");
@@ -190,21 +203,21 @@ public class HTMLExtractor implements Extractor {
 		}
 		return tableElements;
 	}
-	
+
 	private void addClassToRemoveExtraTds(int firstRowTdsCount, Element tr) {
 		int trTdsCount = tr.select("td").size();
 		for(int i=firstRowTdsCount; i<trTdsCount; i++) {
 			tr.select("td").get(i).addClass("extra_td_to_remove");
 		}
 	}
-	
+
 	private void addTdsTofitFirstRow(Element tr, int firstRowTdsCount) {
 		int trTdsCount = tr.select("td").size();
 		int diffCount = firstRowTdsCount - trTdsCount;
 		for(int i=0; i<diffCount; i++)
 			tr.appendChild(new Element("td").text("[added]"));
 	}
-	
+
 	private Elements formatTables(Elements tableElements) {
 		Element firstRow;
 		int firstRowTdsCount;
@@ -221,5 +234,5 @@ public class HTMLExtractor implements Extractor {
 		}
 		return tableElements;
 	}
-	
+
 }
