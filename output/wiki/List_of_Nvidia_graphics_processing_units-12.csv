@@ -1,0 +1,12 @@
+Model,Launch,Code name,Fab (nm),Bus interface,Core config1,Clock speed,Fillrate,Memory,Supported API version,Processing power (GFLOPS)2,TDP (Watts),Notes
+Core (MHz),Shader (MHz),Memory (MHz),Pixel (GP/s),Texture (GT/s),Size (MB),Bandwidth (GB/s),Bus type,Bus width (bit),Direct3D,OpenGL,[added],[added]
+GeForce GT 520M,January 5  2011,GF119,40,PCIe 2.0 ×16,48:8:4,740,1480,1600,2.96,5.92,1024,12.8
+GeForce GT 520M,[empty],GF108,40,PCIe 2.0 ×16,96:16:4,515,1030,1600,2.06,8.24,1024,12.8
+GeForce GT 520MX,May 30  2011,GF119,40,PCIe 2.0 ×16,48:8:4,900,1800,1800,3.6,7.2,1024,14.4
+GeForce GT 525M,January 5  2011,GF108,40,PCIe 2.0 ×16,96:16:4,600,1200,1800,2.4,9.6,1024,28.8
+GeForce GT 540M,January 5  2011,GF108,40,PCIe 2.0 ×16,96:16:4,672,1344,1800,2.688,10.752,2048<br />1024,28.8
+GeForce GT 550M,January 5  2011,GF108<br />GF1062,40,PCIe 2.0 ×16,96:16:4<br />144:24:162,740<br />475,1480<br />950,1800<br />1800,2.96,11.84,1024,28.8
+GeForce GT 555M,January 5  2011,GF106<br /><br />GF108,40,PCIe 2.0 ×16,144:24:24<br />144:24:16<br />96:16:4,590<br />650<br />753,1180<br />1300<br />1506,1800<br />1800<br />3138,14.6<br />10.4<br />3,14.6<br />15.6<br />12,1536<br />2048<br />1024,43.2<br />28.8<br />50.2
+GeForce GTX 560M,May 30  2011,GF116,40,PCIe 2.0 ×16,192:32:16<br />192:32:24,775,1550,2500,18.6,24.8,2048<br />1536  3072,40.0<br />60.0
+GeForce GTX 570M<ref>http://www.geforce.com/#/Hardware/GPUs/geforce-gtx-570m/specifications</ref>,June 28  2011,GF114,40,PCIe 2.0 ×16,336:56:24,575,1150,3000,13.8,32.2,1536,72.0
+GeForce GTX 580M,June 28  2011,GF114,40,PCIe 2.0 ×16,384:64:32,620,1240,3000,19.8,39.7,2048,96.0

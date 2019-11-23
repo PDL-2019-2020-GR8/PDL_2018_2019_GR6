@@ -1,0 +1,200 @@
+Name,Creator,First public release date,Latest stable version,Software license
+Ddoc,Walter Bright,2005/09/19,DMD 2.078.3,Boost
+Document! X,Innovasys,1998,2014.1,Proprietary
+Doxygen,Dimitri van Heesch,1997/10/26,1.8.14,GPL
+Epydoc,Edward Loper,2002/01/—,3.0 (2008),MIT
+fpdoc (Free Pascal Documentation Generator),Sebastian Guenther,2005?,2.6.4,GPL
+Haddock,Simon Marlow,2002,2.13.1 (2012),BSD
+HeaderDoc,Apple Inc.,2000/09/—,8.9.28,APSL
+Imagix 4D,Imagix Corp.,1995,7.3,Proprietary
+Javadoc,Sun Microsystems,1995,1.6,GPL
+ScalaDoc,LAMP  EPFL,2011,1.0,Scala License
+JSDoc,Michael Mathews,2001/07/—,1.10.2,GPL
+JsDoc Toolkit,Michael Mathews,2007?,2.0.0,MIT
+mkd,Jean-Paul Louyot,1989,2015,EUPL GPL
+Natural Docs,Greg Valure,2003/05/26,2.0.2,GPL
+NDoc,Jason Diamond  Jean-Claude Manoli  Kral Ferch,2003/07/27,1.3.1,GPL
+Pandoc,John MacFarlane,2006,1.14.0.3 (2015),GPL
+pdoc,Andrew Gallant,2013,0.5.1,Affero GPL
+perldoc,Larry Wall,1994,5.16.3,Artistic  GPL
+phpDocumentor,Joshua Eichorn,2000,1.4.4,LGPL
+pydoc,Ka-Ping Yee[1][2],2000,in Python core,Python
+RDoc,Dave Thomas,2001/12/14,in Ruby core,Ruby
+ROBODoc,Frans Slothouber,1995/01/19,4.99.36,GPL
+Sandcastle,Microsoft,2008/05/—,2014.5.31.0,Ms-PL
+Sphinx,Georg Brandl,2008/03/21,1.6.3,BSD
+Visual Expert,Novalys,1995,2017,Proprietary
+VSdocman,Helixoft,2003 Oct 2,9.0,Proprietary
+YARD,Loren Segal,2007/02/24,0.7.3,MIT
+Name,Creator,First public release date,Latest stable version,Software license
+[empty],Windows,OS X,Linux,BSD,Unix
+Ddoc,Yes,Yes[a],Yes,Yes[a],No
+Document! X,Yes,No,No,No,No
+Doxygen,Yes,Yes,Yes,Yes,Yes
+Epydoc,Yes,Yes,Yes,Yes,Yes
+Haddock,Yes,Yes,Yes,Yes,Yes
+HeaderDoc,No,Yes,Yes,Yes,Yes
+Imagix 4D,Yes,No,Yes,No,Yes
+Javadoc,Yes,Yes,Yes,Yes,Yes
+JSDoc,Yes,Yes,Yes,Yes,Yes
+JsDoc Toolkit,Yes,Yes,Yes,Yes,Yes
+mkd,Yes,No?,Yes,Yes,Yes
+Natural Docs,Yes,Yes,Yes,Yes,Yes
+NDoc,Yes,No,No,No,No
+Pandoc,Yes,Yes,Yes,Yes,Yes
+pdoc,Yes,Yes,Yes,Yes,Yes
+perldoc,Yes,Yes,Yes,Yes,Yes
+phpDocumentor,Yes,Yes,Yes,Yes,Yes
+pydoc,Yes,Yes,Yes,Yes,Yes
+RDoc,Yes,Yes,Yes,Yes,Yes
+ROBODoc,Yes,Yes,Yes,Yes,Yes
+Sandcastle,Yes,No,No,No,No
+Sphinx,Yes,Yes,Yes,Yes,Yes
+Visual Expert,Yes,No,No,No,No
+VSdocman,Yes,No,No,No,No
+[empty],Windows,OS X,Linux,BSD,Unix
+[empty],C  C++,Java,C#,VB  VBScript,Delphi  Pascal,Ada,D,IDL,Access,Fortran
+Ddoc,No,No,No,No,No,No,Yes,No,No,No
+Document! X,C++/CLI only,Yes,Yes,Yes,No,No,No,Yes,Yes,No
+Doxygen,Yes,Yes,Yes,with Plugin[b],with Plugin[b],No,Partial,Yes,No,Yes
+Epydoc,No,No,No,No,No,No,No,No,No,No
+Haddock,No,No,No,No,No,No,No,No,No,No
+HeaderDoc,Yes,Yes,No,No,Yes,No,No,Yes,No,No
+Imagix 4D,Yes,Yes,No,No,No,No,No,No,No,No
+Javadoc,No,Yes,No,No,No,No,No,No,No,No
+JSDoc,No,No,No,No,No,No,No,No,No,No
+JsDoc Toolkit,No,No,No,No,No,No,No,No,No,No
+Natural Docs,Partial,Partial,Yes,Partial,Partial,Partial,No,No,No,Partial
+NDoc,No,No,Yes,No,No,No,No,No,No,No
+pdoc,No,No,No,No,No,No,No,No,No,No
+perldoc,No,No,No,No,No,No,No,No,No,No
+phpDocumentor,No,No,No,No,No,No,No,No,No,No
+pydoc,No,No,No,No,No,No,No,No,No,No
+RDoc,Partial,No,No,No,No,No,No,No,No,No
+ROBODoc,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+Sphinx,Yes,with Plugin,No,No,No,with Plugin,No,No,No,with Plugin
+Visual Expert,No,No,Yes,No,No,No,No,No,No,No
+VSdocman,No,No,Yes,Yes,No,No,No,No,No,No
+YARD,No,No,No,No,No,No,No,No,No,No
+[empty],C  C++,Java,C#,VB  VBScript,Delphi  Pascal,Ada,D,IDL,Access,Fortran
+[empty],PHP,Perl,Python,Ruby,JavaScript,ActionScript,PL/SQL,Transact-SQL,Tcl,Haskell
+Ddoc,No,No,No,No,No,No,No,No,No,No
+Document! X,No,No,No,No,No,No,Yes,No,No,No
+Doxygen,Yes,No[b],Partial[c],No,No,No,No,No,Yes,No
+Epydoc,No,No,Yes,No,No,No,No,No,No,No
+Haddock,No,No,No,No,No,No,No,No,No,Yes
+HeaderDoc,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No
+Imagix 4D,No,No,No,No,No,No,No,No,No,No
+Javadoc,No,No,No,No,No,No,No,No,No,No
+JSDoc,No,No,No,No,Yes,No,No,No,No,No
+JsDoc Toolkit,No,No,No,No,Yes,No,No,No,No,No
+Natural Docs,Partial,Yes,Partial,Partial,Partial,Yes,Partial,No,Partial,No
+NDoc,No,No,No,No,No,No,No,No,No,No
+pdoc,No,No,Yes,No,No,No,No,No,No,No
+perldoc,No,Yes,No,No,No,No,No,No,No,No
+phpDocumentor,Yes,No,No,No,No,No,No,No,No,No
+pydoc,No,No,Yes,No,No,No,No,No,No,No
+RDoc,No,No,No,Yes,No,No,No,No,No,No
+ROBODoc,Yes,Yes,No,Yes,Yes,Partial,Yes,No,Yes,No
+Sphinx,with Plugin,No,Yes,with Plugin,Yes,No,No,No,No,No
+Visual Expert,No,No,No,No,No,No,Yes [4],Yes [5],No,No
+VSdocman,No,No,No,No,No,No,No,No,No,No
+YARD,No,No,No,Yes,No,No,No,No,No,No
+[empty],PHP,Perl,Python,Ruby,JavaScript,ActionScript,PL/SQL,Transact-SQL,Tcl,Haskell
+[empty],AppleScript,PowerBuilder,MIG,Bourne shell,C shell,Any with comments[d]
+Ddoc,No,No,No,No,No,No
+Document! X,No,No,No,No,No,No
+Doxygen,No,No,No,No,No,No
+Epydoc,No,No,No,No,No,No
+Haddock,No,No,No,No,No,No
+HeaderDoc,Yes,No,Yes,Yes,Yes,No
+Imagix 4D,No,No,No,No,No,No
+Javadoc,No,No,No,No,No,No
+JSDoc,No,No,No,No,No,No
+JsDoc Toolkit,No,No,No,No,No,No
+Natural Docs,No,No,No,No,No,Yes
+NDoc,No,No,No,No,No,No
+pdoc,No,No,No,No,No,No
+perldoc,No,No,No,No,No,No
+phpDocumentor,No,No,No,No,No,No
+pydoc,No,No,No,No,No,No
+RDoc,No,No,No,No,No,No
+ROBODoc,No,No,No,No,No,Yes
+Sphinx,No,No,No,No,No,No
+Visual Expert,No,Yes,No,No,No,No
+VSdocman,No,No,No,No,No,No
+YARD,No,No,No,No,No,No
+[empty],AppleScript,PowerBuilder,MIG,Bourne shell,C shell,Any with comments
+[empty],Text,Binary
+Ddoc,Yes,No
+Document! X,Yes,Yes
+Doxygen,Yes,No
+Epydoc,Yes,No
+Haddock,Yes,No
+HeaderDoc,Yes,No
+Imagix 4D,Yes,No
+Javadoc,Yes,No
+JSDoc,Yes,No
+JsDoc Toolkit,Yes,No
+mkd,Yes,No
+Natural Docs,Yes,No
+NDoc,No,Yes
+pdoc,Yes,No
+perldoc,Yes,No
+phpDocumentor,Yes,No
+pydoc,Yes,No
+RDoc,Yes,No
+ROBODoc,Yes,No
+Sphinx,Yes,No
+Visual Expert,Yes,Yes
+VSdocman,Yes,No
+YARD,Yes,No
+[empty],Text,Binary
+[empty],HTML,CHM,RTF,PDF,LaTeX,PostScript,man pages,DocBook,XML,ePub
+Ddoc,Yes,Yes[e],No,Yes[e],Yes[e],Yes[e],Yes[e],No,Yes[e],[added]
+Document! X,Yes,Yes,No,No,No,No,No,No,No,[added]
+Doxygen,Yes,Yes,Yes,Indirectly[f],Yes,Indirectly[f],Yes,Yes,Yes,No
+Epydoc,Yes,No,No,Yes,Indirectly[g],Indirectly[g],No,No,No,[added]
+Haddock,Yes,Yes,No,No,No,No,No,Partial,No,[added]
+HeaderDoc,Yes,No,No,No,No,No,Yes,No,Yes,[added]
+Imagix 4D,Yes,No,Yes,No,No,No,No,No,No,[added]
+Javadoc,Yes,Indirectly[h],Indirectly[h],Indirectly[h],Indirectly[h],Indirectly[h],Indirectly[h],Indirectly[h],Indirectly[h],[added]
+JSDoc,Yes,No,No,No,No,No,No,No,No,[added]
+JsDoc Toolkit,Yes,No,No,No,No,No,No,No,Yes+JSON,[added]
+Natural Docs,Yes,No,No,No,No,No,No,No,No,[added]
+NDoc,Yes,Yes,No,No,No,No,No,No,No,[added]
+pdoc,Yes,No,No,No,No,No,No,No,No,No
+phpDocumentor,Yes,Yes,No,Yes,No,No,No,Yes,Yes,[added]
+pydoc,Yes,No,No,No,No,No,No,No,No,No
+RDoc,Yes,Yes[i],No,No,No,No,Indirectly[j],No,Yes[i],[added]
+ROBODoc,Yes,Indirectly,Yes,Indirectly[g],Yes,Indirectly[g],Yes,Yes,No,[added]
+Sandcastle,Yes,Yes,No,No,No,No,No,No,No,[added]
+Sphinx,Yes,Yes,[empty],Indirectly[k],Yes,[empty],Yes,[empty],[empty],Yes
+Visual Expert,Yes,No,No,No,No,No,No,No,No,[added]
+VSdocman,Yes,Yes,No,Yes,No,No,No,No,Yes,[added]
+YARD,Yes,No,No,No,No,No,No,No,No,[added]
+[empty],HTML,CHM,RTF,PDF,LaTeX,PostScript,man pages,DocBook,XML,ePub
+[empty],possibility of extended customization,generated diagrams,highlighting and linking of generated doc,parameter types extracted
+Ddoc,with macros,[empty],[empty],[empty]
+Document! X,customizable HTML based templates  custom comment tags,linked graphical object relationship diagrams,internal links and links to .NET framework documentation,types extracted and linked
+Doxygen,with XSLT,caller and callee graphs  dependency graphs  inheritance diagrams  collaboration diagrams,[empty],[empty]
+Epydoc,[empty],[empty],[empty],[empty]
+Haddock,[empty],[empty],Yes,Yes
+HeaderDoc,Custom headers  footers  code coloring  and other CSS styles in individual pages. Project-wide TOC is generated from a user-defined template.,[empty],Configurable syntax highlighting/coloring with automatic linking to symbols in declaration  ability to manually link to symbols in discussion  etc.,Provides warnings if tagged parameters do not match code  parsed parameters included in XML output and Doxygen-style tagfile (-D flag in 8.7). Partial C preprocessor support with -p flag. Support for #if/#ifdef control over documentation inclusion using the -D and -U command-line flags.
+Imagix 4D,customizable through style sheets and CSS,linked hierarchy and dependency graphs for function calls  variable sets and reads  class inheritance and interface  and file includes and interface  intra-function flow charts,fully cross-linked project-wide  including all hierarchy and dependency graphs  metrics tables  source code snippets  and source files,full semantic analysis of source code  including parameter types  conditional compilation directives  macro expansions
+Javadoc,[empty],[empty],[empty],[empty]
+JSDoc,[empty],[empty],[empty],Yes
+JsDoc Toolkit,[empty],[empty],[empty],Yes
+mkd,Customisable for all type of comments,'as-is' in comments,all general documentation; references  manual  organigrams  ... Including the binary codes included in the comments.,all coded comments
+Natural Docs,[empty],[empty],[empty],[empty]
+NDoc,[empty],[empty],[empty],[empty]
+perldoc,Extend the generator classes through Perl programming.,[empty],Only linking,[empty]
+pdoc,overridable mako templates,[empty],source code syntax highlighting  automatic cross-linking to symbol declarations,[empty]
+phpDocumentor,Smarty-based templates,class inheritance diagrams,cross reference to generated documentation  and to php.net function reference,Yes
+pydoc,[empty],[empty],[empty],[empty]
+RDoc,[empty],[empty],[empty],[empty]
+ROBODoc,[empty],[empty],[empty],[empty]
+Sphinx,10 themes; Jinja2 templating; Python plugins,several in sphinx-contrib  e.g. using aafigure  actdiag  Google Chart  or gnuplot,Table of Contents  Index; cross referencing; syntax highlighting with Pygments,custom objects (such as functions and classes)
+Visual Expert,documentation content and styles customizable,Class inheritance  call trees  dependencies (impact analysis),internal links between classes  methods  variables  tables  columns...,all types extracted
+VSdocman,full customization for all output formats  templates for MSDN-like output  custom XML comment tags,linked graphical class diagrams  class inheritance tree,internal links and links to .NET framework documentation,types extracted and linked
+YARD,customizable Ruby templates,class diagrams with extra tool,internal classes/modules cross-referenced and Ruby source highlighted,[empty]

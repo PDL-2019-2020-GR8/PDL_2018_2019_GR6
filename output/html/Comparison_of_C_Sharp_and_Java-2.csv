@@ -1,0 +1,25 @@
+Data types,Java,C#
+Arbitrary-size decimals,Reference type; no operators[1],Third party library[2]
+Arbitrary-size integers,Reference type; no operators,Yes[3]
+Arrays,Yes[4],Yes
+Boolean type,Yes,Yes
+Character,Yes[5],Yes
+Complex numbers,Third-party library[6],Yes
+Date/time,Yes; reference type[7],Yes; value type
+Enumerated types,Yes; reference type,Yes; scalar
+High-precision decimal number,No; but see 'Arbitrary-size decimals' above,128-bit (28 digits) Decimal type[8]
+IEEE 754 binary32 floating point number,Yes,Yes
+IEEE 754 binary64 floating point number,Yes,Yes
+Lifted (nullable) types,No; but wrapper types,Yes
+Pointers,No;[9] only method references[10],Yes[11]
+Reference types,Yes,Yes
+Signed integers,Yes; 8  16  32  64 bits,Yes; 8  16  32  64 bits
+Strings,Immutable reference type  Unicode,Immutable reference type  Unicode
+Type annotations,Yes,Yes
+Single-root (unified) type system,No; but wrapper types,Yes[12]
+Tuples,No; limited 3rd party available.[13],Yes[14]
+Unsigned integers,No; but some method support.[15],Yes; 8  16  32  64 bits
+Value types,No; only primitive types,Yes
+[empty],Java,C#
+Definition,In Java  the enumeration type is a class  and its values are objects (instances) of that class. The only valid values are the ones listed in the enumeration. The enumeration type may declare fields  allowing each individual enumerated value to reference additional data associated uniquely with that specific value. The enumeration type may also declare or override methods  or implement interfaces.[23],Enumerations in C# are implicitly derived from the Enum type that again is a value type derivative. The value set of a C# enumeration is defined by the underlying type that can be a signed or unsigned integer type of 8  16  32 or 64 bits. The enumeration definition defines names for the selected integer values.[23][24] By default the first name is assigned the value 0 (zero) and the following names are assigned in increments of 1. Any value of the underlying primitive type is a valid value of the enumeration type  though an explicit cast may be needed to assign it.
+Combining,Java enumeration set and map collections provide functionality to combine multiple enumeration values to a combined value. These special collections allows compiler optimization to minimize the overhead incurred by using collections as the combination mechanism.,C# supports bit-mapped enumerations where an actual value may be a combination of enumerated values bitwise or'ed together. The formatting and parsing methods implicitly defined by the type will attempt to use these values.

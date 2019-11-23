@@ -1,0 +1,47 @@
+Implementation,Developed by,Open source,Software license,Copyright owner,Written in,Latest stable version  release date,Origin
+Botan,Jack Lloyd,Yes,Simplified BSD License,Jack Lloyd,C++,2.11.0 (July 1  2019; 4 months ago (2019-07-01)[1]) [±],US (Vermont)
+BoringSSL,Google,Yes,OpenSSL-SSLeay dual-license  ISC license,Eric Young  Tim Hudson  Sun  OpenSSL project  Google  and others,C  C++  Go  assembly,??,Australia/EU
+cryptlib,Peter Gutmann,Yes,Sleepycat License and commercial license,Peter Gutmann,C,3.4.5 (2019; 0 years ago (2019)[6]) [±],NZ
+GnuTLS,GnuTLS project,Yes,GNU LGPLv2.1+,Free Software Foundation,C,3.6.8 (May 28  2019; 5 months ago (2019-05-28)[7]) [±],EU (Greece and Sweden)
+Java Secure Socket Extension (JSSE),Oracle,Yes,GNU GPLv2 and commercial license,Oracle,Java,13.0.1 (October 16  2019; 28 days ago (2019-10-16)[8]) [±] 11.0.5 (October 16  2019; 28 days ago (2019-10-16)[9]) [±] 8u232 (October 16  2019; 28 days ago (2019-10-16)[10]) [±],US
+LibreSSL,OpenBSD Project,Yes,Apache License 1.0  4-clause BSD License  ISC License  and some are public domain,Eric Young  Tim Hudson  Sun  OpenSSL project  OpenBSD Project  and others,C  assembly,3.0.2 (October 19  2019; 25 days ago (2019-10-19)[11][12]) [±],Canada
+MatrixSSL[13],PeerSec Networks,Yes,GNU GPLv2+ and commercial license,PeerSec Networks,C,4.0.0 (September 13  2018; 14 months ago (2018-09-13) [14]) [±],US
+mbed TLS (previously PolarSSL),ARM,Yes,Apache License 2.0  GNU GPLv2+ and commercial license,ARM Holdings,C,2.16.2 (June 11  2019; 5 months ago (2019-06-11)[15]) [±] 2.7.10 (March 19  2018; 19 months ago (2018-03-19)[15]) [±],EU (Netherlands)
+Network Security Services (NSS),Mozilla  AOL  Red Hat  Sun  Oracle  Google and others,Yes,MPL 2.0,NSS contributors,C  assembly,3.46 (August 30  2019; 2 months ago (2019-08-30)[16]) [±],US
+OpenSSL,OpenSSL project,Yes,OpenSSL-SSLeay dual-license,Eric Young  Tim Hudson  Sun  OpenSSL project  and others,C  assembly,1.1.1d (September 10  2019; 2 months ago (2019-09-10)[17]) [±] 1.0.2t (September 10  2019; 2 months ago (2019-09-10)[17]) [±],Australia/EU
+RSA BSAFE SSL-J,RSA Security,No,Proprietary,RSA Security,Java,6.2.5 (October 24  2019; 20 days ago (2019-10-24)[18]) [±],Australia
+RSA BSAFE Micro-Edition Suite,RSA Security,No,Proprietary,RSA Security,C  assembly,4.4 (September 11  2019; 2 months ago (2019-09-11)[19]) [±],Australia
+S2n,Amazon,Yes,Apache License 2.0  GNU GPLv2+ and commercial license,Amazon  Inc.,C,Continuous,US
+SChannel,Microsoft,No,Proprietary,Microsoft Inc.,[empty],Windows 10  2015-07-29,US
+Secure Transport,Apple Inc.,Yes,APSL 2.0,Apple Inc.,[empty],57337.20.44 (OS X 10.11.2)  2015-12-08,US
+wolfSSL (previously CyaSSL),wolfSSL[20],Yes,GNU GPLv2+ and commercial license,wolfSSL Inc.[21],C,4.0.0 (March 21  2019; 7 months ago (2019-03-21)[22]) [±],US
+Erlang/OTP SSL application,Ericsson,Yes,Apache License 2.0,Ericsson,Erlang,OTP-21  2018-06-19,Sweden
+Implementation,Developed by,Open source,Software license,Copyright owner,Written in,Latest stable version  release date,Origin
+Implementation,SSL 2.0 (insecure)[31],SSL 3.0 (insecure)[32],TLS 1.0[33],TLS 1.1[34],TLS 1.2[35],TLS 1.3,DTLS 1.0[36],DTLS 1.2[29]
+Botan,No,No[37],Yes,Yes,Yes,[empty],Yes,Yes
+BoringSSL,[empty],[empty],Yes,Yes,Yes,Yes (draft version),Yes,Yes
+Bouncy Castle,No,No,Yes,Yes,Yes,Yes (draft version),Yes,Yes
+cryptlib,No,Disabled by default at compile time,Yes,Yes,Yes,[empty],No,No
+GnuTLS,No[a],Disabled by default[38],Yes,Yes,Yes,Yes[39],Yes,Yes
+JSSE,No[a],Disabled by default[40],Yes,Yes,Yes,Yes (JDK 11+)[41],Yes,Yes
+LibreSSL,No[42],No[43],Yes,Yes,Yes,Not yet[44],Yes,No
+MatrixSSL,No,Disabled by default at compile time[45],Yes,Yes,Yes,Yes,Yes,Yes
+mbed TLS,No,Disabled by default[46],Yes,Yes,Yes,[empty],Yes[46],Yes[46]
+NSS,No[b],Disabled by default[47],Yes,Yes[48],Yes[49],Yes[50],Yes[48],Yes[51]
+OpenSSL,No[52],Disabled by default,Yes,Yes[53],Yes[53],Yes,Yes,Yes[54]
+RSA BSAFE[55],No,Disabled by default,Yes,Yes,Yes,Not yet,No,No
+S2n[56],No,Disabled by default,Yes,Yes,Yes,[empty],No,No
+SChannel XP  2003[57],Disabled by default in MSIE 7,Enabled by default,Enabled by default in MSIE 7,No,No,[empty],No,No
+SChannel Vista[58],Disabled by default,Enabled by default,Yes,No,No,[empty],No,No
+SChannel 2008[58],Disabled by default,Enabled by default,Yes,Disabled by default (KB4019276),Disabled by default (KB4019276),[empty],No,No
+SChannel 7  2008R2[59],Disabled by default,Disabled by default in MSIE 11,Yes,Enabled by default in MSIE 11,Enabled by default in MSIE 11,[empty],Yes[60],No[60]
+SChannel 8  2012[59],Disabled by default,Enabled by default,Yes,Disabled by default,Disabled by default,[empty],Yes,No
+SChannel 8.1  2012R2  10 v1507 & v1511[59],Disabled by default,Disabled by default in MSIE 11,Yes,Yes,Yes,[empty],Yes,No
+SChannel 10 v1607 / 2016[61],No,Disabled by default,Yes,Yes,Yes,[empty],Yes,Yes
+Secure Transport OS X 10.2-10.7  iOS 1-4,Yes,Yes,Yes,No,No,[empty],No,No
+Secure Transport OS X 10.8-10.10  iOS 5-8,No[c],Yes,Yes,Yes[c],Yes[c],[empty],Yes[c],No
+Secure Transport OS X 10.11  iOS 9,No,No[c],Yes,Yes,Yes,[empty],Yes,Unknown
+Secure Transport OS X 10.13  iOS 11,No,No[c],Yes,Yes,Yes,Yes (draft version)[62],Yes,Unknown
+wolfSSL,No,Disabled by default[63],Yes,Yes,Yes,Yes,Yes,Yes
+Erlang/OTP SSL application,No,Disabled by default,Yes,Yes,Yes,Not yet,Yes,Yes
+Implementation,SSL 2.0 (insecure)[31],SSL 3.0 (insecure)[32],TLS 1.0[33],TLS 1.1[34],TLS 1.2[35],TLS 1.3,DTLS 1.0[36],DTLS 1.2[29]

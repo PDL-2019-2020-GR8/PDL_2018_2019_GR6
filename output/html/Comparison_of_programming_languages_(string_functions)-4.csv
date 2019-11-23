@@ -1,0 +1,32 @@
+Definition,<string>.partition(separator) returns the sub-string before the separator; the separator; then the sub-string after the separator.
+Description,Splits the given string by the separator and returns the three substrings that together make the original.
+Definition,<string>.rpartition(separator) Searches for the separator from right-to-left within the string then returns the sub-string before the separator; the separator; then the sub-string after the separator.
+Description,Splits the given string by the right-most separator and returns the three substrings that together make the original.
+Definition,<string>.split(separator[  limit]) splits a string on separator  optionally only up to a limited number of substrings
+Description,Splits the given string by occurrences of the separator (itself a string) and returns a list (or array) of the substrings. If limit is given  after limit – 1 separators have been read  the rest of the string is made into the last substring  regardless of whether it has any separators in it. The Scheme and Erlang implementations are similar but differ in several ways. JavaScript differs also in that it cuts  it does not put the rest of the string into the last element. See the example here. The Cobra implementation will default to whitespace. Opposite of join.
+Example usage,Languages
+String.Trim([chars]),C#  VB.NET  Windows PowerShell
+string.strip();,D
+(.trim string),Clojure
+sequence [ predicate? ] trim,Factor
+(string-trim '(#\Space #\Tab #\Newline) string),Common Lisp
+(string-trim string),Scheme
+string.trim(),Java  JavaScript (1.8.1+  Firefox 3.5+)
+Trim(String),Pascal [33] QBasic  Visual Basic  Delphi
+string.strip(),Python
+strings.Trim(string  chars),Go
+LTRIM(RTRIM(String)),Oracle SQL  T-SQL
+strip(string [ option  char]),REXX
+string:strip(string [ option  char]),Erlang
+string.strip or string.lstrip or string.rstrip,Ruby
+string =~ s/^\s+//r =~ s/\s+$//r,Perl 5
+string.trim,Raku
+trim(string),PHP  Raku
+[string stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceAndNewlineCharacterSet]],Objective-C using Cocoa
+string withBlanksTrimmed string withoutSpaces string withoutSeparators,Smalltalk (Squeak  Pharo) Smalltalk
+strip(string),SAS
+string trim $string,Tcl
+TRIM(string) or TRIM(ADJUSTL(string)),Fortran
+TRIM(string),SQL
+TRIM(string) or LTrim(string) or RTrim(String),ColdFusion
+String.trim string,OCaml 4+

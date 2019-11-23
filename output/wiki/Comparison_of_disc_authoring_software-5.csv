@@ -1,0 +1,70 @@
+Application,Creator,Software license
+Ashampoo Burning Studio,Ashampoo Software,[empty]
+Alcohol 120%,Alcohol Soft,[empty]
+CDBurnerXP,Stefan Haglund  Fredrik Haglund,http://www.cdburnerxp.se/help/Intro/license
+cdrtools,Jörg Schilling,(CDDL parts are GPL)
+DeepBurner,Astonsoft,[empty]
+ExpressBurn,NCH Software,[empty]
+ImgBurn,LIGHTNING UK!,http://www.imgburn.com/#license
+InfraRecorder,Christian Kindahl,(GPL)
+K3b,Sebastian Trüg  Christian Kvasny,(GPL)
+Libburnia,Libburnia team,(GPL)
+Nero Burning ROM,Ahead Software,[empty]
+UltraISO,EZB Systems,[empty]
+X-CD-Roast,T. Niederreiter,(GPL)
+Application,Creator,Software license
+Application,Microsoft Windows,Mac OS X,Linux,BSD,Unix
+Alcohol 120%,[empty],[empty],[empty],[empty],[empty]
+CDBurnerXP,[empty],[empty],[empty],[empty],[empty]
+cdrtools,[empty],[empty],[empty],[empty],[empty]
+DeepBurner,[empty],[empty],[empty],[empty],[empty]
+ExpressBurn,[empty],[empty],[empty],[empty],[empty]
+ImgBurn,[empty],[empty],[empty],[empty],[empty]
+InfraRecorder,[empty],[empty],[empty],[empty],[empty]
+K3b,[empty],[empty],[empty],[empty],[empty]
+Libburnia,[empty],[empty],[empty],[empty],[empty]
+Nero Burning ROM,[empty],[empty],[empty],[empty],[empty]
+UltraISO,[empty],[empty],[empty],[empty],[empty]
+X-CD-Roast,[empty],[empty],[empty],[empty],[empty]
+Application,Microsoft Windows,Mac OS X,Linux,BSD,Unix
+Application,CD-R/W,DVD-R/RW/RAM,DVD+R/RW,DVD+R/RW DL,DVD-R/RW DL,BD-R/RE,BD-R/RE DL
+Alcohol 120%,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CDBurnerXP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+cdrtools,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DeepBurner,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ExpressBurn,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ImgBurn,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+InfraRecorder,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+K3b,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Libburnia,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Nero Burning ROM,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UltraISO,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+X-CD-Roast,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Application,CD-R/W 737MB=702MiB,DVD-R/RW/RAM 4.707GB=4.384GiB,DVD+R/RW 4.700GB=4.378GiB,DVD+R/RW DL 8.548GB=7.961GiB,DVD-R/RW DL 8.544GB=7.957GiB,BD-R/RE 25GB=23.31GiB,BD-R/RE DL 50GB=46.61GiB
+Application,ISO 9660,Joliet,Rock Ridge,Amiga rock ridge,El Torito,Apple ISO9660,UDF,MRW
+Alcohol 120%,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CDBurnerXP,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+cdrtools,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ExpressBurn,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ImgBurn,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+InfraRecorder,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+K3b,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Libburnia,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Nero Burning ROM,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UltraISO,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+X-CD-Roast,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Application,ISO 9660,Joliet,Rock Ridge,Amiga rockridge,El Torito,Apple ISO9660,UDF,MRW
+Application,bin/cue,Apple disk image,img,ISO image,Nero CD image,Audio file/cue
+Alcohol 120%,[empty],[empty],[empty],[empty],[empty],[empty]
+CDBurnerXP,<ref name="disk-image-format-support-convert">Unsupported format can be converted to a supported one.</ref>,[empty],[empty],[empty],<ref name="disk-image-format-support-convert" />,[empty]
+cdrtools,[empty],[empty],[empty],[empty],[empty],[empty]
+DeepBurner,[empty],[empty],[empty],[empty],[empty],[empty]
+ExpressBurn,[empty],[empty],[empty],[empty],[empty],[empty]
+ImgBurn,[empty],[empty],[empty],[empty],[empty],[empty]
+InfraRecorder,[empty],[empty],[empty],[empty],[empty],[empty]
+K3b,[empty],[empty],[empty],[empty],[empty],[empty]
+Libburnia,[empty],[empty],[empty],[empty],[empty],[empty]
+Nero Burning ROM,[empty],[empty],[empty],[empty],[empty],[empty]
+UltraISO,[empty],[empty],[empty],[empty],[empty],[empty]
+X-CD-Roast,[empty],[empty],[empty],[empty],[empty],[empty]
+Application,bin/cue,Apple disk image,img,ISO image,Nero CD image,Audio file/cue

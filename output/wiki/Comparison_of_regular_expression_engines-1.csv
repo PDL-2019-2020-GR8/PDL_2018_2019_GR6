@@ -1,0 +1,33 @@
++ List of regular expression libraries
+Name
+Boost.Regex
+BoostXpressive
+CL-PPCRE
+cppre
+DEELX
+FREJ
+GLib/GRegex
+GRETA
+Gregex
+Helios RXPF
+Hyperscan
+ICU
+Jakarta/Regexp
+java.util.regex
+JRegex
+MATLAB
+Oniguruma
+Onigmo (Oniguruma-mod)
+Pattwo
+PCRE
+Qt/QRegExp
+regex - Henry Spencer's regular expression libraries
+RE2
+Henry Spencer's Advanced Regular Expressions
+RGX
+SubReg
+TPerlRegEx
+TRE
+TRegExpr
+XRegExp
+Wolfram Language (Mathematica)

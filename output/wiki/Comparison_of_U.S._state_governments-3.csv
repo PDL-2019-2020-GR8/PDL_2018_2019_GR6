@@ -1,0 +1,115 @@
+[empty],Lower house,Upper house,Ratio,Total
+State,Legislative branch constitutional name,Name,Size,Term length (years)
+California,California State Legislature,California State Assembly,80,2
+Texas,Texas Legislature,Texas House of Representatives,150,2
+New York,New York State Legislature,New York State Assembly,150,2
+Florida,Florida Legislature,Florida House of Representatives,120,2
+Illinois,Illinois General Assembly,Illinois House of Representatives,118,2
+Pennsylvania,Pennsylvania General Assembly,Pennsylvania House of Representatives,203,2
+Ohio,Ohio General Assembly,Ohio House of Representatives,99,2
+Michigan,Michigan Legislature,Michigan House of Representatives,110,2
+Georgia,Georgia General Assembly,Georgia House of Representatives,180,2
+North Carolina,North Carolina General Assembly,North Carolina House of Representatives,120,2
+New Jersey,New Jersey Legislature,New Jersey General Assembly,80,2
+Virginia,Virginia General Assembly,Virginia House of Delegates,100,2
+Washington,Washington State Legislature,Washington House of Representatives,98,2
+Arizona,Arizona Legislature,Arizona House of Representatives,60,2
+Massachusetts,General Court of Massachusetts,Massachusetts House of Representatives,160,2
+Indiana,Indiana General Assembly,Indiana House of Representatives,100,2
+Tennessee,Tennessee General Assembly,Tennessee House of Representatives,99,2
+Missouri,Missouri General Assembly,Missouri House of Representatives,163,2
+Maryland,Maryland General Assembly,Maryland House of Delegates,141,4
+Wisconsin,Wisconsin Legislature,Wisconsin State Assembly,99,2
+Minnesota,Minnesota Legislature,Minnesota House of Representatives,134,2
+Colorado,Colorado General Assembly,Colorado House of Representatives,65,2
+Alabama,Alabama Legislature,Alabama House of Representatives,105,4
+South Carolina,South Carolina General Assembly,South Carolina House of Representatives,124,2
+Louisiana,Louisiana State Legislature,Louisiana House of Representatives,105,4
+Kentucky,Kentucky General Assembly,Kentucky House of Representatives,100,2
+Oregon,Oregon Legislative Assembly,Oregon House of Representatives,60,2
+Oklahoma,Oklahoma Legislature,Oklahoma House of Representatives,101,2
+Connecticut,Connecticut General Assembly,Connecticut House of Representatives,151,2
+Iowa,Iowa General Assembly,Iowa House of Representatives,100,2
+Mississippi,Mississippi Legislature,Mississippi House of Representatives,122,4
+Arkansas,Arkansas General Assembly,Arkansas House of Representatives,100,2
+Kansas,Kansas Legislature,Kansas House of Representatives,125,2
+Utah,Utah State Legislature,Utah House of Representatives,75,2
+Nevada,Nevada Legislature,Nevada Assembly,42,2
+New Mexico,New Mexico Legislature,New Mexico House of Representatives,70,2
+West Virginia,West Virginia Legislature,West Virginia House of Delegates,100,2
+Nebraska,Nebraska Legislature,N/A,N/A,N/A
+Idaho,Idaho Legislature,Idaho House of Representatives,70,2
+Maine,Maine Legislature,Maine House of Representatives,153,2
+New Hampshire,New Hampshire General Court,New Hampshire House of Representatives,400,2
+Hawaii,Hawaii State Legislature,Hawaii House of Representatives,51,2
+Rhode Island,Rhode Island General Assembly,Rhode Island House of Representatives,75,2
+Montana,Montana State Legislature,Montana House of Representatives,100,2
+Delaware,Delaware General Assembly,Delaware House of Representatives,41,2
+South Dakota,South Dakota State Legislature,South Dakota House of Representatives,70,2
+Alaska,Alaska Legislature,Alaska House of Representatives,40,2
+North Dakota,North Dakota Legislative Assembly,North Dakota House of Representatives,94,4
+Vermont,Vermont General Assembly,Vermont House of Representatives,150,2
+Wyoming,Wyoming Legislature,Wyoming House of Representatives,60,2
+U.S. Virgin Islands,Legislature of the Virgin Islands,N/A,N/A,N/A
+District of Columbia,Council of the District of Columbia,N/A,N/A,N/A
+Puerto Rico,Legislative Assembly of Puerto Rico,House of Representatives of Puerto Rico,51,4
+Guam,Legislature of Guam,N/A,N/A,N/A
+Northern Mariana Islands,Northern Mariana Islands Commonwealth Legislature,Northern Mariana Islands House of Representatives,20,2
+American Samoa,American Samoa Fono,American Samoa House of Representatives,21,2
+Key,State,Notes
+[empty],Alabama,The Alabama State Senate allows a filibuster  and has a general three-fifths requirement to enact cloture. A simple majority of 18 is acceptable when dealing with the budget and redistricting.<ref></ref>
+[empty],Arkansas,Arkansas  along with Rhode Island  is one of the only states that requires a supermajority to pass a budget. A three-fourths majority is required for appropriations  except for education  highways  and paying down the state debt  which require a simple majority.<ref name="ncsl.org">http://www.ncsl.org/issues-research/budget/supermajority-vote-requirements-to-pass-the-budget.aspx</ref>
+[empty],California,From 1933-2011 there was a two-thirds requirement for general fund appropriations for purposes other than public schools (Const.  Art. IV  Sec. 12). Because the Legislature typically passes one main budget bill  the requirement effectively applied to the whole budget bill.<ref name="ncsl.org"/> There has been a two-thirds requirement for tax increases since Proposition 13 in 1978. In 2010  voters approved Proposition 25  eliminating the 2/3 requirement for the budget  but keeping it for tax increases.
+State,Governor term length,Governor term limit,Lieutenant Governor,First in line of succession
+Alabama,Four years,Two consecutive terms,Yes,Lieutenant Governor
+Alaska,Four years,Two terms,Yes,Lieutenant Governor
+Arizona,Four years,Two consecutive terms<ref group=note>Governor may serve unlimited terms but only two in a row.</ref>,No,Secretary of State
+Arkansas,Four years,Two terms,Yes,Lieutenant Governor
+California,Four years,Two terms,Yes,Lieutenant Governor
+Colorado,Four years,Two terms,Yes,Lieutenant Governor
+Connecticut,Four years,None,Yes,Lieutenant Governor
+Delaware,Four years,Two terms,Yes,Lieutenant Governor
+District of Columbia,Mayor: Four years,Mayor: None,No,District of Columbia Council Chairman<ref>http://www.wtop.com/?nid=428&sid=1634019</ref>
+Florida,Four years,Two consecutive terms,Yes,Lieutenant Governor
+Georgia,Four years,Two terms,Yes,Lieutenant Governor
+Hawaii,Four years,Two terms,Yes,Lieutenant Governor
+Idaho,Four years,None,Yes,Lieutenant Governor
+Illinois,Four years,None,Yes,Lieutenant Governor
+Indiana,Four years,Two terms in a 12-year period<ref group=note>Governors of Indiana may serve an unlimited number of terms  but may only serve for eight years in any twelve-year period. (Constitution of Indiana Article 5)</ref>,Yes,Lieutenant Governor
+Iowa,Four years,None,Yes,Lieutenant Governor
+Kansas,Four years,There is no lifetime limit on the number  but one must be out of office for at least one election cycle after serving 2 consecutive terms before being eligible again.,Yes,Lieutenant Governor
+Kentucky,Four years,Two terms,Yes,Lieutenant Governor
+Louisiana,Four years,Two terms,Yes,Lieutenant Governor
+Maine,Four years,Two terms,No,President of the Senate
+Maryland,Four years,Two consecutive terms,Yes,Lieutenant Governor
+Massachusetts,Four years,None,Yes,Lieutenant Governor
+Michigan,Four years,Two terms,Yes,Lieutenant Governor
+Minnesota,Four years,None,Yes,Lieutenant Governor
+Mississippi,Four years,Two terms,Yes,Lieutenant Governor
+Missouri,Four years,Two terms,Yes,Lieutenant Governor
+Montana,Four years,Two terms,Yes,Lieutenant Governor
+Nebraska,Four years,Two terms,Yes,Lieutenant Governor
+Nevada,Four years,Two terms,Yes,Lieutenant Governor
+New Hampshire,Two years,None,No,President of the Senate
+New Jersey,Four years,Two terms,Yes<ref group="note">Office created in 2005 and implemented in 2009</ref>,Lieutenant Governor
+New Mexico,Four years,Two terms,Yes,Lieutenant Governor
+New York,Four years,None,Yes,Lieutenant Governor
+North Carolina,Four years,Two terms,Yes,Lieutenant Governor
+North Dakota,Four years,None,Yes,Lieutenant Governor
+Ohio,Four years,Two terms,Yes,Lieutenant Governor
+Oklahoma,Four years,Two terms,Yes,Lieutenant Governor
+Oregon,Four years,Two consecutive terms,No,Secretary of State
+Pennsylvania,Four years,Two consecutive terms<ref group=note>There are no limits on the number of terms a governor may serve in total as long as there is a four-year break after a second term.</ref>,Yes,Lieutenant Governor
+Puerto Rico,Four years,None,No,Secretary of State
+Rhode Island,Four years,Two terms,Yes,Lieutenant Governor
+South Carolina,Four years,Two terms,Yes,Lieutenant Governor
+South Dakota,Four years,Two terms,Yes,Lieutenant Governor
+Tennessee,Four years,Two terms,Yes<ref group="note">The President of the Senate is also the Lieutenant Governor.</ref>,President of the Senate
+Texas,Four years,None,Yes,Lieutenant Governor
+Utah,Four years,None,Yes,Lieutenant Governor
+Vermont,Two years,None,Yes,Lieutenant Governor
+Virginia,Four years,No limit on number  but terms cannot be consecutive,Yes,Lieutenant Governor
+Washington,Four years,None,Yes,Lieutenant Governor
+West Virginia,Four years,Two terms,Yes<ref group="note">The President of the Senate is also the Lieutenant Governor.</ref>,President of the Senate
+Wisconsin,Four years,None,Yes,Lieutenant Governor
+Wyoming,Four years,Two terms,No,Secretary of State

@@ -1,0 +1,179 @@
+Data types,Java,C#
+Arbitrary-size decimals,<ref></ref>,<ref></ref>
+Arbitrary-size integers,[empty],<ref name="microsoft1"></ref>
+Arrays,<ref></ref>,[added]
+Boolean type,[empty],[added]
+Character,<ref></ref>,[added]
+Complex numbers,<ref></ref>,[added]
+Date/time,; reference type<ref></ref>,; value type
+Enumerated types,; reference type,; scalar
+High-precision decimal number,; but see 'Arbitrary-size decimals' above,</ref>}}
+IEEE 754 binary32 floating point number,[empty],[added]
+IEEE 754 binary64 floating point number,[empty],[added]
+Lifted (nullable) types,; but wrapper types,[added]
+Pointers,;<ref name="oracle.com"></ref> only method references<ref name="oracle1"></ref>,<ref>Only available in unsafe mode or through IntPtr managed type</ref>
+Reference types,[empty],[added]
+Signed integers,; 8  16  32  64 bits,; 8  16  32  64 bits
+Strings,[empty],[added]
+Type annotations,[empty],[added]
+Single-root (unified) type system,; but wrapper types,<ref>The type system is unified by default  unless the compiler is switched into unsafe mode where raw pointers are available as a datatype. Pointers are not derived from object nor does it have implicit conversions to/from the object data type</ref>
+Tuples,; limited 3rd party available.<ref></ref>,<ref name="Tuple Class in C#"></ref>
+Unsigned integers,; but some method support.<ref></ref>,; 8  16  32  64 bits
+Value types,; only primitive types,[added]
+[empty],Java,C#
+Definition,In Java  the enumeration type is a class  and its values are objects (instances) of that class. The only valid values are the ones listed in the enumeration. The enumeration type may declare fields  allowing each individual enumerated value to reference additional data associated uniquely with that specific value. The enumeration type may also declare or override methods  or implement interfaces.<ref name="enum"></ref>,Enumerations in C# are implicitly derived from the <kbd>Enum</kbd> type that again is a value type derivative. The value set of a C# enumeration is defined by the underlying type that can be a signed or unsigned integer type of 8  16  32 or 64 bits. The enumeration definition defines names for the selected integer values.<ref name="enum"/><ref></ref> By default the first name is assigned the value 0 (zero) and the following names are assigned in increments of 1. Any value of the underlying primitive type is a valid value of the enumeration type  though an explicit cast may be needed to assign it.
+Combining,Java enumeration set and map collections provide functionality to combine multiple enumeration values to a combined value. These special collections allows compiler optimization to minimize the overhead incurred by using collections as the combination mechanism.,C# supports bit-mapped enumerations where an actual value may be a combination of enumerated values bitwise or'ed together. The formatting and parsing methods implicitly defined by the type will attempt to use these values.
+Reference types,Java,C#
+Garbage collection,[empty],[added]
+Weak references,[empty],[added]
+Reference queue (interaction with garbage collection),[empty],[added]
+Soft references,[empty],[added]
+Phantom references,[empty],[added]
+Proxy support,; proxy generation,; object contexts
+Arrays and Collections,Java,C#
+Abstract data types,[empty],[added]
+One-dimensional  zero-based index arrays,[empty],[added]
+Multidimensional arrays  rectangular (single array),[empty],[added]
+Multidimensional arrays  jagged (arrays of arrays),[empty],[added]
+Non-zero based arrays,[empty],[added]
+Unified arrays and collections,[empty],[added]
+Maps/dictionaries,[empty],[added]
+Sorted dictionaries,[empty],<ref></ref>
+Sets,[empty],[added]
+Sorted sets,[empty],<ref></ref>
+Lists/vectors,[empty],[added]
+Queues/stacks,[empty],[added]
+Priority queue,[empty],<ref></ref><ref></ref>
+Bags/multisets,[empty],[added]
+Concurrency optimized collections,[empty],<ref></ref>
+Java,C#
+Arrays are implicitly direct specializations of <kbd>Object</kbd>. They are not unified with collection types.,Arrays in C# are implicit specializations of the <kbd>System.Array</kbd> class that implements several collection interfaces.
+Arrays and collections are completely separate with no unification. Arrays cannot be passed where sequences or collections are expected (though they can be wrapped using <kbd>Arrays.asList</kbd>).,Arrays can be passed where sequences (<kbd>IEnumerable</kbd>s) or collections/list interfaces are expected. However  the collection operations that alter the number of elements (insert/add/remove) will throw exceptions as these operations are unsupported by arrays.
+The <kbd>for</kbd> statement accepts either arrays or <kbd>Iterable</kbd>s. All collections implement <kbd>Iterable</kbd>. This means that the same short syntax can be used in for-loops.,The <kbd>foreach</kbd> statement iterates through a sequence using a specific implementation of the <kbd>GetEnumerator</kbd> method  usually implemented through the <kbd>IEnumerable</kbd> or <kbd>IEnumerable<T></kbd> interface.<ref></ref> Because arrays always implicitly implement these interfaces  the loop will iterate through arrays also.
+In both languages arrays of reference types are covariant. This means that a <kbd>String[]</kbd> array is assignable to variables of <kbd>Object[]</kbd>  as <kbd>String</kbd> is a specialization of (assignable to) <kbd>Object</kbd>. In both languages  the arrays will perform a type check when inserting new values  because type safety would otherwise be compromised. This is in contrast to how generic collections have been implemented in both languages.,[added]
+No multidimensional arrays (rectangular arrays)  but arrays of references to arrays (jagged arrays).,Multidimensional arrays (rectangular arrays)  and arrays of references to arrays (jagged arrays).
+Arrays cannot be resized (though use of the <kbd>System.arraycopy()</kbd> method can allow for multi-step array resizing),Arrays can be resized while preserving existing values using the <kbd>Array.Resize()</kbd> static array method (but this may return a new array).
+Implemented as a retrofit for the <kbd>java.util</kbd> library having extra features  like data structures like sets and linked sets  and has several algorithms to manipulate elements of a collection  like finding the largest element based on some <kbd>Comparator<T></kbd> object  finding the smallest element  finding sublists within a list  reverse the contents of a list  shuffle the contents of a list  create immutable versions of a collection  performs sorts  and make binary searches.<ref></ref>,The C# collections framework consists of classes from the <kbd>System.Collections</kbd> and the <kbd>System.Collections.Generic</kbd> namespaces with several useful interfaces  abstract classes  and data structures.<ref></ref> NET 3.5 added <kbd>System.Linq</kbd> namespace that contains various extension methods for querying collections  such as <kbd>Aggregate</kbd>  <kbd>All</kbd>  <kbd>Average</kbd>  <kbd>Distinct</kbd>  <kbd>Join</kbd>  <kbd>Union</kbd> and many others. Queries using these methods are called Language Integrated Query (LINQ).
+Java,C#
+<source lang=Java> // Is valid  as numbers is an object of type short[] short[] numbers = new short[100];  // Is valid  but it isn't clear code double values[] = new double[100];</source> || <source lang=CSharp> // Is valid  as numbers is an object of type short[] short[] numbers = new short[100];  // Won't compile! double values[] = new double[100]; </source>,[added]
+Expressions and operators,Java,C#
+Arithmetic operators,[empty],[added]
+Logical operators,[empty],[added]
+Bitwise logic operators,[empty],[added]
+Conditional,[empty],[added]
+String concatenation,[empty],[added]
+Casts,[empty],[added]
+Boxing,; implicit,; implicit
+Unboxing,; implicit,; explicit
+Lifted operators,, but see java.util.Optional,[added]
+Overflow control,[empty],[added]
+Strict floating point evaluation,; opt-in/out,; opt-in<ref></ref>
+Verbatim (here-)strings,[empty],<ref></ref>
+Statements,Java,C#
+Loops,[empty],[added]
+Conditionals,[empty],[added]
+Flow control,[empty],[added]
+Assignment,[empty],[added]
+Exception control,[empty],[added]
+Variable declaration,[empty],[added]
+Variable type inference,<ref></ref>,[added]
+Deterministic disposal (ARM-blocks),[empty],[added]
+keyword,feature  example usage
+<kbd>checked</kbd>  <kbd>unchecked</kbd>,In C#  <kbd>checked</kbd> statement blocks or expressions can enable run-time checking for arithmetic overflow.<ref></ref>
+<kbd>get</kbd>  <kbd>set</kbd>,C# implements properties as part of the language syntax with their optional corresponding <kbd>get</kbd> and <kbd>set</kbd> accessors  as an alternative for the accessor methods used in Java  which is not a language feature but a coding-pattern based on method name conventions.
+<kbd>goto</kbd>,C# supports the <kbd>goto</kbd> keyword. This can occasionally be useful  for example for implementing finite state machines or for generated code  but the use of a more structured method of control flow is usually recommended (see criticism of the goto statement). Java does not support the <kbd>goto</kbd> statement (but <kbd>goto</kbd> is a reserved word). However  Java does support labeled <kbd>break</kbd> and <kbd>continue</kbd> statements  which in certain situations can be used when a <kbd>goto</kbd> statement might otherwise be used. <source lang=CSharp> switch(color) {    case Color.Blue:        Console.WriteLine("Color is blue");        break;    case Color.DarkBlue:        Console.WriteLine("Color is dark");        goto case Color.Blue;    // ...  } </source>
+<kbd>lock</kbd>,In C#  the <kbd>lock</kbd> keyword is a shorthand for synchronizing access to a block of code across threads (using a <kbd>Monitor</kbd>)  wrapped in a <kbd>try</kbd> ... <kbd>finally</kbd> block.
+<kbd>out</kbd>  <kbd>ref</kbd>,C# has support for output and reference parameters. These allow returning multiple output values from a method  or passing values by reference.
+<kbd>strictfp</kbd>,Java uses <kbd>strictfp</kbd> to guarantee the results of floating point operations remain the same across platforms.
+<kbd>switch</kbd>,In C#  the switch statement also operates on strings and longs. Fallthrough is allowed for empty statements and possible via 'goto case' for statements containing code. Java's switch statement operates on strings (since Java 7) but not the <kbd>long</kbd> primitive type  and falls through for all statements (excluding those with '<kbd>break</kbd>').<ref> | author = Dare Obasanjo | year = 2007 | publisher = Dare Obasanjo | archiveurl = https://web.archive.org/web/20120919093308/http://25hoursaday.com/#switch | archivedate = 19 September 2012 | accessdate = 7 September 2012 | url-status = dead | df = dmy-all }}</ref>
+<kbd>synchronized</kbd>,In Java  the <kbd>synchronized</kbd> keyword is a shorthand for synchronizing access to a block of code across threads (using a <kbd>Monitor</kbd>)  wrapped in a <kbd>try</kbd> ... <kbd>finally</kbd> block.
+<kbd>throws</kbd>,Java requires every method to declare the checked exceptions or superclasses of the checked exceptions that it can throw. Any method can also optionally declare the unchecked exception that it throws. C# has no such syntax. <source lang=Java> public int readItem() throws java.io.IOException {    // ...  } </source>
+<kbd>using</kbd>,In C#  <kbd>using</kbd> causes the <kbd>Dispose</kbd> method (implemented via the <kbd>IDisposable</kbd> interface) of the object declared to be executed after the code block has run or when an exception is thrown within the code block. <source lang=CSharp> // Create a small file "test.txt"  write a string  // ... and close it (even if an exception occurs) using (StreamWriter file = new StreamWriter("test.txt")) {    file.Write("test");  } </source> In Java SE 7 a similar construct has been added<ref></ref> called try-with-resources: <source lang=Java> try (BufferedReader br = new BufferedReader(new FileReader(path))) {    return br.readLine();  } </source>
+Object orientation,Java,C#
+Classes,[empty],[added]
+Interfaces,[empty],[added]
+Abstract classes,[empty],[added]
+Member accessibility levels,[empty],[added]
+Class-level inner classes,;<kbd>static</kbd> inner classes are class level,; all inner classes are class level
+Instance-level inner classes,[empty],[added]
+Statement-level (local) anonymous classes,[empty],[added]
+Partial classes,; Third-party library<ref>Extension created for the Java programming language</ref>,[added]
+Implicit (inferred) anonymous classes,[empty],<ref></ref>
+Deprecation/obsolescence,[empty],[added]
+Overload versioning,[empty],[added]
+Enums can implement interfaces,[empty],[added]
+Properties,, but see JavaBeans spec,[added]
+Events,[empty],[added]
+Operator overloading,[empty],[added]
+Indexers,[empty],[added]
+Implicit conversions,; but see autoboxing,[added]
+Explicit conversions,[empty],[added]
+Fields and initialization,Java,C#
+Fields,[empty],[added]
+Constants,[empty],; but no support for constant passed parameters<ref name="final"></ref>
+Static (class) constructors,[empty],[added]
+Instance constructors,[empty],[added]
+Finalizers/destructors,[empty],[added]
+Instance initializers,[empty],; can be simulated with instance constructor
+Object initialization,[empty],[added]
+Object initializers,[empty],[added]
+Collection initializers,; static varargs methods,[added]
+Array initializers,[empty],[added]
+Methods and properties,Java,C#
+Static imports,[empty],<ref></ref>
+Virtual methods,[empty],[added]
+Abstract,[empty],[added]
+Sealing,[empty],[added]
+Explicit interface implementation,[empty],<ref name="interface"></ref>
+Value (input) parameters,[empty],[added]
+Reference (input/output) parameters,[empty],[added]
+Output (output) parameters,[empty],[added]
+Constant (immutable) parameters,; final parameters,<ref></ref>
+Variadic methods,[empty],[added]
+Optional arguments,;<ref></ref> Instead method overloading or varargs,[added]
+Named arguments,[empty],[added]
+Generator methods,[empty],[added]
+Extension/default methods,[empty],[added]
+Conditional methods,[empty],[added]
+Partial methods,[empty],[added]
+Java,C#
+<source lang=Java> public int addOne(final int x) {    x++; // ERROR: a final variable cannot be reassigned    return x;  } public ArrayList addOne(final List<Integer> list) {    list.add(1); // OK: it is still possible to modify a                 // final (reference type) variable    return list;  }</source>,<source lang=C#> public int AddOne(in int x) {    x++; // ERROR: a readonly parameter cannot be reassigned    return x;  } public List<int> AddOne(in List<int> list) {    list.Add(1); // OK: it is still possible to modify a                 // readonly (reference type) parameter    return list;  } </source>
+Java,C#
+<source lang=Java> class PassByRefTest {    static class Ref<T> {        T val;        Ref(T val) { this.val = val; }    }     static void changeMe(Ref<String> s) {        s.val = "Changed";    }     static void swap(Ref<Integer> x  Ref<Integer> y) {        int temp = x.val;         x.val = y.val;        y.val = temp;    }     public static void main(String[] args) {        var a = new Ref(5);        var b = new Ref(10);        var s = new Ref("still unchanged");         swap(a  b);        changeMe(s);         System.out.println( "a = " + a.val + "  " +                            "b = " + b.val + "  " +                            "s = " + s.val );    }  } </source> || <source lang=CSharp>class PassByRefTest {    public static void ChangeMe(out string s)     {        s = "Changed";    }     public static void Swap(ref int x  ref int y)     {        int temp = x;         x = y;        y = temp;    }     public static void Main(string[] args)     {        int a = 5;        int b = 10;        string s = "still unchanged";         Swap(ref a  ref b);        ChangeMe(out s);         System.Console.WriteLine("a = " + a + "  " +                                 "b = " + b + "  " +                                 "s = " + s);    }  }</source>,[added]
+<kbd>a = 10  b = 5  s = Changed</kbd>,<kbd>a = 10  b = 5  s = Changed</kbd>
+Exceptions,Java,C#
+Checked exceptions,[empty],[added]
+Try-catch-finally,[empty],[added]
+Generics,Java,C#
+Implementation,[empty],[added]
+Runtime realization,[empty],[added]
+Type variance,[empty],[added]
+Reference type constraint,; implicit,[added]
+Value/primitive type constraint,[empty],[added]
+Constructor constraint,[empty],(only for parameterless constructor)
+Subtype constraint,[empty],[added]
+Supertype constraint,[empty],[added]
+Migration compatibility,[empty],[added]
+Functional programming,Java,C#
+Method references,<ref name="oracle1"/>,[added]
+Closures,[empty],[added]
+Lambda expressions,<ref></ref>,[added]
+Expression trees,[empty],[added]
+Generic query language,; but see 'Java Stream equivalent' (Monad)<ref></ref>,[added]
+Tail recursion compiler optimizations,[empty],<ref></ref>
+Metadata,Java,C#
+Metadata annotations/attributes,; user-defined annotations can be created<ref></ref>,[added]
+Positional arguments,; unless a single argument,[added]
+Named arguments,[empty],[added]
+Default values,[empty],[added]
+Nested types,[empty],[added]
+Specialization,[empty],[added]
+Conditional metadata,[empty],[added]
+Preprocessing  Compilation and Packaging,Java,C#
+Namespaces,[empty],[added]
+File contents,[empty],[added]
+Packaging,[empty],[added]
+Classes/assembly search path,[empty],<ref></ref><ref></ref>
+Conditional compilation,; but see Apache Ant<ref></ref>,[added]
+Custom errors/warnings,; AnnotationProcessor,[added]
+Explicit regions,[empty],[added]

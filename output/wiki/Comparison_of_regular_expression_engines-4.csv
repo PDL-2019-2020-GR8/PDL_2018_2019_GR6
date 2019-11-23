@@ -1,0 +1,127 @@
++ List of regular expression libraries
+Name
+Boost.Regex
+BoostXpressive
+CL-PPCRE
+cppre
+DEELX
+FREJ
+GLib/GRegex
+GRETA
+Gregex
+Helios RXPF
+Hyperscan
+ICU
+Jakarta/Regexp
+java.util.regex
+JRegex
+MATLAB
+Oniguruma
+Onigmo (Oniguruma-mod)
+Pattwo
+PCRE
+Qt/QRegExp
+regex - Henry Spencer's regular expression libraries
+RE2
+Henry Spencer's Advanced Regular Expressions
+RGX
+SubReg
+TPerlRegEx
+TRE
+TRegExpr
+XRegExp
+Wolfram Language (Mathematica)
++ List of languages and frameworks including regular expression support
+Language
+ActionScript 3
+C++11 (C++)
+D
+Go
+Haskell
+Java
+JavaScript (ECMAScript)
+Julia
+Lua
+Mathematica
+.NET
+Nim
+Free Pascal (Object Pascal)
+OCaml
+Perl
+PHP
+POSIX C (C)
+Python
+Ruby
+Rust
+SAP ABAP
+Tcl
+Wolfram Language
+XML Schema
+XPath 3/XQuery
++ Language feature comparison (part 1)
+[empty]
+Boost.Regex
+Boost.Xpressive
+CL-PPCRE
+EmEditor
+FREJ
+GLib/GRegex
+GNU grep
+Haskell
+Helios RXPF
+ICU Regex
+Java
+JavaScript (ECMAScript)
+JGsoft
+Lua
+.NET
+OCaml
+OmniOutliner 3.6.2
+PCRE
+Perl
+PHP
+Python
+Qt/QRegExp
+RE2
+Ruby / Onigmo
+TRE
+Vim
+RGX
+Tcl
+TRegExpr
+XML Schema
+XPath 3/XQuery
+XRegExp
++ Language feature comparison (part 2)
+[empty]
+Boost.Regex
+Boost.Xpressive
+CL-PPCRE
+EmEditor
+FREJ
+GLib/GRegex
+GNU grep
+Haskell
+Helios RXPF
+ICU Regex
+Java
+JavaScript (ECMAScript)
+JGsoft
+Lua
+.NET
+OCaml
+OmniOutliner 3.6.2
+PCRE
+Perl
+PHP
+Python
+Qt/QRegExp
+RE2
+Ruby / Onigmo
+Tcl
+TRE
+Vim
+RGX
+XML Schema
+XPath 3/XQuery
+XRegExp

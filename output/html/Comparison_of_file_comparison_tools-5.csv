@@ -1,0 +1,136 @@
+Name,Creator,FOSS,Free,First public release date,Year of latest stable version,Windows,Macintosh,Linux,Other platforms,Max Supported File Size
+Beyond Compare,Scooter Software[1],No; Proprietary,No,1996,2019-11-1 (v4.3.2),Yes,Yes,Yes,[empty],> 2GB (64 bits)
+Compare++,Coode Software[2],No; Proprietary,No,2010,2014-11-12 (2.21.2.0),Yes[3],No,No,[empty],[empty]
+diff  diff3,AT&T,Yes; BSD 3-clause  BSD 4-clause  CDDL  GPL  Proprietary,Yes,1974,[empty],Yes,Yes (Mac OS X),Yes,ported to most platforms as part of SCCS,> 2GB but less than 64 bits
+Eclipse (compare),[empty],Yes; Eclipse Public License,Yes,2004-07-21,2016-09-28 (4.6.1 (Neon.1)),Yes,Yes,Yes,Anything with Java,[empty]
+Ediff,Michael Kifer[4],Yes; GPL,Yes,1994,2.81.4,Yes[5],Yes (Mac OS X),Yes,Anything with Emacs and diff,[empty]
+ExamDiff Pro,PrestoSoft[6],No; Proprietary,No,1998,2017-09-23 (v 9.0.1.6),Yes (Win98 and up),No,No,[empty],[empty]
+Far Manager (compare),Eugene Roshal (original); FAR Group,Yes; Revised BSD license,Yes,1996,2017-08-07 (v3.0 build 5000),Yes,No,No,[empty],[empty]
+fc,Microsoft[7],No; Proprietary,Yes; Part of OS,1987,[empty],Yes (DOS),No,No,[empty],[empty]
+FileMerge (aka opendiff),Apple Inc.,No; Proprietary,Yes; (part of Apple Developer Tools),1993 (part of NEXTSTEP 3.2[8]),2014 (v2.8),No,Yes (Mac OS X),No,[empty],[empty]
+FreeFileSync,Zenju,Yes; GPLv3,Yes,2008,2019-09-16 (v10.16),Yes,Yes,Yes,[empty],[empty]
+Guiffy SureMerge,Guiffy Software[9],No; Proprietary,No,2000,2019-10-01 (v11.11),Yes,Yes,Yes,Anything with Java,> 2GB
+IntelliJ IDEA (compare),JetBrains[10],No; Proprietary,No,2001,2019-08-20 (2019.2.1),Yes,Yes,Yes,[empty],[empty]
+jEdit JDiff plugin,Various[11],Yes; GPL,Yes,1998,2012-10-04 (3.3.0),Yes,Yes,Yes,Anything with Java,[empty]
+Kompare,Otto Bruggeman[12],Yes; GPLv2+,Yes,[empty],[empty],Yes [13],Yes (Mac OS X),Yes,[empty],[empty]
+Lazarus Diff,Lazarus (software),Yes; GPL,Yes,2000,2016-11-13 (1.6.2),Yes,Yes,Yes,FreeBSD,[empty]
+Meld,Stephen Kennedy[14],Yes; GPLv2+,Yes,2002,2019-03-31 (3.20.1),Yes[15],Yes,Yes,BSD  Solaris,[empty]
+Notepad++ (compare),Various,Yes; GPLv3,Yes,2009,2015-01-06 (1.5.6.6),Yes[16],No,No,[empty],[empty]
+Perforce P4Merge,Perforce,No; Proprietary,Yes,[empty],2019 (2019.1/1815056),Yes,Yes,Yes,Sun Solaris,[empty]
+Pretty Diff,Austin Cheney[17],Yes; MIT-compatible,Yes,2009,2016-11-11 (2.1.14),Yes (Web),Yes (Web),Yes (Web),Node.js,[empty]
+Tkdiff,Tkdiff[18],Yes; GPLv2+,Yes,2003 (or before),2011-11-27 (v4.2),Yes (Tcl),Yes (Tcl),Yes (Tcl),Anything with Tcl,[empty]
+Total Commander (compare),Christian Ghisler[19],No; Proprietary,No,[empty],2016-11-23 (v9.00),Yes,No,No,[empty],[empty]
+twdiff (TextWrangler Diff Helper),Bare Bones Software  Inc.[20],No; Proprietary,Yes; with TextWrangler,[empty],2012 (1.0 (v22)),No,Yes,No,No,[empty]
+vimdiff,Bram Moolenaar et al.,Yes; GPL-compatible [21],Yes,2001,2016-10-03 (v8.0.0022),Yes,Yes,Yes,Anything with vim,[empty]
+WinDiff,Microsoft[22],No; Proprietary,Yes; Part of Platform SDK,1992,2002-08-16 14:36:14 (v5.00.2195.6601),Yes,No,No,No,[empty]
+WinMerge,Dean Grimm[23],Yes; GPL,Yes,1998,2018-11-22 (v2.18.0),Yes (Win95 and up),Yes (in wine[24]),Yes (in wine[24]),[empty],2 GB
+UCC,USC CSSE[25],No; USC-CSSE Limited Public License,Yes,2009,2015-12-30 (2015.12),Yes,Yes,Yes {2.6.9},Sun Solaris,[empty]
+Name,Creator,FOSS,Free,First public release date,Year of latest stable version,Windows,Macintosh,Linux,Other platforms,Max Supported File Size
+Name,Show in-line changes,Directory comparison,Binary comparison,Moved lines,3-way comparison,Merge,Structured comparison[26],Manual compare alignment,Image Compare
+Beyond Compare,Yes,Yes,Yes,No,Yes (Files and Folders),Yes (Pro only),[empty],Yes,Yes
+Compare++,Yes,Yes,[empty],[empty],Yes,Yes,Yes (C/C++ C# Java Javascript CSS3),[empty],[empty]
+diff,No,Yes,partly,No,No,No,[empty],[empty],[empty]
+diff3,No,No,[empty],[empty],Yes (non-optional),[empty],[empty],[empty],[empty]
+Eclipse (compare),Yes,[empty],[empty],[empty],No (only ancestor),Yes,[empty],No,[empty]
+Ediff,Yes,Yes,Yes,[empty],Yes,Yes,[empty],[empty],[empty]
+ExamDiff Pro,Yes,Yes,Yes,Yes[27],Yes (ExamDiff Pro Master only)[28],Yes,[empty],manual synchronization,[empty]
+Far Manager (compare),Yes (Via plugin) [29],Yes,Yes,Yes (Via plugin) [29],No,No,[empty],[empty],[empty]
+fc,No,No,Yes,[empty],No,No,[empty],[empty],[empty]
+FileMerge (aka opendiff),Yes,Yes,Yes,[empty],Yes (optional ancestor),Yes,[empty],[empty],[empty]
+Guiffy SureMerge,Yes,Yes,Yes,[empty],Yes,Yes,[empty],Yes,Yes
+IntelliJ IDEA (compare),Yes,Yes,Yes,[empty],Yes,Yes,[empty],[empty],Yes
+jEdit JDiff plugin,Yes,[empty],[empty],[empty],No,Yes,[empty],[empty],[empty]
+Kompare,[empty],Yes,No,[empty],No,Yes,[empty],[empty],[empty]
+Lazarus Diff,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Meld,Yes,Yes,No,Yes,Yes,Yes,[empty],line alignment  unlink scroll,[empty]
+Notepad++ (compare),Yes,No,No,Yes,No,No,No,[empty],[added]
+Perforce P4Merge,Yes,No,No,[empty],Yes,Yes,[empty],[empty],Yes
+Pretty Diff,Yes,Yes,No,No,No,No,Yes,No,[empty]
+Tkdiff,Yes,No,No,No,No,No,[empty],[empty],[empty]
+Total Commander (compare),Yes,Yes,Yes,No,No,Yes,No,resync comparison,No
+vimdiff,Yes,Yes (via DirDiff plugin),[empty],[empty],Yes,Yes,[empty],[empty],[empty]
+WinDiff,Yes,Yes,Yes,Yes,No,No,[empty],[empty],[empty]
+WinMerge,Yes,Yes,No,Yes,Yes,Yes,[empty],No,Yes
+UCC,Yes,Yes,Yes,Yes,No,Yes,[empty],[empty],[empty]
+Name,Show in-line changes,Directory comparison,Binary comparison,Moved lines,3-way comparison,Merge,Structured comparison[26],Manual compare alignment,Image compare
+Name,GUI,CLI,Scripting,Horizontal / Vertical,Syntax Highlighting,Reports
+Beyond Compare,Yes,Yes,Yes,Both,Yes,XML  HTML  CSV  Text  Unix Patch
+Compare++,Yes,Yes,[empty],Both,Yes,HTML  Text(combined or side-by-side)
+diff,No,Yes,[empty],Horizontal,Yes pipe to diff-highlight[30],[empty]
+diff3,No,Yes,[empty],Horizontal,[empty],[empty]
+Eclipse (compare),Yes,[empty],[empty],Vertical,Yes,[empty]
+Ediff,Yes,Yes,elisp,Both,Yes,[empty]
+ExamDiff Pro,Yes,Yes,[empty],optional,Yes,UNIX  HTML  Diff
+Far Manager (compare),Yes,Yes,Yes,[empty],Yes,No
+fc,No,Yes,[empty],Horizontal,[empty],[empty]
+FileMerge (aka opendiff),Yes,Yes,[empty],Vertical,Yes,No
+Guiffy SureMerge,Yes,Yes,Java API,Both,Yes,HTML  Text  Unix Patch
+IntelliJ IDEA (compare),Yes,Yes,[empty],Vertical,Yes,[empty]
+jEdit JDiff plugin,Yes,[empty],[empty],Both,Yes,[empty]
+Kompare,Yes,[empty],[empty],Vertical,No,[empty]
+Lazarus Diff,Yes,[empty],[empty],[empty],Yes,[empty]
+Meld,Yes,No,[empty],Horizontal,Yes,No
+Notepad++ (compare),Yes,Yes,[empty],Both,Yes,No
+Perforce P4Merge,Yes,Yes,[empty],Vertical,No,No
+Pretty Diff,Yes,Yes,JavaScript,Both,Yes,XHTML
+Tkdiff,Yes,[empty],[empty],[empty],[empty],[empty]
+Total Commander (compare),Yes,[empty],[empty],Both,No,No
+vimdiff,Yes,Yes,vim script,Both,Yes,HTML
+WinDiff,Yes,Yes,[empty],Horizontal,No,Text
+WinMerge,Yes,Yes,[empty],Vertical,Yes,CSV  Tab-delimited  HTML  XML
+UCC,Yes,Yes,[empty],Vertical,Yes,Text  CSV
+Name,GUI,CLI,Scripting,Horizontal / Vertical,Syntax Highlighting,Reports
+Name,ZIP support,FTP support,SFTP support,Version Control browsing,Patch creation,Patch application,Patch preview,Unicode support,XML-aware
+Beyond Compare,Yes,Yes,Yes,SVN,Yes,Yes,Yes,Yes,[empty]
+Compare++,[empty],[empty],[empty],SVN  CVS  Git  Microsoft TFS  Perforce  VSS using command line,[empty],[empty],[empty],Yes,[empty]
+diff,No,No,[empty],No,Yes,Yes with patch,Yes with patch,No,No
+diff3,No,No,[empty],[empty],[empty],[empty],[empty],[empty],No
+Eclipse (compare),[empty],[empty],[empty],Yes CVS  Subversion  Git  Mercurial  Baazar,[empty],[empty],[empty],Yes,[empty]
+Ediff,Yes,Yes,[empty],RCS  CVS  SVN  Mercurial  git (anything supported by Emacs' VC-mode)[31],Yes,Yes,Yes,[empty],[empty]
+ExamDiff Pro,Yes[32],Yes[33],[empty],[empty],normal diff only,[empty],[empty],Yes,[empty]
+Far Manager (compare),No,No,[empty],No,No,No,No,Yes,No
+fc,No,No,[empty],[empty],No,[empty],[empty],[empty],[empty]
+FileMerge (aka opendiff),No,supported by OS,[empty],[empty],No,[empty],[empty],No,No
+Guiffy SureMerge,Yes,[empty],[empty],[empty],Yes,Yes,Yes,Yes[34],[empty]
+IntelliJ IDEA (compare),Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,[empty]
+jEdit JDiff plugin,Yes,Yes,[empty],Yes,Yes,Yes,Yes,Yes,[empty]
+Kompare,[empty],[empty],[empty],[empty],Yes,[empty],[empty],[empty],[empty]
+Lazarus Diff,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Meld,[empty],[empty],[empty],CVS  Subversion  Git  Mercurial  Baazar,Yes,[empty],[empty],Yes,[empty]
+Notepad++ (compare),No,Yes[35],[empty],Git  Subversion (compare against base),No,No,No,Yes,No
+Perforce P4Merge,[empty],[empty],[empty],No,[empty],[empty],[empty],Yes,[empty]
+Pretty Diff,No,No,No,No,No,No,No,Yes,Yes
+Tkdiff,No,No,[empty],CVS  RCS  Subversion,No,No,No,No,No
+Total Commander (compare),Yes,Yes,Yes,No,No,No,No,Yes,No
+vimdiff,Yes,Yes,[empty],[empty],Yes,[empty],[empty],Yes,[empty]
+WinDiff,No,No,[empty],[empty],No,[empty],[empty],No,[empty]
+WinMerge,Yes,No,[empty],Mercurial [36] Subversion [37] Visual Source Safe  Rational ClearCase[38],Yes,[empty],[empty],Yes,[empty]
+UCC,Yes,No,[empty],[empty],[empty],[empty],[empty],Yes,[empty]
+Name,ZIP support,FTP support,SFTP support,Version Control browsing,Patch creation,Patch application,Patch preview,Unicode support,XML-aware
+Name,Filename casing,CRC,Filedate,Daylight saving,Character casing
+Beyond Compare,Yes,Yes,Yes,Yes,Yes
+Compare++,Yes,Yes,Yes,[empty],Yes
+diff,Yes,No,No,No,Optional
+diff3,[empty],[empty],[empty],[empty],[empty]
+Eclipse (compare),[empty],[empty],[empty],[empty],[empty]
+Ediff,[empty],[empty],[empty],[empty],[empty]
+ExamDiff Pro,No,Yes,Yes,Yes,Yes
+Far Manager (compare),Yes,No,Yes,No,Yes
+fc,No,[empty],[empty],[empty],Optional
+FileMerge (aka opendiff),No,No,No,[empty],Optional
+Guiffy SureMerge,filesystem dependent,[empty],Yes,[empty],Yes
+IntelliJ IDEA (compare),[empty],[empty],[empty],[empty],[empty]
+jEdit JDiff plugin,[empty],[empty],[empty],[empty],[empty]
+Kompare,Yes,[empty],[empty],[empty],[empty]
+Lazarus Diff,[empty],[empty],[empty],[empty],[empty]
+Meld,[empty],[empty],[empty],[empty],[empty]
+Notepad++ (compare),No,No,No,[empty],Yes
+Perforce P4Merge,N/A,No,No,No,Yes
+Pretty Diff,N/A,No,No,No,Optional
+Tkdiff,[empty],[empty],[empty],[empty],[empty]
+Total Commander (compare),[empty],[empty],Optional,Yes (in synchronize only),Optional
+vimdiff,No,No,No,No,Yes
+WinDiff,No,No,when different,Yes,Optional
+WinMerge,No,No,Optional,[empty],Optional
+UCC,No,No,Yes,No,[empty]
+Name,Filename casing,CRC,Filedate,Daylight saving,Character casing

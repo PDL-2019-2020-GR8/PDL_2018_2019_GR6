@@ -1,0 +1,53 @@
+Name,Developer/Manufacturer,Release Year,Current Model?
+datAshur PRO,iStorage Limited,2015,[empty]
+datAshur PRO²,iStorage Limited,-,[empty]
+diskAshur PRO²,iStorage Limited,2017,[empty]
+SafeStick,BlockMaster,2004,[empty]
+SafeStick SuperSonic,BlockMaster,2009,[empty]
+IronKey S100,IronKey,2005,[empty]
+IronKey S200,IronKey,2009,[empty]
+IronKey D200,IronKey,2009,[empty]
+CryptX2,CryptX2 / Open Source,2012,[empty]
+DataTraveler 5000,Kingston Technology,2010,[empty]
+DataTraveler Locker+,Kingston Technology,[empty],[empty]
+DataTraveler Vault,Kingston Technology,[empty],[empty]
+DataTraveler Vault – Privacy Edition,Kingston Technology,[empty],[empty]
+JumpDrive SecureII Plus,Lexar,[empty],[empty]
+IronClad,Lockheed Martin,2010,[empty]
+Cruzer Enterprise,SanDisk,[empty],[empty]
+Store 'n' Go Corporate,Verbatim,[empty],[empty]
+Kanguru Defender 2000,Kanguru Solutions,2012,[empty]
+Name,Developer/Manufacturer,Release Year,Current Model?
+Name,Windows,FreeBSD,Linux,Mac OS,NetBSD,OpenBSD
+SafeStick,[empty],[empty],[empty],[empty],[empty],[empty]
+SafeStick SuperSonic,[empty],[empty],[empty],[empty],[empty],[empty]
+IronKey S100,[empty],[empty],[empty],[empty],[empty],[empty]
+IronKey S200,[empty],[empty],[empty],[empty],[empty],[empty]
+IronKey D200,[empty],[empty],[empty],[empty],[empty],[empty]
+CryptX2,[empty],[empty],[empty],[empty],[empty],[empty]
+DataTraveler 5000,[empty],[empty],[empty],[empty],[empty],[empty]
+DataTraveler Locker+,[empty],[empty],[empty],[empty],[empty],[empty]
+DataTraveler Vault,[empty],[empty],Public partition only,[empty],[empty],[empty]
+DataTraveler Vault – Privacy Edition,[empty],[empty],[empty],[empty],[empty],[empty]
+JumpDrive SecureII Plus,[empty],[empty],[empty],[empty],[empty],[empty]
+IronClad,[empty],[empty],[empty],[empty],[empty],[empty]
+Cruzer Enterprise,[empty],[empty],[empty],[empty],[empty],[empty]
+Store n' Go Corporate,[empty],[empty],[empty],[empty],[empty],[empty]
+Name,Windows,FreeBSD,Linux,Mac OS,NetBSD,OpenBSD
+Name,Bootable,Encryption Type,Certification,Managed,Interface,Max Capacity,Included Software,Other Features
+datAshur PRO,[empty],AES 256-bit XTS Hardware Encryption,FIPS 140-2 Level 3,No,USB 3.0,64GB,[empty],OS & Platform independent- software free
+diskAshur PRO²,[empty],AES 256-bit XTS Hardware Encryption,FIPS 140-2<ref name="fips_140_level_3_pending"/>,No,USB 3.1,5TB,[empty],OS & Platform independent- software free
+SafeStick SuperSonic,[empty],AES 256-bit CBC Hardware Encryption,CESG CCTM  FIPS 140-2<ref name="fips_140_level_2_pending">FIPS 140-2 Level 2 Pending</ref>,Optional (with SafeConsole),USB 2.0,8GB,[empty],High transfer speeds  Inactivity lock
+IronKey S100,[empty],AES 128-bit CBC Hardware Encryption,FIPS 140-2 Level 2,Enterprise Model only,USB 2.0,16GB,Identity Manager; Secure Sessions,[empty]
+IronKey S200,[empty],AES 256-bit CBC Hardware Encryption,FIPS 140-2 Level 3,Enterprise Model only,USB 2.0,16GB,Identity Manager; Secure Sessions,[empty]
+IronKey D200,[empty],AES 256-bit CBC Hardware Encryption,FIPS 140-2 Level 3,Enterprise Model only,USB 2.0,32GB,Identity Manager; Secure Sessions,[empty]
+CryptX2,[empty],AES 256-bit CBC Hardware Encryption,[empty],[empty],USB 2.0,64GB / Future Support for 4TB,No Software Required,ID Verify  Panic Mode  Upgradeable Firmware
+DataTraveler 5000,[empty],AES 256-bit XTS Hardware Encryption,FIPS 140-2 Level 2<ref name="fips_140_level_3_pending">FIPS 140-2 Level 3 Pending</ref>,[empty],USB 2.0,16GB,[empty],Water resistant
+DataTraveler Locker+,[empty],Hardware Encryption,[empty],[empty],USB 2.0,32GB,[empty],[empty]
+DataTraveler Vault,[empty],AES 256-bit Hardware Encryption,[empty],[empty],USB 2.0,32GB,DTVaultLock,Second unsecured partition
+DataTraveler Vault – Privacy Edition,[empty],AES 256-bit Hardware Encryption,[empty],[empty],USB 2.0,32GB,[empty],Waterproof to 4'
+JumpDrive SecureII Plus,[empty],Hardware,FIPS 140-2 ?,[empty],USB 2.0,[empty],[empty],[empty]
+IronClad,[empty],AES 256-bit CBC Hardware Encryption,FIPS 140-2 Level 3,Yes,USB 2.0,16GB,[empty],[empty]
+Cruzer Enterprise,[empty],Hardware,FIPS 140-2 ?,[empty],USB 2.0,[empty],[empty],[empty]
+Store 'n' Go Corporate,[empty],Hardware,FIPS 140-2 ?,[empty],USB 2.0,[empty],[empty],[empty]
+Name,Bootable,Encryption Type,Certification,Managed,Interface,Max Capacity,Included Software,Other Features

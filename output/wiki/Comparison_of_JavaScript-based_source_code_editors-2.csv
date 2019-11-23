@@ -1,0 +1,70 @@
++ List of source code editors
+Editor
+Ace
+Atom
+CodeMirror
+Codeanywhere
+Codenvy Editor
+Orion
+Monaco Editor
+Markitup
+LDT
+Ymacs
+CodePress
+CodeTextArea
+EditArea
+Helene
+9ne
+jsvi
+MDK-Editor
+Micro
+[added]
++ List of source code editor features
+Feature
+Implementation
+[added]
+Syntax highlight
+[added]
+Syntax checking
+[added]
+Tab support
+[added]
+Indent  new line keeps level
+[added]
+Indent  syntax
+[added]
+Indent  selected block
+[added]
+Bracket matching
+[added]
+XML matching tag highlight
+[added]
+Code folding
+[added]
+Code snippets
+[added]
+Code suggestion
+[added]
+Toggle syntax highlight on/off
+[added]
+Keyboard shortcuts
+[added]
+Line numbers
+[added]
+Search & replace
+[added]
+Spell checking
+[added]
+Toolbar
+[added]
+Visual styling
+[added]
+Undo/Redo
+[added]
+Multiple cursors / Block selection
+[added]
+IndentGuides
+[added]
+Inline widgets
+[added]
+Non US charset support

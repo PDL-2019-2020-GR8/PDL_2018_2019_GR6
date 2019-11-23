@@ -1,0 +1,15 @@
+[empty],Design Authority,Software license
+AutoCAD DXF,[empty],[empty]
+Cartesian coordinate system,[empty],[empty]
+Geography Markup Language GML,Open Geospatial Consortium,?
+GeoMedia,[empty],[empty]
+MapInfo TAB format,[empty],[empty]
+National Transfer Format,[empty],[empty]
+Shapefile,ESRI,[empty]
+TIGER,[empty],[empty]
+Vector Product Format (VPF),[empty],[empty]
+[empty],[empty],[empty]
+[empty],Point,Multipoint,Line,Polyline,MultiPolyline,Polygon,Multipolygon
+GeoJSON[1],Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Personal Geodatabase,Yes,No,Yes,No,No,Yes,No
+Shapefile[2],Yes,Yes,Yes,Yes,Yes,Yes,Yes (as Polygon with multiple outer rings or as MultiPatch)

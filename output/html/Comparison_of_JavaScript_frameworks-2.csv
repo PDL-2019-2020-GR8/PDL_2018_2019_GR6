@@ -1,0 +1,57 @@
+Framework,Version compared,Size,License,Source language
+Angular,7 18 Oct 2018,563 kB (minified & compressed),MIT,TypeScript
+AngularJS,1.5.0 5 Feb 2016,144 kB (minified & compressed),MIT,JavaScript
+Apache Royale,0.9.4 5 Nov 2018,19 kB (zipped),Apache,ActionScript 3  MXML  CSS
+Backbone.js,1.2.1 June 2015,7.3 kB (Packed and gzipped),MIT,JavaScript
+Dojo,1.10.4 18 Jan 2015,Variable. Base size: 41 kB (minified & gzipped)  155 kB (minified)  598 kB (uncompressed)[1],BSD & AFL,JavaScript + HTML
+Ember.js,1.7.0 19 Aug 2014,95 kB (minified & gzipped)  340 kB (minified)  1.5 MB (uncompressed),MIT,JavaScript
+Enyo,2.0.1 30 Aug 2012,<25 kB (core gzipped),Apache 2 [2],JavaScript
+Express.js,[empty],[empty],[empty],[empty]
+Ext JS,4.2 13 Mar 2013,84–502 kB,GPL & Commercial [3],JavaScript
+Google Web Toolkit,2.7.0 November 2014,Variable,Apache,Java
+jQuery (library),3.4.0 10 Apr 2019,30.1 KiB (minified & gzipped)  86 KiB (minified) [4] 283 KiB (uncompressed)[4],MIT,JavaScript
+jQWidgets,3.9.1 29 Oct 2015,3102 KB (minified)  7486 KB (uncompressed),Creative Commons Attribution-NonCommercial 3.0 and Commercial[5],JavaScript  HTML  CSS
+Knockout,3.5.0 22 February 2019,66.4 KB minified / 309 KB (development mode),MIT,JavaScript
+MooTools,1.6.0 14 Jan 2016,Variable; 7.3–65 KiB (YUI Compressor) [6] Variable; 7.3–65 KiB (YUI Compressor) [7] 101 KiB (uncompressed)[8],MIT,JavaScript
+Node.js,[empty],[empty],[empty],[empty]
+React (JavaScript library),16.1.1 November 28  2017,react.production.min.js 6.41KB react-dom.production.min.js 92.4KB redux v3.7.2 2KB Total: 100.81KB,MIT,JavaScript
+SAP OpenUI5,1.44.9 28 Mar 2017,20.8MB (1.34.7 runtime  minified  zipped) 6.8MB(1.34.7 runtime mobile  minified  zipped) 52.1MB (1.34.7 SDK  zipped),Apache 2[9],JavaScript
+Prototype & script. aculo.us[10],Prototype: 1.7.3 22 Sep 2015 script.aculo.us: 1.9.0 23 Dec 2010,46–278 kB,MIT,JavaScript
+qooxdoo,5.0.1 15 Sep 2015,Variable  starting at 6 kB (gzipped),LGPL & EPL,JavaScript
+SmartClient & SmartGWT,SmartClient: 11.1 June 2017 SmartGWT: 6.1 June 2017,100–500 kb (gzipped).,LGPL & Commercial,Server: Java Client: Java (Smart GWT) or Javascript (SmartClient) or XML (both)
+SproutCore,1.11.2 2 May 2016,250–700 kb (gzipped).,MIT,JavaScript
+Svelte,3.12.1 14 Oct 2019,Variable,MIT,TypeScript
+Vue.js,2.6.10 20 Mar 2019,33.5 KB (minified & gzipped) 91.48 KB (minified) [11] 333.46 KB (uncompressed) [11],MIT,JavaScript
+Wakanda,9 14 Nov 2014,Variable,GPL3 (framework)  AGPL (server) & Commercial,JavaScript + HTML + CSS
+Webix,4.1 November 2016,188 kB (gzipped),GPL & Commercial,JavaScript
+ZK,8.0.1 19 Jan 2016,Variable,LGPL & GPL & ZOL,XML + Java (JavaScript optional)
+[empty],AngularJS,Apache Royale,Dojo,Ember.js,Enyo,Ext JS,Google Web Toolkit,jQuery,jQWidgets,MooTools,OpenUI5,Prototype & script. aculo.us[10],qooxdoo,SmartClient and SmartGWT,SproutCore,Vue,Wakanda,ZK,Webix
+Feature detection[12],Yes,[empty],Yes[13],Yes,[empty],Yes[14],No[15][16],Yes[17],Yes,Yes[18],[empty],No[19],Yes,Partial [20],Yes,[empty],Partial,No[21],Yes
+DOM wrapped[22],Yes,[empty],Yes,No,Yes,Yes,Yes,Yes,[empty],No[23],[empty],No[24][25],Yes,Yes,No,[empty],Yes,Yes,Yes
+XMLHttpRequest data retrieval,Yes,Yes,Yes[26],[empty],Yes,Yes,Yes,Yes,Yes[27],Yes[28],Yes,Yes,Yes,Yes,Yes,[empty],Yes,[empty],Yes
+WebSocket,[empty],[empty],Yes[26],[empty],Yes,Yes,Yes,Yes,No,Yes[28],Yes[29],Yes,Yes,Yes,Via Plugin,[empty],Yes,[empty],Yes[30]
+Server push data retrieval,[empty],[empty],Yes[31],[empty],[empty],Yes[32],Yes[33],Yes[31],No,[empty],[empty],[empty],[empty],Yes[34],Via Plugin,[empty],[empty],Yes[35],Yes
+Other data retrieval,[empty],Yes: XML  HTML  CSV  ATOM  AMF  JSON,Yes: XML  HTML  CSV  ATOM[36],[empty],[empty],Yes: XML  SOAP  AMF  Ext.Direct,Yes: RPC  RequestFactory,Yes: XML  HTML,Yes: XML  JSON  CSV  TSV[27],Yes: XML  HTML,[empty],[empty],[empty],Yes: XML  WSDL  RSS  and Java-based SQL  Hibernate  POJO adapters,[empty],[empty],Yes: JSON-RPC  Wakanda REST,[empty],Yes: XML  HTML  CS  JSON  JSArray  CSV
+Drag and drop,[empty],Yes,Yes[37],[empty],[empty],Yes,With plugin[38],With plugins[39],Yes[40],Yes[41],Yes[42],Yes,Yes,Yes,Yes,[empty],Yes,Yes,Yes[43]
+Simple visual effects,Yes,Yes,Yes[44],[empty],Yes,Yes,Yes,Yes,Yes,Yes[45],Yes,Yes,Yes,Yes,Yes[46],[empty],Yes,Yes,Yes
+Animation / advanced visual effects,Yes,[empty],Yes[47],[empty],Yes[48],Yes,Yes,Yes,Yes,Yes[49],[empty],Yes,Yes,Yes,Yes[46],[empty],Yes,Yes,Yes[50]
+Back button support / history management,[empty],[empty],Yes[51],Yes,Yes[52],Yes[53],Yes,With plugins[54],No,With plugin[55],[empty],Yes,Yes,Yes,Yes,[empty],[empty],Yes,Yes
+Input form widgets & validation,Yes,Yes,Yes[56],[empty],Yes,Yes,Yes  Validation requires plugin[57],With plugins[58],Yes[59],Yes,Yes,Yes,Yes,Yes,Yes,[empty],Yes,Yes,Yes [60][61]
+[empty],AngularJS,Apache Royale,Dojo,Ember.js,Enyo,ExtJS,Google Web Toolkit,jQuery,jQWidgets,MooTools,OpenUI5,Prototype & script. aculo.us[10],qooxdoo,SmartClient and SmartGWT,SproutCore,Vue,Wakanda,ZK,Webix
+Grid,[empty],Yes,Yes[62],[empty],[empty],Yes,Yes,With plugins[63],Yes[64],With plugin[65],Yes,[empty],Yes,Yes,Yes,[empty],Yes[66],Yes,Yes[67]
+Hierarchical Tree,[empty],Yes,Yes[68],[empty],Yes[69],Yes[70],Yes,With plugins[71],Yes[72],With plugins[73],Yes,[empty],Yes[74],Yes,Yes,[empty],Yes (Auto Form)[75],Yes,Yes [76]
+Rich text editor,No,Yes,Yes[77],[empty],[empty],Yes[78],Yes,With plugins[79],Yes[80],Yes[81],[empty],[empty],Yes,Yes,Via plugin,[empty],Yes[82],Yes,Yes[83]
+Autocompletion tools,No,[empty],Yes[84],[empty],[empty],Yes,Yes,Yes[85],Yes[86],With plugin[87],[empty],Yes,[empty],Yes,With plugins,[empty],Yes[88],Yes,Yes
+HTML generation tools,No,[empty],Yes[89],[empty],[empty],Yes,Yes,Yes,Yes[80],Yes[90],[empty],Yes,Yes,Yes,Yes,[empty],No,Yes,Yes
+Widgets themeable / skinnable,[empty],Yes,Yes[91],[empty],Yes,Yes[92],Yes[93],Yes[94],[empty],Yes,Yes,Yes,[empty],Yes,Yes,[empty],[empty],Yes,Yes
+GUI resizable panels and modal dialogs,[empty],Yes,Yes,[empty],Yes,Yes,Yes,With plugins,Yes[95],Yes[96],[empty],[empty],Yes,Yes,Yes,[empty],Yes[97],Yes[98],Yes
+GUI page layout,[empty],[empty],Yes,[empty],[empty],Yes,Yes,With plugin[99],Yes[100][101],Yes[96],[empty],[empty],Yes,Yes,Yes,[empty],Yes[102],Yes[98],Yes [103]
+Canvas support,[empty],Yes,Yes[104],[empty],Yes,Yes,Yes,With plugin[105],Yes[106],Yes[107],[empty],[empty],Yes,Yes,Yes,[empty],Yes[108],Yes[109],Yes
+Mobile/tablet support (touch events),Yes,Yes,Yes[110],Yes,Yes,Yes,With plugin[111],With plugin[112],Yes[113],With plugin[114],Yes,[empty],Yes,Yes,Yes,[empty],Yes[115][116],Yes[117],Yes[118]
+Accessibility / graceful degradation[119],Yes,[empty],Yes[120],No,Yes,Yes[121],Yes[122],Yes,Yes[123],Yes,[empty],[empty],No[124],Degradation: No Accessibility: Yes,Degradation: No Accessibility: Yes,[empty],[empty],Yes,Yes[125]
+ARIA compliant,[empty],[empty],Yes[120],[empty],[empty],Yes[121],[empty],Yes[126],Yes[123],[empty],Yes,[empty],No,Yes,Yes,[empty],[empty],Yes,Yes [127]
+Developer tools  Visual design,[empty],[empty],Yes[128][129],[empty],in progress[130],Yes[131][132][133],Yes,Yes[134][135],Yes[136][137][138],Yes[139][140],[empty],[empty],Yes[141],Yes,No,[empty],Yes[142],Yes,Yes[143][144]
+Offline storage[145],[empty],Yes,No[146],[empty],Yes,Yes[147],Via Google Gears[148],With plugin[149],Yes[150],[empty],[empty],[empty],Yes,Yes,Yes,[empty],planned,Yes,Yes
+Cross-browser 2d Vector Graphics[151],[empty],[empty],Yes[152],[empty],[empty],Yes,[empty],With plugin[153],Yes[106],Yes[154],[empty],[empty],[empty],Yes,No],[empty],Yes (via Raphael),Yes[109],Yes (via Raphael)[155]
+Charting & Dashboard[156],[empty],Yes,Yes[157],[empty],[empty],Yes[158],[empty],With plugin[159][160],Yes[161][162],[empty],[empty],[empty],[empty],Yes,No,[empty],Yes[163],Yes[164],Yes[165]
+RTL Support in UI Components,[empty],Yes,Yes,[empty],[empty],Yes,[empty],Depends on the plugin used,Yes[123],[empty],Yes,[empty],[empty],Yes,Yes,[empty],[empty],[empty],No

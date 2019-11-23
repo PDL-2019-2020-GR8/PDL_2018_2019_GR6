@@ -1,0 +1,151 @@
++About OS
+Feature
+Developed by
+Market share<ref></ref>
+Current version
+Development version
+Current version release dates
+License
+OS family
+Supported CPU architecture
+Programmed in
+Public issues list
+DRM-free<ref>We oppose DRM. | Defective by Design </ref>
+Device independent system updates
+Wireless system updates
+GPU accelerated GUI
+Feature
++Advanced controls
+Feature
+While-in-use permissions
+Per-app Internet access
+Per-app identity access
+Per-app user data access
+Per-app background execution
+Per-app notifications
+Per-app location access
+Per-app camera access
+Per-app microphone access
+Per-app shared files access
+Per-app network data usage auditing
+Fine grained storage usage
+Parental controls
+Screen orientation lock
+File manager
+File manager write access to external storage
+Multi-user
+Guest mode
+Do not disturb mode
+App groups
+[added]
++Accessibility features
+Feature
+System wide base text size
+Monaural output
+Always visible scrollbar
+Reduced Animations
+[added]
++App ecosystem
+Feature
+Official app store
+Non-discriminatory stores
+Common APIs for smartphones  tablets  and PCs
+Official SDK platform(s)
+Cost to develop for the mobile OS
+Cost to publish app to official store
+[added]
++Basic features
+Feature
+Cut  copy  and paste
+Multi-Device clipboard
+Undo
+Custom home and lock screen wallpaper
+Desktop sync
+Local full backup
+Core data missing sync
+Notification center
+Push notifications
+Screenshot
+iCalendar import
+Text/document support (read only; creating using third party apps)
+Printer support
+Show remembered Wi-Fi connections
+[added]
++Browser
+Feature
+Default web browser/engine
+Major web browser available
+Browser extensions
+Browser direct Internet connection (increased resilience to outages)
+Browser undo close tab
+Browser keeps windows open on shutdown or crash
+Browser keeps windows open when cleaning cookies
+Browser search engine options
+Browser find on page
+Browser/email save images
+Browser/email save PDFs
+Browser save audio/video
+Browser save page
+Browser save any file
+Browser force enable zoom
+Browser text reflow<ref>Browser Text Reflow – WP7 Internet Explorer vs Android . Youtube.com (2011-12-07). Retrieved on 2012-07-03.</ref>
+Browser Reader Mode
+Browser file upload
+Browser form navigation
+Browser private browsing mode
+Offline web apps
+HTTP Live Streaming
+WebRTC
+[added]
++Communication and connectivity
+Feature
+Unified Inbox
+Email sync protocols supported
+Non-carrier-based integrated messaging
+Visual voicemail
+Call log duration
+Multiple mobile phones per contact
+Contact groups
+Voice over IP
+NFC payment software
+Tethering
+USB On-The-Go
+Direct file transfer over Wi-Fi Direct
+DHCP v4
+DHCP v6
+Direct file transfer over Bluetooth
+Direct file transfer over NFC
+[added]
++Language and inputs
+Feature
+Non-English languages support
+Underlining spell checker
+Built-in system-wide dictionary
+Autoexpanding text replacements
+Keyboard next word prediction
+Keyboard cursor controller
+Optical character recognition input method
+Third party input methods
+Gesture text input
+Emoji support
+[added]
++Maps and navigation
+Feature
+Safe driving mode
+Turn-by-turn navigation
+Offline maps
+Alternative routes in maps
+[added]
++Media playback and controls
+Feature
+Audio playback
+Video playback
+Wired video out
+Wired digital audio output
+Wireless video/audio streaming to set top boxes/TVs/speakers
+Media player on-device playlist creation
+Media player video scrubbing
+Media player audio scrubbing
+Media player fine scrubbing
+Media player double speed playing
+[added]

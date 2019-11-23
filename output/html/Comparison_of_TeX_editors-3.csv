@@ -1,0 +1,75 @@
+[empty],Editing style[Note 1],Native operating systems,Latest stable version,Costs,License,Configurable,Integrated viewer,[empty]
+AUCTeX,Source,Linux  macOS  Windows,(2017-12-10) 12.1,Free,GPL,Yes,Yes,AUCTeX
+Authorea,Source / partial-WYSIWYG,Online,N/A,Free,Proprietary,Yes,Yes,Authorea
+Auto-Latex Equations for Google Docs,Source[Note 2],Online,(2016-01-06) 8.04,Free,Unclear,Yes,Yes,Auto-Latex Equations for Google Docs
+CoCalc,Source,Online,N/A,Free,AGPL,Yes,Yes,CoCalc
+GNOME LaTeX,Source,Linux,(2019-03-10) 3.32,Free,GPL,Yes,No,GNOME LaTeX
+Gummi,Source,Linux,(2016-01-27) 0.6.6,Free,MIT,Yes,Yes (Live update),Gummi
+Kile,Source,Linux (macOS  Windows)[Note 3],(2012-09-23) 2.1.3,Free,GPL,Yes,Yes (Quick preview),Kile
+LEd,Source,Windows,(2009-10-09) 0.53,Free,Proprietary,?,Yes (dvi),LEd
+LyX,WYSIWYM,Linux  macOS  Windows,(2019-06-25) 2.3.3,Free,GPL,Yes,Yes,LyX
+MeWa,Source,Windows,(2007-06-06) 1.4.0,Free,GPL,Yes,No,MeWa
+Notepad++,Source,Windows,(2018-06-30) 7.5.7,Free,GPL,Yes,No  but can be integrated [Note 4],Notepad++
+Scientific WorkPlace,WYSIWYM,Windows,(2016-02-23) 6.0.12,Non-free,Proprietary,Yes,Yes,Scientific WorkPlace
+ShareLaTeX[Note 5],Source,Online,N/A,Free,AGPL,Yes,Yes,ShareLaTeX
+TexLab,Source-WYSIWYG,Windows,(2019-04-30) 7.8,Free,Free,Yes,Yes,TexLab
+TeXmacs,WYSIWYG,Linux  macOS  Windows,(2017-12-21) 1.99.6,Free,GPL,Yes,Yes,TeXmacs
+Texmaker,Source,Linux  macOS  Windows,(2018-11-01) 5.0.3,Free,GPL2,Yes,Yes,Texmaker
+TeXnicCenter,Source,Windows,2.02 Stable (September 29  2013 (2013-09-29)) [±],Free,GPL,Yes,No,TeXnicCenter
+TeXShop,Source,macOS,(2019-04-05) 4.27,Free,GPL,Yes,Yes,TeXShop
+TeXstudio,Source,Linux  Windows  macOS,(2019-05-19) 2.12.16,Free,GPL2,Yes,Yes (pdf  selection with dvi2png),TeXstudio
+TeXworks,Source,Linux  macOS  Windows,(2019-03) 0.6.3,Free,GPL,No,Yes (pdf),TeXworks
+Verbosus,Source,Online  Android  iOS,(2016-05-06) 4.1.3,Free,Proprietary,Yes,Yes (pdf),Verbosus
+WinEdt,Source,Windows,(2017-04-13) 10.2,Non-free,Proprietary,Yes,No,WinEdt
+WinShell,Source,Windows,(2013-02-10) 3.3.2.6,Free,Proprietary,Yes,No,WinShell
+[empty],Editing Style,Native Operating Systems,Latest stable version,Costs,License,Configurable,Integrated viewer,[empty]
+[empty],Inverse search[Note 6],DDE support[Note 7],Organises Projects,Menu for inserting symbols,Document comparison,Spell-checking,Multiple undo-redo
+AUCTeX,Yes,No,Partial (master file),Yes,Yes,Yes[Note 8],Yes
+Authorea,Yes,N/A,Yes,No,No,Yes,Yes
+Auto-Latex Equations for Google Docs,Yes,N/A,Yes,No,No,Yes,Yes
+CoCalc,Yes,N/A,No,No,No,Yes,Yes
+GNOME LaTeX,Yes,N/A,Yes,Yes,No,Yes,Yes
+Gummi,Yes,N/A,Yes,No,No,Yes,Yes
+Kile,Yes,No,Yes,Yes,No,Yes,Yes
+LEd,Yes,?,Yes,Yes,No,Yes,Yes
+LyX,Yes,?,No,Yes,Yes,Yes,Yes
+MeWa,No,No,No,Yes,No,Yes,Yes
+Notepad++,Yes  with SumatraPDF,Yes  with a DDE client,Yes,Partial[Note 9],Yes,Yes,Yes
+Scientific WorkPlace,N/A,?,?,Yes,No,Yes,No (one level)
+ShareLaTeX,Yes,No,Yes,No,Yes,Yes,Yes
+TexLab,Yes,N/A,Yes,Yes,No,Yes,Yes
+TeXmacs,Yes,Yes,No,Yes,No,Yes,Yes
+Texmaker,Yes,No,Partial (master file),Yes,No,Yes,Yes
+TeXnicCenter,Yes,Yes,Yes,Yes,No,Yes,Yes
+TeXShop,Yes,No,No,Yes[Note 10],No,Yes,Yes
+TeXstudio,Yes,Yes,Partial (master file),Yes,Yes,Yes,Yes
+TeXworks,Yes,No,No,No,No,Yes[Note 11],Yes
+Verbosus,No,No,Yes,Yes,No,No,Yes
+WinEdt,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+WinShell,Yes,No,Yes,Yes,No,Yes,Yes
+[empty],Inverse search,DDE Support,Organises Projects,Menu for inserting symbols,Document comparison,Spell-checking,Multiple undo-redo
+[empty],Collapsible sections,Find and replace using RegEx,Intelligent error handling,Autocompletion of LaTeX commands,Parenthesis matching,Starts up to previous state[Note 12],Unicode support,RTL Support[Note 13],[empty]
+AUCTeX,Yes,Yes,Yes,Yes,Yes,Yes[Note 14],Yes,Yes,AUCTeX
+Authorea,No,Yes,No,No,Yes,Yes,Yes,?,Authorea
+Auto-Latex Equations for Google Docs,No,Yes,No,No,No,Yes,Yes,?,Auto-Latex Equations for Google Docs
+CoCalc,Yes,Yes,No,Yes,Yes,Yes,Yes,?,CoCalc
+GNOME LaTeX,Planned,Yes,Yes,Yes,Yes,(just same files),Yes,Yes,GNOME LaTeX
+Gummi,No,No,No,No,Yes,No,Yes,?,Gummi
+Kile,Yes[Note 15],Yes,Yes,Yes,Yes,Yes,Yes,Yes,Kile
+LEd,Yes,Yes,?,Yes,Yes,No (just same files),No,?,LEd
+LyX,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,LyX
+MeWa,No,Yes,No,No,No,No,Yes,?,MeWa
+Notepad++,Yes,Yes,No,Partial[Note 16],Yes,Yes,Yes,Yes,Notepad++
+Scientific WorkPlace,No,?,?,N/A,Yes,No,Yes,?,Scientific WorkPlace
+ShareLaTeX,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,ShareLaTeX
+TexLab,No,No,Yes,Yes,Yes,Yes,Yes,No,TexLab
+TeXmacs,No,Yes,N/A,N/A,N/A,No,Yes,?,TeXmacs
+Texmaker,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Texmaker
+TeXnicCenter,since v2.0,since v2.0,Yes,Yes,Yes,Yes,since v2.0,?,TeXnicCenter
+TeXShop,No,Yes,Yes,Yes,Yes,Yes,Yes,?,TeXShop
+TeXstudio,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,TeXstudio
+TeXworks,No,Yes[Note 17],No,Yes[Note 18],Yes,No,Yes,Yes,TeXworks
+Verbosus,No,No,Yes,Yes,Yes,No,Yes,?,Verbosus
+WinEdt,Yes,Yes (modified),Yes,Yes,Yes,Yes,Yes,Yes,WinEdt
+WinShell,Yes,Yes,Yes,Yes,Yes,No (just same files),Yes,?,WinShell
+[empty],Collapsible sections,Find and replace using RegEx,Intelligent error handling,Autocompletion of LaTeX commands,Parenthesis matching,Starts up to previous state[Note 19],Unicode support,RTL Support[Note 20],[empty]

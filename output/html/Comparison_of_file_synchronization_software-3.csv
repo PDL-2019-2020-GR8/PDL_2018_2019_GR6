@@ -1,0 +1,74 @@
+Name,Programming language,Platform,License,Stable version,Portable,Detect conflict,Renames or moves,Propagate deletes,Revision control,Scheduling or service,Other information
+Conduit,Python,Linux  FreeBSD,GPL,0.3.17 (2010-01-21),No,[empty],[empty],[empty],[empty],Yes,Synchronizes files  website  network apps
+DirSync Pro,Java,Java SE,GPLv3,1.53 (2018-03-07),Yes,Yes,No,[empty],Yes (creates backup files),Yes (native + via OS),sym-links  filter  metadata  contents  auto-sync
+FreeFileSync,C++,Windows  OS X  Linux,GPL,10.10 (2019-03-10),Yes (Donation Edition)[2],Yes[3],Yes[3],Yes[3],Yes (versioning + recycler)[3],Yes,Older version had OpenCandy Adware/malware  but now funded by donations.[4] [5]
+iFolder,C#  Mono,Windows  OS X  Linux  Solaris,GPL,3.8.0.3 (2010-07-19),No,Yes (centralized database),Yes (files  not folders),[empty],[empty],[empty],[empty]
+InterPlanetaryFileSystem,Go,Windows  OS X  Linux,GPL,0.4.15 (2018-05-12),[empty],Yes,[empty],[empty],No (Planned)[6],[empty],[empty]
+luckyBackup,C++,Windows  OS X  Linux  FreeBSD,GPLv3,0.4.9 (2017-10-17),Yes,[empty],[empty],[empty],[empty],Yes,Uses rsync backend
+Nextcloud,PHP  C++  JavaScript[7],Server: Linux Clients: Windows  OS X  Linux  Android  iOS,AGPLv3,17.0.1 (2019-11-07),Yes,Yes,Yes,No[8],Yes,Yes,Fork of ownCloud and actively maintained Windows Phone App
+OneSync,C#,Windows,GPL,4.0 (2012-02-19),No,Yes,Yes,[empty],[empty],No,[empty]
+ownCloud community edition,PHP  C++  JavaScript[9],Server: Linux  FreeBSD Clients: Windows  OS X  Linux  FreeBSD  Android  iOS,AGPLv3 (Server Edition) / proprietary (Enterprise Edition),10.3.1 (12 November 2019; 2 days ago (2019-11-12)) [±][10],Yes,Yes,Yes,Yes[11],Yes,Yes,iOS  Android  Blackberry  Win  Mac  Linux Client; external storage support; encryption app; app framework
+Pydio Open source home,Server: PHP  Python  C++ Clients: JS  C#  Swift  Java,Windows  OS X  Linux  Android  iOS,AGPLv3,8.0.2 (2017-12-13),Yes,Yes,Yes,[empty],Yes (Git[12]),Yes,[empty]
+rsync,C in a Unix-Linux shell,Windows  OS X [13] Linux [14][15] BSD,GPL v3,3.1.3 (January 28  2018; 21 months ago (2018-01-28)) [±][16],Yes,No,No,[empty],No,Yes (via OS),client & server operation. Multiple comparison criteria (date  check-sum).
+Seafile community edition,C99  Python[17],Server: Linux  Raspbian  Windows Clients: Linux  OS X  Windows  Android  iOS.[18],AGPLv3 (Server) + Apache License 2.0 (Client),7.0.2 (7 August 2019; 3 months ago (2019-08-07)[19]) [±],No,Yes,Yes,Yes,Yes,Yes (via Seafile Client),Android and iOS mobile clients
+SparkleShare,C#,Windows  OS X  Linux  Android  iOS,GPL v3 and LGPL,2.0.1 (2017-12-22),Yes,Yes,No,[empty],Yes (Git[20]),[empty],[empty]
+SymmetricDS,Java,Java SE,GPL,3.9.4 (2018-02-16),Yes,Yes,Yes,[empty],No,Yes,plug-in APIs for customization
+Synchronizer (krusader),[empty],Windows  OS X  Linux,GPL v2,2.6.0 (2017-04-12),No,Yes,No,[empty],No,No,Synchronizer no longer in active development
+Syncthing,Go,Windows  OS X  Linux  Android  BSD  Solaris,MPL v2,1.0.0 (2019-01-01),Yes,Yes,Yes,Yes,Yes,Yes,Distributed peer-to-peer sync
+Synkron,C++,Windows  OS X  Linux,GPL v2,1.6.2 (2011-01-25){[21]},Yes,Yes,No,Yes,Yes,Yes,no longer in active development
+Name,Programming language,Platform,License,Stable version,Portable,Detect conflict,Renames or moves,Propagate deletes,Revision control,Scheduling or service,Other information
+Name,Operating system,Vendor,Online storage,Remote desktop,Prior file versions  revision control,Comments,Portable,Detect rename,Detect move,Scheduling,Full duplex transfer
+Microsoft ActiveSync,Windows,Microsoft,No,No,?,Syncs mobile devices,[empty],[empty],[empty],[empty],[empty]
+Resilio Sync,Windows  OS X  Linux  FreeBSD  Android  iOS,Resilio  Inc.,No,No,Yes (previous versions moved to archive folder),Distributed peer-to-peer sync,No,Yes,Yes,Pro only[22],Yes
+Briefcase (part of Windows) (removed in Windows 10 build 14942[23]),Windows,Microsoft,No,No,?,[empty],[empty],[empty],[empty],[empty],[empty]
+Cobian Backup,Windows,CobianSoft,No,No,Yes  trash folder,Backup software with folder synchronization feature; remote management; Shadow Copy,No,No,No,Yes,[empty]
+Windows Mobile Device Center,Windows,Microsoft,No,No,?,Syncs mobile devices; successor to Microsoft ActiveSync,[empty],[empty],[empty],[empty],[empty]
+Microsoft Sync Framework,Windows,Microsoft,?,No,?,Syncs files  data  services; a framework  not a tool,[empty],Yes,Yes,-,[empty]
+Microsoft SyncToy,Windows,Microsoft,No,No,No  recycle bin only,Sync local folders,No,Yes,Yes,via OS,No
+Windows Live Mesh (discontinued 13 February 2013),Windows (Vista and greater)  Windows Mobile  OSX,Microsoft,Yes,Yes,No  recycle bin only,Sync folders  online storage,No,Yes,?,No  syncs whenever it is online,Yes
+OmniGroup OmniPresence,OSX  OmniGroup software for iOS  open source framework available,OmniGroup,No,No,No  via local Time Machine backup only,Sync local folders via OmniSync or WebDAV server but not to the server itself,No,?,?,No  syncs whenever it's online and not paused,Yes
+Windows Live Sync (discontinued 31 March 2011),Windows  OSX,Microsoft,No  browsing only,No,No  recycle bin only,Sync folders  browse devices from website  remote access; was Microsoft FolderShare  20.000 file limit,No,Yes,Yes,No  syncs whenever it's online,?
+Name,Operating system,Freeware version,Portable,Encrypts files,Detect conflict,File lock,Open file support,Revision control,Detect rename,Detect move,Full duplex transfer,Propagate deletes,Case sensitive,Delta copying (block level transfer),LAN Sync
+@MAX SyncUp,Windows,Limited,No,[empty],Yes,Yes,Yes,[empty],No,No,[empty],Yes,[empty],Yes,Yes
+Allway Sync,Windows,Limited,Yes,Yes,Yes,[empty],Yes,Yes,No,No,Yes,Yes,[empty],[empty],Yes
+AIMstor (discontinued),Windows,Limited,Yes,[empty],Yes,Yes,Yes,Yes through VSS,Yes,Yes,Yes,Yes,Case preserving only,[empty],[empty]
+Argentum Backup,Windows,No,Yes,[empty],[empty],[empty],No,Yes,[empty],[empty],[empty],[empty],Yes,[empty],[empty]
+BackupAssist,Windows,No,[empty],[empty],No,[empty],Yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Backup4all,Windows,Limited,Yes,Yes,No,[empty],Yes,Yes,[empty],[empty],[empty],Yes,[empty],Yes,[empty]
+Beyond Compare,Windows  OS X  Linux,Limited,Yes,No,Yes,[empty],Yes,Yes,[empty],[empty],[empty],Yes,[empty],[empty],[empty]
+Box Sync,Windows [24] OS X [24] Android  BlackBerry  iOS[24],Limited,[empty],[empty],Yes,?,?,Yes,?,?,?,Yes,?,[empty],No
+ChronoSync,OS X,No,No,Yes,Yes,Yes,Yes (only with APFS),Yes,No,No,Yes,Yes,Yes,No,Yes
+Cloudike,Windows  OS X  iPhone  Android,Yes,No,[empty],Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,[empty],[empty]
+CloudMe,Windows  OS X  Linux  iPhone  Android  Google TV  Samsung TV,Yes,No,[empty],Yes,?,?,No,Yes,No,?,?,Yes,?,No
+Cubby - Free (discontinued),Windows  OS X,No,No,[empty],Renames older and keeps both,No,[empty],Yes,Yes,Yes,?,Yes,[empty],No,No
+Cubby - Pro (discontinued),Windows  OS X,No,No,[empty],Renames older and keeps both,No,[empty],Yes,Yes,Yes,?,Yes,[empty],LAN Sync only,Yes
+Distributed Storage,Windows  Linux,No,[empty],[empty],Yes,Yes,Yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Dmailer Sync (discontinued),Windows,Yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Dropbox,Windows  OS X  Linux  Android  iPhone  BlackBerry,Yes,No,[empty],Yes,?,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Easy2Sync for Files,Windows,Yes,[empty],[empty],Yes,[empty],[empty],Yes,Yes  for folders,[empty],[empty],[empty],[empty],[empty],[empty]
+Egnyte,Windows  OS X  Linux  Android  iPad  iPhone,No,No,[empty],Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Case preserving only,Yes,Yes
+Gladinet,Windows  OS X  Android  iPad  iPhone  Windows RT  Blackberry,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+GoDrive,Windows  Mac OS X  Linux  Android  iOS,Limited,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,?,Yes
+GoodSync,Windows  OS X  Android  iPad  iPhone  USB flash drive,Yes,Yes,Yes  beta,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+GS RichCopy 360,Windows,Limited,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Enterprise version only,Yes
+IBM Connections,Windows  OS X  Android  iOS,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+MediaFire,Windows  OS X  Android  iOS,Yes,[empty],Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Name,Operating system,Freeware version,Portable,Encrypts files,Detect conflict,File lock,Open file support,Revision control,Detect rename,Detect move,Full duplex transfer,Propagate deletes,Case sensitive,Delta copying (block level transfer),LAN Sync
+Mega,Windows  OS X  Linux  Android  iPhone  BlackBerry,Yes,[empty],Yes,Yes,[empty],[empty],Yes,Yes,Yes,Yes,Yes,Yes,No[25],Yes
+RepliWeb,Windows  Linux,No,[empty],[empty],Partial,[empty],[empty],Yes,Yes,Yes,Yes,Yes,Yes,[empty],[empty]
+Resilio Sync (ex. BitTorrent Sync),Windows  OS X  Linux  Android  iOS  Windows Phone  Amazon Kindle Fire  FreeBSD,Limited,No,Yes  optional,No,No,No,Yes,Yes,Yes,Yes,Yes,[empty],Yes,Yes
+Robocopy,Windows,Yes,No,[empty],No,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SecureSafe,Windows  OS X  Android  iOS,Yes,[empty],[empty],Yes,No,[empty],No,No,No,No,Yes,Yes,No,No
+SpiderOak,Windows  OS X  Debian  Fedora  Slackware  Android  iOS,No,[empty],[empty],No,[empty],[empty],Yes[26],No,[empty],No,[empty],[empty],Yes[27],Yes
+ShareFile,Windows  OS X  Android  iPhone,Yes,[empty],Yes,[empty],[empty],[empty],Yes[28],Yes,[empty],Yes,[empty],Yes,[empty],Yes
+SugarSync,Windows  OS X  Android  BlackBerry  iPhone  Windows Mobile,No,No,[empty],Yes,[empty],[empty],Yes[29],Yes,Yes,[empty],Yes,[empty],[empty],[empty]
+Syncdocs,Windows  web app,Beta versions only,Yes,[empty],Yes,No,Yes,Yes,Yes,Yes,Microsoft Word only[30],Yes,[empty],[empty],[empty]
+Synchronize It!,Windows,No,[empty],[empty],No,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Syncplicity,Windows  OS X  Android  iPhone  Windows Mobile,Yes,[empty],[empty],Yes,[empty],[empty],Yes,[empty],[empty],Yes,Yes,[empty],No[31],No
+Tonido,Windows  OS X  Linux  Android  BlackBerry  iPhone  Windows Phone,Yes,Yes,[empty],Yes,No,Yes,No,Yes,Yes,Yes,Yes,[empty],[empty],[empty]
+Tresorit,Windows  OS X  Linux  Android  BlackBerry  iOS  Windows Phone,Limited,Yes,Yes,Yes,[empty],Yes  for Windows,Yes,[empty],[empty],[empty],Yes,Yes,No,[empty]
+Ubuntu One (discontinued 2 April 2014),Windows  OS X  Ubuntu  iOS  Android[32],Yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Wuala (discontinued),Windows  OS X  Debian  Ubuntu  Android  iOS,Yes,[empty],Yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ZumoDrive (discontinued),Windows  OS X  Linux  Android  iPhone  Palm webOS,Yes,[empty],[empty],Yes,[empty],[empty],Yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Zetta.net,Windows  OS X  Linux,No,[empty],[empty],Yes,[empty],Yes,Yes,Yes,Yes,[empty],Yes,Yes  Preserve file name case & file metadata,Yes,Yes
+Name,Operating system,Freeware version,Portable,Encrypts files,Detect conflict,File lock,Open file support,Revision control,Detect rename,Detect move,Full duplex transfer,Propagate deletes,Case sensitive,Delta copying (block level transfer),LAN Sync

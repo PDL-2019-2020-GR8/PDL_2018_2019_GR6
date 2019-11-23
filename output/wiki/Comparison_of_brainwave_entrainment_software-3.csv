@@ -1,0 +1,51 @@
+Software,Version,Operating systems,Developer,License
+BeeOne SMOD/HMS,3.1,Windows,Hemi-Synths Explorers,Proprietary
+Binaural Beethoven,3.1.4,iOS,Tomáš Baculák,Proprietary
+Brain Equalizer,3.7.0,iOS,Tomáš Baculák,Proprietary
+BrainWave Generator,3.1,Windows,Noromaa Solutions Oy.,Proprietary
+Gnaural,1.0.20100707,FreeBSD  Linux  Mac OS X  Windows,gnaural,GPL
+BrainIgniter Player,6.0,Windows,Volition,Proprietary
+Neuro Entrainment,2.0,Android,Tensai,Proprietary
+Neuro-Programmer 3,3.0.9.0,Windows,Transparent Corp.,Proprietary
+Mind WorkStation,1.2.2.0,Windows,Transparent Corp.,Proprietary
+SBaGen,1.4.4,DOS  FreeBSD  Linux  Mac OS X  Windows  WinCE,Uazu,GPL
+Brainwave Studio,1.5,Mac OS X  iOS,RCS Software,Proprietary
+Discord,3.2.1,Linux,Stan Lysiak,GPL
+Isochronic Tone Generator,1.8,iOS,CMLStudio,Proprietary
+Lux VST Brainwave Entrainment Instrument,1.1,Windows,Steve Duell,GPL
+Neuro Sequencer Pro,1.7,Windows,isone,Proprietary
+SHARM Studio 5,5.3.5,Windows,CyberTeam Ltd.,Proprietary
+Software,Isochronic tones,Monaural beats,Binaural beats,Photic
+BeeOne SMOD/HMS,[empty],[empty],[empty],[empty]
+Binaural Beethoven,[empty],[empty],[empty],[empty]
+Brain Equalizer,[empty],[empty],[empty],{{?}}
+BrainWave Generator,[empty],[empty],[empty],[empty]
+Gnaural,[empty],[empty],[empty],[empty]
+BrainIgniter Player,[empty],[empty],[empty],[empty]
+Neuro Entrainment,[empty],[empty],[empty],[empty]
+Neuro-Programmer 3,[empty],[empty],[empty],[empty]
+Mind WorkStation,[empty],[empty],[empty],[empty]
+SBaGen,[empty],[empty],[empty],[empty]
+Brainwave Studio,[empty],[empty],[empty],[empty]
+Discord,[empty],[empty],[empty],[empty]
+Isochronic Tone Generator,[empty],[empty],[empty],[empty]
+Lux VST Brainwave Entrainment Instrument,[empty],[empty],[empty],[empty]
+Neuro Sequencer Pro,[empty],[empty],[empty],[empty]
+SHARM Studio 5,(wide  narrow),[empty],[empty],[empty]
+Software,Networkable,Headphone-free sessions,Background noise,Embed audio (sounds  music  hypnosis),Volume modulation for embedded audio,Export as sound file,User-created sessions,Pre-made sessions
+BeeOne SMOD/HMS,(via VST),[empty],(via VST),(via VST),(via VST),(via VST),[empty],[empty]
+Brain Equalizer,[empty],[empty],[empty],(iPod or any sound app),[empty],[empty],[empty],[empty]
+Binaural Beethoven,[empty],[empty],[empty],(iPod or any sound app),[empty],[empty],[empty],[empty]
+BrainWave Generator,[empty],[empty],(white  pink and brown),[empty],[empty],(WAV),[empty],[empty]
+Gnaural,[empty],[empty],(pink),[empty],[empty],(OGG  MP3  WAV),[empty],[empty]
+BrainIgniter Player,[empty],[empty],(white  pink and brown),[empty],[empty],(MP3),[empty],[empty]
+Neuro Entrainment,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Neuro-Programmer 3,[empty],[empty],(white  pink and brown),[empty],[empty],(OGG  MP3 WAV),[empty],[empty]
+Mind WorkStation,(with plugins),[empty],(white  pink and brown),[empty],[empty],(OGG  MP3 WAV),[empty],[empty]
+SBaGen,[empty],[empty],(pink),(WAV  raw audio  OGG  MP3),[empty],(WAV  raw audio),[empty],[empty]
+Brainwave Studio,[empty],[empty],(white),[empty],[empty],[empty],[empty],[empty]
+Discord,[empty],[empty],(white  pink and brown),(WAV  raw audio  OGG  FLAC),[empty],(WAV  raw audio  OGG  FLAC),[empty],[empty]
+Isochronic Tone Generator,[empty],[empty],[empty],(iPod or any sound app),[empty],[empty],(in real time),[empty]
+Lux VST Brainwave Entrainment Instrument,[empty],[empty],[empty],[empty],[empty],(through DAW),[empty],[empty]
+Neuro Sequencer Pro,[empty],[empty],[empty],[empty],[empty],(MP3  M4A  WAV),[empty],[empty]
+SHARM Studio 5,[empty],[empty],(white  pink and brown),(WAV  OGG  MP3),[empty],(WAV  OGG  MP3),[empty],[empty]

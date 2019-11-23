@@ -1,0 +1,12 @@
+Model,Launch,Code name,Fab (nm),Bus interface,Core config1,Clock speed,Fillrate,Memory,Supported API version,Processing power (GFLOPS)2,TDP (Watts)
+Core (MHz),Shader (MHz),Memory (MHz),Pixel (GP/s),Texture (GT/s),Size (MB),Bandwidth (GB/s),Bus type,Bus width (bit),Direct3D,OpenGL,[added]
+GeForce 305M,January 10  2010,GT218,40,PCIe 2.0 ×16,16:8:4,525,1150,1400,2.1,4.2,512
+GeForce 310M,January 10  2010,GT218,40,PCIe 2.0 ×16,16:8:4,625,1530,1600,2.5,5,512
+GeForce 315M,January 5  2011,GT218,40,PCIe 2.0 ×16,16:8:4,606,1212,1600,2.42,4.85,512
+GeForce 320M,April 1  2010,MCP89,40,Integrated<br />PCIe 2.0 ×16,48:16:8,450,950,1066,3.6,7.2,256 (shared w/ system memory) <br /><ref></ref>
+GeForce GT 320M,January 21  2010,GT216,40,PCIe 2.0 ×16,24:8:8,500,1100,1580,4,4,1024
+GeForce GT 325M,January 10  2010,GT216,40,PCIe 2.0 ×16,48:16:8,450,990,1600,3.6,7.2,1024
+GeForce GT 330M,January 10  2010,GT216,40,PCIe 2.0 ×16,48:16:8,575,1265,1600,4.6,9.2,1024
+GeForce GT 335M,January 7  2010,GT215,40,PCIe 2.0 ×16,72:24:8,450,1080,1600,3.6,10.8,1024
+GeForce GTS 350M,January 7  2010,GT215,40,PCIe 2.0 ×16,96:32:8,500,1249,3200,4,16,1024
+GeForce GTS 360M,January 7  2010,GT215,40,PCIe 2.0 ×16,96:32:8,550,1436,3600,4.4,17.6,1024
