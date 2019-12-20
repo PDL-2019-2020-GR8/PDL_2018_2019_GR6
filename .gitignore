@@ -4,3 +4,8 @@
 target/
 output/test-html
 output/test-wiki
+/bin/
+.idea/workspace.xml
+input/data/wikiurls.txt
+.idea/misc.xml
+

@@ -51,7 +51,7 @@ public class HTMLExtractor implements Extractor {
 			System.out.println(url + " is not valid");
 		} else {
 			tableElements = doc.select("table");
-			System.out.println(tableElements);
+			//System.out.println(tableElements);
 			int initialSize = tableElements.size();
 			tableElements = convertThsToTds(tableElements);
 			tableElements = formatTables(tableElements);
@@ -84,7 +84,8 @@ public class HTMLExtractor implements Extractor {
 			 * qu'on met dans le tableau currentTableClasses
 			 * input = "othniel  Konan
 			 * input.split(" ")
-			 * output = [othniel], [Konan]   */
+			 * output = [othniel], [Konan]  
+		     */
 			currentTableClasses = currentTable.className().split(" ");
 			for (String cs : currentTableClasses) {
 				if (cs.startsWith(Constrains.INFOBOX.getConstrainName())) {
@@ -147,12 +148,12 @@ public class HTMLExtractor implements Extractor {
 
 				for (int j = 0; j < currentRowItems.size(); j++) {
 					currentTdTags = currentRowItems.get(j).select(tag); // pour chaque td  on selection le Tag
-					//if (currentRowItems.get(j).hasAttr(Constants.ROW_SPAN_ATTRIBUTE)// s'il a un rowSpan
-					//		|| currentRowItems.get(j).hasAttr(Constants.COL_SPAN_ATTRIBUTE)// ou un colSpan
-					//		|| currentRowItems.get(j).hasClass(Constants.MBOX_IMAGE_CLASS)) //ou un Mbox_Image
-					//{
-					//	currentTable.addClass(Constants.GENERIC_CLASS_NAME_TO_REMOVE); //on ajoute un attribut de type GENERIC_CLASS_NAME_TO_REMOVE
-					//	}
+					/*if (currentRowItems.get(j).hasAttr(Constants.ROW_SPAN_ATTRIBUTE)// s'il a un rowSpan
+							|| currentRowItems.get(j).hasAttr(Constants.COL_SPAN_ATTRIBUTE)// ou un colSpan
+							|| currentRowItems.get(j).hasClass(Constants.MBOX_IMAGE_CLASS)) //ou un Mbox_Image
+					{
+						currentTable.addClass(Constants.GENERIC_CLASS_NAME_TO_REMOVE); //on ajoute un attribut de type GENERIC_CLASS_NAME_TO_REMOVE
+						}*/
 
 					if(currentRowItems.get(j).hasClass("extra_td_to_remove"))
 						currentRowItems.get(j).remove(); // on supprime tous les td qui on un attribut de class "extra_td_to_remove"

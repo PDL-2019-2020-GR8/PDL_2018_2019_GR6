@@ -25,7 +25,7 @@ irccd,David Demelier,ISC,Cross-platform,C++17 and JavaScript,2013-09-13 (1.0.0),
 Jerkbot,Jason Stephenson,Artistic License 2.0,Cross-platform,Sleep,2014-02-10 (1.0),2017-08-29 (1.7.65),Configurable chatter bot  written as jIRCii script,responsive chatter + learns + modules,http://cepheidvariable.online/irc
 JSONBOT,Bart Thate,MIT,Unix-like,Python,2010-04,2012-03-23 (0.84.4),Beta,[empty],https://github.com/melmothx/jsonbot
 JZBot,Alexander Boyd  Maximilian Dirkmann  James Stoker,LGPL,Cross-platform,Java,?,?,?,feeds  werewolf / maffia  karma system  reminders,http://jzbot.googlecode.com
-KGB,Mart√n Ferrari and Damyan Ivanov,GPL-2+,Cross-platform,Perl,2008-07-14 (Git),2014-09-17 (1.3.3 see commits),KGB is a system that provides notifications on IRC for commits made to Git  Subversion and CVS repositories.,notifications on code commits,http://kgb.alioth.debian.org/
+KGB,Mart√≠n Ferrari and Damyan Ivanov,GPL-2+,Cross-platform,Perl,2008-07-14 (Git),2014-09-17 (1.3.3 see commits),KGB is a system that provides notifications on IRC for commits made to Git  Subversion and CVS repositories.,notifications on code commits,http://kgb.alioth.debian.org/
 Lambdabot,Andrew J. Bromage et al.,MIT,Unix-like,Haskell,? (1.0),2011-01-20 (4.2.3.2),Many plugins; usable offline as a Haskell development tool; embeddable in GHCi,haskell development tool,http://haskell.org/haskellwiki/Lambdabot
 Limnoria,[empty],BSD,Cross-platform,Python,?,2017-03-30 (2017.03.30),See Supybot,A maintained fork of Supybot,https://github.com/ProgVal/Limnoria
 Mozbot,Ian Hickson  Chris Crews,MPL,Cross-platform,Perl,?,?,?,services to developer communities,https://web.archive.org/web/20120116110244/http://www.mozilla.org/projects/mozbot/

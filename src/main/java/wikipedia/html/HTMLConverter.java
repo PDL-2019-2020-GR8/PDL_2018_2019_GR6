@@ -147,7 +147,7 @@ public class HTMLConverter implements Converter {
 					this.filehandler.write(filePath, filename, data);
 					System.out.println(Constants.CONSOLE_WHITE_COLOR + filename +" "+ "html has been generated");
 					filenameCounter++;
-					// data.clear();
+					 data.clear();
 				}
 			}
 

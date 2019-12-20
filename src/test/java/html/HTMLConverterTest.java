@@ -1,5 +1,6 @@
 package html;
 
+import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 import java.io.File;
@@ -10,8 +11,11 @@ import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 import helper.Constants;
 import helper.FileHandlerImpl;
+import helper.Utils;
 import interfaces.FileHandler;
+import interfaces.Statistics;
 import wikipedia.html.HTMLConverter;
+import wikipedia.html.HTMLExtractor;
 
 /**
  * 
@@ -67,20 +71,20 @@ public class HTMLConverterTest {
 	@Tag("robustness")
 	public void testConvertAllToCSV()
 	{
-		// try {
-		//  assertTrue(new File(Constants.HTML_OUTPUT_DIR).isDirectory());
-		//  assertDoesNotThrow(()-> htmlConverter.convertAllToCSV());
+		 try {
+		  assertTrue(new File(Constants.HTML_OUTPUT_DIR).isDirectory());
+		  assertDoesNotThrow(()-> htmlConverter.convertAllToCSV());
 		
-		// System.out.println("------------------ Statistics for Html Converter --------------");
-		// int totalExtacted = 0;
-		// for(Statistics s : HTMLExtractor.statisticsList) {
-		// 	totalExtacted += s.getExtractedTablesNumber();
-		// }
-		// System.out.println("Number of extracted pertinent tables : "+totalExtacted);
-		// Utils.displayInfo(HTMLExtractor.statisticsList, "HTML Extractor");
-		// }catch (Exception e) {
-		// 	e.printStackTrace();
-		// }
+		 System.out.println("------------------ Statistics for Html Converter --------------");
+		 int totalExtacted = 0;
+		 for(Statistics s : HTMLExtractor.statisticsList) {
+		 	totalExtacted += s.getExtractedTablesNumber();
+		}
+		 System.out.println("Number of extracted pertinent tables : "+totalExtacted);
+		 Utils.displayInfo(HTMLExtractor.statisticsList, "HTML Extractor");
+		 }catch (Exception e) {
+		 	e.printStackTrace();
+		 }
 	}
 	
 	
