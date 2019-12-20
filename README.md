@@ -88,21 +88,22 @@ For this we used Bliki which allows to recover more data than Mylyn.
 
 After fixing some functionalities and issues to develop, here is what we managed to settle.
 
-*       To test the contents of two extractors to see if the texts are the same
+*       To test the contents of two extractors to see if the texts are the same(Has been realized)
 
 For this test case, it is difficult to have identical content because the extractors do not have the same way of generating the CSV files. For html it recovers the raw data and generates the CSV files and for wiki it also recovers the data, then goes through a parsing step and it is during this step that it  generates special characters
 
-*        To test if what we have locally corresponds to what we have on Wikipedia
+*        To test if what we have locally corresponds to what we have on Wikipedia (Has been realized)
 
 To test this case we take a specific URL then we choose an online cell corresponding to this URL and we test with a cell our local data of this same URL.
 
-*        Extract tables from a single Wikipedia page into a CSV file.
+*        Extract tables from a single Wikipedia page into a CSV file (Has been realized).
 
 To solve this problem, we just set a specific URL in the input file.
 
 *        Try to have the same number of tables between two extractors
 
 This problem was solved by ignoring the constraints of nested arrays on Html, because we deemed it relevant.
+			(Has been realized)
 
 
 # Project License
