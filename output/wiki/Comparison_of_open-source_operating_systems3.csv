@@ -1,0 +1,33 @@
+Name,ATA,SATA,SCSI,USB 30,USB 20,USB 11,FireWire,PCMCIA/PC card,AGP,Nvidia official driver IA32,Nvidia official driver IA64,Nvidia official driver AMD64,ATI official driver x86,ATI official driver x8664,ATI r200 free software driver,ATI r300 free software driver,Nvidia free software driver,Audio,TV tuner  video editing  or webcam
+Linux,yes,yes,yes,yes 2631[18],yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes nv(2d only)  nouveau(3d with mesa),yes|OSS  ALSA,yes|V4L V4L2
+FreeBSD,yes,yes,yes,yes 82,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes
+OpenBSD,yes,yes,yes,yes 57,yes,yes,no,yes,yes,no,no,no,no,no,yes[19],2d only[19],2d only[20],yes,yes
+NetBSD,yes,yes,yes,no 71[21],yes,yes,yes,yes,yes,no,no,no,no,no,[empty],[empty],[empty],yes,yes
+DragonFly BSD,yes,yes,yes,yes[22],yes,yes,yes,yes,yes,no,no,no,no,no,[empty],[empty],[empty],yes,[empty]
+OpenSolaris  illumos,yes,yes,yes,[empty],yes,yes,yes,yes,yes,yes,no,yes,no,no,[empty],[empty],[empty],yes,yes|V4L2
+AuroraUX,yes,yes,yes,[empty],yes,yes,yes,yes,yes,yes,no,yes,no,no,[empty],[empty],[empty],yes,[empty]
+Darwin  OpenDarwin,yes,yes,yes,yes,[empty],yes,[empty],[empty],[empty],no,no,no,no,no,[empty],[empty],[empty],[empty],[empty]
+MINIX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],no,no,no,no,no,[empty],[empty],[empty],[empty],[empty]
+FreeDOS,yes,yes,yes,no,no[23],no[23],no,[empty],yes,no,no,no,no,no,no,no,no,yes,no
+Genode,yes,yes,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no
+Haiku,yes,yes,yes,[empty],yes,yes,yes,no,yes,no,no,no,no,no,yes,yes,yes,yes,yes
+KolibriOS,yes,yes,no,[empty],yes,yes,[empty],no,no,no,no,no,no,no,[empty],[empty],[empty],yes,no
+MenuetOS,yes,no,no,[empty],yes,yes,[empty],no,no,no,no,no,no,no,[empty],[empty],[empty],yes,yes
+GNU,yes,yesr|group=Note|c1,yesr|group=Note|c1,[empty],yesr|group=Note|c1,yesr|group=Note|c1,yesr|group=Note|c1,yesr|group=Note|c1,yes,nor|group=Note|c2,nor|group=Note|c2,nor|group=Note|c2,nor|group=Note|c2,nor|group=Note|c2,nor|group=Note|c3,nor|group=Note|c3,yesr|group=Note|c1,yesr|group=Note|c1,yesr|group=Note|c1
+ReactOS,yes,yes,yes,[empty],yes[24],yes[24],no,no,yes,no,no,no,no,no,[empty],[empty],[empty],yes,[empty]
+RISC OS,dunno,yes,yes,dunno,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes,TV tuner[25]
+L4  Fiasco  Pistachio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],no,no,no,no,no,[empty],[empty],[empty],[empty],[empty]
+Plan 9,yes,yes,yes,[empty],yes,yes,[empty],yes,yes,no,no,no,no,no,[empty],[empty],[empty],yes,yes
+AROS,yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],yes,no,no,no,own,no,[empty],[empty],2D only,[empty],[empty]
+Syllable,yes,yes,[empty],[empty],yes,yes,[empty],[empty],yes,no,no,no,no,no,[empty],[empty],[empty],yes,[empty]
+Inferno,yes,no,yes,[empty],no,no,no,yes,yes,no,no,no,no,no,[empty],[empty],[empty],yes,[empty]
+FreeRTOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],no,no,no,no,no,[empty],[empty],[empty],[empty],[empty]
+eCos,yes,yes,[empty],[empty],yes,yes,[empty],[empty],[empty],no,no,no,no,no,[empty],[empty],[empty],[empty],[empty]
+RTEMS,yes,[empty],[empty],[empty],[empty],[empty],[empty],yes,[empty],no,no,no,no,no,[empty],[empty],[empty],[empty],[empty]
+HelenOS,yes,yes,no,[empty],no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no
+E/OS,yes,yes,yes,[empty],noRef|11,yes,yes,yes,no,no,no,no,no,no,[empty],[empty],[empty],yes,yes
+[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+K42,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+UnixLite,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+>,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Name,ATA,SATA,SCSI,USB 30,USB 20,USB 11,FireWire,PCMCIA/PC card,AGP,Nvidia official driver IA32,Nvidia official driver IA64,Nvidia official driver AMD64,ATI official driver x86,ATI official driver x8664,ATI r200 free software driver,ATI r300 free software driver,Nvidia free software driver,Audio,TV tuner  video editing  or webcam

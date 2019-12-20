@@ -1,0 +1,9 @@
+Operating system,Mandatory access control,Software executable space protection,Operating systemlevel virtualization,Virtualisation,Userspace protection,Others
+Linux,yes|SELinux  AppArmorr|group=Note|z1 ,yes|Exec Shield r|group=Note|z1 PaXr|group=Note|z1 ,yes|Chroot  namespace and cgroups r|group=Note|z4 LinuxVServer r|group=Note|z1 OpenVZr|group=Note|z1 ,yes|KVM,IPFilter  Iptables,grsecurity r|group=Note|z1 RSBACr|group=Note|z1
+FreeBSD,yes|SeBSD r|group=Note|z2r|group=Note|z3 TrustedBSD,yes|ProPolice/SSPr|group=Note|z5,yes|jail,yes|bhyve[48],IPFW  PF  IPFilter,[empty]
+Darwin,yes|SEDarwin  TrustedBSD,[empty],yes|jail,[empty],IPFW,[empty]
+OpenBSD,[empty],yes|WX  ProPolice/SSPr|group=Note|z6,[empty],yes|vmm[49],PF,[empty]
+OpenSolaris  illumos,TrustedBSD,[empty],yes|Solaris Containers,KVM[50],IPFilter,RBAC[51]
+AuroraUX,TrustedBSD,[empty],yes|Solaris Containers,[empty],IPFilter,[empty]
+Plan 9,no,no,yes|perprocess namespaces,[empty],[empty],[empty]
+Inferno,no,no,yes|perprocess namespaces,[empty],[empty],[empty]

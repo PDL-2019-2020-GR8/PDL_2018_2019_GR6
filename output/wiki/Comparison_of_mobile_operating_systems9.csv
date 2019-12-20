@@ -1,0 +1,5 @@
+Feature,Android,iOS,Windows 10 Mobile,BlackBerry 10,Tizen,Sailfish OS,Ubuntu Touch
+Safe driving mode,No2 3rd party software,Yes|11[332],Yes|8 GDR3[333],No,?,?,?
+Turnbyturn navigation,Yes|2[334],Yes|6[335],Yes|8[336],Yes|10[337],?,Yes,No2 3rd party software
+Offline maps,No2 3rd party software Google Maps [338] Here Maps,Yes|6[339],Yes|8[340],No2 3rd party software,?,No2 3rd party software,No2 3rd party software
+Alternative routes in maps,Yes[341],Yes|5[342][343],Yes|10[344],?,?,No2 3rd party software,No2 3rd party software

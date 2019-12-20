@@ -1,0 +1,13 @@
+RFC,Description,Status,ejabberd,iChat Server,jabberd14,jabberd2,Metronome,MongooseIM,Openfire,Prosody,Sun Java System Instant Messaging Server,Tigase
+RFC 3920,XMPP Core,incorrect|Obsolete,Yes[1],unk,Yes[2],Yes[3],unk,Yes[4],Yes[5],Yes,unk,Yes[6]
+RFC 3921,XMPP IM,incorrect|Obsolete,Yes[1],unk,Yes[2],Yes[3],unk,Yes[4],Yes[5],Yes,unk,Yes[6]
+RFC 3922,XMPP CPIM,Yes|Final[7],Yes,unk,unk,unk,unk,Yes[4],unk,unk,unk,unk
+RFC 3923,XMPP E2E,Yes|Final[7],Yes,unk,unk,unk,unk,unk,unk,unk,unk,unk
+RFC 4854,XMPP URN,okay|Informational[7],unk,unk,unk,unk,unk,unk,unk,unk,unk,unk
+RFC 4979,XMPP ENUM,Yes|Final[7],unk,unk,unk,unk,unk,unk,unk,unk,unk,unk
+RFC 5122,XMPP URI,Yes|Final[7],unk,unk,unk,unk,unk,unk,unk,unk,unk,unk
+RFC 6120,XMPP Core,Yes|Final[7],Yes[8],Yes,unk,unk,Yes,Yes[4],Yes/Partial [9],Yes,unk,Yes[6]
+RFC 6121,XMPP IM,Yes|Final[7],Yes[8],Yes,unk,unk,Yes,Yes[4],Yes/Partial [10],Yes,unk,Yes[6]
+RFC 6122,XMPP AF,incorrect|Obsolete,Yes[8],Yes,unk,unk,Yes,Yes[4],Yes[11],Yes,unk,Yes[6]
+RFC 7395,XMPP WebSockets,Proposed,Yes[12],unk[13],unk,unk,Yes[14],Yes[4],Yes/Plugin[15],Yes[16],unk,Yes[6]
+RFC 7622,XMPP AF,Yes|Final[7],unk,unk,unk,unk,unk,unk,unk,unk,unk,unk

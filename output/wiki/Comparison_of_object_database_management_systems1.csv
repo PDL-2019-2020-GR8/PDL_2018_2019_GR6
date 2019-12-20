@@ -1,0 +1,17 @@
+Name,Current Stable Version,Language(s),SQL support,Datatypes,License,Description
+Caché,201721,Caché ObjectScript (dynamic language)  Basic Java/NET object mapping supported,SQL subset Object notation allowed Supports embedded SQL  dynamic SQL and xDBC access,[empty],Proprietary,MUMPS ancestry Includes builtin support for XML  Web/AJAX and an EMB system called Ensemble Supports embedded  client/server and distributed implementations
+ConceptBase,[empty],Telos,CBQL (based on Datalog),no types but classes,open source  FreeBSDstyle license,historical db  active rules  metamodeling  deductive rules
+Db4o,80 (20110309),C#  Java,db4osql,NET and Java data types,GPL  custom [1] proprietary,Native Queries  LINQ support  automatic schema evolution  Transparent Activation/Persistence  replication to RDBMS  Object Manager plugin for Visual Studio and Eclipse
+GemStone/S,322,Smalltalk,None,Objects and code,Proprietary  free version available,Persistent  transactional  multiuser Smalltalk developed by GemTalk Systems
+ObjectDatabase,44 (20150703),C  TScript,[empty],[empty],Proprietary,Embedded
+ObjectDB,246,Java,None  uses JPA or JDO,[empty],Proprietary,[empty]
+Objectivity/DB,1021,C  C#  Java  Python  Smalltalk and XML,SQL superset,[empty],Proprietary,Distributed  Parallel Query Engine
+ObjectStore,72 (July 2011),C  Java  interoperable with NET,SQL subset (also has own object query language),[empty],Proprietary,Embedded database supporting efficient  distributed management of C and Java objects Avoids the complexities and limitations of ORM products such as Hibernate by storing objects directly with their relationships intact Uses a pagebased mapping system for fast locking and efficient  distributed  clientside caching
+ODABA,1230 (August 2013),C  NET,SQL subset  DQL,Basic Types  Classes  Multiple inheritance  Weak Typed,GPL,Terminologyoriented database
+OpenAccess,22,C,no,[empty],Proprietary,EDA database
+OpenLink Virtuoso,7251,C  Java/JSP  ASP  ASPX  Mono  RDF  SPARQL  SPARUL  SQL  Perl  Python  PHP  Ruby  XML  ODBC  JDBC  ADONET  more,SQL 9x/200x,[empty],GPL or proprietary,[empty]
+Perst,Java 438 (20150318) C# 446 (20140823),Java (including Java SE  Java ME & Android)  C# (including NET  NET Compact Framework  Mono & Silverlight),JSQL  objectoriented subset of SQL,Java and NET data types,GPL  Proprietary,Small footprint embedded database Diverse indexes and specialized collection classes; LINQ; replication; ACID transactions; native full text search; includes Silverlight  Android and Java ME demo apps
+Picolisp,311,Picolisp,[empty],[empty],MIT License,DB built into the language
+Versant Object Database / JPA / FastObjects,91 / 30 / 120 (20151021),C / Java / C#,OQL (ODMG 30),[empty],Proprietary,[empty]
+WakandaDB,4,JavaScript  C,No support REST and SSJS can be used instead,JavaScript and 4D data types,AGPL  proprietary[2],NoSQL REST / ServerSide JavaScript engine Integrates Webkit JavaScriptCore engine with HTML5 JS APIs supported on the server Tables and columns are replaced by JavaScript DataClasses and attributes
+Zope Object Database,[empty],Python  C,No support Object indexing and searching is done through ZCatalog facility,[empty],Zope Public License,[empty]

@@ -1,0 +1,60 @@
+Name,Creator,Initial public release,Predecessor,Current stable version,Release date,Cost  availability,Preferred license[1],Target system type
+AIX,IBM,1986,UNIX System V Release 3,72,2015  October 5,Nonfree|Bundled with hardware,Proprietary,Server  NAS  workstation
+Android,Android  Inc  Google,2008,None,10,2019  September 3,Free,Free|Apache 20  GNU GPLv2,Smartphone  tablet computer  education
+AmigaOS classic,Commodore International  Haage & Partner  Hyperion Entertainment,1985,TRIPOS (as the disk operating component of AmigaOS),39 BB2,2002  March 20,Nonfree|Discontinued; Bundled with hardware up to version 30 (Amiga International hardware came with 31); versions 21  30  31  35  39 also available as separate packages,Proprietary  open source clone available under AROS Public License,Workstation  personal computer
+AmigaOS 4,Hyperion Entertainment,2004,AmigaOS classic,41 Final Edition,2014,Nonfree|40 bundled with hardware; 40 for classic and 41 available as standalone package at ‚¬29,Proprietary,Workstation  personal computer
+Chrome OS,Google,2009,Chromium OS,7503770102,2019  March 5,Nonfree|Bundled with hardware  32bit edition dropped,Proprietary Google OS Terms of Service,Chromebook  Chromebox  Chromebase and tablets
+DragonFly BSD,Matthew Dillon,2003,FreeBSD,561,2019  June 19,Free,Free|BSD,Server  workstation  NAS  embedded
+FreeBSD,The FreeBSD Project,1993,386BSD,120,2018  December 11,Free,Free|BSD,Server  workstation  NAS  embedded
+Genode,Genode Labs,2008,None,1905[2],2019  May 29,Free| Free  source code only,Free|AGPL,Desktop  Embedded  Server
+GhostBSD,Eric Turgeon,2009,FreeBSD,1904[3],2019  April 13,Free,Free|BSD,Desktop  workstation
+eComStation,Serenity Systems  Mensys BV,2001,OS/2,21,2011,Nonfree|Homestudent edition (max three per site) US$|14500|2011 business edition $29000,Proprietary,Server  workstation  personal computer
+EPOC32,Psion PLC,1996,[empty],ER5,1999,Nonfree|Discontinued; Commercial,Proprietary,PDA
+GNU/Linux,Notable contributors include Richard Stallman for GNU Project and Linus Torvalds for Linux and the Unixes they emulated; Red Hat  Debian Project See Comparison of Linux distributions and Linux Kernel#Development,1991 (kernel)  See Comparison of Linux distributions and History of Linux,None,419 (kernel),2018  October 22 (kernel),Free,Free|GNU GPLv2 (kernel),See Comparison of Linux distributions
+Haiku,Haiku Inc,2009,BeOS R5,R1/Beta,2018  September 29,Free,Free|MIT,Personal computer
+HPUX,HP (now Hewlett Packard Enterprise),1983,UNIX System V,11i v3 Update 16,2017  May,Nonfree|US$400,Proprietary,Server
+IBM i,IBM,1988,OS/400,73,2016  April 15,Nonfree|Bundled with hardware,Proprietary,Server
+Inferno,Bell Labs,1997,Plan 9,Fourth Edition,2009  June 30,Free,Free|MIT  GNU GPL  GNU LGPL  LPL,NAS  server  embedded
+iOS,Apple Inc,2007,macOS,131,2019  September 24,Nonfree|Bundled with hardware and free updates given to most existing users  subject to hardware requirements,Proprietary higher level API layers; open source core system (ARM versions) APSL  GNU GPL  others,Smartphone  music player  tablet computer
+IRIX,SGI,1988,UNIX System V,6530,2006,Nonfree|Discontinued; Bundled with hardware,Proprietary,Server  workstation
+Classic Mac OS,Apple Inc,1984,None[4][5],922,2000,Nonfree|Discontinued; Was bundled with 68k and PowerPC Macs; versions 79 sold as retail upgrades[6],Proprietary,Workstation  personal computer
+MVS,IBM,1972,OS/360,MVS/ESA SP  JES3 Version 5 R22,1995  September 29,Nonfree|Bundled with hardware,Proprietary,IBM mainframe
+macOS,Apple Inc,2001,NeXTSTEP  BSD,10151 Catalina,2019  October 29,Nonfree|Bundled with hardware; Nocost update via Mac App Store for users of Mac OS X 106 or later  assuming hardware requirements are met,Proprietary higher level API layers; open source core system (IntelPowerPC versions) APSL  GNU GPL  others,Workstation  personal computer  embedded
+macOS Server,Apple Inc,2001,NeXTSTEP  BSD,1012 / September 20  2016,2016  September 20,Nonfree|Previously bundled with hardware; No longer a separate operating system  but a group of services installed atop any current version of Mac OS X; US$1999 on the Mac App Store,Proprietary higher level API layers; open source core system (IntelPowerPC versions) APSL  GNU GPL  others,Server
+MPE,HP,1974,None,MPEV,1988,Nonfree|Discontinued; Was bundled with HP3000 CISC hardware "Classic",Proprietary,Server
+MCP,Unisys,1961,None,CP OS 170,2015  April,Nonfree|Bundled with hardware,Proprietary,Server
+MPE/XL,HP,1987,MPE,75,2002,Nonfree|Discontinued; Was bundled with HP3000 PARISC hardware,Proprietary,Server
+MINIX 3,Andrew S Tanenbaum,2005,Minix2,330,2014,Free,Free|BSD,Workstation
+NetBSD,The NetBSD Project,1993,386BSD,81,2019  May 31,Free,Free|BSD,NAS  server  workstation  embedded
+NetWare,Novell,1985,SNet,65 SP8,2009  May 6,Nonfree|Superseded by Novell Open Enterprise Server; Was US$|184|2009 (oneuser),Proprietary,Server
+NeXTSTEP,NeXT,1989,Unix,33,1995,Nonfree|Discontinued; Was bundled with hardware  then sold separately,Proprietary,Workstation
+OpenBSD,The OpenBSD Project,1995,NetBSD 10,65,2019  May 1,Free,Free|ISC,Server  NAS  workstation  embedded
+OpenIndiana,Many  based on software developed by Sun Microsystems and many others,2010,OpenSolaris,201904,2017  May 3[7],Free,Free|CDDL,Server  workstation
+OpenVMS,DEC (now VSI),1977,RSX11M,842L2,2017  July 10,Nonfree|Commercial  free noncommercial use,Proprietary,Server  workstation
+OS/360,IBM,1966,None,Operating System/360 R218,1972  August,Nonfree|Bundled with hardware,Proprietary,IBM mainframe
+OS/390,IBM,1995,MVS,OS/390 Version 2 R10,2000  September 29,Nonfree|Bundled with hardware,Proprietary,IBM mainframe
+OS 2200,Unisys,1967 as Exec 8e,Exec 8  OS 1100,CP OS 16 (Exec 492),2015  February 27,Nonfree|Bundled with hardware,Proprietary,Server
+OS/2,IBM and Microsoft,1987,MSDOS,452,2001,Nonfree|Discontinued (see eComStation successor); Was US$|300|2001 ,Proprietary,Personal computer  server
+Plan 9,Bell Labs,1993,Unix,Fourth Edition,2003 (except for minor later updates),Free,Free|LPL,Workstation  server  embedded  HPC
+QNX,QNX Software Systems,1982,Unix  POSIX,700,2017  March,Nonfree|Bundled with BlackBerry 10 and PlayBook devices Commercial; an academic version exists that needs authorization code before installing,Proprietary,Automotive  medical  smartphones  consumer  industrial  embedded  safety
+Solaris,Sun (now Oracle Corporation),1992,SunOS,114,2018  August 28,Free|Commercial; (but free/nocost perpetual license when used "for the purpose of developing  testing  prototyping and demonstrating your applications"[8]),Free|CDDL,Server  workstation
+Symbian,Symbian Ltd,1998,EPOC32,95,2009,Nonfree|Discontinued; Commercial,Proprietary,Phones
+Symbian platform,Symbian Foundation,2010 (initially 1998 as Symbian),Symbian,304,2010,Free,Free|EPL,embedded
+Windows Server (NT family),Microsoft,1993,OS/2  Windows 3x and MSDOS,Windows Server 2019 (Version 10017763),2018  October 2,Nonfree|US$1050 5 CALs server; other editions dependent on number of CALs purchased,Proprietary; Sourceavailable,Server  NAS  embedded
+Windows (NT family),Microsoft,1993,OS/2  Windows 9x and MSDOS,Windows 10 (Version 1903),2019  May 21,Nonfree|Windows 10 Home US$119  Windows 10 Pro US$199[9],Proprietary; Sourceavailable,Workstation  personal computer  media center  Tablet PC  embedded
+Windows (classic 9x family),Microsoft,1995,MSDOS  Windows NT 35,Windows Me (Win 4903000),2000,Nonfree|Discontinued,Proprietary,Personal computer  media center
+RISC iX,Acorn Computers,1988,BSD 43,121c,1993,Nonfree|Discontinued; Was bundled with hardware,Proprietary,Workstation
+RISC OS,Acorn Computers,1987,Arthur  also the BBC Master OS,371,1997,Nonfree|Discontinued; Was bundled with hardware,Proprietary,Education  personal computer
+RISC OS 4,RISCOS Ltd  Pace plc,1999,RISC OS,439,2004,Nonfree|Bundled with hardware  then sold separately at £70 (US$127),Proprietary,Education  personal computer
+RISC OS 5,Castle Technology  RISC OS Open,2002,RISC OS 4,524[10],2018,Free,Free|Apache License,Education  personal computer
+RISC OS 6,RISCOS Ltd,2006,RISC OS 4,620,2009,Nonfree|Bundled with hardware  then sold separately at £70 (US$127),Proprietary,Education  personal computer
+ZETA,yellowTAB,2005,BeOS R5,15,2007,Nonfree|Discontinued,Proprietary,Personal computer  media center  workstation
+STOP 6  XTS400,BAE Systems,2003,STOP 5  XTS300,65,2008  August,US$|60000|2008; bundled with XTS hardware and OEM licensed,Proprietary,Server  workstation
+ReactOS,ReactOS development team,1996,Windows NT,0410,2018  November 6,Free,Free|GNU GPL  GNU LGPL,Workstation  personal computer
+TrueOS,PCBSD Software,2006,FreeBSD[11],101[12],2014  November 16,Free,Free|BSD,Personal computer  workstation  server
+VxWorks,Wind River Systems,1987,VRTX,7,2014 March,Nonfree|Paid,Proprietary,Embedded Realtime systems
+z/OS,IBM,2000,OS/390,Version 23 (V2R3),2017  September 29,Nonfree|Monthly license fee  about US$130 and up,Proprietary,IBM mainframe
+z/VSE,IBM,2007,VSE/ESA,62,2017  December 1,Nonfree|Monthly license fee,Proprietary,IBM mainframe
+z/VM,IBM,2000,VM,64,2016  November 11,Nonfree|Monthly license fee,Proprietary,IBM mainframe
+HP NonStop,HP (now Hewlett Packard Enterprise),1974,Guardian,H0624/J0613,2012,Nonfree,Proprietary,HP Nonstop Servers
+Name,Creator,Initial public release,Predecessor,Current stable version,Release date,Cost  availability,Preferred license[1],Target system type

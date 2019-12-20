@@ -1,0 +1,5 @@
+Name,Release date,RTM build,Latest version,Status support,Codename,MSDOS version,Kernel type,Architecture,Editions,Target market
+Windows 95,19950815,950,400950C OSR25 (19971126),Unsupported (20011231),Chicago,MSDOS 70  MSDOS 71 (OSR2x),Monolithic,Hybrid 16/32bit,Retail  OSR1  OSR2  OSR21  OSR25,Desktops
+Windows 98,19980515,1998,4101998,Unsupported (20060711),Memphis,MSDOS 71,Monolithic,Hybrid 16/32bit,[empty],Desktops
+Windows 98 SE,19990505,2222,4102222A (20000225),Unsupported (20060711),[empty],MSDOS 71,Monolithic,Hybrid 16/32bit,[empty],Desktops
+Windows Me,20000619,3000,4903000 (20000914),Unsupported (20060711),Millennium,MSDOS 80,Monolithic,Hybrid 16/32bit,[empty],Desktops

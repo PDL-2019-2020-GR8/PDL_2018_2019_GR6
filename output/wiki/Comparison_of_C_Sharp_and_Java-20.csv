@@ -1,7 +1,0 @@
-Threading and Synchronization,Java,C#
-Threads,[empty],[added]
-Thread pool,[empty],[added]
-Task-based parallelism,<ref>Fork-join framework included with Java version 7. </ref>,<ref></ref>
-Semaphores,[empty],[added]
-Monitors,[empty],[added]
-Thread-local variables,[empty],; ThreadStaticAttribute and ThreadLocal<T> class

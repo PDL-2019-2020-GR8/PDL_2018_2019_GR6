@@ -1,0 +1,7 @@
+Kernel Name,HTTP,FTP,NFS,CIFS,Name server,Transportlayer load balancer,Applicationlayer load balancer,9P,TLS proxy,WAF,Memcached server
+Linux kernel,no|(TUX web server patch),no|(TUX web server patch),yes|knfsd,no|(CIFSD available),dunno,yes|IP Virtual Server,no|(KTCPVS),no|(patch available),yes|SOL_TLS[15],no|(Tempesta FW)[16],no|(kmemcached)
+DragonFly BSD kernel,no,no,yes,yes,dunno,dunno,dunno,no,no,dunno,dunno
+FreeBSD kernel,no,no,yes,no,no,yes,no,no,no,dunno,dunno
+Solaris kernel,dunno,dunno,Yes,yes[17],dunno,yes[18],yes[18],dunno,yes|KSSL,dunno,dunno
+Windows NT kernel,yes|HTTPsys,dunno,dunno,yes,dunno,yes,yes,no,dunno,dunno,dunno
+XNU,no,no,yes,no,no,no,no,no,no,dunno,dunno

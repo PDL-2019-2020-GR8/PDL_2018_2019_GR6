@@ -1,0 +1,9 @@
+Client,Fork from,FLOSS,Runs on,Kad,Unicode,Languages supp,Development Status
+Linux,Windows,Mac OS X,[added],[added],[added],[added],[added]
+eDonkey2000,,no,yes,yes,yes,no,no
+aMule,xMule,yes|GPL,yes,yes[1],yes,yes,yes
+eMule and its Mods,,yes|GPL,no,yes,no,yes,yes
+eMule Plus,eMule,yes|GPL,no[3],yes,no,no,yes[4]
+MLDonkey,,yes|GPL,yes,yes,yes,yes,yes
+Shareaza,,yes|GPL,no[5],yes,no,no,yes
+xMule,lMule,yes|GPL,yes,no,no,no,no

@@ -65,6 +65,7 @@ public class WikiExtractorTest {
 		assertThrows(UrlNotFoundException.class, () -> WikiRunner.getDocument("en", "Comparison_of_Exchange_ActiveSync_clients"));
 	}
 	
+	
 	@Test
 	@DisplayName("Comparison_of_IPv6_application_support")
 	@Tag("robustness")

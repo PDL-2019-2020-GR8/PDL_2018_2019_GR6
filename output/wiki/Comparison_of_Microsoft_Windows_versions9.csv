@@ -1,0 +1,16 @@
+[empty],FAT12,FAT16,FAT32,HPFS,ISO 9660,NTFS,exFAT,UDF,ReFS
+Windows NT 31  35  351,Yes,Yes,No,Yes,Yes,Yes v10/v11,No,dunno,No
+Windows NT 40,Yes,Yes,No,partial,Yes,Yes v12,No,dunno,No
+Windows 2000,Yes,Yes,Yes,No,Yes,Yes v30,No,Yes,No
+Windows XP,Yes,Yes,Yes,No,Yes,Yes v31,Optional,Yes (201),No
+Windows Server 2003,Yes,Yes,Yes,No,Yes,Yes v31,Optional,Yes,No
+Windows Vista,Yes,Yes,Yes,No,Yes,Yes v5,Yes,Yes (26),No
+Windows Server 2008,Yes,Yes,yes,No,Yes,Yes v5,Yes,Yes,No
+Windows 7,Yes,Yes,yes,No,Yes,Yes v5,Yes,Yes (26),Yes
+Windows Server 2008 R2,Yes,Yes,Yes,No,Yes,Yes v5,Yes,Yes (26),Yes
+Windows Server 2012,Yes,Yes,Yes,No,Yes,Yes v5,Yes,Yes (26),Yes
+Windows 8,Yes,Yes,Yes,No,Yes,Yes v5,Yes,Yes (26),No
+Windows 81,Yes,Yes,Yes,No,Yes,Yes v5,Yes,Yes (26),Yes
+Windows Server 2012 R2,Yes,Yes,Yes,No,Yes,Yes v5,Yes,Yes (26),Yes
+Windows 10,Yes,Yes,Yes,No,Yes,Yes v5,Yes,Yes (26),Yes
+Windows Server 2016,Yes,Yes,Yes,No,Yes,Yes v5,Yes,Yes (26),Yes

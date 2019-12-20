@@ -1,0 +1,52 @@
+Model,Level,Image processor,Sensor format,Sensor type,Sensor manufacturer,Megapixels,Focus points,Metering pixels,Viewfinder coverage,Viewfinder magnification,ISO min (expanded),ISO min,ISO max,ISO max (expanded),Display size  pixels,Touch screen,Storage media,Live view,Movie mode,Max FPS,Shutter Rating,Weight (g),Dimensions (mm),Video,Release Date,WiFi/Bluetooth,GPS
+D3X,Professional,EXPEED,Fullframe,CMOS,Sony,245,51,1005,100%,07x,50,100,1600,6400,30" 921k,[empty],CF  MicroDrive (×2),Yes,No,5,300000,1220,160 × 157 × 88,[empty],2008 4Q,WT4,GP1(A)
+D2Xs,Professional,,APSC,CMOS,Sony,124,11,1005,100%,086x,100,100,800,3200,25" 230k,[empty],CF  MicroDrive,No,No,5,[empty],1070,158 × 150 × 86,[empty],2006 2Q,WT1 / WT2,GP1(A)
+D2X,Professional,,APSC,CMOS,Sony,124,11,1005,100%,086x,100,100,800,800,25" 235k,[empty],CF  MicroDrive,No,No,5,[empty],1070,158 × 150 × 86,[empty],2004 3Q,WT1 / WT2,GP1(A)
+D1X,Professional,,APSC,CCD,Sony,53,5,1005,96%,08x,125,125,800,800,20" 130k,[empty],CF  MicroDrive,No,No,3,[empty],1100,157 × 153 × 85,[empty],2001 1Q,,GP1(A)
+D1,Professional,,APSC,CCD,Sony,266,5,1005,96%,08x,200,200,1600,1600,20" 114k,[empty],CF,No,No,45,[empty],1100,157 × 153 × 86,[empty],1999 2Q,,GP1(A)
+D5,Professional,EXPEED 5,Fullframe,CMOS,Nikon,208,153refn|group=a|name="153 AF"|55 userselectable points,180000,100%,072x,50,100,102400,3280000,32" 2539k,Fixed,CF (×2) or XQD (×2),Yes,Yes,12,400000,1235,160 x 1585 x 92,4K30 1080p60,2016 1Q,WT5 / WT6,GP1(A)
+D4S,Professional,EXPEED 4,Fullframe,CMOS,Nikon,162,51,91000,100%,07x,50,100,12800,409600,32" 921k,[empty],CF  XQD,Yes,Yes,11,400000,1180,160 × 157 × 91,1080p60,2014 1Q,WT5,GP1(A)
+D4,Professional,EXPEED 3,Fullframe,CMOS,Nikon,162,51,91000,100%,07x,50,100,12800,204800,32" 921k,[empty],CF  XQD,Yes,Yes,10,400000,1180,160 × 157 × 91,1080p30,2012 1Q,WT5,GP1(A)
+D3S,Professional,EXPEED,Fullframe,CMOS,Nikon,121,51,1005,100%,07x,100,200,12800,102400,30" 921k,[empty],CF (×2),Yes,Yes,9,300000,1240,160 × 157 × 88,720p24,2009 4Q,WT4,GP1(A)
+D3,Professional,EXPEED,Fullframe,CMOS,Nikon,121,51,1005,100%,07x,100,200,6400,25600,30" 921k,[empty],CF  MicroDrive (×2),Yes,No,9,300000,1240,160 × 157 × 88,[empty],2007 3Q,WT4,GP1(A)
+D2Hs,Professional,,APSC,JFETLBCAST,Nikon,41,11,1005,100%,086x,200,200,1600,6400,25" 232k,[empty],CF  MicroDrive,No,No,8,[empty],1070,158 × 150 × 86,[empty],2005 1Q,WT1 / WT2,GP1(A)
+D2H,Professional,,APSC,JFETLBCAST,Nikon,41,11,1005,100%,086x,200,200,1600,6400,25" 211k,[empty],CF  MicroDrive,No,No,9,[empty],1070,158 × 150 × 86,[empty],2003 3Q,WT1 / WT2,
+D1H,Professional,,APSC,CCD,Sony,27,5,1005,96%,08x,200,200,1600,1600,20" 130k,[empty],CF  MicroDrive,No,No,5,[empty],1100,157 × 153 × 86,[empty],2001 1Q,,GP1(A)
+D850,Professional,EXPEED 5,Fullframe,CMOS,Sony,457,153,180000,100%,078x,32,64,25600,102400,32" 2539k,Tilting,SD  XQD,Yes,Yes,7(9)refn|group=d|name="with optional battery grip"|with optional battery grip,200000,1005,146 x 124 x 785,4K30 1080p60 1080p120,2017 3Q,WiFi  Bluetooth built in,GP1(A)
+D810,Professional,EXPEED 4,Fullframe,CMOS,Sony,363,51,91000,100%,07x,32,64,12800,51200,32" 1229k,[empty],CF  SDHC  SDXC (×2),Yes,Yes,5,200000,880,146 x 123 x 815,1080p60,2014 2Q,,GP1(A)
+D800,Professional,EXPEED 3,Fullframe,CMOS,Sony,363,51,91000,100%,07x,50,100,6400,25600,32" 921k,[empty],CF  SDHC  SDXC,Yes,Yes,4,200000,900,145 × 122 × 81,1080p30,2012 1Q,,GP1(A)
+D700,Highend,EXPEED,Fullframe,CMOS,Nikon,121,51,1005,95%,07x,100,200,6400,25600,30" 921k,[empty],CF,Yes,No,5(8)refn|group=d|name="with optional battery grip"|with optional battery grip,150000,995,147 × 123 × 77,[empty],2008 3Q,,GP1(A)
+D750,Highend,EXPEED 4,Fullframe,CMOS,Sony,243,51,91000,100%,07x,50,100,12800,51200,32" 1229k,[empty],SD SDHC SDXC (×2),Yes,Yes,65,150000,750,1505 × 113 × 78,1080p60,2014 3Q,WiFi built in,GP1(A)
+Df,Highend,EXPEED 3,Fullframe,CMOS,Nikon,162,39,2016,100%,07x,50,100,12800,204800,32" 921k,[empty],SD/SDHC/SDXC,Yes,No,55,150000,710,144 × 110 × 67,[empty],2013 4Q,,GP1(A)
+D610,Advanced,EXPEED 3,Fullframe,CMOS,Sony,243,39,2016,100%,07x,50,100,6400,25600,32" 921k,[empty],SD/SDHC/SDXC (×2),Yes,Yes,6,150000,760,141 × 113 × 82,1080p30 720p60,2013 3Q,,GP1(A)
+D600,Advanced,EXPEED 3,Fullframe,CMOS,Sony,243,39,2016,100%,07x,50,100,6400,25600,32" 921k,[empty],SD/SDHC/SDXC (×2),Yes,Yes,55,150000,760,141 × 113 × 82,[empty],2012 3Q,,GP1(A)
+D500,Professional,EXPEED 5,APSC,CMOS,Sony,209,153refn|group=a|name="153 AF",180000,100%,1x,50,100,51200,1640000,32�� 2359k,Tilting,SD/SDHC/SDXC  XQD,Yes,Yes,10,200000,760,147 × 115 × 81,4K30 1080p60,2016 1Q,WiFi  Bluetooth built in,GP1(A)  SnapBridge
+D300S,Advanced,EXPEED,APSC,CMOS,Sony,123,51,1005,100%,094x,100,200,3200,6400,30" 921k,[empty],CF  SD  SDHC,Yes,Yes,7(8)refn|group=d|name="with optional battery grip"|with optional battery grip,150000,840,147 × 114 × 74,[empty],2009 3Q,,GP1(A)
+D300,Advanced,EXPEED,APSC,CMOS,Sony,123,51,1005,100%,094x,100,200,3200,6400,30" 921k,[empty],CF  MicroDrive,Yes,No,6(8)refn|group=d|name="with optional battery grip"|with optional battery grip,150000,825,147 × 114 × 74,[empty],2007 3Q,,GP1(A)
+D200,Advanced,,APSC,CCD,Sony,102,11,1005,95%,094x,100,100,1600,1600,25" 230k,[empty],CF  MicroDrive,No,No,5,[empty],830,147 × 113 × 74,[empty],2005 4Q,,GP1(A)
+D100,Advanced,,APSC,CCD,Sony,61,5,1005,95%,08x,200,200,1600,1600,18" 118k,[empty],CF  MicroDrive,No,No,3,[empty],700,115 × 117 × 81,[empty],2002 1Q,,
+D7500,Midrange,EXPEED 5,APSC,CMOS,Sony,209,51refn|group=a|name="153 AF",180000,100%,094x,50,100,51200,1640000,32�� 922k,Tilting,SD/SDHC/SDXC,Yes,Yes,8,150000,640,1355 × 104 × 725,4K30 1080p60,2017 2Q,WiFi  Bluetooth built in,GP1(A)  SnapBridge
+D7200,Midrange,EXPEED 4,APSC,CMOS,Toshiba[1],242,51,2016,100%,094x,100,100,25600,102400,32" 1229k,[empty],SD/SDHC/SDXC (×2),Yes,Yes,6,150000,675,1355 x 1065 x 76,1080p60(13x) 1080p30,2015 2Q,Yes (Builtin),GP1(A)
+D7100,Midrange,EXPEED 3,APSC,CMOS,Toshiba,241,51,2016,100%,094x,100,100,6400,25600,32" 1229k,[empty],SD/SDHC/SDXC (×2),Yes,Yes,6,150000,675,1355 x 1065 x 76,1080i60 1080p30,2013 1Q,,GP1(A)
+D7000,Midrange,EXPEED 2,APSC,CMOS,Sony,162,39,2016,100%,094x,100,100,6400,25600,30" 921k,[empty],SD/SDHC/SDXC (×2),Yes,Yes,6,150000,690,132 × 103 × 77,1080p24,2010 3Q,,GP1(A)  CA90
+D90,Midrange,EXPEED,APSC,CMOS,Sony,123,11,420,96%,094x,100,200,3200,6400,30" 921k,[empty],SD  SDHC,Yes,Yes,45,100000,620,132 × 103 × 77,720p24,2008 3Q,,GP1(A)  CA90
+D80,Midrange,,APSC,CCD,Sony,102,11,420,95%,094x,100,100,1600,3200,25" 230k,[empty],SD  SDHC,No,No,3,[empty],585,132 × 103 × 77,[empty],2006 3Q,,
+D70s,Midrange,,APSC,CCD,Sony,61,5,1005,95%,075x,200,200,1600,1600,20" 130k,[empty],CF  MicroDrive,No,No,3,[empty],600,140 × 111 × 78,[empty],2005 2Q,,
+D70,Midrange,,APSC,CCD,Sony,61,5,1005,95%,075x,200,200,1600,1600,18" 130k,[empty],CF  MicroDrive,No,No,3,[empty],595,140 × 112 × 79,[empty],2004 1Q,,
+D5600,Upperentry,EXPEED 4,APSC,CMOS,Sony,242,39,2016,95%,082x,100,100,25600,25600,32" 1037k,[empty],SD  SDHC  SDXC,Yes,Yes,5,[empty],415,124 x 97 x 70,1080p60,2016 4Q,WiFi  Bluetooth built in,GP1(A)  SnapBridge
+D5500,Upperentry,EXPEED 4,APSC,CMOS,Sony,241,39,2016,95%,082x,100,100,25600,25600,32" 1037k,Articulated,SD  SDHC  SDXC,Yes,Yes,5,100000,420,124 × 97 × 70,1080p60,2015 1Q,WiFi built in,GP1(A)
+D5300,Upperentry,EXPEED 4,APSC,CMOS,Sony[2],241,39,2016,95%,082x,100,100,12800,25600,32" 1037k,[empty],SD  SDHC  SDXC,Yes,Yes,5,100000,480,125 × 98 × 76,1080p60,2013 4Q,WiFi built in,Yes (Builtin)
+D5200,Upperentry,EXPEED 3,APSC,CMOS,Toshiba,241,39,2016,95%,078x,100,100,6400,25600,30" 921k,[empty],SD  SDHC  SDXC,Yes,Yes,5,100000,550,129 × 98 × 78,1080i60 1080p30,2012 4Q,,GP1(A)
+D5100,Upperentry,EXPEED 2,APSC,CMOS,Sony,162,11,420,95%,078x,100,100,6400,25600,30" 921k,[empty],SD  SDHC  SDXC,Yes,Yes,4,100000,510,127 × 97 × 79,1080p30,2011 2Q,,GP1(A)  CA90
+D5000,Upperentry,EXPEED,APSC,CMOS,Sony,123,11,420,95%,078x,100,200,3200,6400,27" 230k,[empty],SD  SDHC,Yes,Yes,4,100000,560,127 × 104 × 80,720p24,2009 2Q,,GP1(A)  CA90
+D60,Upperentry,EXPEED,APSC,CCD,Sony,102,3,420,95%,08x,100,100,1600,3200,25" 230k,[empty],SD  SDHC,No,No,3,[empty],495,126 × 94 × 64,[empty],2008 1Q,,
+D40X,Upperentry,,APSC,CCD,Sony,102,3,420,95%,08x,100,100,1600,1600,25" 230k,[empty],SD  SDHC,No,No,3,[empty],495,126 × 94 × 64,[empty],2007 2Q,,
+D50,Upperentry,,APSC,CCD,Sony,61,5,420,95%,075x,200,200,1600,1600,20" 130k,[empty],SD,No,No,25,[empty],540,133 × 102 × 76,[empty],2005 2Q,,
+D3500,Entrylevel,EXPEED 4,APSC,CMOS,[empty],242,11,420,95%,085x,100,100,25600,25600,30" 921k,[empty],SD  SDHC  SDXC,Yes,Yes,5,[empty],365,124 x 97 x 695,1080p60,2018 2Q,Bluetooth built in,SnapBridge
+D3400,Entrylevel,EXPEED 4,APSC,CMOS,[empty],242,11,420,95%,085x,100,100,25600,25600,30" 921k,[empty],SD  SDHC  SDXC,Yes,Yes,5,[empty],395,124 x 98 x 76,[empty],2016 3Q,Bluetooth built in,SnapBridge
+D3300,Entrylevel,EXPEED 4,APSC,CMOS,Nikon,242,11,420,95%,085x,100,100,12800,25600,30" 921k,[empty],SD  SDHC  SDXC,Yes,Yes,5,[empty],430,124 x 98 x 76,1080p60,2014 1Q,,GP1(A)
+D3200,Entrylevel,EXPEED 3,APSC,CMOS,Nikon,242,11,420,95%,08x,100,100,6400,12800,30" 921k,[empty],SD  SDHC  SDXC,Yes,Yes,4,100000,455,125 x 96 x 77,1080p30,2012 2Q,Yes (with WU1a Wireless Adapter),GP1(A)
+D3100,Entrylevel,EXPEED 2,APSC,CMOS,Nikon,142,11,420,95%,08x,100,100,3200,12800,30" 230k,[empty],SD  SDHC  SDXC,Yes,Yes,3,100000,455,125 × 97 × 74,[empty],2010 3Q,,GP1(A)  CA90
+D3000,Entrylevel,EXPEED,APSC,CCD,Sony,102,11,420,95%,08x,100,100,1600,3200,30" 230k,[empty],SD  SDHC,No,No,3,100000,485,126 × 94 × 64,[empty],2009 3Q,,
+D40,Entrylevel,,APSC,CCD,Sony,61,3,420,95%,08x,200,200,1600,3200,25" 230k,[empty],SD  SDHC,No,No,25,[empty],475,126 × 94 × 64,[empty],2006 4Q,,
+Model,Level,Image processor,Sensor format,Sensor type,Sensor manufacturer,Megapixels,Focus points,Metering pixels,Viewfinder coverage,Viewfinder magnification,ISO min (expanded),ISO min,ISO max,ISO max (expanded),Display size  pixels,Touch screen,Storage media,Live view,Movie mode,Max FPS,Shutter Rating,Weight (g),Dimensions (mm),Video,Release Date,WiFi/Bluetooth,GPS

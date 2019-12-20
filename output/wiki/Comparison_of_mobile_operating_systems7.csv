@@ -1,0 +1,17 @@
+Feature,Android,iOS,Windows 10 Mobile,BlackBerry 10,Tizen,Sailfish OS,Ubuntu Touch
+Unified Inbox,No2No [254] but 3rd party apps available[255],Yes,Yes|75[256],Yes,Yes,Yes,?
+Email sync protocols supported,POP3  IMAP  MAPI,POP3  IMAP  MAPI  ActiveSync[257],POP3  IMAP  MAPI  ActiveSync,BES  BIS  Push email  10 POP3  IMAP  ActiveSync,POP3  IMAP,POP3  IMAP  ActiveSync,?
+Noncarrierbased integrated messaging,Yes|Google Hangouts,Yes|5 (iMessage)[258],Yes|Skype[259],Yes|BBM,?,No2 3rd party software,No2 3rd party software
+Visual voicemail,Yes|21[260],Yes,Yes[261],Yes,?,?,?
+Call log duration,Yes[262],Yes[263],Yes|81[264],Yes[265],?,Yes,Yes
+Multiple mobile phones per contact,Yes,Yes,Yes,Yes,?,Yes,Yes
+Contact groups,Yes|4[266] or 3rd party software[267],Okay|Via iCloud or 3rd party software[268],Yes|75[269],Yes,Yes,No[270],?
+Voice over IP,Yes|Yes (SIP)[271] or 3rd party software[272],Yes|FaceTime; 3rd party software[273],Yes|8 Skype[274],Yes|BBM 7[275] or 3rd party software[276],No[277],No2 3rd party software,No2 3rd party software
+NFC payment software,Yes|Available on any device that supports the hardware Android Pay for NFC payments available in Play Store[278],Yes|8 iPhone 6/6 Plus and later (iPhone 5 and later if used with Apple Watch)  via Apple Pay,Yes|8[279],Yes[280],No,No,No
+Tethering,Mobile WiFi Hotspot  USB  Bluetooth,43 Personal Hotspot (WiFi  Bluetooth  USB; carrier dependent),Internet Sharing (WiFi Hotspot) [281] Bluetooth (81 Update),USB  Bluetooth  Mobile WiFi Hotspot,microUSB  Bluetooth 30  Mobile WiFi Hotspot,Mobile WiFi Hotspot  USB  Bluetooth,Mobile WiFi Hotspot
+USB OnTheGo,Yes|31[282][283],Yes|13;[284] 9 Only for connecting cameras,Yes|10[285],Yes|102[286],No,Yes,Yes
+Direct file transfer over WiFi Direct,Yes|4[68] and selected devices[287][288],No2No  3rd party software on jailbroken devices,No,Yes|102,No  was available on bada 2 [289] but removed on Tizen,No[290],No
+DHCP v4,Yes,Yes,?,Yes,?,?,?
+DHCP v6,No,Yes,?,Yes (Manually selected; WiFi only),?,?,?
+Direct file transfer over Bluetooth,Yes|2[291],Okay|AirDrop 7 Between iOS only; 8 Between Mac/iOS only (Note AirDrop utilizes WiFi as well),Yes|8[292],Yes,No  was available on bada [293] but removed on Tizen,Yes[294] but limited to images  videos and contacts,No
+Direct file transfer over NFC,Yes|4[68],No,Yes|8[295],Yes|71[296],Yes|2[289],No,No

@@ -1,0 +1,22 @@
+Software,Platform,Availability,License,Version,Persistence Specification
+Apache Cayenne,Java Virtual Machine,Open source,Apache License 20,302 / July 21  2011,[empty]
+Dapper,NET 40,Open source,Apache License 20,18 NuGet,[empty]
+DataNucleus,Java Virtual Machine,Open source,Apache License 2,410RELEASE / May 19  2015,JDO
+DBIxClass,Perl,Open source,Artistic License 10 & GPL,0082820 / release date|2015|03|20[1],[empty]
+Django,Python,Open source,BSD licenses,21 (1 August 2018),[empty]
+Doctrine,PHP,Open source,MIT,24/April 8  2014,[empty]
+EclipseLink,Java Virtual Machine,Open source,Eclipse Public License Version 10 (EPL) and Eclipse Distribution License Version 10 (EDL),242 / July 4  2013,JPA 20
+Entity Framework Core,net core,Open Source,Apache License 20,20,[empty]
+Hibernate,Java Virtual Machine,Open source,GNU Lesser General Public License,425 / August 28  2013,JPA 20
+MyBatis/iBATIS,Crossplatform,Open source,Apache License 20,[empty],[empty]
+jOOQ,Java Virtual Machine,Open source,Apache License 20 and Proprietary License,320 / October 9  2013,[empty]
+Microsoft ADONET Entity Framework,NET 45,Part of NET 45,Apache License 20[2],v60 (2014),[empty]
+nHibernate,NET 45,Open source,GNU Lesser General Public License,40 (20140817[3]),[empty]
+ODB,Crossplatform C,Duallicensed,GNU General Public License and Proprietary License,240 / February 11  2015,[empty]
+RedBeanPHP,PHP,Open source,BSD License,4/April 1  2014,[empty]
+SQLAlchemy,Python,Open source,MIT License,1214 / release date|2018|11|10,[empty]
+SQLObject,Python,Open source,LGPL,380 / release date|2019|12|07,[empty]
+Skipper,PHP,Commercial,Proprietary software,30,[empty]
+Storm,Python,Open source,LGPL 21,020 / release date|2013|06|28,[empty]
+TopLink,Java Virtual Machine,Commercial,Oracle License,10g,JPA
+WebORB Integration Server,NET  Java  PHP,Commercial & Open source,WebORB for NET and WebORB for Java = Proprietary License  WebORB for PHP = Mozilla Public License,WebORB for NET v42 (Oct 2010)  WebORB for Java v40 (Sep 2010)  WebORB for PHP (Sep 2008),[empty]

@@ -1,0 +1,22 @@
+Implementation,RSA[16],RSAEXPORT (insecure)[16],DHERSA (forward secrecy)[16],DHEDSS (forward secrecy)[16],ECDHECDSA[69],ECDHEECDSA (forward secrecy)[69],ECDHRSA[69],ECDHERSA (forward secrecy)[69],GOST R 341094  34102001[70]
+Botan,yes|Disabled by default,Yes|No,yes,okay|Disabled by default,no,yes,no,yes,no
+cryptlib,yes,Yes|No,yes,okay|Yes,no,yes,no,no,no
+GnuTLS,yes,yes|No,yes,okay|Disabled by default[19],no,yes,no,yes,no
+JSSE,yes,Yes|Disabled by default,yes,yes,yes,yes,yes,yes,no[71]
+LibreSSL,yes,Yes|No[23],yes,okay|Yes,yes,yes,yes,yes,yes[72]
+MatrixSSL,yes,Yes|No,yes,okay|No,yes,yes,yes,yes,no
+mbed TLS,yes,Yes|No,yes,okay|No,yes,yes,yes,yes,no
+NSS,yes,Yes|Disabled by default,Yes[73],okay|Yes,yes,yes,yes,yes,no[74][75]
+OpenSSL,yes,yes|No[33],yes,okay|Disabled by default[33],yes,yes,yes,yes,yes[76]
+RSA BSAFE,yes,Yes|No,yes,okay|Yes,yes,yes,yes,yes,no
+SChannel XP/2003,yes,No|Yes,no,okay|XP Max 1024 bits 2003 1024 bits only,no,no,no,no,no[77]
+SChannel Vista/2008,yes,Yes|Disabled by default,no,Yes|1024 bits by default[78],no,yes,no,partial|except AES_GCM,no[77]
+SChannel 8/2012,yes,Yes|Disabled by default,partial|AES_GCM only[79][80][81],Yes|1024 bits by default[78],no,yes,no,partial|except AES_GCM,no[77]
+SChannel 7/2008R2  81/2012R2,yes,Yes|Disabled by default,yes,Yes|2048 bits by default[78],no,yes,no,partial|except AES_GCM,no[77]
+SChannel 10,yes,Yes|Disabled by default,yes,Yes|2048 bits by default[78],no,yes,no,yes,no[77]
+Secure Transport OS X 106,yes,No|Yes,partial|except AES_GCM,okay|Yes,yes,partial|except AES_GCM,yes,partial|except AES_GCM,no
+Secure Transport OS X 1081010,yes,Yes|No,partial|except AES_GCM,okay|No,yes,partial|except AES_GCM,yes,partial|except AES_GCM,no
+Secure Transport OS X 1011,yes,Yes|No,yes,okay|No,no,yes,no,yes,no
+wolfSSL,yes,Yes|No,yes,okay|No,yes,yes,yes,yes,no
+Erlang/OTP SSL application,yes,yes|No,yes,yes,yes,yes,yes,yes,no
+Implementation,RSA[16],RSAEXPORT (insecure)[16],DHERSA (forward secrecy)[16],DHEDSS (forward secrecy)[16],ECDHECDSA[69],ECDHEECDSA (forward secrecy)[69],ECDHRSA[69],ECDHERSA (forward secrecy)[69],GOST R 341094  34102001[70]

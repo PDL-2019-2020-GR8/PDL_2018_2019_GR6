@@ -1,0 +1,24 @@
+[empty],HTML,CHM,RTF,PDF,LaTeX,PostScript,man pages,DocBook,XML,ePub
+Ddoc,Yes,Yesefn|name=fn4,No,Yesefn|name=fn4,Yesefn|name=fn4,Yesefn|name=fn4,Yesefn|name=fn4,No,Yesefn|name=fn4,[added]
+Document! X,Yes,Yes,No,No,No,No,No,No,No,[added]
+Doxygen,Yes,Yes,Yes,Indirectlyefn|name=fn13|Generated from the LaTeX output only[6],Yes,Indirectlyefn|name=fn13,Yes,Yes,Yes,No
+Epydoc,Yes,No,No,Yes,Indirectlyefn|name=fn5,Indirectlyefn|name=fn5,No,No,No,[added]
+Haddock,Yes,Yes,No,No,No,No,No,Partial,No,[added]
+HeaderDoc,Yes,No,No,No,No,No,Yes,No,Yes,[added]
+Imagix 4D,Yes,No,Yes,No,No,No,No,No,No,[added]
+Javadoc,Yes,Indirectlyefn|name=fn6,Indirectlyefn|name=fn6,Indirectlyefn|name=fn6,Indirectlyefn|name=fn6,Indirectlyefn|name=fn6,Indirectlyefn|name=fn6,Indirectlyefn|name=fn6,Indirectlyefn|name=fn6,[added]
+JSDoc,Yes,No,No,No,No,No,No,No,No,[added]
+JsDoc Toolkit,Yes,No,No,No,No,No,No,No,YesJSON,[added]
+Natural Docs,Yes,No,No,No,No,No,No,No,No,[added]
+NDoc,Yes,Yes,No,No,No,No,No,No,No,[added]
+pdoc,Yes,No,No,No,No,No,No,No,No,No
+phpDocumentor,Yes,Yes,No,Yes,No,No,No,Yes,Yes,[added]
+pydoc,Yes,No,No,No,No,No,No,No,No,No
+RDoc,Yes,Yesefn|name=fn9,No,No,No,No,Indirectlyefn|name=fn10,No,Yesefn|name=fn9,[added]
+ROBODoc,Yes,Indirectly,Yes,Indirectlyefn|name=fn5,Yes,Indirectlyefn|name=fn5,Yes,Yes,No,[added]
+Sandcastle,Yes,Yes,No,No,No,No,No,No,No,[added]
+Sphinx,Yes,Yes,bgcolor="#ffffdd" | Indirectlyefn|name=a|Generated from the LaTeX output only,Yes,Yes,!,Yes,[added],[added],[added]
+Visual Expert,Yes,No,No,No,No,No,No,No,No,[added]
+VSdocman,Yes,Yes,No,Yes,No,No,No,No,Yes,[added]
+YARD,Yes,No,No,No,No,No,No,No,No,[added]
+! HTML,CHM,RTF,PDF,LaTeX,PostScript,man pages,DocBook,XML,ePub,[added]

@@ -1,0 +1,24 @@
+Distribution,Working State,Aim,Creator,Producer,Base Distribution,Installed Size (MB),Initial Release Date,Interface,Linux Kernel,Default File System,Architecture Support,Approximate Number of Precompiled Packages,Default Package Management Tools,Default Installer
+Aurora,2009 Last Release  development stopped,Asus Eee PC optimized,Eeebuntu community,[empty],Ubuntu,[empty],20090515,Gnome or Gnome  Netbook Remix,Array kernel (modified kernel)[2],[empty],[empty],[empty],APT,[empty]
+CrunchBang Linux 1120130119,20150206 Development Stopped,Limited hardware machines,Philip Newborough,[empty],Debian,[empty],20130119,Openbox,3235,[empty],x86  x86_64,[empty],APT,[empty]
+Debian Eee PC,[empty],Asus Eee PC,[empty],[empty],Debian,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Debian Wheezy,[empty],[empty],[empty],[empty],Written from scratch,[empty],[empty],[empty],[empty],[empty],i386  AMD64  PowerPC  SPARC  ARM  MIPS  S390  armhf  s390x Loongson[3],[empty],[empty],[empty]
+EasyPeasy 16,2012 Last Release  development stopped,All netbooks,EasyPeasy Community,Jon Ramvi,Ubuntu,[empty],20100424,Gnome  Netbook Remix,2632,ext4,x86,[empty],APT,Ubiquity
+Eeedora[4],[empty],Asus Eee PC 701,Martin Andrews,[empty],Fedora,[empty],[empty],Xfce,[empty],[empty],[empty],[empty],RPM,[empty]
+Firefly Linux 10 Beta 1,2009 Last Release  development stopped,[empty],Firefly Linux community,[empty],Arch Linux,[empty],[empty],LXDE,26294,[empty],x86,[empty],Pacman,[empty]
+Fuduntu,20130414 Last Release  development stopped,All netbooks[5],Andrew Wyatt "Fewt",Fuduntuorg[5],None (Originally based on Fedora 14),[empty],20121001,Gnome,369,ext4,x86[6]  x86_64[7],[empty],RPM  YUM,[empty]
+gNewSense,[empty],Free software,Brian Brazil and Paul O'Malley,Sam Geeraerts with sponsorship from the FSF,Debian,[empty],[empty],[empty],Linuxlibre 2632,[empty],Loongson  x86  x8664,[empty],APT,Ubiquity (software)
+Joli OS 12 (formerly named Jolicloud),20131122 Last Release  development stopped,All netbooks[8],Joli OS,Joli OS,Ubuntu,[empty],20110309,HTML5  Gnome,263510,ext4,x86,[empty],APT,[empty]
+Kuki Linux 20,2009 Last Release  development stopped,Aspire One optimized,Kuki Linux community,[empty],Ubuntu,[empty],[empty],Xfce,[empty],[empty],[empty],[empty],[empty],[empty]
+Anchor|Linux4One Linux4One 15,[empty],Aspire One optimized,Linux4One community,[empty],Ubuntu,[empty],[empty],Gnome or LXDE,[empty],[empty],[empty],[empty],[empty],[empty]
+Leeenux Linux v10,2016 Last Release,All netbooks,Aleksandar Ciric,[empty],Ubuntu 1604 LTS,[empty],[empty],LXDE  XFCE,[empty],ext4,x86  AMD64,[empty],APT  Synaptic  Software center,Ubiquity
+Lubuntu 1510,20151022 Active Development,Limited hardware machines,Lubuntu Community and LXDE Foundation,[empty],Ubuntu,[empty],20111013,LXDE,[empty],[empty],[empty],[empty],Synaptic,[empty]
+Manjaro Netbook Edition[9],20150725 Active Development,All netbooks,Rob McCathie,Manjaro Linux,Arch Linux,[empty],[empty],Xfce,Intel Atomoptimized Manjaro kernel,ext4,x86  x86_64,[empty],Pamac (graphical frontend for pacman),[empty]
+Midinux,[empty],All netbooks,Red Flag Linux,[empty],[empty],[empty],2007,[empty],[empty],ext3,x86,[empty],[empty],[empty]
+MeeGo 12,2012 Last Release  development stopped,Intel Atom processor netbooks  Nokia ARM smartphones,Intel  Nokia  Maemo community,Intel  Nokia  Linux Foundation,None (it is a distribution developed out of Maemo and Moblin),[empty],20101028,"Netbook User Experience" (based on Clutter),2635,btrfs,x86 with SSSE3 support,[empty],RPM,[empty]
+Moblin 21,200904 Last Release  development stopped,All Intel Atom processor netbooks and MID,Intel,Intel/Linux Foundation,None (borrows components for various distributions[10]),[empty],20091104,Clutter,[empty],[empty],[empty],[empty],RPM (may change[10]),[empty]
+OpenGeeeU 810,201208 Last Release  development stopped,[empty],Luca De Marini,[empty],Easy Peasy[11],[empty],20090323,Enlightenment plus Gnome,2627,ext3,x86,26000,APT,Ubiquity
+Puppeee Linux 43X,Linpus is 64bit only,Asus Eee PCs with Intel Chipsets,Jemimah Ruhala,[empty],Puppy Linux 431,200MB,[empty],Choice of IceWM / OpenBox / Flwm with ROXFiler / PcManFM / LxLauncher,2633,AUFS  SquashFS  EXT2,Atom / CeleronM,[empty],Pet,PetGet
+Trisquel Mini,201411 Last Release  development stopped,Limited hardware machines,[empty],[empty],Trisquel,[empty],201009,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ubuntu Netbook Edition 1010,201010 Last Release  development stopped,Intel Atom processor netbooks[12],Canonical Ltd,Canonical Ltd,Ubuntu,[empty],20101010,Unity,2632,[empty],x86,32000,APT,[empty]
+Distribution,Working State,Aim,Creator,Producer,Base Distribution,Installed Size (MB),Initial Release Date,Interface,Linux Kernel,Default File System,Architecture Support,Approximate Number of Precompiled Packages,Default Package Management Tools,Default Installer

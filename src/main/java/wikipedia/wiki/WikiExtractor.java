@@ -50,6 +50,7 @@ public class WikiExtractor implements Extractor {
 			System.out.println(url + " is not valid");
 		} else {
 			tableElements = doc.select("table");
+			// System.out.println(tableElements);
 			int initialSize = tableElements.size();
 			tableElements = convertThsToTds(tableElements);
 			tableElements = formatTables(tableElements);
@@ -62,6 +63,7 @@ public class WikiExtractor implements Extractor {
 			tableElements = ignoredElements("p", tableElements);
 			//tableElements = ignoredElements(url, "br", tableElements);
 			//tableElements = ignoreTablesWithLessRows(url, tableElements, 3);
+			// System.out.println("select" + tableElements.select("tr").get(0));
 			int finalSize = tableElements.size();
 			statistics.setUrl(url);
 			statistics.setIgnoredTablesNumber(initialSize - finalSize );
@@ -138,11 +140,11 @@ public class WikiExtractor implements Extractor {
 				
 				for (int j = 0; j < currentRowItems.size(); j++) {
 					currentTdTags = currentRowItems.get(j).select(tag);
-					if (currentRowItems.get(j).hasAttr(Constants.ROW_SPAN_ATTRIBUTE) 
-							|| currentRowItems.get(j).hasAttr(Constants.COL_SPAN_ATTRIBUTE)
-							|| currentRowItems.get(j).hasClass(Constants.MBOX_IMAGE_CLASS)) {
-						currentTable.addClass(Constants.GENERIC_CLASS_NAME_TO_REMOVE); 
-					}
+//					if (currentRowItems.get(j).hasAttr(Constants.ROW_SPAN_ATTRIBUTE) 
+//							|| currentRowItems.get(j).hasAttr(Constants.COL_SPAN_ATTRIBUTE)
+//							|| currentRowItems.get(j).hasClass(Constants.MBOX_IMAGE_CLASS)) {
+//						currentTable.addClass(Constants.GENERIC_CLASS_NAME_TO_REMOVE); 
+//					}
 					
 					if(currentRowItems.get(j).hasClass("extra_td_to_remove"))
 						currentRowItems.get(j).remove();

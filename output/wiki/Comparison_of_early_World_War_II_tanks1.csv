@@ -1,0 +1,32 @@
+! A11 Infantry Tank I Matilda,A12 Infantry Tank II Matilda,Panzer I,Panzer II,Panzer III,Panzer IV Ausf AF1,LT vz 35 (Panzer 35(t)[1] [2]),LT vz 38 (Panzer 38(t)),7TP[3],T26[4],BT7M [4][5],T34 Model 1940[6],KV1 Model 1940,Type 97 ChiHa[7]
+Country,United Kingdom,United Kingdom,Nazi Germany,Nazi Germany,Nazi Germany,Nazi Germany,Czechoslovakia  Nazi Germany,Czechoslovakia  Nazi Germany  Sweden,Poland,Soviet Union,Soviet Union,Soviet Union,Soviet Union
+Entered service,1938,1939,1934,1936,1939,1939,1937,1939,1935,1931,1939,1940,1940
+Related model,[empty],[empty],Carden Loyd MkIV,Panzer I,[empty],[empty],Vickers E,[empty],Vickers E,Vickers E,BT€‘2  BT€‘5  BT€‘7,[empty],KV2  IS1
+Crew,2,4,2,3,5,5,4,4,3,3,3,4,5
+Dimensions,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Length,49 m,60 m,440 m,480 m,552 m,592 m,49 m,461 m,456 m,488 m,566 m,592 m,675 m
+Width,23 m,26 m,200 m,220 m,290 m,288 m,21 m,212 m,243 m,241 m,229 m,300 m,332 m
+Height,20 m,25 m,170 m,200 m,250 m,268 m,235 m,240 m,227 m,208 m,242 m,245 m,271 m
+Weight,11 tonnes,27 tonnes,60 tonnes,95 tonnes,195 tonnes,210 tonnes,105 tonnes,95 tonnes,99 tonnes,103 tonnes,147 tonnes,263 tonnes,45 tonnes
+Armour,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Turret front side top,65 mm 65 mm 10 mm,75 mm 75 mm 20 mm,13 mm 13 mm 8 mm,15 mm 15 mm 10 mm,30 mm 30 mm 12 mm,30 mm 20 mm 12 mm,25 mm 15 mm 8 mm,25 mm 15 mm 10 mm,15 mm 15 mm 10 mm,15 mm 15 mm 10 mm,15 mm 15 mm 15 mm,45 mm 45 mm 16 mm,70 mm 70 mm ? mm
+Hull front side top,60 mm 60 mm 30 mm,78 mm 55 mm 20 mm,13 mm 13 mm 6 mm,15 mm 15 mm 5 mm,30 mm 30 mm 16 mm,3030 mm 2020 mm 12 mm,25 mm 16 mm 8 mm,30 mm 15 mm 8 mm,17 mm 13 mm 10 mm,15 mm 15 mm 6 mm,30 mm 13 mm 10 mm,45 mm 45 mm 20 mm,75 mm 75 mm 70 mm
+Armament,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Main,0303 or 05 MG,QF 2 pdr 40 mm,2Ã—MG34 792 mm,20 mm,37 mm,75 cm KwK 37 L/24,ÃšV vz 34 37 mm,37 mm L/478,Bofors wz 37 37 mm,Model 32 45 mm,Model 38 45 mm,L11 Model 1939 762mm L/305,762mm F34 (tank gun)
+Secondary,€“,792 mm Besa MG,€“,2Ã—MG34 792 mm,3Ã—MG34 792 mm,2Ã—MG34 792 mm,2Ã—MG 37(t) 792 mm,2Ã—MG 37(t) 792 mm,Ckm wz30 792 mm,2Ã—DT machine guns 762 mm,3Ã—DT 762 mm,2Ã—DT 762 mm (hull  turret rear),4Ã—DT 762 mm
+Ammunition,€“ 4000 rounds,93 AP shot 2925 rounds,€“ 2250 rounds,180 shells 2250 rounds,125 shells 4500 rounds,80 shells 2700 rounds,72 shells 1800 rounds,72 shells 2400 rounds,80 shells 3960 rounds,100 shells 2848 rounds,146 shells 2394 rounds,77 shells 2898€“4725 rounds,? shells ? rounds
+Engine,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Fuel,gasoline,diesel,gasoline,gasoline,gasoline,gasoline,gasoline,gasoline,diesel,gasoline,diesel,diesel,diesel
+Engine,8cylinder Ford,2x 6cylinder AEC or Leyland,6cylinder Maybach NL38TR,6cylinder petrol Maybach HL 140 hp (105 kW),12cylinder Maybach HL 120 TRM 300 PS (296 hp  220 kW),12cylinder Maybach HL 120 TRM 300 PS (296 hp  220 kW),6cylinder  koda T11/0,6cylinder Praga EPA,6cylinder Saurer VGLD,6cylinder GAZ T26,12cylinder V2,12cylinder V234,12cylinder V2
+Power,70 hp 52 kW,180 hp 134 kW,100 hp 75 kW,140 hp 104 kW,265 hp 197 kW,296 hp 220 kW,120 hp 89 kW,125 hp 93 kW,110 hp 82 kW,90 hp 67 kW,450 hp 340 kW,500 hp 375 kW,600 hp 450 kW
+Fuel consumption,?,?,103€“126 litres/100 km,?,?,?,?,?,81€“100 litres/100 km,?,?,?,?
+Mobility,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Suspension,sprung bogie,coil spring,coil spring/ leaf spring,leaf spring,torsionbar,leaf spring,leaf spring,leaf spring,leaf spring,leaf spring,Christie,Christie,torsionbar
+Speed (road) (terrain),13 km/h 9,24 km/h 15,40 km/h ?,40 km/h ?,40 km/h ?,42 km/h 16 km/h,34 km/h ?,42 km/h 15 km/h,37 km/h ?,30 km/h ?,86 km/h ?,535 km/h ?,35 km/h ?
+Range (road) (terrain),?,160 miles (257 km),140 km 115 km,200 km ?,155 km ?,320 km 200 km,190 km 120 km,250 km 160 km,160 km 130 km,225 km 150 km,700 km 400 km,300€“400 km 230€“260 km,335 km ?
+powerweight,63 hp/t,67 hp/t,167 hp/t,148 hp/t,120 hp/t,120 hp/t,109 hp/t,132 hp/t,111 hp/t,87 hp/t,306 hp/t,190 hp/t,130 hp/t
+Track width,[empty],[empty],280 mm,305 mm,360 mm,380 mm,320 mm,293 mm,267 mm,260 mm,300 mm,550 mm[8],?
+Ground pressure,?,?,?,?,?,965 kPa,?,?,59 kPa,60 kPa,765 kPa,6276 kPa,?
+Ground clearance,[empty],[empty],290 mm,?,385 mm,400 mm,350 mm,400 mm,376 mm,380 mm,350 mm,400 mm,?
+Vertical obstacle Trench crossing Fording depth,[empty],[empty],036 m 14 m 058 m,042 m ? 085 m,06 m 23 m 08 m,06 m 25 m 10 m,079 m 201 m 079 m,08 m 186 m 09 m,? 18 m 10 m,07 m 18 m 08 m,055 m 2 m 12 m,08 m[8] 25 m[8] 13m[8],?
+[empty],Matilda Mk I,Matilda Mk II,Panzer I,Panzer II,Panzer III,Panzer IV,LT vz 35,LT vz 38,7TP,T26,BT8,T34,KV1

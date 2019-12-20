@@ -1,0 +1,9 @@
+[empty],Creator,Latest stable version,Release date,OS,Software license,Open source,Programming language,Plugin support
+9menu,Arnold Robbins,18,dts|2004|06|01,Linux,GPL,yes,C,no
+Avant Window Navigator,Neil J Patel,042 [2],dts|2013|11|27,Linux,GPL,yes,C,yes
+dmenu,dwm developers,45[3],dts|2011|12|19,Linux,MIT License,yes,C,no
+GNOME Do,GNOME Do Developers,0951[4],dts|2014|01|23,Linux,GPL,yes,C#,yes
+LXPanel,LXDE Developers,0100[5],February 26  2019[6],Linux,GPL,yes,C,yes[7]
+Katapult,TDE Developers,R1406[8],dts|2019|03|05,Linux with TDE,GPL,yes,C,yes
+rofi,Dave Davenport,154[9],dts|2019|10|26,Linux,MIT/X11 License,yes,C,no
+Unity Dash,Canonical Ltd,730[10],dts|2014|06|19,Ubuntu,GPLv3,yes,Vala,yes ("lenses" and "scopes")

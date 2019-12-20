@@ -70,8 +70,8 @@ public class FileHandlerImpl implements FileHandler {
 	/**
 	 * {@inheritDoc}
 	 */
-	public String extractFilenameFromUrl(String url, int number) {
-		return url + "-" + number + ".csv";
+	public String extractFilenameFromUrl(String url) {
+		return url+".csv";
 
 	}
 	

@@ -1,0 +1,7 @@
+Kernel name,CRC32 (IEEE),CRC32c,MD2,MD4,MD5,SHA1,SHA2,SHA3,Michael MIC,Poly1305,RIPEMD128,RIPEMD160,RIPEMD256,RIPEMD320,Tiger,Whirlpool,HMAC,MDC2,GOST,LASH,VMAC
+Linux,yes[39][40],no,yes[41],yes[42],yes[43],yes[44] | yes[45],yes[46],yes[47],yes[48],yes[49],yes[50],yes[51],no,no,yes[52],[added],[added],[added],[added],[added],[added]
+yes,yes,yes,yes,yes,dunno | dunno | dunno,yes,dunno,yes,dunno,yes,yes,dunno | dunno,[added],[added],[added],[added],[added],[added],[added],[added],[added]
+dunno,yes,yes,yes,yes,no | dunno | no,no,no,no,no,yes,no,no | dunno,[added],[added],[added],[added],[added],[added],[added],[added],[added]
+FreeBSD kernel,yes,yes,dunno,yes,yes,yes,dunno | dunno | dunno,yes,dunno,yes,dunno,yes,dunno,dunno | dunno,[added],[added],[added],[added],[added],[added],[added]
+XNU kernel,yes,dunno,yes,dunno,yes,dunno,dunno | dunno | dunno,dunno,dunno,dunno,dunno,dunno,dunno,dunno | dunno,[added],[added],[added],[added],[added],[added],[added]
+Kernel name,CRC32 (IEEE),CRC32c,MD2,MD4,MD5,SHA1,SHA2,SHA3,Michael MIC,Poly1305,RIPEMD128,RIPEMD160,RIPEMD256,RIPEMD320,Tiger,Whirlpool,HMAC,MDC2,GOST,LASH,VMAC

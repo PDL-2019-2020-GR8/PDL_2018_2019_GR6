@@ -1,0 +1,20 @@
+Server,Authoritative,Recursive,Recursion ACL,Slave mode,Caching,DNSSEC,TSIG,IPv6,Wildcard,Free Software,Interface,split horizon
+BIGIP DNS,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes Citation needed|date=October 2019,API  command line,yes
+BIND,yes,Yes,yes,Yes,yes,yes,yes,yes (since 9x),yes (since 4x),yes,Webr|group=Note|bind_web  command line,yes
+PowerDNS,Yes,Yes,Yes,Yesr|group=Note|powerdns_slave6,Yes,Yes (since 30) r|group=Note|powerdns_dnssec,Yes (since 30),Yesr|group=Note|powerdns_slave6,Yes,Yes,REST  Webr|group=Note|powerdns_web  command line,partialr|group=Note|powerdns_views
+djbdns,yes,yes,yes,yesr|group=Note|djbslave,yes,partialr|group=Note|djbdns_dnssec,no,partial via generic records [2],partialr|group=Note|djbdns_wild,yes,command line and web (VegaDNS & NicTool),yesr|group=Note|locations
+dbndns,yes,yes,yes,yes,yes,no,no,yes,partial,yes,command line and web,yes
+pdnsd,partial,yes,partial,partial,yes,no [17],partial,yes,yes,yes,command line  pdnsdctl program,partial
+MaraDNS,Yes,Yes,Yes,partialr|group=Note|maraslave,yes,no,no,partial,yes,yes,command line,no
+Posadis,yes,yes,yes,yes,yes,no,no,yes,yes,Yes,command line  API,no
+Unbound,partial,yes,yes,n/a,yes,yes,no,yes,yes,yes,command line  API,yes
+Dnsmasq,partialr|group=Note|masqauth,no,no,no,yes,yes (since 269) r|group=Note|masqdnssec,no,yes,yes,yes,command line,partialr|group=Note|masqsplit
+NSD,Yes,No,n/a,yes,n/a,yes,yes,yes,yes,Yes,command line,no
+Knot DNS,Yes,No,n/a,yes,n/a,yes,yes,yes,yes,Yes,command line,Yesr|group=Note|knotdns_modules
+Knot Resolver,no,yes,yes,n/a,yes,yes,no,yes,yes,Yes,command line and web,no
+YADIFA,Yes,No,n/a,Yes,n/a,Yes,Yes,Yes,Yes,Yes,command line,No
+Microsoft DNS,Yes,Yes,Yesr|group=Note|msdns_policies,Yes,Yes,Yesr|group=Note|msdns_dnssec,Yesr|group=Note|msdns_tsig,Yesr|group=Note|msdns_ipv6,yes,No,GUI  command line  APIr|group=Note|msdns_api  WMIr|group=Note|msdns_wmi  RPCr|group=Note|msdns_rpc,Yesr|group=Note|msdns_policies
+Simple DNS Plus,yes,yes,yes,yes,yes,yes,yes,yes,yes,No,GUI  Web  command line,yesr|group=Note|sdns_views
+Secure64 DNS Authority,yes,no,no,yes,no,yes,yes,yes,yes,no,Command Line or Web GUI,yes
+Secure64 DNS Cache,no,yes,yes,no,yes,yes,no,yes,yes,no,Command Line or Web GUI,yes
+Server,Authoritative,Recursive,Recursion ACL,Slave mode,Caching,DNSSEC,TSIG,IPv6,Wildcard,Free Software,Interface,split horizon

@@ -1,0 +1,58 @@
+Software,Developer,First public release,Latest stable date (version),Cost (USD),Open source,License,Linux,Mac OS X,Windows,Framework
+7Zip,Igor Pavlov,19990719,20190221,free,yes,GNU LGPLv21 with unRAR restriction / LZMA SDK in the public domain,yes,yes,yes,C
+AccuHash,Irnis Haliullin,dunno,20081106 (2018),no|$1995,no,proprietary,no,no,yes,dunno
+BeaverSFV,KarlJohan Sj√∂gren,20080914,12,free,no,freeware,no,no,yes,NET
+CDCheck,Mitja Perko,2003,20080410 (31140),various,no,proprietary,no,no,yes,VCL
+Checksum Compare,Sanktu Aire,2012,20160210 (v142),free,no,freeware,no,no,yes,Qt
+Checksums,Acera AS,20150512,20151201 (102),free,no,freeware,no,no,yes,C
+cfv,Matthew Mueller,20000622,20090607 (1183),free,yes,GPL,yes,yes,yes,Python
+CHK,Ilya Muravyov,2010,20190920 (v321),free,no,freeware,no,no,yes,VCL
+cksum,various (POSIX),dunno,various,free,yes,various,yes,yes,dunno,C
+CyoHash,Graham Bull,20090901,20191004 (240),free,yes,BSD,no,no,yes,C
+Data Digester,Leisenfels,20130314,20150415 (1615),no|22Ç¨ to 69Ç¨,no,proprietary,yes,yes,yes,Java
+DeepDigest,Nick Stone,20120324,20140616 (1327),free,yes,GPL,yes,dunno,dunno,Qt
+Double Commander,Alexander Koblov and others,2007,20190216 (091),free,yes,GPL,yes,yes,yes,Object Pascal (Free Pascal/Lazarus)
+DySFV,Johan Sonesson,2007,20130423 (1400),free,yes,GPL,no,no,yes,NET
+ExactFile,Brandon Staggs,2009,20090223 (10015),free,no,freeware,no,no,yes,VCL
+eXpress CheckSum Calculator,Irnis Haliullin,2002,20021227 (10),free,no,freeware,no,no,yes,dunno
+FastSum,Kirill Zinov,2003,170403 GUI/190149 CLI,various,no,freeware/shareware,no,no,yes,dunno
+FCIV,Microsoft,dunno,20040517,free,no,freeware,no,no,yes,dunno
+Febooti Hash & CRC,Febooti Software,2006,20150925 (v37),free,no,freeware,no,no,yes,dunno
+FileVerifier,Tom Bramer,2006,20100522 (0635830),free,yes,GPL,no,no,yes,dunno
+FlashSFV,Charles DeWeese,2007,20070722 (26),free,no,freeware/donationware,no,no,yes,dunno
+FSUM,SlavaSoft,dunno,20070303 (252),free,no,freeware,no,no,yes,dunno
+Fsum Frontend,Thierry Micholt,2007,20080527 (1551),free,yes,GPL,dunno,dunno,yes,dunno
+PowerShell (via GetFileHash),Microsoft,20120904 (30),20180110 (60),Free,Yes|Yes; since v60,MIT License,yes,yes,yes,NET Core  NET Framework
+GtkHash[1],Tristan Heaven[2],20070629 (010),20181127 (12 ),free,yes,GPL,yes,dunno,no,GTK
+HashCalc,SlavaSoft,dunno,20070303 (202),free,no,freeware,no,no,yes,dunno
+HashCheck Shell Extension Gurnec version  SDL version,Kai Liu  various  gurnec (222240)  Software Development Laboratories (3031),20081129,20160907 (240),free,yes,BSD,no,no,yes,C
+HashForm,Igor Gresovnik,2010,? (16),free,no,freeware,yes,dunno,yes,NET
+HashShell,Igor Gresovnik,?,20160608 (16),free,no,freeware,yes,dunno,yes,NET
+ilSFV,Jud White,20091026,20110816 (110),free,yes,freeware,no,no,yes,NET 35
+jdigest,gdassieu,20090910,20110605 (030),free,yes,GPL,yes,yes,yes,Java
+jHashCalc,Death Master,20071001,20081018 (12),free,yes,GPL,dunno,dunno,dunno,Java
+Jacksum,Johann N L√∂fflmann,20020707,20060730 (170),free,yes,GPL,yes,yes,yes,Java
+MD5 File Hasher,DigitalTronic,2012,20150818 (1501),free,no,freeware/shareware,no,no,yes,dunno
+MD5 & SHA Checksum Utility,Raymond Lin,20130603,21,various,no,freeware/shareware,no,no,yes,NET
+md5deep (and HashDeep),Jesse Kornblum,2003,20140129 (44),free,yes,public domain,yes,yes,yes,C
+md5sum,various (POSIX),dunno,various,free,yes,various,yes,yesr|group=Note|called_md5_on_mac,yes,dunno
+MD5summer,Luke Pascoe,dunno,20060405 (12011),Free,yes,GPL / postcards,no,no,yes,(Delphi 7)
+MD5 Win Verifier,Serafino Sorleti,20140306,20140619 (1105),free,no,freeware,no,no,yes,NET
+PeaZip,Giorgio Tani,20060916,20191201 (700),free,yes,LGPL,yes,no,yes,Free Pascal
+QuickSFV,Mercedes,19991122,20080313 (236),Free,no,freeware,yes,no,yes,dunno
+RapidCRC,dunno,2004,20050205 (061),Free,yes,GPL,no,no,yes,dunno
+RekSFV,TryAndError  Inc,2006,20190223 (v181),Free,no,freeware,no,no,yes,VCL
+RHash,Aleksey (Akademgorodok),dunno,20190209 (v138),Free,yes,freeware,yes,no,yes,C
+SafeFileManager,Mindbytez Software,201211,20180827 (v12),Free,no,freeware,yes,no,yes,Java
+Sigcheck,Mark Russinovich (Sysinternals  Microsoft),?,20160729 (v253),Free,no,freeware / Licensing FAQ,no,no,yes,?
+SFV Checker,Traction Software,dunno,20180813 (204),various,no,proprietary,no,no,yes,dunno
+sha1sum,various (POSIX),dunno,various,free,yes,various,yes,yes,yes,dunno
+sha3sum,various (POSIX),dunno,various,free,yes,various,yes,yes,yes,Perl
+SuperSFV,Thomas Dixon,dunno,12,free,yes,GPL,no,yes,no,dunno
+TeraCopy,Code Sector,2007,20170223 (v30),various,no,freeware/shareware,no,yes,yes,Swift  Delphi
+Tom's Hash Explorer,Tom Andreas Mannerud,2016,20160819 (1200),free,no,freeware,no,no,yes,NET
+Toolsley Hash & Validate,Toolsleycom,2014,various,free,no,freeware/shareware,yes,yes,yes,dunno
+Total Commander,Christian Ghisler,20100617,20190314 (922),no|CHF40  Ç¨37  US$4179,no,proprietary,no,no,yes,Delphi
+WinHasher,Jeffrey T Darlington,20070926,20130802 (v16267),free,yes,GPL,no,no,yes,NET 20
+wxChecksums,Julien Couot,2003,20060304 (v122),free,yes,GPL,yes,dunno,yes,GTK
+Software,Developer,First public release,Latest stable date (version),Cost (USD),Open source,License,Linux,Mac OS X,Windows,Framework

@@ -1,0 +1,26 @@
+[empty],Editing style[1],Native operating systems,Latest stable version,Costs,License,Configurable,Integrated viewer,[empty]
+AUCTeX,Source,Linux  macOS  Windows,(20171210) 121,free,free|GPL,yes,yes,AUCTeX
+Authorea,Source / partialWYSIWYG,Online,N/A,free,proprietary,yes,yes,Authorea
+AutoLatex Equations for Google Docs,Source[2],Online,(20160106) 804,free,Unclear,yes,yes,AutoLatex Equations for Google Docs
+CoCalc,Source,Online,N/A,free,free|AGPL,yes,yes,CoCalc
+GNOME LaTeX,Source,Linux,(20190310) 332,free,free|GPL,yes,no,GNOME LaTeX
+Gummi,Source,Linux,(20160127) 066,free,free|MIT,yes,yes (Live update),Gummi
+Kile,Source,Linux (macOS  Windows)[3],(20120923) 213,free,free|GPL,yes,yes (Quick preview),Kile
+LEd,Source,Windows,(20091009) 053,free,proprietary,?,yes (dvi),LEd
+LyX,WYSIWYM,Linux  macOS  Windows,(20190625) 233,free,free|GPL,yes,yes,LyX
+MeWa,Source,Windows,(20070606) 140,free,free|GPL,yes,no,MeWa
+Notepad,Source,Windows,(20191029) 781,free,free|GPL,yes,no  but can be integrated [4],Notepad
+Overleaf,Source,Online,N/A,free,Unclear,yes,yes,Overleaf
+Scientific WorkPlace,WYSIWYM,Windows,(20160223) 6012,nonfree,proprietary,yes,yes,Scientific WorkPlace
+ShareLaTeX[5],Source,Online,N/A,free,free|AGPL,yes,yes,ShareLaTeX
+TexLab,SourceWYSIWYG,Windows,(20190430) 78,free,free,yes,yes,TexLab
+TeXmacs,WYSIWYG,Linux  macOS  Windows,(20171221) 1996,free,free|GPL,yes,yes,TeXmacs
+Texmaker,Source,Linux  macOS  Windows,(20181101) 503,free,free|GPL2,yes,yes,Texmaker
+TeXnicCenter,Source,Windows,Latest stable software release/TeXnicCenter,free,free|GPL,yes,no,TeXnicCenter
+TeXShop,Source,macOS,(20191023) 444,free,free|GPL,yes,yes,TeXShop
+TeXstudio,Source,Linux  Windows  macOS,(20190519) 21216,free,free|GPL2,yes,yes (pdf  selection with dvi2png),TeXstudio
+TeXworks,Source,Linux  macOS  Windows,(201903) 063,free,free|GPL,no,yes (pdf),TeXworks
+Verbosus,Source,Online  Android  iOS,(20160506) 413,free,proprietary,yes,yes (pdf),Verbosus
+WinEdt,Source,Windows,(20170413) 102,nonfree,proprietary,yes,no,WinEdt
+WinShell,Source,Windows,(20130210) 3326,free,proprietary,yes,no,WinShell
+[empty],Editing Style,Native Operating Systems,Latest stable version,Costs,License,Configurable,Integrated viewer,[empty]

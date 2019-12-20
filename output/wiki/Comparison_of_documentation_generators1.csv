@@ -1,0 +1,29 @@
+Name,Creator,First public release date,Latest stable version,Software license
+Ddoc,Walter Bright,2005/09/19,DMD 20783,Free|Boost
+Document! X,Innovasys,1998,20141,Nonfree|Proprietary
+Doxygen,Dimitri van Heesch,1997/10/26,1814,Free|GPL
+Epydoc,Edward Loper,2002/01/€”,30 (2008),Free|MIT
+fpdoc (Free Pascal Documentation Generator),Sebastian Guenther,2005?,264,Free|GPL
+Haddock,Simon Marlow,2002,2131 (2012),Free|BSD
+HeaderDoc,Apple Inc,2000/09/€”,8928,Free|APSL
+Imagix 4D,Imagix Corp,1995,73,Nonfree|Proprietary
+Javadoc,Sun Microsystems,1995,16,Free|GPL
+ScalaDoc,LAMP  EPFL,2011,10,Free|Scala License
+JSDoc,Michael Mathews,2001/07/€”,1102,Free|GPL
+JsDoc Toolkit,Michael Mathews,2007?,200,Free|MIT
+mkd,JeanPaul Louyot,1989,2015,Free|EUPL GPL
+Natural Docs,Greg Valure,2003/05/26,202,Free|GPL
+NDoc,Jason Diamond  JeanClaude Manoli  Kral Ferch,2003/07/27,131,Free|GPL
+Pandoc,John MacFarlane,2006,11403 (2015),Free|GPL
+pdoc,Andrew Gallant,2013,051,Free|Affero GPL
+perldoc,Larry Wall,1994,5163,Free|Artistic  GPL
+phpDocumentor,Joshua Eichorn,2000,144,Free|LGPL
+pydoc,KaPing Yee[1][2],2000,in Python core,Free|Python
+RDoc,Dave Thomas,2001/12/14,in Ruby core,Free|Ruby
+ROBODoc,Frans Slothouber,1995/01/19,49936,Free|GPL
+Sandcastle,Microsoft,2008/05/€”,20145310,Free|MsPL
+Sphinx,Georg Brandl,2008/03/21,163,Free|BSD
+Visual Expert,Novalys,1995,2017,Nonfree|Proprietary
+VSdocman,Helixoft,2003 Oct 2,90,Nonfree|Proprietary
+YARD,Loren Segal,2007/02/24,073,Free|MIT
+Name,Creator,First public release date,Latest stable version,Software license

@@ -1,0 +1,25 @@
+Feature,AROS,FreeBSD,Linuxbased,HPUX,OpenVMS,macOS,Solaris,Windows (cmd),Windows (PowerShell)
+List directory,list  dir,ls,ls,ls,dir,ls,ls,dir,GetChildItem
+Clear console,clear,clear,clear,clear,dunno,clear,clear,cls,ClearHost
+Copy file(s),copy,cp,cp,cp,copy,cp,cp,copy,CopyItem
+Move file(s),move,mv,mv,mv,dunno,mv,mv,move,MoveItem
+Rename file(s),rename,mv,mv  rename,mv,ren,mv,mv,ren (rename),RenameItem
+Delete file(s),delete,rm,rm,rm,del,rm,rm,del (erase),RemoveItem
+Delete directory,delete,rmdir,rmdir,rmdir,del,rmdir,rmdir,rd (rmdir),RemoveItem
+Create directory,makedir,mkdir,mkdir,mkdir,create/dir,mkdir,mkdir,md (mkdir),NewItem
+Change current directory,cd [46],cd,cd,cd,set def,cd,cd,cd (chdir),SetLocation
+Run shell script with new shell,shell fileshell,sh filesh,sh filesh,sh filesh,@ filecom,sh filesh,sh filesh,cmd /c filecmd,powershell fileps1
+Kill processes,dunno,kill  killall,killall  pkill  kill  skill,kill,stop,kill  killall,kill  pkill,taskkill,StopProcess
+Change process priority,changetaskpri,nice,nice  chrt,nice,set proc/prio,nice,nice,start /low  start /normal  start /high  start /realtime,StartProcess  wmic
+Change I/O priority,dunno,[47],ionice,dunno,set proc/prio,nice[48],dunno,dunno,dunno
+Create file system,format,newfs,mkfs,newfs,init,mkfs,newfs  zpool\|zfs create,format,FormatVolume
+File system check and recovery,dunno,fsck,fsck,fsck,analyze/disk,fsck,fsck,chkdsk,RepairVolume
+Create software raid,dunno,atacontrol  gmirror  zfs create,mdadm C,dunno,dunno,diskutil appleRAID,metainit  zpool create,diskpart (mirror only),diskpart (mirror only)
+Mount device,mount,mount,mount,mount,mount,mount  diskutil mount,mount,mountvol,NewPSDrive
+Unmount device,assign drivename dismount,umount,umount,umount,dismount,umount  diskutil unmount(disk),umount,mountvol /d,RemovePSDrive
+Mount file as block device,dunno,mdconfig  mount,mount o loop,dunno,dunno,hdid,lofiadm  mount,dunno,dunno
+Show network configuration,dunno,ifconfig,ip addr  ifconfig,ifconfig  lanadmin,tcpip sh net (sh net),ifconfig,ifconfig,ipconfig,GetNetIPInterface  ipconfig
+Show network route,dunno,netstat r  route get  route monitor,ip route  route,netstat r,tcpip sh route,netstat r  route get  route monitor,netstat r,route,GetNetRoute
+Trace network route,dunno,traceroute,traceroute,traceroute,tcptrace,traceroute,traceroute,tracert,TestNetConnection
+Trace network route with pings,dunno,traceroute I,traceroute I  mtr,dunno,tcptrace,traceroute I,traceroute I,pathping,pathping
+Feature,AROS,FreeBSD,Linuxbased,HPUX,OpenVMS,macOS,Solaris,Windows (cmd),Windows (PowerShell)

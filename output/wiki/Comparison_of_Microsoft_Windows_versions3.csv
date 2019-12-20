@@ -1,0 +1,9 @@
+[empty],Release date,RTM build,Current version,Status support,Codename,Based on (kernel),Kernel type,Operating environments,Editions,Purpose,Short description
+Windows CE 10,199611,[empty],[empty],[empty],Pegasus  Alder,CE 10,[empty],[empty],[empty],Embedded,first release of Microsoft's Windows CE line for minimalistic computers and embedded systems
+Windows CE 20,199711,[empty],[empty],[empty],Mercury  Apollo,CE 20,[empty],[empty],21  211,Embedded,[empty]
+Windows CE 30,200004,[empty],[empty],Unsupported (20071009),Cedar  Galileo  Rapier  Merlin  Stinger,CE 30,Embedded kernel,[empty],[empty],Embedded,[empty]
+Windows CE 40,20020107,[empty],[empty],[empty],Talisker,CE 40,[empty],[empty],41  42,Embedded,[empty]
+Windows CE 50,20040709,[empty],50 (20040709),Unsupported (20141014),Macallan,CE 50,Embedded kernel,[empty],[empty],Embedded,[empty]
+Windows Embedded CE 60,20061101,[empty],[empty],Unsupported (20180410),Yamazaki,CE 60,Hybrid kernel,[empty],[empty],[empty],[empty]
+Windows Embedded Compact 7,20110301,dunno,dunno,Supported (20210413),dunno,CE 70,Hybrid,dunno Standard  POSReadyn/a||align=|style=|color=,[empty],[empty],[added]
+Windows Embedded Compact 2013,20130811,[empty],Update 17 (20171115),Supported (20231010),[empty],CE 80,[empty],[empty],Standard Industry (80  81) Handheld,Embedded,[empty]

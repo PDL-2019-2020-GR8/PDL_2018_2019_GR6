@@ -1,0 +1,32 @@
+[empty],Version,Operating systems,Office suite,Developer,License,ECMA376,ISO/IEC 295002008,Notes
+AbiWord,260 [7] 265[8],Windows  Mac OS X  Linux  Unix,[empty],AbiSource,free|GPL,yes,[empty],[empty]
+Adobe Buzzword,beta 3  build 600113[9],Web application,Standalone,Adobe Systems,proprietary,yes,[empty],Limited support
+Atlantis Word Processor,163[10],Windows,Standalone,Rising Sun Solutions,proprietary,yes,[empty],[empty]
+Butler Office Pro X,220[11],Mac OS X,Butler Office Pro X,Butler Software Solutions,proprietary,yes,[empty],Full support via email
+DataViz Word To Go,11000[12],Palm OS  Windows Mobile  Symbian (UIQ  S80),Documents To Go,DataViz,proprietary,yes,[empty],[empty]
+EIOffice Word Processor,2009  501272101[13],Windows  Linux,EIOffice,Evermore Software,proprietary,yes,[empty],Import only[13]
+Gooo Writer,300[14],Windows  Linux  Unix  Mac OS X,Gooo,Free software community,free|LGPL  CDDL,yes,[empty],Import only Gooo discontinued in favour of LibreOffice
+Google Docs,(current)[15],Web application,Google Docs,Google,proprietary,yes,[empty],[empty]
+IBM Lotus Symphony,13[16],Windows  Mac OS X  Linux,IBM Lotus Symphony,IBM,proprietary,yes,[empty],Import only
+Ichitaro,2008[17],Windows  Linux,Standalone,JustSystems,proprietary,yes,[empty],[empty]
+Jarte,30[18][19],Windows,Standalone,Carolina Road Software,proprietary,yes,[empty],Import only[20][21]
+Kingsoft Office Writer,2009[22] 6301733,Windows,Kingsoft Office,Kingsoft,proprietary,yes,[empty],Import only beta support
+LibreOffice,All versions,Windows  OS X  Linux  Unix  Android,[empty],The Document Foundation,free|MPL,yes,yes,[empty]
+Microsoft Office OneNote,2007,Windows,Microsoft Office,Microsoft,proprietary,yes,[empty],Export only
+Microsoft Office Publisher,2013,Windows,Microsoft Office,Microsoft,proprietary,yes,[empty],[empty]
+Microsoft Office Word,2013  2011 for Mac,Windows  Mac OS X,Microsoft Office,Microsoft,proprietary,yes,yes,[empty]
+Microsoft Office Mobile Word Mobile,61[23],Windows Mobile,Microsoft Office Mobile,Microsoft,proprietary,yes,[empty],[empty]
+Microsoft Works Word Processor,9[24],Windows,Microsoft Works,Microsoft,proprietary,yes,yes,[empty]
+NeoOffice Writer,221[25],Mac OS X,NeoOffice,Patrick Luby and Edward Peterlin,free|GPL,yes,[empty],[empty]
+Nisus Writer Pro,12[26],Mac OS X v104 or later,Standalone,Nisus Software  Inc,proprietary,yes,[empty],[empty]
+ONLYOFFICE,52[27],Web Application,ONLYOFFICE,Ascensio System SIA,Proprietary  AGPL,yes,!,[added]
+OpenOffice Writer,30,Windows  Linux  Unix  Mac OS X,OpenOfficeorg,Apache OpenOffice,free|LGPL,yes,[empty],Import only
+OpenXML Writer,10[28],Windows,Standalone,OpenXMLbiz,free|MsRL,yes,[empty],[empty]
+Pages,'08[29],Mac OS X,iWork,Apple Inc,proprietary,yes,[empty],[empty]
+StarOffice Writer,9[30],Windows  Linux  Solaris,StarOffice,Sun Microsystems,proprietary,yes,[empty],Import only[31]
+TextEdit,starting with Mac OS X v105[32],Mac OS X,Standalone,Apple Inc,free|BSD 3clause,yes,[empty],Bundled with Mac OS X  which yields limited support
+TextMaker,2010,Windows  Linux  Windows Mobile  Windows CE  Android,SoftMaker Office,SoftMaker Software GmbH,proprietary,yes,[empty],[empty]
+Thinkfree Office Write,[33],Windows  Mac OS X  Linux,Thinkfree Office,ThinkFree Corp,proprietary,yes,[empty],[empty]
+WordPerfect,X4 (2008)[34],Windows,Corel WordPerfect Office X4,Corel,proprietary,yes,[empty],Import only
+Zoho Writer,(current),Web application,Zoho Office Suite,AdventNet Inc,proprietary,yes,[empty],[empty]
+! Version,Operating systems,Office suite,Developer,License,ECMA376,ISO/IEC 295002008,Notes,[added]

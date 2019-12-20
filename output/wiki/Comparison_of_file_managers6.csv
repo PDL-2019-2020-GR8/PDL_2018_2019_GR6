@@ -1,0 +1,34 @@
+File manager,File Name [87],File Contents [88],Basic metadata search [89],All metadata search [90],RegExp for Contents,Boolean (nesting levels),Fuzzy logic [91],Save searches [92],Refined searches [93]
+Altap Salamander,yes,dunno,yes,dunno,yes[94],yes,dunno,yes,yes
+Commander One,yes,yes,yes[42],yes[42],yes,yes,dunno,no,no
+CRAX Commander,yes,yes,yes[42],dunno,yes,yes,dunno,no,no
+Directory Opus,yes,yes,yes,yes,yes,yes,yes,yes,yes
+Dired,yes,dunno,no,no,yes,yes,yes,no,no
+Documents by Readdle,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Dolphin,yes,dunno,yes,yes,yes,yes,dunno,dunno,yes
+Double Commander,yes,yes,yes,yes,yes,yes,dunno,dunno,dunno
+emelFM2,yes,dunno,yes,yes,dunno,dunno,dunno,partial,dunno
+FAR Manager,yes,dunno,yes,yes,yes[72],yes[72],yes[72],yes,yes
+File Commander,yes,no,yes,no,no,yes,no,yes,no
+Files (Apple),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Files by Google,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Finder,yes,dunno,yes,yes,no,dunno,dunno,yes,dunno
+ForkLift,yes,partial,yes,yes,yes,yes,dunno,no,no
+Konqueror,yes,yes,yes,yes,yes,yes,no,yes,yes
+Krusader,yes,dunno,yes,yes,yes[95],no,no,yes,yes
+GNOME Files (Nautilus),yes,dunno,partial [96],partial [96],dunno,dunno,dunno,yes,dunno
+Nemo,?,?,?,?,?,?,?,?,?
+NomadNET,yes,yes,yes,yes,yes,yes,no,yes,yes
+Path Finder,yes,dunno,yes,yes,no,no,dunno,no,no
+PCManFM,yes,dunno,yes,no,yes,no,no,no,no
+ROXFiler,yes,dunno,yes,yes,yes,yes,dunno,no,dunno
+Total Commander,yes,yes,yes,yes,yes,yes,no,yes,partial [97]
+Windows Explorer,yes,no,yes,no,no,dunno,dunno,yes,yes
+Xandros File Manager,dunno,dunno,dunno,dunno,dunno,dunno,dunno,dunno,dunno
+Xfe,yes,yes[98],yes,no,no,no,no,no,no
+Xfile,yes,no,yes,no,yes,yes,no,yes,yes
+Xfm,dunno,dunno,dunno,dunno,dunno,dunno,dunno,dunno,dunno
+xplorer²,yes,dunno,yes,yes,yes,yes,yes,yes,yes
+XYplorer,yes,yes,yes,yes,yes,yes,yes,yes,yes[99]
+ZTreeWin,yes,yes,yes,partial,partial [100],yes,yes,yes,yes
+File manager,File Name [87],File Contents [88],Basic metadata search [89],All metadata search [90],RegExp for Contents,Boolean (nesting levels),Fuzzy logic [91],Save searches [92],Refined searches [93]

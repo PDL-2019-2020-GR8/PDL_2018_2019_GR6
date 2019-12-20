@@ -1,0 +1,23 @@
+[empty],AIX,*BSD,HPUX,Linux,OS X,Solaris,Windows,Others
+Ansible,yes,yes,yes,yes,yes,yes,yes (Need linux control machine),yes[98]
+Bcfg2,partial[99],yes[100],no,yes[101],partial[102],yes,no,no
+CFEngine,yes,yes[100],yes,yes,no,yes,yes,yes[103]
+cdist,[empty],yes,[empty],yes,yes,[empty],no,[empty]
+Chef,yes[104],yes,yes,yes,yes,yes,yes[105],yes
+ISconf,yes,yes,yes,yes,yes,yes,no,no
+Juju,[empty],[empty],[empty],yes,[empty],[empty],yes[106],[empty]
+Local ConFiGuration system (LCFG),no,no,no,partial[107],partial[108],partial[109],no,no
+OCS Inventory NG,yes,yes,yes,yes,yes,yes,yes,no
+Open pc server integration (Opsi),no,no,no,yes,no,no,yes,no
+PIKT,yes,yes,yes,yes,yes,yes,no,yes[110]
+Puppet,yes,yes,yes,yes,yes,yes,yes,yes
+Quattor,no,no,no,yes,partial[111],yes,no,no
+Radmind,yes,yes[100][112][113],no,yes,yes,yes,yes,no
+Rex,[empty],yes,[empty],yes,yes[114],yes,yes[114],no
+Rudder,yes,partial[115],no,yes,partial[115],partial[116],yes,yes[117]
+SmartFrog,no[118],no[118],yes,yes,yes,yes,yes,no[118]
+Salt,yes,yes,partial[119],yes[120],yes,yes[121],yes,partial[119]
+Spacewalk,no[122],no,no,yes[123],no,yes[124],no,no
+STAF,yes[125],yes[126],yes[127],yes[128],yes[129],yes[130],yes[131],yes[132]
+Synctool,yes,yes,yes,yes,yes,yes,no,yes[133]
+[empty],AIX,*BSD,HPUX,Linux,OS X,Solaris,Windows,Others

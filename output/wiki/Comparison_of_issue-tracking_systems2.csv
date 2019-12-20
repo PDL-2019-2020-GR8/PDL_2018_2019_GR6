@@ -1,0 +1,39 @@
+System,Documentation integration/generation  reporting,Test planning integration,Customizable workflow,Unicode support,Custom fields,SLA[5],Plugin API[6],Multiple projects,Fulltext search,Indexed fulltext search,Indexed file search,Edit conflict warning
+Apache Bloodhound,Yes  integrated wiki,Yes,Yes,Yes,Yes,No,Yes,Yes (as of 06),Yes,Yes[7] uses Whoosh,No,No
+Assembla Tickets,Yes  Wiki syntax  email notification  linking to Subversion commits  document manager  charts  reports  notifications,Yes,Yes,Yes,Yes,No,Yes,Yes,No,unk,No,No
+Axosoft,Yes  Team Wiki  Burndown  GitHub and TortoiseSVN integration  dashboards  custom reports for OnPremises  email notifications and alerts  customer portal  RSS,No,Yes,Yes,Yes,Yes,Yes,Yes,[empty],[empty],[empty],No
+Bugzilla,Yes  reporting integrated reports and charts  scheduled reports by mail,Yes[8],Yes,Yes,Yes,No,Yes,Yes,Yes[9],Yes When using MySQL MyISAM[10] or Oracle Database[11] but not PostgreSQL[12],[empty],Yes[13]
+Debbugs,No,No,No,Yes,No,No,No,unk,[empty],[empty],No,No
+Faveo Helpdesk,Yes  Integrated Social Media  Inbuilt Knowledge Base and Reporting,No,Yes,Yes,Yes,Yes,Yes,NA,Yes,No,No,No
+FogBugz,Yes  Integrated wiki,No,Yes,Yes,Yes,No,Yes[14],Yes,Yes[15],Yes[16],No[17],Yes
+Fossil,Yes  Integrated Wiki in addition to integrated versioned project documentation via web ui,No,No,No,Yes,No,No,Yes[18],No[19],No,[empty],No
+FusionForge,Yes  integrated Mediawiki  discussion forums  news blogs  email integration  export to CSV  reporting graphs,No,Yes,Yes,Yes,No,Yes,Yes,Yes,[empty],[empty],No
+GLPI,Yes  Contains a proprietary knowledge base of sorts,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+GNATS,No,No,No,No,No,No,No,unk,[empty],[empty],[empty],No
+HP Quality Center,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No
+IBM Rational ClearQuest,Yes  reporting integrated charts and interface to Crystal Reports,Yes,Yes,Yes,Yes,No,Yes,Yes,optional[20],optional uses Solr and Lucene,[empty],No
+IBM Rational Team Concert,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,[empty],[empty],[empty],No
+Jira,Yes  Dashboard with reporting widgets (Open Social) Excel  Word  customizable charts  Confluence (Enterprise wiki),Yes[21],Yes,Yes,Yes,Yes,Yes[22],Yes,Yes[23],Yes Uses Lucene[23],optional[24],No[25]
+Launchpad,Yes,unk,unk,unk,unk,unk,unk,unk,unk,unk,unk,No
+MantisBT,Yes  Integration of MediaWiki  DokuWiki  XWiki,No,Yes,Yes,Yes,No,Yes,Yes,Yes[26],Yes,No[27],Yes
+Microsoft Dynamics CRM,Yes  reporting integrated charts and reports  export to Excel  Mail Merge,No,Yes,Yes,Yes,No,Yes,unk,[empty],[empty],[empty],No
+orgmode,Yes  orgmode has builtin export to HTML  Latex  md and literate programming capabilities for multiple languages in a single document,No,Yes,Yes,Yes,No,No,Yes,Yes,[empty],[empty],No
+OTRS,Yes  Advanced reporting  configurable dashboards,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+Phabricator,Yes  integrated wiki and limited burn down charts,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+Pivotal Tracker,Yes  real time collaborative story backlog  integrated reports  email notification,Yes,No,Yes,No,No,Yes,Yes,[empty],[empty],[empty],No
+Redmine,Yes  integrated wiki  discussion forums  news blogs  email integration  calendars  Gantt Charts  RSS  export to PDF  export to Excel/CSV,Yes[28],Yes,Yes,Yes,optional[29],Yes,Yes,Yes[30],optional  when using PostgreSQL[31],optional[32],Yes[33]
+Request Tracker,Yes  MediaWiki[34],No,Yes,Yes,Yes,Yes[35],Yes[36],Yes,Yes[37],Yes[37],[empty],No
+Roundup,Yes  wiki can be integrated or linked,No,Yes,Yes,Yes,No,Yes[38],Yes,Yes[39],Yes with issues[40],Yes,No
+StarTeam,No,Yes[41],Yes,No,Yes,No,No,unk,[empty],[empty],[empty],No
+Supportworks,Yes  Integrated reporting wizard  customizable PHP reporting tool  dashboard  optional interface with Crystal Reports  export to Microsoft Excel/CSV  knowledge base  optional asset management tool,No,Yes,No,Yes,Yes,Yes[42],unk,[empty],[empty],[empty],No
+SysAid,Yes  LDAP/Email/Calendar integration  integrated Asset Management  integrated reporting  SSO  custom fields  export to CSV/PDF  KB,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,unk,No,No
+Team Foundation Server,Yes  workflow definitions  process documentation,Yes,Yes,Yes,Yes,No,Yes,Yes,[empty],[empty],[empty],No
+Teamwork,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes[43],Yes Uses Lucene,[empty],No
+TestTrack,Yes  Advanced reporting  integrated charts  export to Excel  workflow with triggers,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,[empty],No
+Trac,Yes  integrated wiki,Yes[44],Yes,Yes,Yes,No,Yes[45],Yes[46],Yes,No[47],[empty],Yes[48]
+TrackerSuiteNet,Yes Dashboards Graphical reports Integration with Crystal Reports Reports can be exported to Microsoft Excel,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No
+Tuleap,Yes  Kanban boards  Scrum planning and burndown charts  pies  Gantt  barrs  cardwall  Document Manager with approval workflow and fine grained permissions  wikis,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes with plugin fulltext,Yes with plugin fulltext,No,No
+Usersnap,Yes Dashboards  Help Center,No,Yes  via Tags,Yes,Yes,Yes  available for enterprise plans,Yes,Yes,Yes,Yes,N/A,No
+Wrike,Yes  realtime customized reports  export to Excel  scheduled reports by mail  alerts  discussions  Gantt charts ,No,Yes,Yes,Yes,No,Yes,Yes,unk,[empty],[empty],No
+YouTrack,Yes Wiki syntax  custom workflow  custom issue attributes  notifications (email  jabber  RSS  etc)  email integration  reports  export to HTML and CSV  integration with VCSs,Yes[49],Yes,Yes,Yes,Yes[50],Yes[51],Yes,Yes[52],Yes (Uses Lucene),[empty],No
+System,Dynamic documentation integration/generation,Test planning integration,Customizable workflow,Unicode support,Custom fields,SLA[5],Plugin API[6],Multiple projects,Fulltext search,Indexed fulltext search,Indexed file search,Edit conflict warning

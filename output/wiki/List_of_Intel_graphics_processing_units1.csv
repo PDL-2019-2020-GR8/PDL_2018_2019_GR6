@@ -1,0 +1,8 @@
+Graphics,Launch,Market,Chipset,Code name,Device id[3],RAMDAC clock (MHz),Pixel pipelines,Shader model (vertex/pixel),API support,Memory bandwidth (GB/s),DVMT (MB),Hardware acceleration
+Direct3D,OpenGL,OpenCL,MPEG2,VC1,AVC,[added],[added],[added],[added],[added],[added],[added]
+i740,1998,Desktop,standalone,Auburn,7800,220,1,30 (SW) / No,50,11,rowspan=6 No,08
+752,1999,Portola,1240,250,60 (full) 80 (some features  no hardware shaders),08(PC100)€“1067(PC133) 1067(AGP 4Ã— for AIMM),8€“16,MC,[added],[added],[added],[added]
+3D graphics with Direct AGP,810,Whitney,7121,230,32,[added],[added],[added],[added],[added],[added],[added]
+810DC100,7123,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+810E 810E2,7125,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+2000,815 815E 815G 815EG,Solano,1132,60 (full) 90 (some features  no hardware shaders),[added],[added],[added],[added],[added],[added],[added],[added]

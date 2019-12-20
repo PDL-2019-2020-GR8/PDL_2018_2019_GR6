@@ -1,0 +1,30 @@
+Name,Networking support,NE2000/RTL8029,RTL8139,Gigabit Ethernet,10 Gigabit Ethernet,Wireless LAN,Bluetooth,IrDA
+Linux,yes,yes,yes,yes,yes,yes,yes,yes
+FreeBSD,yes,yes,yes,yes,yes,yes,yes,yes
+OpenBSD,yes,yes,yes,yes,yes,yes,yes,no
+NetBSD,yes,yes,yes,yes,yes,yes,yes,yes
+DragonFly BSD,yes,[empty],yes,yes,yes,yes,yes,[empty]
+OpenSolaris  illumos,yes,[empty],yes,yes,yes,yes,no,no
+AuroraUX,yes,[empty],yes,yes,yes,yes,no,no
+Darwin  OpenDarwin,yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MINIX,yes,[empty],yes,[empty],[empty],[empty],[empty],[empty]
+FreeDOS,yes,yes,yes,[empty],[empty],[empty],[empty],[empty]
+Genode,yes,no,no,yes,no,yes,no,no
+Haiku,yes,yes,yes,yes,[empty],yes,[empty],[empty]
+KolibriOS,yes,yes,yes,[empty],[empty],[empty],no,yes
+MenuetOS,yes,yes,[empty],[empty],[empty],[empty],no,no
+GNU,yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ReactOS,yes,yes,yes,yes,yes,yes,no,no
+L4  Fiasco  Pistachio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Plan 9,yes,yes,yes,yes,yes,yes,no,no
+AROS,yes,yes,[empty],[empty],[empty],[empty],[empty],[empty]
+Syllable,yes,yes,yes,yes,[empty],[empty],[empty],[empty]
+Inferno,yes,yes,yes,yes,[empty],yes,no,no
+FreeRTOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+eCos,yes,[empty],[empty],yes,[empty],[empty],yes,[empty]
+RTEMS,yes,yes,yes,yes,no,no,no,no
+HelenOS,yes,yes,yes,yes,no,no,no,no
+E/OS,yes,yes,yes,yes,yes,noRef|11,no,
+K42,[added],[added],[added],[added],[added],[added],[added],[added]
+UnixLite >,[added],[added],[added],[added],[added],[added],[added],[added]
+Name,Networking support,NE2000/RTL8029,RTL8139,Gigabit Ethernet,10 Gigabit Ethernet,Wireless LAN,Bluetooth,IrDA

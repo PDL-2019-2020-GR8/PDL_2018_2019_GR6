@@ -1,0 +1,24 @@
+Version,Shell,Visual styles,Browser,Web server,Windows Media Player,Commandline interpreter
+Windows 10,MSDOS executive,(Unnamed),N/A,N/A,N/A,N/A
+Windows 20,MSDOS executive,(Unnamed),N/A,N/A,N/A,N/A
+Windows 30,Program Manager,(Unnamed),N/A,N/A,30 (Multimedia Extension edition only),N/A
+Windows 31x,Program Manager,(Unnamed),N/A,N/A,31,N/A
+Windows 95,Windows shell,Classic,Internet Explorer 1 in OEM RTM Internet Explorer 2 in OSR1 Internet Explorer 3 in OSR2 and OSR21 Internet Explorer 4 in OSR25,N/A,40,COMMANDCOM
+Windows NT 40,Windows shell,Classic,Internet Explorer 2 Internet Explorer 3 (in some localized editions),PWS,40,COMMANDCOM  CMDEXE
+Windows 98,Windows shell,Classic,Internet Explorer 401,PWS,40,COMMANDCOM
+Windows 98 SE,Windows shell,Classic,Internet Explorer 5,PWS,40,COMMANDCOM
+Windows 2000,Windows shell,Classic,Internet Explorer 501,IIS 50,50 and 64 (side by side),COMMANDCOM  CMDEXE
+Windows Me,Windows shell,Classic,Internet Explorer 55,N/A,64 and 70 (side by side),COMMANDCOM
+Windows XP,Windows shell,Luna (default)  Classic,Internet Explorer 6,IIS 51,51  64 and 8 (in RTM) 51  64 and 9 (in SP2),COMMANDCOM  CMDEXE  PowerShell (optional)
+Windows Server 2003,Windows shell,Classic (default)  Luna,60,IIS 60,9 (in RTM)  10 (in SP1),COMMANDCOM  CMDEXE  PowerShell (optional)
+Windows Vista,Windows shell,Aero (default)  Classic,Internet Explorer 7,IIS 7,11,COMMANDCOM  CMDEXE  PowerShell (optional)
+Windows Server 2008,Windows shell  Server Core,Classic (default)  Aero (via "Desktop Experience"),Internet Explorer 7,IIS 7,11 (enabled by installing "Desktop Experience"),COMMANDCOM  CMDEXE  PowerShell (optional)
+Windows 7,Windows shell,Aero (default)  Classic,Internet Explorer 8,IIS 75,12,COMMANDCOM  CMDEXE  PowerShell v20
+Windows Server 2008 R2,Windows shell  Server Core,Classic (default)  Aero (via "Desktop Experience"),Internet Explorer 8,IIS 75,12 (via "Desktop Experience"),CMDEXE  PowerShell v20
+Windows Server 2012,Windows shell  Server Core,Metro,Internet Explorer 10,IIS 8,12 (via "Desktop Experience"),CMDEXE  PowerShell v30
+Windows 8,Windows shell,Metro,Internet Explorer 10,IIS 8,12,COMMANDCOM  CMDEXE  PowerShell v30
+Windows Server 2012 R2,Windows shell  Windows server core,Metro,Internet Explorer 11,IIS 85,12 (via "Desktop Experience"),CMDEXE  PowerShell v40
+Windows 81,Windows shell,Metro,Internet Explorer 11,IIS 85,12,COMMANDCOM  CMDEXE  PowerShell v40
+Windows 10,Windows shell,Metro,Internet Explorer 11 Microsoft Edge 1213,IIS 100,12,COMMANDCOM  CMDEXE  PowerShell v50
+Windows Server 2016,Windows shell  Windows server core,Metro,Internet Explorer 11 Microsoft Edge 13,IIS 100,12 (via "Desktop Experience"),CMDEXE  PowerShell v50
+Windows Server 2019,Windows shell  Windows server core,Metro,Internet Explorer 11 Microsoft Edge 13,IIS 100,12 (via "Desktop Experience"),CMDEXE  PowerShell v50

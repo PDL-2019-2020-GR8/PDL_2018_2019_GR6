@@ -1,0 +1,54 @@
+S No,Name,Operator,Manufacturer,Max range,Missile mass,Warhead/payload,Status,First flight,MIRV,Mobility,Accuracy (CEP)
+1,RS28 Sarmat,Russia,State Rocket Center Makeyev,10000 km,220 tonnes [1],10000 kg [2],Under development,2018,Yes,Silo,16
+2,BZhRK Barguzin,Russia,Votkinsk,12600 km,4550 tonnes,N/A,Under development,N/A,Yes,Railroad,N/A
+3,R36M2 Voevoda[3],USSR,Yuzhny MachineBuilding Plant,11000 km (or 16000 km with a single warhead)[4],211400 kg[4],10 x 800 kt / 8730 kg[4],Active,1986,Yes,Silo,220 m
+4,UR100N UTTKh,USSR,Khrunichev MachineBuilding Plant,10000 km,105600 kg,6 x 550 kt / 4350 kg,Active,1977[5],Yes,Silo,N/A
+5,RT2PM Topol,USSR,Votkinsk Machine Building Plant,10500 km,45100 kg,800 kt,Active,1985,No,Roadmobile TEL,200 m
+6,RT2PM2 TopolM,Russia,Votkinsk Machine Building Plant,11000 km,47200 kg,800 kt,Active,1994,Yes,Silo  roadmobile TEL,200 m
+7,RS24,Russia,Votkinsk Machine Building Plant,12000 km,49000 kg,4 x 300 kt,Active,2007,Yes,Silo  roadmobile TEL,150 m
+8,R29R,Russia,State Rocket Center Makeyev,6500 km,35300 kg,1650 kg,Active,N/A,N/A,Delta III Submarine,N/A
+9,R29RK,Russia,State Rocket Center Makayev,6500 km,34388 kg,1650 kg,Active,N/A,Yes,Delta III Submarine,N/A
+10,R29RL,Russia,State Rocket Center Makeyev,9000 km,35300 kg,1650 kg,Active,N/A,Yes,Delta III Submarine,N/A
+11,R29RM,Russia,Krasnoyarsk MachineBuilding Plant,8300 km,40300 kg,2800 kg,Active,N/A,Yes,Delta IV Submarine,N/A
+12,R29RMU Sineva,Russia,Krasnoyarsk MachineBuilding Plant,11547 km,40300 kg,N/A,Active,2004,Yes (6),Delta IV Submarine,N/A
+13,R29RMU2 Layner,Russia,Krasnoyarsk MachineBuilding Plant,11000 km,40000 kg,N/A,Active,2011,Yes (12),Delta IV Submarine,N/A
+14,RSM56 Bulava,Russia,Votkinsk Plant State Production Association,10000 km,36800 kg,6 x 150 kt,Active,2005,Yes,Borei class submarine,200 m
+15,R7 Semyorka[6],USSR,Soviet Academy of Sciences,12000 km,280000 kg,29 Mt of TNT,Inactive,1959,No,Launch pad,5000 m
+16,R16,USSR,Khartron,11000 km,141000 kg,5 Mt,Inactive,1961,No,Silo,2700 m
+17,R9 Desna,USSR,NPO Energomash Khartron,11000 km,N/A,23 Mt,Inactive,1961,No,Silo,2000 m
+18,UR100,USSR,Khrunichev MachineBuilding Plant,10600 km,41400 kg,1 Mt,Inactive,1966,No,Silo,N/A
+19,RT2,USSR,[empty],8000 km,34000 kg,600 kt,Inactive,1968,No,Silo,[empty]
+20,MRUR100 Sotka,USSR,Yuzhny MachineBuilding Plant,10250 km,71200 kg,4Ã—04 Mt,Inactive,1971,Yes,Silo,[empty]
+21,RT23 Molodets,USSR,Yuzhnoye Design Bureau,10450 km,104500 kg,10 x 550 kT,Inactive,1986,Yes (10),Silo  Railroad,150€“250 m
+22,R29,USSR,State Rocket Center Makayev,7700 km,[empty],[empty],Inactive,1969,No,Delta I submarine,[empty]
+23,R39 Rif,USSR,Zlatoust MachineBuilding Plant,8300 km,84000 kg,10 x 100€“200 kT,Inactive,1983,Yes,Typhoon class submarine,N/A
+24,Minuteman III,US,Boeing,13000 km,35300 kg,(US$) 7 mil >,Active,1970,Yes,Silo,200 m
+25,Trident,US,Lockheed Martin Space Systems,7400 km,33142 kg,8 x 100 kt,Inactive,1977,Yes,sclass|Ohio|submarine|1,380 m <
+26,Atlas,US,Consolidated Vultee Aircraft (Convair),14500 km,[empty],[empty],Inactive,1959,No,[empty],[empty]
+27,Titan I,US,Glenn L Martin Company,10200 km,105140 kg,375 Mt,Inactive,1959,No,Silo,[empty]
+28,Titan II,US,Glenn L Martin Company,15000 km,154000 kg,9 Mt,Inactive,1962,No,Silo,[empty]
+29,Minuteman I,US,Boeing,[empty],[empty],12 Mt,Inactive,1961,No,Silo,200 m
+30,Minuteman II,US,Boeing,[empty],[empty],12 Mt,Inactive,1965,No,Silo,[empty]
+31,LGM118 Peacekeeper,US,Boeing  Martin Marietta  TRW ,9600 km,96750 kg,10 x 300 kt,Inactive,1983,Yes,Silo,120 m
+32,Midgetman,US,Martin Marietta,11000 km,13600 kg,475 kT,Inactive,1992,No,Small ICBM Hard Mobile Launcher[7],90 m
+33,Trident II,United Kingdom and United States,Lockheed Martin Space Systems,11300 km,58500 kg,(US$) 309 mil >,Active,1987,Yes,Ohioclass and sclass|Vanguard|submarines,90€“120 m
+34,M4,France,EADS SPACE Transportation,5000 km,36000 kg,6 x 150 kt,Inactive,1985,Yes,Le Redoutable class submarine,[empty]
+35,M45,France,AÃ©rospatiale/EADS SPACE Transportation,6000 km,35000 kg,6 x 110 kt TNT,Active,1986,Yes,Triomphant class submarine,350 m
+36,M511,France,EADS Astrium Space Transportation,10000 km (or more),52000 kg,6 to 10 x 100 kt of TNT,Active,2006,Yes,Triomphant class submarine,[empty]
+37,M512,France,EADS Astrium Space Transportation,10000 km (or more),52000 kg,6 to 10 x 150kt of TNT (new TÃªte nuclÃ©aire ocÃ©anique),Under Development,[empty],Yes,Triomphant class submarine,[empty]
+38,DF5,China,China Academy of Launch Vehicle Technology,12000 km,183000 kg,5 Mt,Active,1971,No,[empty],1000 m
+39,DF5A,China,China Academy of Launch Vehicle Technology,15000 km,183000 kg,4 Mt,Active,1983,Yes (Speculated),Silo,1000 m
+40,DF5B,China,China Academy of Launch Vehicle Technology,15000 km,183000 kg,3 to 8,Active,2015,Yes,Silo,[empty]
+41,DF4,China,Factory 211 (Capital Astronautics Co),7000 km,82000 kg,33 Mt,Active,1975,Yes (Speculated),Silo,1500 m
+42,DF31,China,Academy of Rocket Motors Technology (ARMT),8000 km,42000 kg,1 Mt,Active,1999 (Reported),No,Roadmobile TEL,[empty]
+43,DF31A,China,Academy of Rocket Motors Technology (ARMT),12000 km,42000 kg,3,Active,[empty],Yes,Roadmobile TEL,[empty]
+44,DF41,China,China Academy of Launch Vehicle Technology,1200015000 km,[empty],10,Active,2012[8],Yes,Roadmobile TEL,[empty]
+45,JL2,China,Factory 307 (Nanjing Dawn Group),12000 km,42000 kg,36,Active,2001 (Believed),Yes,Type 094 Jin class submarine,[empty]
+46,AgniV,India,Defence Research and Development Organization,5500 €“ 8000 km,50000 kg,36,Active,2012,Yes,Road mobile TEL  Rail Mobile,<10 m (single digit accuracy) [9]
+47,AgniVI,India,Defence Research and Development Organization,10000 €“ 12000 km,55000  70000 kg,10,Under development,Unknown,Yes,Road mobile TEL  Rail Mobile,<10 m (single digit accuracy) [10]
+48,Surya,India,Defence Research and Development Organization,12000 €“ 16000 km,55000  70000 kg,1015,Project existence unknown,2022,Yes,Road mobile TEL  Rail Mobile,<15 m (single digit accuracy)
+49,KN08,North Korea,[empty],1500 €“ 12000 km (Speculated)[11],[empty],[empty],Inactive (Reportedly)[12],2012,No,Silo,[empty]
+50,Hwasong14,North Korea,[empty],6700 €“ 10000 km [13][14][15][16][17][18][19][20],33800 kg[21],500 kg[22],Under development,2017,No,Roadmobile TEL,N/A
+51,Hwasong15,North Korea,[empty],13000 km [23],72000 kg[24],1000 kg[25],Under development,2017,Maybe[26][27][28][29],Roadmobile TEL,N/A
+52,Jericho III,Israel,Israel Aerospace Industries,4800 €“ 11500 km (Speculated),30000 kg,750 kg single or MIRVed (Suspected)[30],Active (Suspected),2008,Yes,Roadmobile TEL,N/A [31]
+53,Ground Based Strategic Deterrent,United States,Either Boeing or Northrop Grumman,[empty],[empty],[empty],Under Development,[empty],Yes,Silo,[added]

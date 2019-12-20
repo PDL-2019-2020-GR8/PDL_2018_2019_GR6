@@ -1,0 +1,7 @@
+[empty],Trident,Gecko,WebKit,KHTML,Presto,Prince XML,Antenna House
+XML namespace[1],yes|50,yes|10,Dunno,yes,yes|10,rowspan="2" yes|51,yes
+xmlid[2],no,no[3],no,no,yes|20,yes,[added]
+XML Events[4],no,yes|18,Dunno,Dunno,yes|10,Dunno,no
+XInclude[5],yes|31,no[6],no,Dunno,no,yes|51,no
+XML Fragment Interchange[7],Dunno,Dunno,Dunno,Dunno,Dunno,Dunno,no
+Associating CSS,IE|50,yes|10,yes|419,yes,yes|10,yes,yes

@@ -1,0 +1,13 @@
+[empty],Version,Operating systems,Office suite,Developer,License,ISO/IEC 263002006,Notes
+Calligra Stage,24,Windows  Mac OS X  Linux  Unixbased systems,Calligra Suite,KDE Project,GPL / LGPL,yes,[empty]
+IBM Lotus Symphony,10,Windows  Linux  Mac OS X,IBM Lotus Symphony,IBM,Proprietary,yes,[empty]
+IBM Workplace Documents,25,Any (Webbased),IBM Workplace Collaboration Services,IBM,Proprietary,[empty],no longer being actively marketed
+KPresenter / KOffice Showcase,14,Linux  Unixbased systems,KOffice,KDE Project,LGPL,no|no (not valid),[empty]
+LibreOffice Impress,330,Windows  Linux  Unixbased systems  Mac OS X  Solaris,LibreOffice,LibreOffice,LGPL,yes,[empty]
+Microsoft Office PowerPoint,2007 SP2,Windows,Microsoft Office,Microsoft,Proprietary,yes,[empty]
+NeoOffice Impress,12,Mac OS X,NeoOffice,Patrick Luby and Edward Peterlin,GPL,[empty],Import only
+NeoOffice Impress,225,Mac OS X,NeoOffice,Patrick Luby and Edward Peterlin,GPL,yes,[2]
+OpenOfficeorg Impress,20,Windows  Linux  Unixbased systems  Mac OS X  Solaris,OpenOfficeorg,OpenOfficeorg,LGPL,yes,[empty]
+StarOffice Impress,8,Windows  Linux  Solaris,StarOffice,Sun Microsystems,Proprietary,yes,[empty]
+Zoho Show,2006,Any (Webbased),Standalone,AdventNet,Proprietary,no|no (not valid),[empty]
+! Version,Operating systems,Office suite,Developer,License,ISO/IEC 263002006,Notes,[added]

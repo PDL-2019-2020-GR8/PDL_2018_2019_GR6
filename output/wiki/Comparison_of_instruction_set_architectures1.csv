@@ -1,0 +1,40 @@
+Archi tecture,Bits,Version,Intro duced,Max # operands,Type,Design,Registers (excluding FP/vector),Instruction encoding,Branch evaluation,Endian ness,Extensions,Open,Royalty free
+6502,8,[empty],1975,1,Register Memory,CISC,3,Variable (8 to 32bit),Condition register,Little,[empty],[empty],[empty]
+680x0,32,[empty],1979,2,Register Memory,CISC,8 data and 8 address,Variable,Condition register,Big,[empty],[empty],[empty]
+8080,8,[empty],1974,2,Register Memory,CISC,8,Variable (8 to 24 bits),Condition register,Little,[empty],[empty],[empty]
+8051,32 (8†’32),[empty],1977?,1,Register Register,CISC,ubl|32 in 4bit|16 in 8bit|8 in 16bit|4 in 32bit,Variable (8bit to 128 bytes),Compare and branch,Little,[empty],[empty],[empty]
+x86,16  32  64 (16†’32†’64),[empty],1978,2 (integer) 3 (AVX)[4],Register Memory,CISC,ubl|8 ( 4 or 6 segment reg) (16/32bit)| 16 ( 2 segment reg gs/cs) (64bit),Variable (8086 ~ 80386 variable between 1 and 6 bytes /w MMU  intel SDK  80486 2 to 5 bytes with prefix  pentium and onward 2 to 4 bytes with prefix  x64 4 bytes prefix  third party x86 emulation 1 to 15 bytes w/o prefix & MMU  SSE/MMX 4 bytes /w prefix AVX 8 Bytes /w prefix),Condition code,Little,x87  IA32  MMX  3DNow!  SSE  SSE2  PAE  x8664  SSE3  SSSE3  SSE4  BMI  AVX  AES  FMA  XOP  F16C,No,No
+Alpha,64,[empty],1992,3,Register Register,RISC,32 (including "zero"),Fixed (32bit),Condition register,Bi,Htitle|Motion Video Instructions|MVI  Htitle|ByteWord Extensions|BWX  Htitle|Floatingpoint Extensions|FIX  Htitle|Count Extensions|CIX,No,[empty]
+ARC,16/32,ARCv2[5],1996,3,Register Register,RISC,16 or 32 including SP user can increase to 60,Variable (16 and 32bit),Compare and branch,Bi,APEX Userdefined instructions,[empty],[empty]
+ARM/A32,32,ARMv1v8,1983,3,Register Register,RISC,ubl|15,Fixed (32bit),Condition code,Bi,NEON  Jazelle  Htitle|Vector Floating Point|VFP  TrustZone  Abbr|LPAE|Large Physical Address Extension,[empty],No
+Thumb/T32,32,ARMv6ARMv8,1983,3,Register Register,RISC,ubl|7 with 16bit Thumb instructions|15 with 32bit Thumb2 instructions,Thumb Fixed (16bit)  Thumb2 Variable (16 and 32bit),Condition code,Bi,NEON  Jazelle  Htitle|Vector Floating Point|VFP  TrustZone  Abbr|LPAE|Large Physical Address Extension,[empty],No
+A64,64,ARMv8A[6],2011[7],3,Register Register,RISC,32 (including the stack pointer/"zero" register),Fixed (32bit),Condition code,Bi,none all ARMv7 extensions are nonoptional,[empty],No
+AVR,8,[empty],1997,2,Register Register,RISC,32 16 on "reduced architecture",Variable (mostly 16bit  four instructions are 32bit),Condition register  skip conditioned on an I/O or general purpose register bit  compare and skip,Little,[empty],[empty],[empty]
+AVR32,32,Rev 2,2006,2€“3,[empty],RISC,15,Variable[8],[empty],Big,Java Virtual Machine,[empty],[empty]
+Blackfin,32,[empty],2000,3[9],Register Register,RISC[10],2 accumulators 8 data registers 8 pointer registers 4 index registers 4 buffer registers,Variable(16 or 32bit),Condition code,Little[11],[empty],[empty],[empty]
+CDC 6000,60,[empty],1964,3,Register Memory,RISC,24 (8 18bit address reg  8 18bit index reg  8 60bit operand reg),Variable (15  30  and 60bit),Compare and branch,n/a[12],Compare/Move Unit  additional Peripheral Processing Units,No,No
+Crusoe (native VLIW),32[13],[empty],2000,1,Register Register[13],VLIW[13][14],ubl|1 in native push stack mode|6 in x86 emulation  8 in x87/MMX mode  50 in rename status|12 integer  48 shadow  4 debug in native VLIW|mode[13][14],Variable (64 or 128bit in native mode  15 bytes in x86 emulation)[14],Condition code[13],Little,[empty],[empty],[empty]
+Elbrus (native VLIW),64,Elbrus4S,2014,1,Register Register[13],VLIW,864,64,Condition code,Little,Justintime dynamic trans lation x87  IA32  MMX  SSE  SSE2  x8664  SSE3  AVX,No,No
+DLX,32,[empty],1990,3,[empty],RISC,32,Fixed (32bit),[empty],Big,[empty],[empty],[empty]
+eSiRISC,16/32,[empty],2009,3,Register Register,RISC,8€“72,Variable (16 or 32bit),Compare and branch and condition register,Bi,Userdefined instructions,No,No
+Itanium (IA64),64,[empty],2001,[empty],Register Register,EPIC,128,Fixed (128 bit bundles with 5 bit template tag and 3 instructions  each 41 bit long),Condition register,Bi (selectable),Intel Virtualization Technology,No,No
+M32R,32,[empty],1997,3,Register Register,RISC,16,Variable (16 or 32bit),Condition register,Bi,[empty],[empty],[empty]
+Mico32,32,dunno,2006,3,Register Register,RISC,32[15],Fixed (32bit),Compare and branch,Big,Userdefined instructions,Yes[16],Yes
+MIPS,64 (32†’64),6[17][18],1981,1€“3,Register Register,RISC,4€“32 (including "zero"),Fixed (32bit),Condition register,Bi,MDMX  MIPS3D,Yes,Yes[19]
+MMIX,64,dunno,1999,3,Register Register,RISC,256,Fixed (32bit),dunno,Big,dunno,Yes,Yes
+NS320xx,32,[empty],1982,5,Memory Memory,CISC,8,Variable Huffman coded  up to 23 bytes long,Condition code,Little,BitBlt instructions,[empty],[empty]
+OpenRISC,32  64,13[20],2010,3,Register Register,RISC,16 or 32,Fixed,dunno,dunno,dunno,Yes,Yes
+PARISC (HP/PA),64 (32†’64),20,1986,3,Register Register,RISC,32,Fixed (32bit),Compare and branch,Big †’ Bi,MAX,No,[empty]
+PDP8[21],12,[empty],1966,[empty],Register Memory,CISC,1 accumulator 1 multiplier quotient register,Fixed (12bit),Condition register Test and branch,[empty],EAE(Extended Arithmetic Element),[empty],[empty]
+PDP11,16,[empty],1970,3,Memory Memory,CISC,8 (includes stack pointer  though any register can act as stack pointer),Fixed (16bit),Condition code,Little,Floating Point  Commercial Instruction Set,No,No
+POWER  PowerPC  Power ISA,32/64 (32†’64),30B[22],1990,3,Register Register,RISC,32,Fixed (32bit)  Variable,Condition code,Big/Bi,AltiVec  APU  VSX  Cell,Yes,Yes
+RISCV,32  64  128,22[23],2010,dunno,Register Register,RISC,32 (including "zero"),Variable,Compare and branch,Little,dunno,Yes,Yes
+RX,64/32/16,[empty],2000,3,Memory Memory,CISC,4 integer  4 address,Variable,Compare and branch,Little,[empty],[empty],No
+Score,16/32,[empty],2005,[empty],[empty],RISC,[empty],[empty],[empty],Little,[empty],[empty],[empty]
+SPARC,64 (32†’64),OSA2017[24],1985,3,Register Register,RISC,32 (including "zero"),Fixed (32bit),Condition code,Big †’ Bi,VIS,Yes,Yes[25]
+SuperH (SH),32,[empty],1994,2,Register Register Register Memory,RISC,16,Fixed (16 or 32bit)  Variable,Condition code (single bit),Bi,[empty],[empty],[empty]
+System/360 System/370 z/Architecture,64 (32†’64),[empty],1964,2 (most) 3 (FMA  distinct operand facility) 4 (some vector inst),Register Memory Memory Memory Register Register,CISC,16,Variable (16  32  or 48bit),Condition code  compare and branch,Big,[empty],No,No
+Transputer,32 (4†’64),[empty],1987,1,Stack machine,MISC,3 (as stack),Variable (8 ~ 120 bytes),Compare and branch,Little,[empty],[empty],[empty]
+VAX,32,[empty],1977,6,Memory Memory,CISC,16,Variable,Compare and branch,Little,[empty],[empty],[empty]
+Z80,8,[empty],1976,2,Register Memory,CISC,17,Variable (8 to 32 bits),Condition register,Little,[empty],[empty],[empty]
+Archi tecture,Bits,Version,Intro duced,Max # operands,Type,Design,Registers (excluding FP/vector),Instruction encoding,Branch evaluation,Endian ness,Extensions,Open,Royalty free

@@ -1,0 +1,35 @@
+Parser,License,Implementation language(s),Latest date*,HTML parsing[1],HTML5compliant parsing,Clean HTML**,Update HTML***
+Lambda Soup,BSD2Clause,OCaml,20161210[2],Yes,Yes,dunno,dunno
+htmlparser,Python S F L,Python,20160627[3],Yes,dunno,No,No
+Html Agility Pack,MIT License,C#,20190707[4],Yes,dunno,No,dunno
+HTML Monkey,Microsoft Public License,C#,20181214,Yes,dunno,dunno,dunno
+Beautiful Soup,Python S F L,Python,20190107[5],Yes,partial[6],Yes,Yes
+Gumbo,Apache License 20,C,20150501,Yes,Yes,No,No
+html5ever,Apache License 20,Rust,20160223,Yes,Yes,dunno,dunno
+html5lib,MIT License,Python (and PHP  six years ago),20160715[7],Yes,Yes,Yes,No
+HTMLParser,Perl license,Perl,20130328,Yes,No[8],dunno,dunno
+WebGear,GPL3,Perl,20170310,Yes,Yes,dunno,dunno
+htmlPurifier,GNU Lesser GPL,PHP,20190714[9],No,No,Yes,Yes
+HTML Tidy,W3C license,ANSI C,20170301[10],Yes[11],Yes,Yes[11],Yes
+HtmlUnit,Apache License 20,Java,20190824[12],Yes,dunno,No,No
+HtmlCleaner,BSD License[13],Java,20150824,No,No,Yes,dunno
+Hubbub,MIT License,C,20160216,Yes,Yes[14],dunno,dunno
+Jaunt API,Jaunt Beta License,Java,20130801,Yes,dunno,Yes,No
+Jericho HTML Parser,Eclipse Public License,Java,20151024[15],Yes,dunno,dunno,dunno
+jsdom,MIT license,JavaScript,20180819,Yes,Yes,dunno,dunno
+jsoup,MIT license,Java,20190512[16],Yes,Yes[17],Yes,Yes
+JTidy,JTidy License,Java,20121009[18],No,dunno,Yes,dunno
+libxml2 HTMLparser,MIT License,C,20171102[19],Yes,No,dunno,dunno
+NekoHTML,Apache License 20,Java,20140602[20],Yes,dunno,dunno,dunno
+TagSoup,Apache License 20,Java,20110707,No,dunno,dunno,dunno
+Validatornu HTML Parser,MIT License,Java,20120605,Yes,Yes,dunno,dunno
+PHP Simple HTML DOM Parser,MIT License,PHP,20140828,Yes,dunno,No,No
+The PHP DOMDocumentclass,PHP License,PHP,20141004,Yes,dunno,No,No
+Nokogiri,MIT License,Ruby,20161003[21],Yes,dunno,No,No
+AVHTML,AGPL,C,20150827[22],Yes,dunno,No,Yes
+BrilliantHTML5Parser,Apache License 20,Swift 3,20161110,Yes,dunno,No,No
+MyHTML,LGPL,C,20180906,Yes,Yes,No,No
+AsposeHTML,Proprietary,C#,20180606,Yes,Yes,dunno,dunno
+Lexbor (HTML module),Apache License 20,C,20191118,Yes,Yes,No,No
+tooska,LGPL,C,20190629,Yes,dunno,dunno,dunno
+Parser,License,Implementation language(s),Latest date*,HTML Parsing,HTML5compliant Parsing,Clean HTML**,Update HTML***

@@ -1,0 +1,30 @@
+Name,Navigation,Audio out,Speaker,Screen size (in),Screen type,Resolution (px),Frame rate (Hz),Color depth (bpp),Video out,Video battery life (hr),Audio battery life (hr)
+Archos 105[54],Dpad  7 buttons,Headphone jack,no,18,OLED,160 × 128,yes|30,18,yes|Component  Composite,unk,18
+Archos 405[55][56],Dpad  6 twoway buttons,Headphone jack  dock connector,no,35,TFT LCD,320 × 240,yes|30,unk|Predecessor 24,yes|Component  Composite,5,16
+Archos 5[57],Touchscreen,Headphone jack,yes,48,TFT LCD,800 × 480,yes|30,yes|24,yes|SVideo  composite via docking,7,22
+Archos 605 WiFi/GPS[58][59],Dpad/touchscreen  6 twoway buttons,Headphone jack,yes,43,TFT LCD,800 × 480,yes|30,yes|24,yes|Component  composite,55,15
+Archos 705 WiFi[60],Dpad/touchscreen  6 twoway buttons,Headphone jack,yes,7,TFT LCD,800 × 480,yes|30,18,yes|Component  composite,55,15
+Cowon A3[61],Dpad  4 buttons,Headphone jack,yes,4,TFT LCD,800 × 480,yes|30,yes|24,yes|Component  composite  Svideo,yes|10,18
+Cowon D2[62],Touchscreen  3 buttons,Headphone jack,no,25,TFT LCD,320 × 240,yes|30,yes|24,yes|Component  composite,yes|10,yes|52
+Cowon Q5W[63],Touchscreen,Headphone jack,yes,5,TFT LCD,800 × 480,yes|30,yes|24,yes|Component  Svideo  composite,7,13
+Gigabeat TSeries[64],Dpad  4 buttons,Headphone jack,no,24,TFT LCD,320 × 240,yes|25,18,no,5,16
+GP2X F200[65],8way dpad/touchscreen  9 buttons,Headphone jack,yes,35,TFT LCD,320 × 240,yes|30,16,yes|Component,35,6
+iPod classic[66],Click wheel  1 center  4 embedded buttons,Headphone jack  dock connector,Clicker only,25,TFT LCD,320 × 240,yes|30,16,yes|Component  composite,6,36
+iPod nano 5G[67],Click wheel  1 center  4 embedded buttons,Headphone jack  dock connector,yes,225,TFT LCD,320 × 240,yes|30,16,yes|Component  composite,4,24
+iPod nano 6G[67],Multitouch screen,Headphone jack  dock connector,no,154,TFT LCD,240 × 240,[empty],[empty],yes|Component  composite,No video support,24
+iPod touch[68],Multitouch screen  3 buttons,Headphone jack  dock connector,Yes (ex 1st and 2nd gen),35,TFT LCD,480 × 320 (4th gen 960 × 640),yes|30,yes|24 (4th gen) 18 (1st  3rd gen),yes|Component  composite,6,40 (4th gen)  30 (3rd gen)  36 (2nd gen)  24 (1st gen)
+iriver clix 2G[69],Dpad  4 embedded buttons,Headphone jack,no,22,AMOLED,320 × 240,yes|30,18,no,5,25
+PSP Slim/Lite[70],Analog stick/dpad  15 buttons,Headphone jack  dock connector,yes,43,TFT LCD,480 × 272,yes|30,yes|24,yes|Component  composite  dterminal,4,10
+Samsung Galaxy Player 40 & 50[71],Touchscreen  3 buttons,Headphone jack,yes,40/50,TFT LCD,800 × 480,[empty],[empty],[empty],5 (40)  8 (50),36 (40)  60 (50)
+Samsung T10[72],Dpad  5 buttons,Headphone jack,no,2,TFT LCD,320 × 240,yes|30,18,no,4,30
+Samsung P2[72],Touchscreen  4 buttons,Headphone jack,no,3,TFT LCD,480 × 272,yes|30,18,no,5,35
+Sansa Fuze[73],Scroll ring  6 buttons,Headphone jack  dock connector,no,19,TFT LCD,224 × 176,20,16,yes|Composite,5,24
+Sansa Fuze[74],Touchpad  3 buttons,Headphone jack,no,24,TFT LCD,320 × 240,30,16,[empty],5,24
+Sansa View[75][76],Scroll wheel  3 buttons,Headphone jack  dock connector,no,24,TFT LCD,320 × 240,yes|30,16,yes|Composite,7,35
+Walkman NWZA810 series[77],Dpad  7 buttons,Headphone jack,no,2,TFT LCD,320 × 240,yes|30,16,yes|Composite,yes|8,33
+ZEN[78],Dpad  9 buttons,Headphone jack,no,25,TFT LCD,320 × 240,yes|30,yes|24,no,5,30
+ZEN Vision W[79],Dpad  12 buttons,Headphone jack  dock connector,yes,43,TFT LCD,480 × 272,yes|30,18,yes|Composite,45,13
+Zune 4/8/16[80][81][82],Zune pad  2 buttons,Headphone jack  dock connector,no,18,TFT LCD,320 × 240,yes|30,16,no,4,23 (WiFi)/24
+Zune 80/120[83][84],Zune pad  2 buttons,Headphone jack  dock connector,no,32,TFT LCD,320 × 240,yes|30,16,yes|Component  composite,4,29 (WiFi)/30
+Zune HD[85],Touchscreen  3 buttons,Headphone jack  dock connector,no,33,OLED,480 × 272,yes|30,Unknown,yes|HDMI  composite,yes|85,33 (WiFi off)
+ZVUE 260[86],Dpad  9 buttons,Headphone jack,yes,25,AM TFT LCD,234 × 160,yes|30,yes|24,no,unk,6

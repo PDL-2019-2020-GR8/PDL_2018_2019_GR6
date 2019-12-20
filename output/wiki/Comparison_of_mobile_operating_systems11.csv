@@ -1,0 +1,4 @@
+Feature,Android,iOS,Windows 10 Mobile,BlackBerry 10,Tizen,Sailfish OS,Ubuntu Touch
+Bluetooth keyboard,Yes|23;[383] previous versions via 3rd party software[384],Yes[385],Yes|81u2[386],Yes[387],No,Yes[388][389],Yes
+USB keyboard,Yes|31[383],Yes|With Camera Connection Kit[390],Yes|10 some devices[391],Yes[387],No,?,Yes
+Interchangeable external memory cards,Yes[392],Okay|Only for photo/video import with an optional accessory,Yes|8[393],Yes[394],Yes[395],Yes,Yes

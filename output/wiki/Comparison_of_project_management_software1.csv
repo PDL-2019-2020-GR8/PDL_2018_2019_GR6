@@ -1,0 +1,133 @@
+Software,Webbased,Hosted OnPremises,SaaS,License,Programming language
+2plan,Yes[1],Yes,Yes,Proprietary  Open source[2],Java and PHP
+24SevenOffice,yes,no,yes,Proprietary,[empty]
+Actionspace,yes,no,yes,Proprietary,[empty]
+Apache Allura,yes,yes,[empty],Free|Apache License,Python
+Apache OFBiz,yes,yes,yes,Free|Apache License,Java  XML  FreeMarker  Groovy  JavaScript
+Apache Bloodhound,yes,yes,yes,Free|Apache License,Python
+Asana,yes,no,yes,Proprietary,[empty]
+Assembla,yes,yes,yes,Proprietary,[empty]
+Axosoft,yes,yes,yes,Proprietary,[empty]
+Basecamp,yes[3],no[4],yes,Proprietary,Ruby
+Calligra Plan,no,ya|text=Filebased,no,Free|GPL,C and Java
+CEITON,yes,yes,yes,Proprietary,ASPNET  JavaScript
+Clarizen,yes[5],no,yes[5],Proprietary,[empty]
+Collabtive,yes,yes,yes,Open source (core only),PHP
+Compuware Changepoint,yes,yes,yes,Proprietary,[empty]
+ConceptDraw Project,no,yes,no,Proprietary,[empty]
+ConceptDraw PLAN,yes,no,yes,Proprietary,PHP and Java
+Concerto Project Management,yes,yes,yes,Proprietary,[empty]
+Copper Project,yes,yes,yes,Proprietary,[empty]
+dotProject,yes,yes,yes,Free|GPL,PHP
+DynaRoad,no,unk,unk,Proprietary,[empty]
+Easy projects,yes[6],yes[6],yes[6],Proprietary,ASPNET
+Eclipse PPM software,yes,no,yes,Proprietary,[empty]
+Endeavour Software Project Management,yes,unk,unk,Free|GPL,Java
+eGroupWare,yes,unk,unk,Free|GPL,PHP
+enQuire,yes,unk,yes,Proprietary,Java
+FastTrack Schedule,no,Yes,No,Proprietary,[empty]
+Feng Office Community Edition,yes,yes,yes,Free|AGPLv3,PHP
+FinancialForcecom,yes,unk,yes,Proprietary,[empty]
+FogBugz,yes,yes,yes,Proprietary,ASPNET
+Fossilscm,yes[7],yes[8],yes[9],Free|2clause BSD license,SQLite and C
+Freedcamp,yes,no,yes,Proprietary,[empty]
+FusionForge,yes,yes,unk,Free|GPL,PHP
+GanttProject,no,yes,unk,Free|GPL,Java
+Genius Project,yes,yes,yes,Proprietary,[empty]
+GroupOffice,yes,yes,yes,Proprietary,[empty]
+GroveSite,yes,unk,yes,unk,[empty]
+Hallcom,yes,unk,yes,unk,[empty]
+Helix ALM,yes,yes,yes,Proprietary,C
+HeySpace,yes,no,yes,Proprietary,JavaScript
+HP Project & Portfolio Software,yes,yes,Proprietary,[empty],[added]
+Huddle,yes,unk,unk,Proprietary,[empty]
+Hyperoffice,yes,unk,unk,Proprietary,[empty]
+iManageProject,yes,unk,yes,unk,[empty]
+InLoox,yes,yes,yes,Proprietary,[empty]
+inStep BLUE,yes,yes,no,Proprietary,[empty]
+IRise,yes,yes,yes,Proprietary,Java
+Jira,yes,yes,yes,Proprietary,Java
+Launchpad,yes,No,Yes,Free|AGPL,Python
+LibrePlan,yes,yes,yes,Free|AGPL,Java
+LiquidPlanner,yes,no,yes,Proprietary,Ruby
+LisaProject,no,unk,unk,Proprietary,[empty]
+MacProject,no,unk,unk,Proprietary,[empty]
+MantisBT,yes,yes,no,Free|GPL,PHP
+MeisterTask,yes,no,yes,Proprietary,Ruby on Rails  React  Redux
+Métier,yes,yes,yes,Proprietary,[empty]
+Microsoft Dynamics AX,no,yes,no,Proprietary,X
+Microsoft Office Project Server,yes,yes,yes,Proprietary,[empty]
+Microsoft Project,yes,yes,yes,Proprietary,[empty]
+Microsoft SharePoint Server,yes,yes,yes,Proprietary,[empty]
+Microsoft Team Foundation Server,yes,yes,yes,Proprietary,[empty]
+Milestones Professional,no,yes,no,Proprietary,C
+Mingle,yes,yes,yes,Proprietary,Ruby on Rails
+MyWorkPLAN,no,unk,unk,Proprietary,[empty]
+NetPoint,no,unk,unk,Proprietary,[empty]
+NetSuite,yes,unk,yes,unk,[empty]
+O3Spaces,no,unk,unk,Proprietary,[empty]
+OmniPlan,no,yes,no,Proprietary,[empty]
+Onepager pro,no,yes,no,Proprietary,ASPNET
+Open Workbench,no,unk,unk,Open source,[empty]
+OpenProj,no,unk,yes,Free|CPAL,Java
+OpenProject,yes,yes,yes,Free|GPL,Ruby on Rails and AngularJS
+OnlyOffice,yes,yes,yes,Free|GPL,ASPNET
+Oracle Primavera EPPM (Primavera P6),yes,yes,yes,Proprietary,[empty]
+phpGroupWare,yes,unk,unk,Free|GPL,PHP
+PHProjekt,yes,unk,unk,Free|LGPL,PHP
+Pivotal Tracker,yes,no,yes,unk,Ruby
+Plandora,yes,yes,unk,Free|LGPL,Java
+Planisware,yes,yes,yes,Proprietary,[empty]
+PLANTA Project,yes,yes,no,Proprietary,[empty]
+Project Builder,yes,yes,yes,Proprietary,[empty]
+Project KickStart,no,yes,unk,Proprietary,[empty]
+Project Team Builder,yes,yes,yes,Proprietary,[empty]
+Projector PSA,yes,yes,yes,Proprietary,[empty]
+ProjectLibre,no (Cloud based version under development)[10],yes,no (Included in future plans)[11],Free|CPAL,Java
+ProjectManagercom,yes[12],no,yes,Proprietary,[empty]
+Projectnet,yes,yes,yes,Free|GPL,Java
+Projectplace,yes,no,yes,Proprietary,[empty]
+Projektron BCS,yes,yes,yes,Proprietary,Java
+ProjeQtOr,yes,yes,yes,Free|AGPL,PHP
+Proliance,yes,yes,yes,Proprietary,[empty]
+ProjectLink,yes,yes,yes,Proprietary,[empty]
+Prolog,yes,yes,yes,Proprietary,[empty]
+Priority Matrix,yes,no,yes,Proprietary,[added]
+Pyrus,yes,yes,yes,Proprietary,[empty]
+RationalPlan,yes,yes,yes,Proprietary,[empty]
+Realisor,no,yes,no,Proprietary,[empty]
+Redbooth,yes[13],yes,yes[13],Free|AGPL;[14] Proprietary (version 4),Ruby on Rails
+Redmine,yes,yes,yes [15][16][17],Free|GPL,Ruby
+Rillsoft Project & Integration Server,yes,yes,yes,Proprietary,C and PHP
+RiskyProject,yes,yes,yes,Proprietary,[empty]
+SAP Business ByDesign,yes,unk,yes,Proprietary,[empty]
+Sciforma,yes,yes,yes,Proprietary,[empty]
+Scoro,yes,no,yes,Proprietary,PHP[18]
+Seavus Project Viewer (software),Yes,Yes,Yes,Proprietary,C
+Severa,yes,unk,yes,unk,[empty]
+Smartsheet,yes,unk,yes,Proprietary,PHP
+Spider Project,no,no,no,Proprietary,[added]
+Streamtime Software,yes,no,yes,Proprietary,PHP
+TACTIC,yes,yes,yes,Free|Eclipse Public License,Python
+Talygen,yes,no,yes,Proprietary,ASPNET
+TaskJuggler,no,yes,no,Free|GPL,Ruby
+Teamcenter,yes,yes,yes,Proprietary,[empty]
+TeamDynamixHE,yes,yes,yes,Proprietary,[empty]
+Teamworkcom,yes,no,yes,Proprietary,[empty]
+Tom's Planner,yes,unk,unk,Proprietary,[empty]
+Trac,yes,yes,yes,Free|(modified) BSD license,Python
+TrackerSuiteNet,yes,yes,yes,Proprietary,[empty]
+Traction TeamPage,yes,yes,yes,Proprietary,Java
+Trello,yes,no,yes,Proprietary,CoffeeScript  Backbonejs  HTML5  Mustache templating language  MongoDB  Nodejs  Socketio
+Triskell,Yes,No,Yes,Proprietary,Java
+Tuleap,Yes,Yes,Yes,Free|GPL,[empty]
+Twproject,yes,yes,yes,Proprietary,[empty]
+UniPhi,yes,yes,yes,Proprietary,ASPNET
+Vpmi,yes,unk,unk,Proprietary,[empty]
+web2project,yes,unk,unk,Free|GPL,PHP
+Workamajig,yes,yes,yes,Proprietary,[empty]
+Workfront,yes[19],no,yes,Proprietary,[empty]
+WorkPLAN Enterprise,no,unk,unk,Proprietary,[empty]
+workspacecom,yes,unk,yes,Proprietary,[empty]
+Wrike,yes,unk,yes,Proprietary,[added]
+Zoho Projects,yes,no,yes,Proprietary,PHP

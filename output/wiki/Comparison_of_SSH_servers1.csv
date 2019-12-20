@@ -1,0 +1,7 @@
+Name,Developer,First release date,Last release,Last release date,License
+Apache MINA SSHD,Apache Software Foundation,2009,230,20190715[1],free|Apache License v2
+CopSSH,Itefix,20030812,640,20181020[2],Proprietary  Free for noncommercial use
+CrushFTP Server,CrushFTP  LLC,20030101,900,20181030,Proprietary  shareware
+Dropbear,Matt Johnston,20030406[3],201978,20190327[4],free|MIT
+lsh,Niels Möller,19990523[5],21,20130626,free|GPL
+OpenSSH (OpenBSD Secure Shell),The OpenBSD project,19991201,80,20190418[6],free|BSD

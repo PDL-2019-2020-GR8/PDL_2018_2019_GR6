@@ -1,0 +1,8 @@
+Feature,Android,iOS,Windows 10 Mobile,BlackBerry 10,Tizen,Sailfish OS,Ubuntu Touch
+Nonintrusive incoming calls,Yes|5[565] or 3rd party software[566],No2|No  3rd party software on jailbroken devices[567],No,No,No,No[568],?
+Nonintrusive notifications,Yes[569],Yes|5[160],Okay|Yes [570] except Calendar Reminders[571],Yes|6[572],?,?,?
+Move apps to external storage,Yes|22[573],No|External storage not allowed for apps,Yes|81[101],No,No,No,No
+Remote Frame Buffer (RFB) protocol,Yes[574],No2|3rd party software[575],?,?,?,?,?
+Screencast on device,No2 No [576] 3rd party software like LineageOS ScreenCast [577] AOKP or OmniROM[578],Yes|9[579],No,No,No,No,Yes
+Screencast over USB,Yes|44 over USB [180] for prior versions root required for 3rd party app[580],Yes|8 on OS X[581],Yes|81[582],No,No,?,No
+Screen share,Okay|On select devices using vendor's implementation[583][584][585],No,Yes,Yes|10[586],No,No,No

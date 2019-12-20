@@ -1,0 +1,27 @@
+Name,GUI,CLI,Scripting,Horizontal / Vertical,Syntax Highlighting,Reports
+Beyond Compare,Yes,Yes,Yes,Both,Yes,XML  HTML  CSV  Text  Unix Patch
+Compare++,Yes,Yes,[empty],Both,Yes,HTML  Text(combined or side-by-side)
+diff,No,Yes,[empty],Horizontal,Yes pipe to diff-highlight[30],[empty]
+diff3,No,Yes,[empty],Horizontal,[empty],[empty]
+Eclipse (compare),Yes,[empty],[empty],Vertical,Yes,[empty]
+Ediff,Yes,Yes,elisp,Both,Yes,[empty]
+ExamDiff Pro,Yes,Yes,[empty],optional,Yes,UNIX  HTML  Diff
+Far Manager (compare),Yes,Yes,Yes,[empty],Yes,No
+fc,No,Yes,[empty],Horizontal,[empty],[empty]
+FileMerge (aka opendiff),Yes,Yes,[empty],Vertical,Yes,No
+Guiffy SureMerge,Yes,Yes,Java API,Both,Yes,HTML  Text  Unix Patch
+IntelliJ IDEA (compare),Yes,Yes,[empty],Vertical,Yes,[empty]
+jEdit JDiff plugin,Yes,[empty],[empty],Both,Yes,[empty]
+Kompare,Yes,[empty],[empty],Vertical,No,[empty]
+Lazarus Diff,Yes,[empty],[empty],[empty],Yes,[empty]
+Meld,Yes,No,[empty],Horizontal,Yes,No
+Notepad++ (compare),Yes,Yes,[empty],Both,Yes,No
+Perforce P4Merge,Yes,Yes,[empty],Vertical,No,No
+Pretty Diff,Yes,Yes,JavaScript,Both,Yes,XHTML
+Tkdiff,Yes,[empty],[empty],[empty],[empty],[empty]
+Total Commander (compare),Yes,[empty],[empty],Both,No,No
+vimdiff,Yes,Yes,vim script,Both,Yes,HTML
+WinDiff,Yes,Yes,[empty],Horizontal,No,Text
+WinMerge,Yes,Yes,[empty],Vertical,Yes,CSV  Tab-delimited  HTML  XML
+UCC,Yes,Yes,[empty],Vertical,Yes,Text  CSV
+Name,GUI,CLI,Scripting,Horizontal / Vertical,Syntax Highlighting,Reports

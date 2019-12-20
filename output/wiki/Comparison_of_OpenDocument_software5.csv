@@ -1,0 +1,27 @@
+[empty],Tested software version,ODF version attribute in exported file officeversion="1X",File type,Validation of simple new document[5][6],Notes
+AbiWord,264,10,ODT,yes|valid,[empty]
+Adobe Buzzword,beta 3  build 600113,10,ODT,no|not valid,(errors in stylesxml and contentxml)
+EditGrid,11/2008,10,ODS,yes|valid,[empty]
+Gnumeric,193,10,ODS,no|not valid,[empty]
+Google Docs & Spreadsheets,11/2008,10,ODT  ODS,partial|valid  ODT  different results  ODS,[empty]
+IBM Lotus Symphony,110,11,ODT  ODS  ODP,yes|valid,[empty]
+IBM Lotus Symphony,300 FP2,12,ODT  ODS  ODP,[empty],[empty]
+Inkscape,046,10,ODG,no|not valid,[empty]
+KOffice,163,attribute is missing,ODT  ODS  ODP,partial|valid  ODT  ODS  not valid  ODP,ODT  ODS  valid ODF 10 and 11
+KOffice,212,12,ODT  ODS  ODP,[empty],[empty]
+Microsoft Office,2007 SP2,11,ODT  ODS  ODP,partial|different results  ODS  valid  ODT  ODP,[empty]
+Microsoft Office  SUN ODF Plugin,12,11,ODT  ODS  ODP,yes|valid,[empty]
+Microsoft Office  SUN ODF Plugin,31,12,ODT  ODS  ODP,[empty],[empty]
+Microsoft Office  OpenXML/ODF Translator Addin,20,attribute is missing,ODT  ODS  ODP,partial|different results  ODT  valid  ODS  not valid  ODP,ODF 11 implemented[7]
+NeoOffice,225,10,ODT,no|not valid  ODT,(error in stylesxml)
+OpenOfficeorg,20  230,10,ODT  ODS  ODP,yes|valid (tested 230),[empty]
+OpenOfficeorg,231  242,11,ODT  ODS  ODP,yes|valid,[empty]
+OpenOfficeorg,30,11 and 12,ODT  ODS  ODP,yes|valid,adjustable ODF version
+StarOffice,80 product update 10,11,ODT  ODS  ODP,yes|valid,[empty]
+RedOffice,40,10,ODT  ODS  ODP,yes|valid,[empty]
+TextEdit,15 (244),10,ODT,partial|different results in validators,(settingsxml is missing[5])
+TextMaker,2008 rev494,10,ODT,no|not valid,(error in stylesxml)
+TextMaker,2010,10,ODT,yes,[empty]
+WordPad,61 (2009),attribute is missing,ODT,partial|different results in validators,(settingsxml is missing[5]  ODF 10/11 validation)
+Zoho Office Suite,11/2008,10,ODT  ODS  ODP,partial|valid  ODT  ODS  not valid  ODP,[empty]
+! Tested software version,ODF version attribute in exported file officeversion="1X",File type,Validation of simple new document[5][6],Notes,[added]

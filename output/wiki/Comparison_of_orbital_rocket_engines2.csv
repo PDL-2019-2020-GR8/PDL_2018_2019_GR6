@@ -1,0 +1,41 @@
+Engine,Origin,Designer,Vehicle,Use,Propellant,Specific impulse (s)efn|name=VSL|At sea level if denoted SL  in vacuum otherwise,Thrust (N)efn|name=VSL,Mass (kg),Thrustzwspweight ratioefn|Weight is calculated at standard gravity,Chamber pressure (bar),Oxidiserzwspfuel ratio
+Aestus,nobr|EUR,Airbus Defence and Space,Ariane 5 G  G  ES,Upper,N2O4?/?MMH,nts|324[67],nts|30000,nts|111,nts|276,nts|11,19
+Aestus II,EUR,Airbus Defence and Space,Ariane 5,Upper,N2O4?/?MMH,nts|340[68],nts|55400,nts|138,nts|410,nts|60,19
+F1efn|Most powerful singlechamber liquidfueled rocket engine ever developed,Flag|USA,Rocketdyne,Saturn V,1st,RP1?/?LOX,nts|304 nts|263 (SL),nts|7770000 nts|6770000 (SL),nts|8391,nts|8227,nts|70,227
+F1Aefn|Tested but never flown[69],Flag|USA,Rocketdyne,[empty],1st,RP1?/?LOX,nts|303 nts|270 (SL),nts|8989000 nts|8007000 (SL),nts|9015,nts|906,nts|80,227
+Gamma 2,UK,Bristol Siddeley,Black Arrow,2nd,RP1?/?H2O2,nts|265[70],nts|68200,nts|173,nts|4022,nts|,8
+Gamma 8,UK,Bristol Siddeley,Black Arrow,1st,RP1?/?H2O2,nts|265[71],nts|234800,nts|342,nts|7001,nts|4740,8
+HiPEPefn|Most efficient inert gas ion thruster ever built,Flag|USA,NASA,Jupiter Icy Moons Orbiter,Vacuum,Xenon,nts|9620 @393 kW,nts|0670 @393 kW,[empty],[empty],[empty],[empty]
+HM7A,EUR,Snecma,Ariane 1,3rd,LH2?/?LOX,nts|443[72] nts|308 (SL),nts|61700,nts|149,nts|422,nts|30,5
+J2,Flag|USA,Rocketdyne,Saturn V Saturn IB,2nd  3rd,LH2?/?LOX,nts|421[73] nts|200 (SL),nts|1033100 nts|486200 (SL),nts|1438,nts|7318,nts|30,55
+J2X,Flag|USA,Pratt & Whitney Rocketdyne,SLS,Upper,LH2?/?LOX,nts|448[74],nts|convert|294000|lbf|disp=number,nts|convert|5450|lb|disp=number,nts|5841,nts|convert|1380|psi|bar|disp=number,55��45
+Kestrel,Flag|USA,SpaceX,Falcon 1,Upper,RP1?/?LOX,nts|317,nts|31000,nts|52,nts|65,nts|93,[empty]
+LE5,JPN,Mitsubishi NASDA,HI,Upper,LH2?/?LOX,nts|450[75],nts|103000,nts|245,nts|4287,nts|360,55
+LE5A,JPN,Mitsubishi NASDA,HII,Upper,LH2?/?LOX,nts|452[76],nts|121500,nts|242,nts|5119,nts|400,5
+LE7,JPN,Mitsubishi NASDA,HII,1st,LH2?/?LOX,nts|446[77],nts|1078000 nts|843500 (SL),nts|1714,nts|6413,nts|127,59
+Merlin 1C,Flag|USA,SpaceX,plainlist| Falcon 1 Falcon 9 ,1st  2nd,RP1?/?LOX,nts|304[78] nts|266 (SL)[79],nts|480408[78] nts|422581 (SL)[78],nts|630,nts|92[78],nts|677,[empty]
+Merlin 1D,Flag|USA,SpaceX,Falcon 9 v11,1st,RP1?/?LOX,nts|311[80] nts|282 (SL)[80],nts|723000,nts|470,nts|158,nts|97,234
+Merlin Vacuum 1C,Flag|USA,SpaceX,plainlist| Falcon 1 Falcon 9 ,2nd,RP1?/?LOX,nts|336[79],nts|413644[79],[empty],nts|92,[empty],[empty]
+RD0120 11Д122,Flag|USSR,KBKhA,Energia,1st,LH2?/?LOX,nts|455[81],nts|1962000 nts|1526000 (SL),nts|3450,nts|5780,nts|219,[empty]
+RD56 (KVD1) 11Д56У,RUS,KBKhM,GSLV Mk I,Upper,LH2?/?LOX,nts|462[82],nts|69626,nts|282,nts|2517,nts|559,[empty]
+RD117 11Д511,Flag|USSR,NPO Energomash,SoyuzU,1st,RP1?/?LOX,nts|316[83] nts|253 (SL),nts|978000 nts|778648 (SL),nts|1100,nts|7218,nts|542,[empty]
+RD118 11Д512,Flag|USSR,NPO Energomash,SoyuzU,2nd,RP1?/?LOX,nts|314[83] nts|257 (SL),nts|1000278 nts|818855 (SL),nts|1100,nts|7591,nts|597,[empty]
+RD170efn|World's most powerful liquid fueled rocket engine11Д521[84],Flag|USSR,NPO Energomash,SoyuzU,1st,RP1?/?LOX,nts|3372 nts|3095 (SL),nts|7904160 nts|7256921 (SL),nts|9300,nts|7957,nts|250,[empty]
+RD264 11Д119,Flag|USSR,NPO Energomash,Dnepr,1st,N2O4?/?UDMH,nts|318[85] nts|293 (SL),nts|4521000,nts|3600,nts|12815,nts|206,[added]
+RD275 14Д14,RUS,NPO Energomash,ProtonM,1st,N2O4?/?UDMH,nts|316[86] nts|287 (SL),nts|1831882 nts|1671053 (SL),nts|1070,nts|1712,nts|1600,[empty]
+RD854 8D612,USSR,Pivdenne/Pivdenmash,R36ORB,3rd,N2O4?/?UDMH,[empty],[empty],[empty],[empty],[empty],[added]
+RD855 8D68M,USSR,Pivdenne/Pivdenmash,R36  Tsyklon2  Tsyklon3,1st vernier,N2O4?/?UDMH,[empty],nts|328000,nts|320,[empty],6570,197
+RD856 8D69M,USSR,Pivdenne/Pivdenmash,R36  Tsyklon2  Tsyklon3  (Tsyklon4),2nd vernier,N2O4?/?UDMH,[empty],nts|54230,nts|1125,[empty],7160,198
+RD861 11D25,USSR,Pivdenne/Pivdenmash,Tsyklon2  Tsyklon3,3rd,N2O4?/?UDMH,[empty],nts|78710,nts|123,[empty],888,21
+RD864 15D177,USSR,Pivdenne/Pivdenmash,R36 (missile)  Dnipro,3rd,N2O4?/?UDMH,nts|309 high  298 low,nts|20200 high  8450 low,nts|199,[empty],41 high/17 low,18
+RD869 15D300,USSR,Pivdenne/Pivdenmash,R36M,3rd,N2O4?/?UDMH,nts|313 high  3023 low,nts|20470 high  8580 low,nts|196,[empty],41 high/17 low,18
+Space Shuttle Solid Rocket Boosterefn|Largest solidfuel rocket motor ever flown  and the first to be used for primary propulsion on human spaceflight missions,Flag|USA,Thiokol,Space Shuttle Ares I,Booster,PBAN?/?APCP,nts|268,nts|14000000 nts|12500000 (SL),nts|590000 with fuel,[empty],[empty],[empty]
+UA1207,Flag|USA,United Technologies,Titan IV,Booster,PBAN,nts|272[87] nts|245 (SL),nts|7116000 nts|6410400 (SL),nts|319330 with fuel,[empty],[empty],[empty]
+Viking 2,EUR,Snecma,Ariane 1,1st,N2O4?/?UDMH,[empty],nts|690000 nts|611200 (SL),nts|776,nts|9067,[empty],[empty]
+Viking 2B,EUR,Snecma,Ariane 2 Ariane 3,1st,N2O4?/?UH?25,[empty],nts|643000 (SL),nts|776,nts|845,[empty],[empty]
+Viking 4,EUR,Snecma,Ariane 1,2nd,N2O4?/?UDMH,[empty],nts|713000,nts|826,nts|88,[empty],[empty]
+Viking 4B,EUR,Snecma,Ariane 2 Ariane 3 Ariane 4,2nd,N2O4?/?UH?25,[empty],nts|800000,nts|826,nts|9876,[empty],[empty]
+Viking 5C,EUR,Snecma,Ariane 4,1st,N2O4?/?UH?25,[empty],nts|758000 nts|678000 (SL),nts|826,nts|9357,[empty],[empty]
+Viking 6,EUR,Snecma,Ariane 4,Booster,N2O4?/?UH?25,[empty],nts|750000,nts|826,nts|9259,[empty],[empty]
+Vulcain HM60,EUR,Snecma,Ariane 5,1st,LH2?/?LOX,nts|439[88] nts|326 (SL)[89],nts|1113000[88] nts|773200 (SL)[89],nts|1300[89],nts|8438,nts|109[88],[empty]
+Waxwing,UK,Bristol Aerojet,Black Arrow,Upper,Solid,nts|278[90] nts|245 (SL),nts|29400 nts|25900 (SL),nts|87,nts|3448,[empty],[empty]

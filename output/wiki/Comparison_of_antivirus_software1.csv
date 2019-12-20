@@ -1,0 +1,53 @@
+Company,Software,Ondemand scan,Onaccess scan,Boottime scans,Heuristics,CloudAV,Firewall,IDS,IPS,Sandbox,Email Security,AntiSpam,Web protection,Macro protection,Live Update,Support,Settings Import/ Export,installer/ updater MIMA safe,License,Price,First release,Country of origin,Original author/s,Notes
+AhnLab,AhnLab V3 Internet Security,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,No,Yes,Yes,Yes,Yes,?,?,Proprietary,Nonfree,1988,South Korea,Dr Ahn CheolSoo,[empty]
+Avast,Avast Free Antivirus,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,?,Proprietary,Free,1988,Czech Republic,Pavel Baudi° and Eduard Ku?era,[empty]
+Avast,Avast Premium Security,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,?,Proprietary,some|Trialware,1997,Czech Republic,Pavel Baudi° and Eduard Ku?era,[empty]
+AVG Technologies (avast),AVG Antivirus FREE,Yes,Yes,Yes,Yes,No,No,No,No,?,No,No,Yes,Yes,Yes,Yes,No,?,Proprietary,Free,1992,Czech Republic,Jan Gritzbach and Tom√°° Hofer,[empty]
+AVG Technologies (avast),AVG Antivirus,Yes,Yes,Yes,Yes,Yes,No,No,No,?,Yes,No,Yes,Yes,Yes,Yes,No,?,Proprietary,Nonfree,2006,Czech Republic,Jan Gritzbach and Tom√°° Hofer,[empty]
+AVG Technologies (avast),AVG Internet Security,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,No,?,Proprietary,Nonfree,2008,Czech Republic,Jan Gritzbach and Tom√°° Hofer,[empty]
+Avira,Avira Antivirus FREE (formerly AntiVir),Yes,Yes,Yes,Yes,Yes,No,No,No,?,No,Yes,No,Yes,Yes,Yes,?,?,Proprietary,Free,1988,Germany,Tjark Auerbach,[empty]
+Avira,Avira Internet Security,Yes,Yes,Yes,Yes,Yes,No,No,No,?,Yes,Yes,Yes,Yes,Yes,Yes,?,?,Proprietary,Nonfree,2002,Germany,Tjark Auerbach,[empty]
+Bitdefender,Bitdefender Antivirus Free,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,?,?,Proprietary,Free,2013,Romania,[empty],[empty]
+Bitdefender,Bitdefender Antivirus Plus,Yes,Yes,Yes,Yes,Yes,Yes,v,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,?,?,Proprietary,Nonfree,1996,Romania,[empty],[empty]
+Bitdefender,Bitdefender Internet Security,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,?,No[1],Proprietary,Nonfree,2008,Romania,[empty],[empty]
+Check Point,ZoneAlarm PRO Antivirus  Firewall,Yes,Yes,No,Yes,No,Yes,No,No,?,No,No,No,Yes,Yes,Yes,Yes,?,Proprietary,Nonfree,2002,Israel,[empty],Thirdparty antivirus engine (Kaspersky) [2]
+Check Point,ZoneAlarm Extreme Security,Yes,Yes,No,Yes,Yes,Yes,No,No,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Proprietary,Nonfree,2002,United States,[empty],[empty]
+Cisco (originally Immunet),Immunet,Yes,Yes,No,No,Yes,No,No,No,?,Yes,No,No,No,Yes,Yes,?,?,Proprietary,Free,2010,United States,[empty],Thirdparty antivirus engine (ClamAV)
+ClamWin,ClamWin,Yes,Yes (with Winpooch or Clam Sentinel),Yes (with Clam Sentinel),Yes,No,No,No,No,?,Yes,No,No,No,Yes,No,?,?,GPLlic,Free,2002,Australia,[empty],Thirdparty antivirus engine (ClamAV)
+Comodo Group,Comodo Antivirus,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes*,Yes,Yes,Yes*,Yes,Yes,Yes,?,Proprietary,Free,2008,United States,[empty],Protection via containment of untrusted executable code
+Comodo Group,Comodo Internet Security,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes*,Yes,Yes,Yes*,Yes,Yes,Yes,?,Proprietary,Free,2010,United States,[empty],Protection via containment of untrusted executable code
+DrWeb,DrWeb Antivirus,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes*,Yes,Yes,Yes,Yes,Yes,Proprietary,some|Trialware,1992,Russia,Igor Danilov,macOS/Linux feature only
+DrWeb,DrWeb Security Space,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Proprietary,some|Trialware,2006,Russia,Igor Danilov,[empty]
+ESET,ESET NOD32 Antivirus,Yes,Yes,Yes,Yes,Yes,No,No,No,?,Yes,No,Yes[3][4],Yes,Yes,Yes,Yes,?,Proprietary,some|Trialware[5],1987,Slovakia,Peter Pa°ko and Miroslav Trnka,[empty]
+ESET,ESET Smart Security,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,Yes[3][4],Yes,Yes,Yes,Yes,No[1],Proprietary,some|Trialware[5],2007,Slovakia,Peter Pa°ko and Miroslav Trnka,[empty]
+FSecure,FSecure Antivirus,Yes,Yes,Yes,Yes,No,No,No,No,?,Yes,No,No,Yes,Yes,Yes,?,?,Proprietary,Nonfree,1991,Finland,Petri Allas and Risto Siilasmaa,Thirdparty antivirus engine (Bitdefender)
+FSecure,FSecure SAFE,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,?,?,Proprietary,Nonfree,2004,Finland,Petri Allas and Risto Siilasmaa,Thirdparty antivirus engine (Bitdefender)
+FRISK Software,FPROT Antivirus,Yes,Yes,Yes,Yes,No,No,No,No,?,Yes,No,No,Yes,Yes,Yes,?,?,Proprietary,some|Trialware,1989,Iceland,Fri√∞rik Sk√∫lason (second engine also with Dr Vesselin Bontchev),[empty]
+Fortinet,FortiClient,Yes,Yes,Yes,No,No,Yes,No,No,?,No,No,Yes,No,Yes,Yes,?,?,Proprietary,Free,2004,United States,[empty],[empty]
+G Data Software,G DATA AntiVirus,Yes,Yes,Yes,Yes,No,No,No,No,?,No,No,Yes,Yes,Yes,Yes,?,?,Proprietary,Nonfree,1987,Germany,Andreas L√ºning and Kai Figge,Thirdparty antivirus engine (Bitdefender)
+G Data Software,G DATA InternetSecurity,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,?,Yes,Yes,Yes,Yes,Yes,Yes,?,?,Proprietary,Nonfree,2004,Germany,Andreas L√ºning and Kai Figge,Thirdparty antivirus engine (Bitdefender)
+Kaspersky Lab,Kaspersky AntiVirus,Yes,Yes,Yes,Yes,No,No,No,No,?,Yes,No,Yes,No,Yes,Yes,?,?,Proprietary,Nonfree,1997,Russia,Eugene Kaspersky and Natalia Kaspersky,Banned by USG
+Kaspersky Lab,Kaspersky Internet Security,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,?,?,Proprietary,Nonfree,2007,Russia,Eugene Kaspersky and Natalia Kaspersky,Banned by USG
+Kaspersky Lab,Kaspersky Total Security,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Proprietary,Nonfree,[empty],Russia,Eugene Kaspersky and Natalia Kaspersky,Banned by USG
+McAfee,McAfee Antivirus,Yes,Yes,Yes,Yes,No,No,No,No,?,Yes,No,No,Yes,Yes,Yes,?,?,Proprietary,Nonfree,1987,United States,John McAfee,John McAfee "uninstall video" scandal
+McAfee,McAfee Internet Security,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,?,?,Proprietary,Nonfree,2006,United States,John McAfee,John McAfee "uninstall video" scandal
+Microsoft,Windows Defender,Yes,Yes,No,No Only Windows 10,No,No excepting Windows Firewall[6],No,No,?,No,No,No,No,Yes,Yes,No,?,Proprietary,Free,2012,United States,[empty],[empty]
+NANO Security Ltd,NANO Antivirus,Yes,Yes,No,Yes,No,No,No,No,?,Yes,No,Yes,No,Yes,Yes,No,?,Proprietary,free,2009,Russia,[empty],[empty]
+Panda Security,Panda Antivirus Pro,Yes,Yes,Yes,Yes,Yes,Yes,No,No,?,No,Yes,No,Yes,Yes,Yes,?,?,Proprietary,Nonfree,1990,Spain,Mikel Urizarbarrena,[empty]
+Panda Security,Panda Internet Security,Yes,Yes,Yes,Yes,Yes,Yes,No,No,?,Yes,Yes,Yes,Yes,Yes,Yes,?,?,Proprietary,Nonfree,2002,Spain,Mikel Urizarbarrena,[empty]
+Panda Security,Panda Antivirus Free,Yes,Yes,Yes,Yes,Yes,Yes,No,No,?,No,No,Yes,Yes,Yes,Yes,?,?,Proprietary,some|Trialware,2009,Spain,[empty],[empty]
+Qihoo 360,360 Total Security,Yes,Yes,Yes,Yes,Yes,No,No,No,?,No,No,Yes,Yes,Yes,Yes,?,?,Proprietary,Free,2006,China,[empty],[empty]
+Quick Heal,Quick Heal Total Security,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes*,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Proprietary,Nonfree,1995,India,[empty],Browser Sandbox only
+Sophos,Sophos AntiVirus,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,?,Yes,No,No,Yes,Yes,Yes,?,?,Proprietary,Nonfree,1988,United Kingdom,Jan Hruska and Peter Lammer,[empty]
+Sophos,Sophos EndUser Protection,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,?,?,Proprietary,Nonfree,2000,United Kingdom,Jan Hruska and Peter Lammer,[empty]
+Symantec,Norton Internet Security,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,?,?,Proprietary,Nonfree,2000,United States,[empty],Whitelists FBI backdoor scandal[7][8]
+Symantec (originally PC Tools),Spyware Doctor with AntiVirus,Yes,Yes,No,No,No,No,No,No,?,No,No,Yes,No,Yes,No,?,?,Proprietary,Nonfree,2003,United States,[empty],[empty]
+Trend Micro,Titanium Antivirus Plus,Yes,Yes,Yes,Yes,No,No,No,No,?,No,Yes,No,No,Yes,Yes,?,?,Proprietary,Nonfree,1990,Japan,[empty],[empty]
+Trend Micro,Titanium Internet Security,Yes,Yes,Yes,Yes,Yes,No,No,No,?,No,No,Yes,No,Yes,Yes,?,?,Proprietary,Nonfree,2008,Japan,[empty],[empty]
+TrustPort,TrustPort Antivirus,Yes,Yes,No,Yes,No,Yes,No,No,?,Yes,Yes,Yes,No,Yes,Yes,?,?,Proprietary,some|Trialware,2008,Czech Republic,[empty],Thirdparty antivirus engine (?)
+TrustPort,TrustPort Internet Security,Yes,Yes,No,Yes,No,Yes,No,No,?,Yes,Yes,Yes,No,Yes,Yes,?,?,Proprietary,some|Trialware,2008,Czech Republic,[empty],Thirdparty antivirus engine (?)
+TrustPort,TrustPort Total Protection,Yes,Yes,No,Yes,No,Yes,No,No,?,Yes,Yes,Yes,No,Yes,Yes,?,?,Proprietary,some|Trialware,2008,Czech Republic,[empty],Thirdparty antivirus engine (?)
+VirusBlokAda,Vba32 AntiVirus,Yes,Yes,No,No,No,No,No,No,?,No,No,No,No,No,No,?,?,Proprietary,Nonfree,2010,Belarus,[empty],[empty]
+Webroot,SecureAnywhere AntiVirus,Yes,Yes,No,Yes,Yes,Yes,No,Yes,?,No,No,Yes,No,Yes,Yes,?,?,Proprietary,some|Trialware,2011,United States,[empty],[empty]
+Webroot,SecureAnywhere Internet Security Plus and Complete,Yes,Yes,No,Yes,Yes,Yes,No,Yes,?,No,No,Yes,No,Yes,Yes,?,?,Proprietary,Nonfree,2011,United States,[empty],[empty]
+Company,Software,Ondemand scan,Onaccess scan,Boottime scans,Heuristics,CloudAV,Firewall,IDS,IPS,Sandbox,Email Security,AntiSpam,Web protection,Macro protection,LiveUpdate,Support,Settings Import/Export,installer/ updater MIMA safe,License,Price,First release,Country of origin,Original author/s,Notes

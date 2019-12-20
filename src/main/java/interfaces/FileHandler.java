@@ -31,7 +31,7 @@ public interface FileHandler {
 	 * @param number the number of the current table on that page
 	 * @return that filename
 	 */
-	public String extractFilenameFromUrl(String url, int number);
+	public String extractFilenameFromUrl(String url);
 	
 	/**
 	 * Verifies is a file is well formated with regards to CSV rules

@@ -1,0 +1,19 @@
+Name,Language,Latest stable version,Academic/noncommercial use is free,Can be used in proprietary apps,License,Notes
+ALGLIB,C  C#  FreePascal  VBA,380 / August 2013,yes,yes,Dual (Commercial  GPL),General purpose library  includes optimization package
+AMPL,C  C  C#  Python  Java  Matlab  R,October 2018,yes,yes,Dual (Commercial  academic),A popular algebraic modeling language for linear  mixedinteger and nonlinear optimization Student and AMPL for courses versions are available for free
+APMonitor,Fortran  C  Python  Matlab  Julia,062 / March 2016,yes,yes,Dual (Commercial  academic),A differential and algebraic modeling language for mixedinteger and nonlinear optimization Freely available interfaces for Matlab  Python  and Julia
+Artelys Knitro,C  C  C#  Python  Java  Julia  Matlab  R,111 / November 2018,no,yes,Commercial  Academic  Trial,General purpose library  specialized in nonlinear optimization Handles mixedinteger problems (MINLP) and mathematical programs with equilibrium constraints (MPEC) Specialized algorithms for nonlinear least squares problems
+FICO Xpress,Mosel  BCL  C  C  Java  R Python  Matlab  Net  VB6,85 / Aug 2018,Yes,Yes,Commercial  academic  community  trial,Suite of Optimization Technologies and Solutions Includes Solver technologies including (LP (Simplex & Barrier)  MIP  MIQP  MIQCQP  MISOCP  MINLP QP  QCQP  SOCP  NLP (SLP & Interior Point); An algebraic modelling and procedural programming language; an Integrated Development Environment; Supports for a range of execution services; Support for packaging of optimization models and services as software solutions
+GEKKO,Python,02rc4 / April 2019,yes,yes,Dual (Commercial  academic),GEKKO is a Python package for machine learning and optimization of mixedinteger and differential algebraic equations It is coupled with largescale solvers for linear  quadratic  nonlinear  and mixed integer programming (LP  QP  NLP  MILP  MINLP) Modes of operation include parameter regression  data reconciliation  realtime optimization  dynamic simulation  and nonlinear predictive control
+GNU Linear Programming Kit,C,452 / July 2013,yes,no,GPL,Free library for linear programming (LP) and mixed integer programming (MIP)
+GNU Scientific Library,C,116 / July 2013,yes,no,GPL,Free library provided by GNU project
+Gurobi,C  C  C#  Java  Net  Matlab  Python  R,81 / Sep 2018,Yes,Yes,Commercial  academic  trial,Optimization library Handles mixedinteger linear problems  convex quadratic constraints and objective  multiobjective optimization and SOS constraints
+IMSL Numerical Libraries,C  Java  C#  Fortran  Python,many components,no,yes,Proprietary,[empty]
+LIONsolver,C  Java,20198 / October 2011,yes,yes,Proprietary,Support for interactive and learning optimization  according to RSO principles [2]
+Math Kernel Library (MKL),C  Fortran,111 / October 2013,no,yes,Proprietary,Numerical library from Intel MKL is specialized on linear algebra  but contains some optimizationrelated functionality
+MIDACO,C  C#  Python  Matlab  Octave  Fortran  R  Java  Excel  VBA  Julia,60 / Mar 2018,Yes,Yes,Dual (Commercial  academic),Lightweight software tool for single and multiobjective optimization Supporting MINLP and parallelization
+NAG Numerical Libraries,C  Fortran,Mark 26 / October 2017,no,yes,Proprietary,[empty]
+NMath,C#,53 / May 2013,no,yes,Proprietary,C# numerical library built on top of MKL
+Octeract Engine,C/Python,01129 / November 2019,no,yes,Commercial,Supercomputing deterministic global optimization solver for general MINLP problems Octeract Engine uses MPI for distributed calculations
+OptaPlanner,Java,7300Final / November 2019,yes,yes,ASL (open source),Lightweight optimization solver in Java  with optional integration modules for JPAHibernate  Quarkus  Spring  Jackson  JAXB  etc Works on Kotlin and Scala too
+SciPy,Python,0131 / November 2013,yes,yes,BSD,General purpose numerical and scientific computing library for Python

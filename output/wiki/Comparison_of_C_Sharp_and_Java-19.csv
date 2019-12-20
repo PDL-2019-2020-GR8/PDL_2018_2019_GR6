@@ -1,8 +1,0 @@
-Preprocessing  Compilation and Packaging,Java,C#
-Namespaces,[empty],[added]
-File contents,[empty],[added]
-Packaging,[empty],[added]
-Classes/assembly search path,[empty],<ref></ref><ref></ref>
-Conditional compilation,; but see Apache Ant<ref></ref>,[added]
-Custom errors/warnings,; AnnotationProcessor,[added]
-Explicit regions,[empty],[added]

@@ -1,0 +1,28 @@
+Implementation,SSL 20 (insecure)[12],SSL 30 (insecure)[13],TLS 10[14],TLS 11[15],TLS 12[16],TLS 13,DTLS 10[17],DTLS 12[10]
+Botan,yes|No,yes|No[18],yes,yes,yes,[empty],yes,yes
+BoringSSL,[empty],[empty],yes,yes,yes,Partial|Yes (draft version),yes,yes
+Bouncy Castle,Yes|No,Yes|No,yes,yes,yes,Partial|Yes (draft version),yes,yes
+cryptlib,yes|No,yes|Disabled by default at compile time,yes,yes,yes,[empty],no,no
+GnuTLS,yes|Nocref2|group=protocolsupport|a,yes|Disabled by default[19],yes,yes,yes,yes|Yes[20],yes,yes
+JSSE,yes|Nocref2|group=protocolsupport|a,Yes|Disabled by default[21],yes,yes,yes,yes|Yes (JDK 11)[22],yes,yes
+LibreSSL,yes|No[23],yes|No[24],yes,yes,yes,okay | Not yet[25],yes,no
+MatrixSSL,yes|No,yes|Disabled by default at compile time[26],yes,yes,yes,yes,yes,yes
+mbed TLS,yes|No,yes|Disabled by default[27],yes,yes,yes,[empty],yes[27],yes[27]
+NSS,yes|Nocref2|group=protocolsupport|b,yes|Disabled by default[28],yes,yes[29],yes[30],yes[31],yes[29],yes[32]
+OpenSSL,Yes|No[33],yes|Disabled by default,yes,yes[34],yes[34],yes,yes,yes[35]
+RSA BSAFE[36],yes|No,yes|Disabled by default,yes,yes,yes,okay | Not yet,no,no
+S2n[37],yes|No,yes|Disabled by default,yes,yes,yes,[empty],no,no
+SChannel XP  2003[38],partial|Disabled by default in MSIE 7,No|Enabled by default,partial|Enabled by default in MSIE 7,no,no,[empty],no,no
+SChannel Vista[39],yes|Disabled by default,No|Enabled by default,yes,no,no,[empty],no,no
+SChannel 2008[39],yes|Disabled by default,No|Enabled by default,yes,Partial|Disabled by default (KB4019276),Partial|Disabled by default (KB4019276),[empty],no,no
+SChannel 7  2008R2[40],Yes|Disabled by default,partial|Disabled by default in MSIE 11,yes,partial|Enabled by default in MSIE 11,partial|Enabled by default in MSIE 11,[empty],yes[41],no[41]
+SChannel 8  2012[40],Yes|Disabled by default,No|Enabled by default,yes,partial|Disabled by default,partial|Disabled by default,[empty],yes,no
+SChannel 81  2012R2  10 v1507 & v1511[40],Yes|Disabled by default,partial|Disabled by default in MSIE 11,yes,yes,yes,[empty],yes,no
+SChannel 10 v1607 / 2016[42],Yes|No,Yes|Disabled by default,yes,yes,yes,[empty],yes,yes
+Secure Transport OS X 102107  iOS 14,No|Yes,No|Yes,yes,no,no,[empty],no,no
+Secure Transport OS X 1081010  iOS 58,Yes|Nocref2|group=protocolsupport|c,No|Yes,yes,yescref2|group=protocolsupport|c,yescref2|group=protocolsupport|c,[empty],yescref2|group=protocolsupport|c,no
+Secure Transport OS X 1011  iOS 9,Yes|No,Yes|Nocref2|group=protocolsupport|c,yes,yes,yes,[empty],yes,Unknown
+Secure Transport OS X 1013  iOS 11,Yes|No,Yes|Nocref2|group=protocolsupport|c,yes,yes,yes,Partial|Yes (draft version)[43],yes,Unknown
+wolfSSL,yes|No,yes|Disabled by default[44],yes,yes,yes,yes,yes,yes
+Erlang/OTP SSL application,yes|No,yes|Disabled by default,yes,yes,yes,okay | Not yet,yes,yes
+Implementation,SSL 20 (insecure)[12],SSL 30 (insecure)[13],TLS 10[14],TLS 11[15],TLS 12[16],TLS 13,DTLS 10[17],DTLS 12[10]

@@ -1,0 +1,14 @@
+Name,Latest release,Active,Software license,Type,Windows,macOS,Linux,Textual editor?,Tree view editor?,Graphical editor?,WYSIWYG editor?,XML Schema editor?,Syntax highlighting,Tag folding,Autocomplete using schema,XPath search,XML diff/merge,Payment model,Fullfeatured free trial period
+Adobe FrameMaker,2015,yes,proprietary,Standalone,yes,No,No,yes,yes,yes,yes,dunno,yes,yes,yes,yes,[empty],dunno,yes
+Altova XMLSpy,2018,yes,proprietary,Standalone Eclipse Plugin  Visual Studio Plugin,yes,no[1],no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,dunno,30 days
+CAM Editor,2015 (322),Yes,free|Open Source,Standalone,yes,yes,yes,yes,yes,yes,yes,dunno,no,yes,no,[empty],[empty],N/A,N/A
+emacs/ nxmlmode,current,dunno,GPLlic,Emacs mode,yes,yes,yes,yes,dunno,no,no,dunno,yes,yes,yes,[empty],[empty],N/A,N/A
+MadCap Flare,2019,yes,proprietary,Standalone,yes,no,no,yes,yes,yes,yes,no,yes,yes,yes,no,yes,Perpetual and Subscription,yes
+Liquid XML Studio,2018 (16119),yes,proprietary,Standalone  Visual Studio Plugin,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,dunno,yes
+Oxygen XML Editor,2019 (210),yes,proprietary,Standalone  Eclipse Plugin[2]WebApp,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,dunno,30 days
+Quark Author Web Edition on Quark Publishing Platform,2014 (105),yes,proprietary,WebApp,yes,yes,yes,no,Sections Only,yes,yes,dunno,no,no,no,[empty],[empty],dunno,n/a
+Stylus Studio,2014 (X15 R2),yes,proprietary,Standalone,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,[empty],yes,dunno,yes
+Xeditor,20,yes,proprietary,Webapp,yes,yes,yes,yes,yes,yes,yes,dunno,yes,yes,yes,[empty],[empty],dunno,yes
+Xerlin,2005 (13),no,free|Open Source,Standalone,yes,yes,yes,dunno,dunno,dunno,dunno,dunno,dunno,dunno,dunno,[empty],[empty],N/A,dunno
+XMetaL,2018 (130),yes,proprietary,Standalone,yes,no,no,yes,no,yes,yes,no,yes,yes,no,yes,no,dunno,yes
+XML Notepad,2017 (271),yes,Free|Microsoft Public License,Standalone,yes,no,no,yes,yes,yes,dunno,dunno,dunno,dunno,yes,[empty],[empty],dunno,yes

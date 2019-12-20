@@ -1,0 +1,41 @@
+Application,Latest release date and version,Developed by,Platforms,Mainly Used For,License
+3ds Max,20190327 v 2020,Autodesk,Microsoft Windows,Modeling  Animation (Video Games and Movies)  FX Simulations  Lighting  Rendering,proprietary
+AC3D,201612? v 8,Inivis,Linux  Mac OS X  Microsoft Windows,Modeling,proprietary
+Alibre Design,20180716 v 2018,Alibre  LLC,Microsoft Windows,Computer Aided Design,proprietary
+AutoCAD,20190328 v 2020,Autodesk,Mac OS X  Microsoft Windows,2D Computer Aided Design  3D Modeling  Basic Rendering  Rudimentary Animation (of Camera  not objects),proprietary
+Blender,20190730 v 280,Blender Foundation,Microsoft Windows  Mac OS X  Linux  BSD  Solaris  AmigaOS 4  MorphOS,2D/3D toon Animation  Lighting  Modeling  Node based Material Creation / Texturing / 3D Texture Painting/ UV Mapping  Rendering (Internal  External  3D Anaglyph and VR)  3D Rigging and Animation  Sculpting  Video Game Creation and Player  Visual 3D Effects  Basic PostProduction Video Editing  Motion Tracking  Python Scripting  Fluid Simulation  Particles  Physics  Compositing,free|GNU GPLv2 / Apache 20 [1]
+Carrara,20130826 85119,DAZ 3D,Microsoft Windows  Mac OS X,Animation  Modeling,proprietary
+Cheetah 3D,20171207 v 71,Dr Martin Wengenmayer,Mac OS X,Animation  Modeling  Rendering,proprietary
+Cinema 4D,20180911 R20,MAXON,Mac OS X  Microsoft Windows  Amiga OS[2],Animation  Lighting  Modeling  Visual 3D Effects  Rendering  Simulation,proprietary
+CityEngine,20180918 v 20181,Procedural,Mac OS X  Microsoft Windows  Linux,Procedural Modeling of 3D Cities,proprietary
+Claraio,redesigned in 20150331,Exocortex,Mozilla FireFox  Google Chrome  Microsoft Internet Explorer,Modeling  Animation  Rendering,proprietary
+Cobalt,??? v9 SP2r3,AshlarVellum,Mac OS X  Microsoft Windows,Modeling  Computer Aided Design  Animation,proprietary
+DesignSpark Mechanical,20181113 v40,SpaceClaim  RS Components,Microsoft Windows,Modeling  Computer Aided Design  Rapid Prototyping  3D Printing,proprietary
+Electric Image Animation System,201306 v910,EIAS3D,Mac OS X  Microsoft Windows,Animation  Lighting  Rendering  Film  Television  Visual 3D Effects,proprietary
+formZ pro/jr/free,201712? 86 WIP,autodessys  Inc,Mac OS X  Microsoft Windows,Animation  Modeling  Lighting  Render  Fabrication  Set Design,proprietary
+Hexagon,20110816 25179,DAZ 3D,Microsoft Windows  Mac OS X,Subdivision Modeling  UV Mapping,proprietary
+HiCAD,20170213 v HiCAD 2017,ISD Software und Systeme,Microsoft Windows,2D/3D Modeling  Computer Aided Design  Automatic drawing generation  BIM  Animation  HELiOS PDM integration  API scripting,proprietary
+Houdini,20190313 v 175,Side Effects Software,Microsoft Windows  Mac OS X  Linux,Animation  Lighting  Modeling  Visual 3D Effects,proprietary
+iClone,20171221 v 7212201,Reallusion,Microsoft Windows,Animation  Film and Television Previz  Videogame Asset Creation  Lighting  Visual 3D Effects,proprietary
+Inventor,v 20181130 v 201902,Autodesk,Microsoft Windows,Modeling  Computer Aided Design  Rapid Prototyping  3D Printing,proprietary
+LightWave 3D,20190807 v 201912,NewTek,Mac OS X  Microsoft Windows  Amiga OS[3],Modeling  Animation  Lighting  Rendering  Film and Television Previz  Videogame Asset Creation,proprietary
+MASSIVE,dunno v 35,Massive Software,Microsoft Windows  Linux,Artificial Intelligence in Models,proprietary
+Maya,20190115 v 2019,Autodesk,Microsoft Windows  Mac OS X  Linux,Modeling  Animation (Video)  Lighting  Rendering  Visual 3D Effects,proprietary
+Metasequoia,20180110 465,O Mizno,Microsoft Windows,Modeling,proprietary
+MODO,20180621 121,The Foundry,Mac OS X  Microsoft Windows  Linux,Modeling  Animation  Rendering,proprietary
+Mudbox,20180314 20182,Autodesk,Mac OS X  Microsoft Windows  Linux,Lighting  Sculpting (the deformation of the model),proprietary
+POVRay,20131109 v370,The POVTeam,Mac OS X  Microsoft Windows  Linux  AmigaOS,Lighting  Visual 3D effects,free|GNU AGPLv3
+PTC Creo (formerly Pro/Engineer),? v 40,Parametric Technology Corporation,Microsoft Windows  HPUX  Unix,Modeling  Computer Aided Design,proprietary
+Remo 3D,20191213 v 29,Remograph,Microsoft Windows  Linux,Modeling  Virtual Reality  Realtime modeling  Video Game Creation  Computer Aided Design,proprietary
+Rhinoceros 3D,20180206 v 60,McNeel,Microsoft Windows  Mac OS X in beta,Modeling  Computer Aided Design,proprietary
+Shade 3D,20150320 v 151,Shade3D,Mac OS X  Microsoft Windows,Modeling  Rendering  Animation,proprietary
+Silo,2018 v 253,Nevercenter,Mac OS X  Microsoft Windows,Modeling,proprietary
+SketchUp Pro,20190105 [4] v 190685 (Win64) v 1611450 (Win32) v 191173 (Mac64),Trimble Navigation,Mac OS X  Microsoft Windows,Modeling  Computer Aided Design,proprietary
+Solid Edge,201806? ST10,Siemens PLM Software,Microsoft Windows,Computer Aided Design,proprietary
+solidThinking Evolve,?? v 90,solidThinking,Mac OS X  Microsoft Windows,Modeling,proprietary
+SolidWorks,20181116 v SolidWorks 2019 SP00,Dassault Systèmes,Microsoft Windows,Computer Aided Design,proprietary
+SpaceClaim,201801 v 712,SpaceClaim Corporation,Microsoft Windows,Computer Aided Design,proprietary
+Eon Vue,2017 v 2016 R5,Eon Software,Mac OS X  Microsoft Windows,Animation  Landscape Modeling  Lighting,proprietary
+Verto Studio 3D,20180506 v238,Michael L Farrell,Mac OS X  iOS,Mobile Modeling  Texture Mapping  Lighting,proprietary
+Wings 3D,20180530 v 217,Dan Gudmundsson (maintainer),Mac OS X  Microsoft Windows  BSD  Linux,Modeling  Sculpting (the deformation of the model)  UV mapping,free|BSD
+ZBrush,20190306 v 2019,Pixologic,Mac OS X  Microsoft Windows,Modeling  Texturing  Lighting  Sculpting (the deformation of the model)  Rendering,proprietary

@@ -1,0 +1,21 @@
+Name,Architecture,Store,Integrated firewall,SMP support,USB support,UDMA support,Long filename support,Package management,Update management,APIs,DDIs,Safe Mode,Data Execution Prevention,DirectX
+Windows NT 31,IA32  DEC Alpha  MIPS,N/A,No,Yes,No,dunno,Yes (NTFS and HPFS volumes only),N/A,[empty],Win32  OS/2  POSIX,DLL  KMD,no,no,No
+Windows NT 35,IA32  DEC Alpha  MIPS,N/A,No,Yes,No,dunno,Yes (except on CDFS volumes),N/A,[empty],Win32  OS/2  POSIX,DLL  KMD,No,No,No
+Windows NT 351,IA32  DEC Alpha  MIPS  PowerPC,N/A,No,Yes,No,dunno,Yes (except on CDFS volumes),N/A,[empty],Win32  OS/2  POSIX,DLL  KMD,No,No,No
+Windows NT 40,IA32  DEC Alpha  MIPS  PowerPC,N/A,No,Yes,Yes (if the Ion USB update is installed),Yes,Yes,N/A,Windows Update (if Internet Explorer 5 or later is installed),Win32  OS/2  POSIX,DLL  KMD,No,No,Yes 30a  50(unofficial)
+Windows 2000,IA32,N/A,No,Yes,Yes (USB 20 with update or SP4)[2],Yes,Yes,N/A,Windows Update  WSUS,Win32  OS/2  POSIX,DLL  KMD  WDM  KMDF,Yes,No,Yes 70  90c(feb2010)(optional)
+Windows XP,IA32(NT51)  Itanium(NT51/52)  x64(NT52),N/A,Yes,Yes (Professional Edition only),Yes (USB 20 with update or SP1)[3],Yes,Yes,N/A,Windows Update  WSUS,Win32  NET,DLL  KMD  WDM  KMDF  UMDFv1,Yes,Yes (in SP2),Yes 90c
+Windows Server 2003,IA32  Itanium  x64,N/A,Yes,Yes,Yes (USB 20)[4],Yes,Yes,N/A,Windows Update  WSUS,Win32,DLL  KMD  WDM  KMDF  UMDFv1,Yes,Yes (in SP1),Yes 90c
+Windows Fundamentals for Legacy PCs,IA32,N/A,Yes,No,Yes,Yes,Yes,N/A,Windows Update  WSUS,Win32,DLL  KMD  WDM  KMDF  UMDFv1,Yes,Yes,Yes 90c
+Windows Vista,IA32  x64,Windows Marketplace,Yes,Yes,Yes (USB 20),Yes,Yes,N/A,Windows Update  WSUS,Win32  NET  POSIX (only Enterprise and Ultimate),DLL  KMD  WDM  KMDF  UMDFv1,Yes,Yes,Yes 101 110(optional)
+Windows Server 2008,IA32  Itanium  x64,N/A,Yes,Yes,Yes (USB 20),Yes,Yes,N/A,Windows Update  WSUS,Win32,DLL  KMD  WDM  KMDF  UMDFv1,Yes,Yes,Yes 101 110(optional)
+Windows Home Server,IA32,N/A,dunno,Yes,Yes (USB 20),dunno,Yes,N/A,Windows Update,Win32,DLL  KMD  WDM  KMDF  UMDFv1,dunno,dunno,Yes 90c
+Windows 7,IA32  x64,N/A,Yes,Yes,Yes (USB 30),Yes,Yes,N/A,Windows Update  WSUS,Win32  NET,DLL  KMD  WDM  KMDF  UMDFv1,Yes,Yes,Yes 110 111(optional)
+Windows Server 2008 R2,Itanium  x64,N/A,Yes,Yes,Yes (USB 30),Yes,Yes,N/A,Windows Update  WSUS,Win32  NET,DLL  KMD  WDM  KMDF  UMDFv1,Yes,Yes,Yes 110 111(optional)
+Windows Home Server 2011,x64,N/A,dunno,Yes,Yes (USB 30),dunno,Yes,N/A,Windows Update,Win32,DLL  KMD  WDM  KMDF  UMDFv1,dunno,dunno,Yes 110 111(optional)
+Windows Server 2012,x64,Windows Store,Yes,Yes,Yes (USB 30),Yes,Yes,Windows Store,Windows Update  WSUS,Win32  NET  WinRT,DLL  KMD  WDM  KMDF  UMDFv1,Yes,Yes,Yes 111
+Windows 8,IA32  x64,Windows Store,Yes,Yes,Yes (USB 30),Yes,Yes,Windows Store,Windows Update  WSUS,Win32  NET  WinRT,DLL  KMD  WDM  KMDF  UMDFv1,Yes,Yes,Yes 111
+Windows 81,IA32  x64,Windows Store,Yes,Yes,Yes (USB 30),Yes,Yes,Windows Store  PowerShell,Windows Update  WSUS  Windows Store,Win32  NET  WinRT,DLL  KMD  WDM  KMDF  UMDFv1  UMDFv2,Yes,Yes,Yes 112
+Windows Server 2012 R2,x64,Windows Store,Yes,Yes,Yes (USB 30),Yes,Yes,Windows Store,Windows Update  WSUS  Windows Store,Win32  NET  WinRT,DLL  KMD  WDM  KMDF  UMDFv1  UMDFv2,Yes,Yes,Yes 112
+Windows 10,IA32  x64,Windows Store,Yes,Yes,Yes (USB 31 and Thunderbolt 3),Yes,Yes,Windows Store  PowerShell,Windows Update  WSUS  Windows Store,Win32  NET  WinRT  Linux,DLL  KMD  WDM  KMDF  UMDFv1  UMDFv2,Yes,Yes,Yes 12
+Windows Server 2016,x64,Windows Store,Yes,Yes,Yes (USB 31 and Thunderbolt 3),Yes,Yes,Windows Store,Windows Update  WSUS  Windows Store,Win32  NET  WinRT,DLL  KMD  WDM  KMDF  UMDFv1  UMDFv2,Yes,Yes,Yes 12

@@ -1,0 +1,2 @@
+C#,Visual Basic NET
+// Single line comment  /* Multiline comment    line 2    line 3 */  /// XML single line comment  /** XML multiline comment     line 2     line 3 */  #if COMMENT    multiline comment via preprocessing     line 2    line 3 #endif,' Single line comment  ''' XML 1st line comment ''' XML 2nd line comment ''' XML 3rd line comment  #If COMMENT Then    multiline comment via preprocessing     line 2    line 3 #End If  Intraline comments not available

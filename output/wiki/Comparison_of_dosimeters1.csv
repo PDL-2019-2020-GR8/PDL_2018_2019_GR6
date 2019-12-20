@@ -1,0 +1,17 @@
+Device,Photo,Mfg country,Size  mm,Weight  g,Power supply,Display,Sound,Vibration,Detector type,Range  ¼Sv/h,Range  ¼R/h,Measurement time  seconds,Measuring of beta radiation and range of energy,PC link,Extra features
+SA05A[1],[empty],Switzerland,119x65x265,135,Builtin lithium polymer battery,LCD,no,no,Geiger€“MÃ¼ller tube LND 713,001€“6000,no,1€“60,005€“13 MeV,yes|USB,Clock  calendar and data logger
+ANRI 0102 Sosna[2],[empty],Russia,133x82x45,350,Ninevolt battery,LCD,yes,no,Two to four Geiger€“MÃ¼ller tubes,01€“100,10€“104,20±5,partial|Combined  05€“30 MeV,no,[empty]
+DKGRM1203M[3],[empty],Belarus,125x42x24,90,Two LR44,LCD,yes,no,Geiger€“MÃ¼ller tube,001€“2000,1€“2*105,?,no,yes|Infrared,Clock with alarm
+MKS05 «TerraP»,[empty],Ukraine,120Ã—52Ã—26,150,Two AAA,LCD,yes,no,Geiger€“MÃ¼ller tube,01€“1000,10€“105,5€“70,partial|Combined  05€“30 MeV,no,Clock with alarm  cover as option
+MKS05 «Terra» (New edition),[empty],Ukraine,120Ã—52Ã—26,150,Two AAA,LCD with backlight,yes,yes,Geiger€“MÃ¼ller tube,01€“104,10€“106,1€“70,partial|Combined  05€“30 MeV,yes|Bluetooth,Clock with alarm  cover
+DKR04,[empty],?,74…48…16,50,AAA,LCD,yes,no,Semiconductor,01€“106,10€“108,4€“256,no,no,[empty]
+Radex RD1503  RD1503,[empty],Russia,105…60…26,90,One or two AAA,LCD with backlight,yes,partial|Only RD1503,Geiger€“MÃ¼ller tube,005€“10,5€“1000,up to 40,partial|Combined  01€“125 MeV,no,[empty]
+Radex RD1706,[empty],Russia,105…60…26,90,One or two AAA,LCD with backlight,yes,yes,Two Geiger€“MÃ¼ller tubes,005€“1000,5€“105,1€“26,partial|Combined  01€“125 MeV,no,Background mode
+Radex RD1212,[empty],Russia,97x68x24,80,One or two AAA,LCD with backlight,yes,yes,One Geiger€“MÃ¼ller tube,005€“999,5€“105,1€“10,partial|Combined  04€“35 MeV,yes|USB,Background mode  integrated flashlight  time and date functions  multilingual
+Radex RD1008,[empty],Russia,140…64…26,175,AA,LCD with backlight,yes,yes,Two Geiger€“MÃ¼ller tubes,01€“1000,2€“120,2€“21,yes|Separated  005€“35 MeV,no,Background mode  separated indication of beta and gamma radiation
+RadTarge II D300[4],[empty],China,69x46x17,60,Builtin lithium ion battery,LCD with backlight,yes,yes,YSO scintillator  SiPM,05€“5000,50€“5*105,< 8,no|No  003€“15 MeV,yes|USB,Dose equivalent rate  accumulated dose meter  pagerlike clip  time and date functions  data logging and export (via Mac/PC software)
+RadTarge II D700[5],[empty],China,69x46x17,60,Builtin lithiumion battery,LCD with backlight,yes,yes,YSO scintillator  SiPM,001€“1000,1€“105,< 2,no|No  002€“3 MeV,yes|USB,Dose equivalent rate  accumulated dose meter  pagerlike clip  time and date functions  data logging and export (via Mac/PC software)
+RadTarge II D900[6],[empty],China,69x46x17,60,Builtin lithiumion battery,LCD with backlight,yes,yes,YSO scintillator  SiPM,01€“105,10€“107,< 6,no|No  002€“3 MeV,yes|USB,Dose equivalent rate  accumulated dose meter  pagerlike clip  time and date functions  data logging and export (via Mac/PC software)
+RKSB104,[empty],Belarus,154…77…39,350,Ninevolt battery,LCD,no,no,Two Geiger€“MÃ¼ller tubes,01€“100,10€“2*104,18€“400,partial|Combined  05€“30 MeV,no,[empty]
+DKGRM1610,[empty],Belarus,58…58…18,70,Builtin accumulator,LCD,yes,yes,One Geiger€“MÃ¼ller tube,001€“12*106,1€“12*108,?,no,yes|USB,Shock protection
+EcotestCARD,[empty],Ukraine,[empty],80,CR2450,LCD,yes,no,Semiconductor,01€“106,10€“108,?,?,yes|Infrared,[empty]

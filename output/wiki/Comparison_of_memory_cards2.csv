@@ -1,0 +1,15 @@
+Card,Write protection switchhsp[31],DRM
+CompactFlash,no,no
+SmartMedia,partial  sticker,partial (optional)
+MMC  RSMMC,rowspan="2" no,no
+MMCMobile,yes  secureMMC,[added]
+SD,yeshsp[32][33],rowspan="3" yes  CPRM
+miniSD,no,[added]
+microSD,no,[added]
+Memory Stick Standard  PRO,yes,optional  MagicGate
+Memory Stick Duo  PRO Duo,no,optional  MagicGate
+Memory Stick PROHG Duo,no,optional  MagicGate
+Memory Stick Micro (M2),no,optional  MagicGate
+PS Vita Memory Card,no,yes  Proprietary
+xD,no,partialhsp[34]
+USB,Sometimes,no

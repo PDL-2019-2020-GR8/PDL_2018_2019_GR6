@@ -1,0 +1,20 @@
+[empty],Creator,Latest release date,Current stable version,Programming language,License
+bbPress[1],WordPress Foundation,20190904,523,PHP[2],GPL[3]
+Beehive Forum[4],Project Beehive Forum Developers,20161105,152,PHP,GPL
+Discourse[5],Civilized Discourse Construction Kit  Inc,20191106,236,Ruby  JavaScript,GPL
+Discuz![6],Comsenz Inc,20180101,X34,PHP,Discuz! EULA (proprietary  gratis for noncommercial use)
+FluxBB[7],FluxBBorg Developers,20181231,1511,PHP,GPL
+FUDforum[8],Advanced Internet Designs Inc,20180409,309,PHP,GPL
+Ikonboard[9],Matt Mecham (original creator) Joshua Johnson,20121019,315A,Perl,Proprietary
+Invision Power Board[10],Invision Power Services Inc,20190612,444,PHP,Proprietary
+MyBB[11],MyBB Group,20190610,1821,PHP,LGPL  moving to BSD in 20[12]
+Phorum[13],Brian Moon,20170823,5223,PHP,Phorum License 2 (BSD like)
+phpBB[14],phpBB Ltd,20190505,328,PHP,GPL
+PunBB[15],PunBB,20151014,144,PHP,GPL
+Simple Machines Forum[16],Simple Machines,20171119[17],2015[17],PHP,BSD License
+Syndie[18],Anonymous (related to I2P),20140814,1107b,Java,Open source  multiple licenses
+Thredded[19],Joel Oliveira  Gleb Mazovetskiy  et al,20190817,01613,Ruby,MIT
+Vanilla Forums[20],Vanilla Forums,20190315,281,PHP,Proprietary/GPL[21]
+vBulletin[22],vBulletin Solutions Inc,20190514,552,PHP[23],Proprietary[24]
+XenForo,XenForo Limited  Kier Darby  Mike Sullivan,20191106,215,PHP[25],Proprietary
+!Creator,Latest release date,Current stable version,Programming language,License,[added]

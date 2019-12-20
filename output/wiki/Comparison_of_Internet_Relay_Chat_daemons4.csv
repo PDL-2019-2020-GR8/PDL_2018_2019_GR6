@@ -1,0 +1,27 @@
+IRC daemon,Channel types,Halfop support (h %),Admin/protect support (a/u &/!/*),Founder/owner support (q ~/),Operator prefixing[66],Advanced operator ACL,Operator "levels"[67],vHost via Iline (or equivalent),i18n nicknames[68],RDBMS integration (SQL)
+Bahamut,#,no,no,no,no,no,no,partial,no,no
+bIRCd,&,no,no,no,no,no,no,partial,no,no
+Charybdis,&,no,no,no,no,yes,yes,yes,no,no
+ConferenceRoom,&,no,no,yes,no,yes,yes,yes,partial,partial
+FoxEye ircd,& ! ,yes|Module,no,no,no,no,no,yes,yes,no
+InspIRCd,#,yes,yes|Module,yes|Module,yes|Module,yes,yes|Module,yes,yes|Module,yes|Old versions MySQL  SQLite & PostgreSQL Authorization  Services Integration  Logging  Operaccess
+IRCD,& ! ,no,no,no,no,no,no,no,no,no
+IRCDHybrid,#,yes,no,no,no,no,no,yes,no,no
+ircdratbox,&,no,no,no,no,no,no,yes,no,no
+ircu,&,no,yes,no,no,yes,no,no,no,no
+ithildin,#,no,no,no,yes,yes,yes,no,no,no
+miniircd, # & !,no,no,no,no,no,no,no,no,no
+Nefarious IRCu,&,yes,no,no,no,yes,no,yes,no,no
+ngIRCd,& ,yes[69],yes,yes,no,no,no,no,no,no
+OfficeIRC Server,%# & %&,no,yes,yes,yes,partial,yes,yes,yes,partial
+Oragono,#,yes,yes,yes,no,yes,unk,no,yes,no
+PleXusIRCd,&,yes,yes,yes,no,no,unk,yes,unk,no
+pureIRCd,#,no,no,unk,unk,unk,unk,unk,unk,unk
+RockIRCd,#,no,yes,yes,unk,unk,yes,no,unk,no
+RubIRCd,#,yes,yes,yes,yes,no,yes,yes,no,no
+ShadowIRCd,&,yes,yes,no,no,yes,yes,yes,no,no
+snircd,&,no,yes,no,no,yes,no,yes,no,no
+solidircd,#,yes,no,no,no,no,no,partial,no,no
+Synchronet IRCd,&,no,no,no,no,no,no,no,no,no
+UnrealIRCd,#,yes,yes,yes,no,yes,partial|Third party module (netadmins)[70],yes|Yes  vhost block in conf,yes2 iso88591/2/7/8I/9/16  windows1250/1251  Multibyte,partial|MySQL & PostgreSQL Third party modules [71]
+WeIRCd,#,yes,no,no,no,no,no,no,no,yes|SQLite in services module

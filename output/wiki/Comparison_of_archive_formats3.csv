@@ -1,0 +1,20 @@
+Archive format,Builtin compression,Selfextracting,Directory Structure,POSIX attributes,ACLs,Alternate data streams
+cpio,noref|c1|1,no,yes,yes,no,dunno
+tar,noref|c1|1,no,yes,yes,some,partial|(in Solaris implementation)
+dar,yesref|c3|3,no,yes,yes,yes,yes
+ar,no,no,no,yes,no,dunno
+pax,no,no,yes,yes,yes,dunno
+dump,noref|c1|1,no,yes,yes,yes,dunno
+shar,no,yes,yes,yes,no,dunno
+makeself,yes,yes,yes,yes,yes,dunno
+zip,yes,yesref|c2|2,yes,no,dunno,dunno
+rar,yes,yesref|c2|2,yes,no,dunno,yes
+ace,yes,dunno,yes,no,dunno,dunno
+arj,yes,yesref|c2|2,yes,no,no,dunno
+zoo,yes,dunno,yes,no,dunno,dunno
+ISO 9660 (CDROM),noref|c1|1,no,yes,maybe|(with Rock Ridge extension),no,dunno
+cab,yes,yesref|c2|2,dunno,no,dunno,dunno
+rpm,yes,no,yes,yes,dunno,dunno
+deb,yes,no,yes,yes,dunno,dunno
+7z,yes,yes,yes,yes,dunno,dunno
+Archive format,Builtin compression,Selfextracting,Directory Structure,POSIX attributes,ACLs,Alternate data streams

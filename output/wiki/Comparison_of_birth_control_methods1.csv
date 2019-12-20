@@ -1,0 +1,37 @@
+Birth control method,Brand/common name,Typicaluse failure rate (%),Perfectuse failure rate (%),Type,Implementation,User action required
+Contraceptive implant,Implanon [16] Jadelle [17] the implant,sort|00005|005 (1 of 2000),sort|00005|005,Progestogen,Subdermal implant,sort | 03000 | 35 years
+Vasectomy[16],male sterilization,sort|00015|015 (1 of 666),sort|00010|01,Sterilization,Surgical procedure,sort | 98000 | Once
+Combined injectable[18],Lunelle  Cyclofem,sort|00020|02 (1 of 500),sort|00020|02,Estrogen  progestogen,Injection,sort | 00100 | Monthly
+IUD with progestogen[16],Mirena  Skyla  Liletta,sort|00020|02 (1 of 500),sort|00020|02,Intrauterine & progestogen,Intrauterine,sort | 05000 | 37 years
+Essure[19],female sterilization,sort|00026|026 (1 of 384),sort|00026|026,Sterilization,Surgical procedure,sort | 98000 | Once
+Tubal ligation[16],female sterilization,sort|00050|05 (1 of 200),sort|00050|05,Sterilization,Surgical procedure,sort | 98000 | Once
+IUD with copper[16],Paragard  Copper T  the coil,sort|00080|08 (1 of 125),sort|00060|06,Intrauterine & copper,Intrauterine,sort | 05100 | 3 to 12 years
+Forschungsgruppe NFP symptothermal method  teaching sessions  application[16][20],Sensiplan by Arbeitsgruppe NFP (Malteser Germany gGmbh),sort|00180|18 (1 of 55),sort|00040|04,Behavioral,Teaching sessions  observation  charting and evaluating a combination of fertility symptoms,sort | 00006 | Three teaching sessions  daily application
+LAM for 6 months only; not applicable if menstruation resumes[21][22],ecological breastfeeding,sort|00200|2 (1 of 50),sort|00050|05,Behavioral,Breastfeeding,sort | 00004 | Every few hours
+color|gray|2002[23] cervical cap and spermicide (discontinued in 2008) used by nulliparous[24][24][25],Lea's Shield,sort|00500|5 (1 of 20),sort|10000|no data,Barrier  spermicide,Vaginal insertion,sort | 00030 | Every act of intercourse
+MPA shot[16],Depo Provera  the shot,sort|00600|6 (1 of 17),sort|00020|02,Progestogen,Injection,sort | 00300 | 12 weeks
+color|gray|Testosterone injection for male (unapproved  experimental method)[26],Testosterone Undecanoate,sort|00610|61 (1 of 16),sort|00110|11,Testosterone,Intramuscular Injection,sort | 00030 | Every 4 weeks
+1999 cervical cap and spermicide (replaced by second generation in 2003)[27],FemCap,sort|00760|76Failed verification|date=December 2017 (estimated) (1 of 13),no data,Barrier & spermicide,Vaginal insertion,sort | 00030 | Every act of intercourse
+Contraceptive patch[16],Ortho Evra  the patch,sort|00900|9 (1 of 12),sort|00030|03,Estrogen & progestogen,Transdermal patch,sort | 00070 | Weekly
+Combined oral contraceptive pill[16],the Pill,sort|00900|9 (1 of 11)[28],sort|00030|03,Estrogen & progestogen  Placebo[29],Oral medication,sort | 00010 | Daily
+Ethinylestradiol/etonogestrel vaginal ring[16],NuvaRing  the ring,sort|00900|9 (1 of 11),sort|00030|03,Estrogen & progestogen,Vaginal insertion,sort | 00099 | In place 3 weeks / 1 week break
+Progestogen only pill[16],POP  minipill,sort|00900|9[28],sort|00030|03,Progestogen[29],Oral medication,sort | 00010 | Daily
+Ormeloxifene[30],Saheli  Centron,sort|00900|9,sort|00200|2,SERM,Oral medication,sort | 00070 | Weekly
+Emergency contraception pill,Plan B OneStep®,sort|10000|no data,sort|10000|no data,Levonorgestrel,Oral medication,sort | 00030 | Every act of intercourse
+Standard Days Method[16],CycleBeads  iCycleBeads,sort|01200|12 (1 of 83),sort|00500|5,Behavioral,Counting days since menstruation,sort | 00010 | Daily
+Diaphragm and spermicide[16],[empty],sort|01200|12 (1 of 6),sort|00600|6,Barrier & spermicide,Vaginal insertion,sort | 00030 | Every act of intercourse
+Plastic contraceptive sponge with spermicide used by nulliparous[16][25],Today sponge  the sponge,sort|01200|12,sort|00900|9,Barrier & spermicide,Vaginal insertion,sort | 00030 | Every act of intercourse
+color|gray|2002[23] cervical cap and spermicide (discontinued in 2008) used by parous[24][24][31],Lea's Shield,sort|01500|15 (1 of 6),sort|10000|no data,Barrier  spermicide,Vaginal insertion,sort | 00030 | Every act of intercourse
+color|gray|1988 cervical cap and spermicide (discontinued in 2005) used by nulliparous[25],Prentif,sort|01600|16,sort|00900|9,Barrier  spermicide,Vaginal insertion,sort | 00030 | Every act of intercourse
+Male latex condom[16][28],Condom,sort|01800|18 (1 of 5),sort|00200|2,Barrier,Placed on erect penis,sort | 00030 | Every act of intercourse
+Female condom[16],[empty],sort|02100|21 (1 of 47),sort|00500|5,Barrier,Vaginal insertion,sort | 00030 | Every act of intercourse
+Coitus interruptus[16],withdrawal method  pulling out,sort|02200|22 (1 of 5)[32],sort|00400|4,Behavioral,Withdrawal,sort | 00030 | Every act of intercourse
+Symptomsbased fertility awareness ex symptothermal and calendarbased methods[16][33][34],TwoDay method  Billings ovulation method  Creighton Model,sort|02400|24  (1 of 4),sort|00300|3–4,Behavioral,Observation and charting of basal body temperature  cervical mucus or cervical position,sort | 00006 | Throughout day or daily[35]
+Calendarbased methods[16],the rhythm method  KnausOgino method  Standard Days method,sort|10000|no data,sort|00500|5,Behavioral,Calendarbased,sort | 00010 | Daily
+Plastic contraceptive sponge with spermicide used by parous[16][31],Today sponge  the sponge,sort|02400|24 (1 of 4),sort|02000|20,Barrier & spermicide,Vaginal insertion,sort | 00030 | Every act of intercourse
+Spermicidal gel  foam  suppository  or film[16],[empty],sort|02800|28 (1 of 4),sort|01800|18,Spermicide,Vaginal insertion,sort | 00030 | Every act of intercourse
+color|gray|1988 cervical cap and spermicide (discontinued in 2005) used by parous[31],Prentif,sort|03200|32,sort|02600|26,Barrier  spermicide,Vaginal insertion,sort | 00030 | Every act of intercourse
+Abstinence pledge[36][37]Better source|date=December 2017,[empty],sort|05000|50–575 (estimated) (1 of 2),sort|10000|no data,Behavioral,Commitment,sort | 98000 | Once
+None (unprotected intercourse)[16],[empty],sort|08500|85 (6 of 7),sort|08500|85,Behavioral,Discontinuing birth control,sort | 98000 | N/A
+Placebo[38],[empty],sort|10000|100[39] (all  after about half a year),sort|10000|100,Placebo,Oral medication,sort | 00010 | Daily
+Birth control method,Brand/common name,Typicaluse failure rate (%),Perfectuse failure rate (%),Type,Implementation,User action required

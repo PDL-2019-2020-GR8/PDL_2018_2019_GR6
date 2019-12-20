@@ -1,0 +1,48 @@
+Name,IP SLA Reports,Logical Grouping,Trending,Trend Prediction,Auto Discovery,Agentless,SNMP,Syslog,Plugins,Triggers / Alerts,MIB Compiler,WebApp,Distributed Monitoring,Inventory,Platform,Data Storage Method,License,Maps,Access Control,IPv6,Latest release date,Latest release version
+Argus  The all seeing,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes|Viewing  Acknowledging  Reporting,Yes,Unknown,Perl,Flat file  Berkeley DB,free|Artistic License,No,Yes,Yes,201302,37
+Avaya VPFM,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes|Full Control,Yes,Yes,Unknown,MySQL,nonfree|Commercial,Yes,Yes,Yes,[added],[added]
+Cacti,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes|Full Control,Yes,Yes,PHP,RRDtool  MySQL,GPLlic,optional|Via plugin,Yes,Yes,20190607,124
+Check MK,optional|Via plugin,Yes,Yes,Yes,optional|Via plugin,Yes,Yes,Yes,Yes,Yes,No,Yes|Full Control,Yes,Yes,C  Python,RRDtool,GPLlic,optional|Via plugin,Yes,Yes,20191111,160p6
+collectd,No,No,No,No,Yes|Push model; multicast possible,Yes,Yes,Yes,Yes,Yes,No,Yes|Viewing,Yes,No,C,RRDtool,GPLlic|GPLv2,No,Partial|Apache ACL,Yes,20191113,510
+Cruz,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes|Full Control,Yes,Yes,Java  C  NET,MySQL  Oracle,nonfree|Commercial,Yes,Yes,Yes,201902,800
+Entuity,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes|Full Control,Yes,Yes,C  C  Java,MariaDB,Nonfree|Commercial,Yes,Yes,Yes,20171222,165 P3
+FreeNATS,Yes,Yes,No,No,Yes,No,No,optional|Via plugin,Yes,Yes|In PHP Code,No,Yes|Full Control,No,No,PHP,MySQL,GPLlic,No,Yes,Unknown,20110709,1133b
+Ganglia,No,Yes,Yes,No,Yes2Via gmond check in,No,Optional|Via plugin,No,Yes,No,No,Yes|Viewing,Yes,Unknown,C  PHP,RRDtool,BSDlic,Yes,No,Unknown,20160614,372
+Hinemos,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes|Full Control,Yes,Yes,Java,PostgreSQL,GPLlic,Yes,Yes,Yes,20170609,601
+HPE Openview Network Node Manager (NNMi),Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes2Via integration,Yes,Yes,No,Yes|Full Control,Yes,Yes,C  Java  Perl,PostgreSQL  Oracle Database,nonfree|Commercial,Yes,Yes,Yes,201608,1020
+Icinga,optional|Via plugin,Yes,Yes,No,optional|Via plugin,Yes,optional|Via plugin,optional|Via plugin,Yes,Yes,No,Yes|Full Control,Yes,optional|Via plugin,C[1],MySQL  PostgreSQL  Oracle Database,GPLlic,[empty],Yes,Yes,20190319,2104
+InterMapper,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes|Viewing,Yes,Yes,Windows  Linux & Mac OS,PostgreSQL,YesNo|Limited free  Commercial,Yes,Yes,Yes,201707,615
+isyVmon,Yes,Yes,Yes,No,optional|Via plugin,No,Yes,Yes,Yes,Yes,No,Yes|Full Control,Yes,optional|Via plugin,PHP,RRDtool  MySQL,YesNo|Limited free  Commercial,optional|Via plugin,Yes,Yes,[added],[added]
+Kaseya Network Monitor,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes|Full Control,Yes,Yes,Unknown,FirebirdSQL,nonfree|Commercial,Yes,Yes,Unknown,[added],[added]
+Munin,No,yes,Yes,Yes,No,No,Yes,No,Yes,Partial,No,Yes|Viewing,optional|Via nodes,Unknown,Perl,RRDtool,GPLlic,Unknown,Unknown,Yes,20160919,2026
+Nagios,optional|Via plugin,Yes,Yes,No,optional|Via plugin,Yes,optional|Via plugin,optional|Via plugin,Yes,Yes,No,Yes,Yes,optional|Via plugin,C,Flat file  SQL (via ndoutils)  MySql (Via Nconf),GPLlic,Yes,Yes,Yes[2],20190729,444[3]
+NeDi,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Perl  PHP,Pg  MySQL  RRDTool  MariaDB,YesNo|GPL3  Commercial,Yes,Yes,Yes,201604,16[4]
+Netdisco,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Perl,PostgreSQL,BSDlic,Yes,Yes,Yes,201710,2036011[5]
+NetXMS,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Yes,Unknown,Unknown,Unknown,Yes,Unknown,Unknown,Unknown,C  Java,Oracle  MySQL  MongoDB  PostgreSQL  IBM DB2  Tuxedo,GPLlic,Yes,Yes,Unknown,20190911,30
+NeuralStar,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes|Full Control,Yes,Yes,Unknown,MS SQL,Nonfree|Commercial,Yes,Yes,Yes,[added],[added]
+CA UIM fka Nimsoft Monitor,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes|Viewing  Acknowledging  Reporting,Yes,Yes,Unknown,SQLServer  Oracle  MySQL,YesNo|Limited free  Commercial,Yes,Yes,Yes,20130630,186
+Octopussy,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes|Full control,No,Yes,Perl  ASP,MySQL,GPLlic,No,Yes,No,20170603,1016
+op5 Monitor,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,optional|Via plugin,C  PHP,Flat file  SQL,YesNo|Limited free  Commercial,Yes,Yes,Yes,Monthly,730
+OpenKBM,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Unknown,Proprietary|Proprietary with JDBC support,nonfree|Commercial,Yes,Yes,Yes,[added],[added]
+OpenNMS,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes|Full Control,Yes,Yes,Java,JRobin / RRDTool / Apache Cassandra  PostgreSQL,free|AGPLv3,Yes,Yes,Yes,20190926,2500
+Opmantek NMIS,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes|Full Control,No,Yes,Yes,Yes,Perl,MongoDB  RRDtool,YesNo|GPL  Commercial,Yes,Yes,Yes,201510,8510G
+OPNET's AppResponse Xpert,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes|Viewing  Acknowledging  Reporting,Yes,No,Unknown,Unknown,nonfree|Commercial,Yes,Yes,Unknown,[added],[added]
+Opsview,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes|Full Control,Yes,No,Perl  C  ExtJS,SQL,nonfree|Commercial,Yes,Yes,No,20190807,62
+OSI NetExpert,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Java  C,Oracle,nonfree|Commercial,Yes,Yes,Yes,201304,100
+PA Server Monitor,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes|Viewing  Reporting,Yes,Yes,C,SQLite  Microsoft SQL Server,nonfree|Commercial,Yes,Yes,No,201407,55
+PacketTrap,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes|Viewing  Reporting,Yes,Yes,Unknown,SQL,nonfree|Commercial,Yes,Yes,Yes,[added],[added]
+Pandora FMS,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes|Full Control,Yes,Yes,Perl  PHP  C  JavaScript,MySQL  Oracle,YesNo|GPLv2  Commercial,Yes,Yes,Yes,201707,70 NG 707
+PathSolutions TotalView,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Windows,SQLite,nonfree|Commercial,Yes,Yes,No,20180601,901
+Performance CoPilot,No,Yes,Yes,No,Yes,Optional |Optional  Limited,Yes,Yes,Yes,Yes,No,Yes|Viewing,Yes,Yes,C Perl  Python  POSIX  MinGW,Flat file,free|GPL  LGPL,No,Yes,Yes,20161115,3116
+PRTG,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Windows,Flat file,YesNo|Limited free  Commercial,Yes,Yes,Yes,20190515,19250
+ScienceLogic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes|Full Control,Yes,Yes,Python,MySQL,nonfree|Commercial,Yes,Yes,Yes,[added],[added]
+SevOne,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes|Full Control,Yes,Yes,C  C  PHP,MySQL,nonfree|Commercial,Yes,Yes,Yes,201809,5724[6]
+Shinken,optional|Via plugin,Yes,Yes,No,Yes,Yes,optional|Via plugin,optional|Via plugin,Yes,Yes,No,Yes|Viewing  Acknowledging  Reporting,Yes,optional|Via plugin,Python,Flat file  MySQL  Oracle  Graphite  Sqlite  MongoDB,free|AGPL,Yes,Yes,Yes,20160310,243
+Solarwinds,Yes,Yes,Yes,Yes,Yes,Partial,Yes,Yes,Yes,Yes,No,Yes|Full Control,Yes,Yes,NET,SQL,nonfree|Commercial,Yes,Yes,Yes,[empty],[added]
+Spiceworks,dunno,Yes,dunno,dunno,Yes,Yes,dunno,dunno,Yes,Yes,dunno,dunno,dunno,Yes,PHP,Sqlite,dunno,Yes,dunno,dunno,20180321,7500107
+CA Spectrum,Yes,Yes,optional|Perf AddOn,optional|Perf AddOn,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,C  JavaScript,SleepycatQSL  MySQL,YesNo| Commercial  per Device,Yes,Yes,Yes,201803,102
+Xymon/Hobbit,Yes,Yes,Yes,No,optional|Via plugin,optional|Via plugin,optional|Via plugin,No,Yes,Yes,No,Yes|Viewing  Acknowledging  Reporting,Yes,optional|Via plugin,C  Shell,Flat file  RRDTool  MySQL via plugin,GPLlic,optional|Via plugin,Partial|Apache ACL,No,20170118,4328
+Vigilo NMS,Yes (NMS and NOC editions),Yes,Yes,Yes via integration,Yes via integration,Yes,Yes,Yes via Prelude SIEM,Yes,Yes,No,Yes|Viewing  Acknowledging  Reporting,Yes (NMS and NOC editions),Yes via GLPI,Python  Perl,PostgreSQL  RRDtool,YesNo|Free (GPLv2) OSS edition  Commercial NOC/NMS editions,Yes (NMS and NOC editions),Yes (NMS and NOC editions),optional|Via plugin,20170914,410
+Zabbix,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes|Full Control,Yes,Yes,C  PHP,Oracle  MySQL  PostgreSQL  IBM DB2  SQLite,GPLlic,Yes,Yes,Yes,20190329,42
+Zenoss Core,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes|Full Control,Yes,Yes,Python  Java,ZODB  MariaDB  Apache HBase,YesNo|Free Core GPL  Commercial Enterprise,Yes,Yes,Yes,20180109,610
+Name,IP SLA Reports,Logical Grouping,Trending,Trend Prediction,Auto Discovery,Agentless,SNMP,Syslog,Plugins,Triggers / Alerts,MIB Compiler,WebApp,Distributed Monitoring,Inventory,Platform,Data Storage Method,License,Maps,Access Control,IPv6,Latest release date,Latest release version

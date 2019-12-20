@@ -1,0 +1,27 @@
+Office suite,Windows,Mac OS,GNU/Linux,BSD,Unix,Android,iOS
+Ability Office,yes,no,no,no,no,[added],[added]
+Apache OpenOffice,yes,yes,yes,yes,yes,[added],[added]
+Breadbox Office,yes|DOS  Windows,no,no,no,no,[added],[added]
+Calligra Suite,yes,yes,yes,yes,yes,[added],[added]
+Feng Office Community Edition,yes|Fully online,yes|Fully online,yes|Fully online,yes|Fully online,yes|Fully online,[added],[added]
+Gobe Productive,yes,no,no,no,no,[added],[added]
+Google Apps for Work,yes|Fully online,yes|Fully online,yes|Fully online,yes|Fully online,yes|Fully online,yes|Fully online,yes|Fully online
+iWork,yes|Fully online (iCloud version),yes,yes|Fully online (iCloud version),yes|Fully online (iCloud version),yes|Fully online (iCloud version),no,yes
+LibreOffice,yes,yes,yes,yes,yes,beta,no
+Lotus SmartSuite,yes,no,some (with Wine),no,no,[added],[added]
+MarinerPak,no,yes,no,no,no,no,partial|Calc only
+Microsoft Office,yes,partial (not all features available  eg Project  Visio  Access),Some (with Wine),no,no,yes,yes
+Microsoft Works,yes,dropped (40; Classic only),some (with Wine),no,no,no,no
+MobiSystems OfficeSuite,yes,no,no,no,no,[added],[added]
+NeoOffice,no,yes|Mac OS X v103 or above,no,no,no,no,no
+ONLYOFFICE,yes,yes,yes,yes|Online version,yes|Online version,yes,yes
+SoftMaker Office,yes,yes,yes,dropped (2006),no,yes,no
+StarOffice,yes,yes (Intel only),yes,yes,yes,no,no
+TeXmacs,yes,yes,yes,yes,yes,[added],[added]
+TeamLab,yes|Fully online,yes|Fully online,yes|Fully online,yes|Fully online,yes|Fully online,[added],[added]
+ThinkFree Office,yes|Fully online,yes|Fully online,yes|Fully online,yes|Fully online,yes|Fully online,[added],[added]
+Tiki Wiki CMS Groupware,yes|Fully online,yes|Fully online,yes|Fully online,yes|Fully online,yes|Fully online,[added],[added]
+WordPerfect Office,yes,no,some (Ver 2000),no,no,[added],[added]
+WPS Office (Kingsoft Office),yes,yes,yes,no,no,yes,yes
+Zoho Office Suite,yes|Fully online,yes|Fully online,yes|Fully online,yes|Fully online,yes|Fully online,[added],[added]
+Office suite,Windows,Mac OS,GNU/Linux,BSD,Unix,Android,iOS

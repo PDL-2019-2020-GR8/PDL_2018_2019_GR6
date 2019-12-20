@@ -1,0 +1,6 @@
+Name,Release date,Latest version,Status support,Codename,OS required,Architecture,Editions,Target market
+Windows 10,19851120,104 (19870408),Unsupported (20011231),Interface Manager,DOS 20 or higher,16bit,[empty],Desktops
+Windows 20,19870908,203 (19871209),Unsupported (20011231),[empty],dunno,16bit,[empty],Desktops
+Windows 21x,19880527,211 (19890313),Unsupported (20011231),[empty],dunno,16bit,[empty],Desktops
+Windows 30,19900522,30a with Multimedia Extensions (19911020),Unsupported (20011231),[empty],DOS 31 or higher,16bit,Windows 30 Windows 30a Windows 30a with Multimedia Extensions,Desktops
+Windows 31x,19920406,311 (19931231),Unsupported (20011231),31 Janus 31 for Workgroups Kato 311 Snowball (LB) 311 for Workgroups Sparta,DOS 33 or higher,16bitAsterisk,Windows 31 (build 040) Windows for Workgroups 31 Windows 311 Windows for Workgroups 311 Windows 32 (Simplified Chinese only),Desktops

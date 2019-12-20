@@ -1,0 +1,26 @@
+[empty],Collapsible sections,Find and replace using RegEx,Intelligent error handling,Autocompletion of LaTeX commands,Parenthesis matching,Starts up to previous state[12],Unicode support,RTL Support[13],[empty]
+AUCTeX,yes,yes,yes,yes,yes,yes[14],yes,yes,AUCTeX
+Authorea,no,yes,no,no,yes,yes,yes,?,Authorea
+AutoLatex Equations for Google Docs,no,yes,no,no,no,yes,yes,?,AutoLatex Equations for Google Docs
+CoCalc,yes,yes,no,yes,yes,yes,yes,?,CoCalc
+GNOME LaTeX,Planned,yes,yes,yes,yes,Partial|(just same files),yes,yes,GNOME LaTeX
+Gummi,no,no,no,no,yes,no,yes,?,Gummi
+Kile,yes|Yes[15],yes,yes,yes,yes,yes,yes,yes,Kile
+LEd,yes,yes,?,yes,yes,no (just same files),no,?,LEd
+LyX,no,yes,yes,yes,yes,yes,yes,yes,LyX
+MeWa,no,yes,no,no,no,no,yes,?,MeWa
+Notepad,yes,yes,no,partial[16],yes,yes,yes,yes,Notepad
+Overleaf,yes,yes,yes,yes,yes,yes,yes,?,Overleaf
+Scientific WorkPlace,no,?,?,N/A,yes,no,yes,?,Scientific WorkPlace
+ShareLaTeX,yes,yes,yes,yes,yes,yes,yes,?,ShareLaTeX
+TexLab,no,no,yes,yes,yes,yes,yes,no,TexLab
+TeXmacs,no,yes,N/A,N/A,N/A,no,yes,?,TeXmacs
+Texmaker,yes,yes,yes,yes,yes,yes,yes,yes,Texmaker
+TeXnicCenter,yes|since v20,yes|since v20,yes,yes,yes,yes,yes|since v20,?,TeXnicCenter
+TeXShop,no,yes,yes,yes,yes,yes,yes,?,TeXShop
+TeXstudio,yes,yes,yes,yes,yes,yes,yes,yes,TeXstudio
+TeXworks,no,yes[17],no,yes[18],yes,no,yes,yes,TeXworks
+Verbosus,no,no,yes,yes,yes,no,yes,?,Verbosus
+WinEdt,yes,yes (modified),yes,yes,yes,yes,yes,yes,WinEdt
+WinShell,yes,yes,yes,yes,yes,no (just same files),yes,?,WinShell
+[empty],Collapsible sections,Find and replace using RegEx,Intelligent error handling,Autocompletion of LaTeX commands,Parenthesis matching,Starts up to previous state[19],Unicode support,RTL Support[20],[empty]

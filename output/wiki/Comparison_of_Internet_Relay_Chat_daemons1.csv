@@ -1,0 +1,41 @@
+IRC daemon,Creator/network,Basis,Programming language,First public release,Latest version (numeric 351),Software license
+Asuka[1],QuakeNet Dev Team,ircu,C,unk,terminated|121 (now replaced by snircd),free|GPL
+Bahamut[2],DALnet,DreamForge  IRCDHybrid,C,1999[3],bahamut207,free|GPL
+bIRCd[4],DAMnet,DreamForge,C,1999,bIRCd210rc4,free|GPL
+beware ircd[5],beware,from scratch,Delphi,unk,terminated|beware16,free|GPL
+Charybdis[6],athemeorg (nenolod  jilles  dwr  gxti),ircdratbox  IRCDHybrid  ircu  ShadowIRCd,C,2005,charybdis342,free|GPL/BSD
+dancerircd,freenode,Hybrid 6,C,1999,terminated|? (replaced by hyperion),free|GPL
+ElementalIRCd[7],[8],ShadowIRCD,C,2007,662,free|GPL2
+DreamForge,DALnet,irc28mu3,C,1994 (dal)  1997? (df),terminated|? (replaced by bahamut),free|GPL
+Faerion IRC Server[9],vhex,DreamForge,C  C,2003,11771[10],free|GPL
+FoxEye (ircd module),Andriy Grytsenko,from scratch,C,2011(draft)  2016(working),0110,free|GPL2
+hyperion[11],freenode,dancerircd 1035pre2,C,2005,terminated|? (replaced by ircdseven),free|GPL
+IgniteIRCd[12],Lloyd Dilley,ircdhybrid 631,C,2004,terminated|0941 (now unmaintained),free|GPL
+InspIRCd [13],InspIRCd Development Team,from scratch,C,2002,310[14],free|GPL
+ignitionServer[15],The Ignition Project,PureIRCD (VB6 version),Visual Basic,2004,terminated|ignitionServer036P1[16],free|GPL[17]
+IRCd[18],Jarkko Oikarinen  IRCnet[19],from scratch,C[20],1988,2112[21],free|GPL v1
+ircdhybrid[22],ircdhybrid Development Team [23] Rizon  OFTC  EFnet,irc28[24],C[24],1997[24],8221[25],free|GPL[26]
+ircdratbox,Aaron Sethman  Lee Hardy  EFnet,Hybrid 7rc1,C,2002,ircdratbox3010,free|GPL
+ircdseven,freenode,charybdis 31x/trunk,C,€”,stable,free|GPL
+ircu[27],Undernet Coder Committee,irc27[28],C[29],1991,u2101214[27],free|GPL
+ithildin[30],Chip Norkus,from scratch,C,2006,11[31],free|BSD[32]
+miniircd[33],Joel Rosdahl,from scratch,Python,2003,13[34],free|GPL
+Nefarious IRCu,Evilnet Development  AfterNET,ircu2101214,C,2004,u2101214Nefarious(200),free|GPL
+ngIRCd[35],Alex Barton,from scratch,C,2001[36],ngircd24[37],free|GPL
+OfficeIRC Server,Office IRC Inc  Paul Heinlein,from scratch,VBNET,2006,22,proprietary
+Oragono,Daniel Oaks  Oragono Contributors,Ergonomadic,Go,2016,0120,free|MIT
+PleXusIRCd,Rizon  thaprince  static,Hybrid 723,C,2005,hybrid723plexus301(20090612_0523),free|GPL
+ProvisionIRCd[38],Sirius  Y4kuzi,from scratch,Python3,2006,13,free|GPL
+pureIRCd,Dennis Fisch aka Diligent,from scratch,C,2002,unk,free|GPL
+RockIRCdAnchor|RockIRCd[39],Mike Chambers,from scratch,QuickBASIC[40],2009,100testing,free|GPL
+RubIRCd[41],Lloyd Dilley,from scratch,Ruby,2013,01amaiden voyage,free|GPL
+ShadowIRCd[42],Taros  jdhore  jilles  nenolod,Charybdis[42],C,2003,terminated|633,free|GPL
+snircd,QuakeNet,ircu21012[43],C[43],unk,134a[1],free|GPL[43]
+solidircd,Toshi Morita  Juan Baez Gabriel Baez,Bahamut,C,2004[44],solidircd 348,free|GPL
+Synchronet IRCd[45],Randy E Sommerfeld,from scratch,JavaScript,2003,SynchronetIRCd13a(1151),free|GPL
+TRIRCd [46],Yusuf Iskenderoglu  Ekim Engin  Dimitris Ginosatiris  Maksut Cagil  Burak Cifter,Hybrid 7 and Bahamut,C,1999,terminated|561,free|GPL
+UltimateIRCd,ShadowRealm Creations,DreamForge 28,C,2001,terminated |302 [47] (now unmaintained),free|GPL
+UnrealIRCd[48],UnrealIRCd Team,EliteIRCd (potvin)[49],C,1999,423[50],free|GPL
+Viagra IRCd[51],Chris Schiffner,Titan,C,2003,terminated|133 (now unmaintained),free|GPL
+WeIRCd,Eloxoph IRC Network[52],from scratch,C,2007,terminated|082 (now unmaintained),free|GPL
+Pocosi[53],Chris Williams  Hinrik Ã–rn SigurÃ°sson,POEComponentServerIRC[54],Perl,2003,terminated|002 (153 of POEComponentServerIRC),free|Artistic

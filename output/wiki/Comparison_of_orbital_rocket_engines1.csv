@@ -1,0 +1,91 @@
+Engine,Origin,Designer,Vehicle,Use,Propellant,Specific impulse (s)efn|name=VSL|At sea level if denoted SL  in vacuum otherwise,Thrust (N)efn|name=VSL,Mass (kg),Thrustzwspweight ratioefn|Weight is calculated at standard gravity,Chamber pressure (bar),Oxidiserzwspfuel ratio
+Aeon 1,Flag|USA,Relativity Space,Terran 1,1st,CH4?/?LOX,nts|310,nts|86740 (SL)[1],[empty],[empty],[empty],[empty]
+Aeon 1 Vacuum,Flag|USA,Relativity Space,Terran 1,2nd,CH4?/?LOX,nts|360,nts|100085 (SL)[2],[empty],[empty],[empty],[empty]
+AJ60A,Flag|USA,Aerojet,Atlas V,Booster,Solid,nts|275,nts|1270000[3],[empty],[empty],[empty],[empty]
+AR1,Flag|USA,Aerojet Rocketdyne,Beta (potential)[4],1st,RP1?/?LOX,[empty],nts|2200000 (SL)[5],[empty],[empty],[empty],272
+BE3,Flag|USA,Blue Origin,New Shepard,1st,LH2?/?LOX,[empty],nts|490000[6],[empty],[empty],[empty],[empty]
+BE3U,Flag|USA,Blue Origin,New Glenn,2nd,LH2?/?LOX,[empty],nts|710000[7],[empty],[empty],[empty],[empty]
+BE4,Flag|USA,Blue Origin,New Glenn Vulcan,1st,CH4?/?LOX,[empty],nts|2400000[8][9],[empty],[empty],nts|134[10],[empty]
+Boeing 601HPefn|First ever ion engine used as a main engine on an operational commercial satellite (PAS5),Flag|USA,Boeing,Boeing 601HP satellites,Vacuum,Xenon,nts|2568 @05 kW,nts|0018 @05 kW,[empty],[empty],[empty],[empty]
+CE20,IND,LPSC,GSLV Mk III,Upper,LH2?/?LOX,nts|443,nts|200000,nts|588,nts|347,nts|6000,505
+CE75,IND,LPSC,GSLV Mk II,Upper,LH2?/?LOX,nts|454[11],nts|73500 to nts|93100,nts|445,nts|1685,nts|58,[empty]
+Engine2,Flag|USA,Launcher Space,Rocket1,1st,RP1 / LOX,327[12] 290 (SL),100000[12],[empty],[empty],[empty],262
+Engine2 Vacuum,Flag|USA,Launcher Space,Rocket1,2nd,RP1 / LOX,365[12],100000[12],[empty],[empty],[empty],262
+GEM 63,Flag|USA,Northrop Grumman,Atlas V,Booster,Solid,[empty],nts|373800[13],nts|49300,[empty],[empty],[empty]
+GEM 63XL,Flag|USA,Northrop Grumman,Atlas V,Booster,Solid,[empty],nts|450000[14],nts|53400,[empty],[empty],[empty]
+Hadley,Flag|USA,Ursa Major Technologies,GOLauncher 1[15],1st,RP1?/?LOX,[empty],nts|22241 (SL)[16],[empty],[empty],[empty],[empty]
+HM7B,EUR,Snecma,Ariane 2 Ariane 3 Ariane 4 Ariane 5 ECA,Upper,LH2?/?LOX,nts|446[17] nts|310 (SL)[18],nts|64800[17] nts|43600 (SL)[18],nts|165[17],nts|4325,nts|37[17],5
+LE5B,JPN,Mitsubishi JAXA,HIIA HIIB,Upper,LH2?/?LOX,nts|447[19],nts|137000,nts|269,nts|5193,nts|360,5
+LE7A,JPN,Mitsubishi JAXA,HIIA HIIB,1st,LH2?/?LOX,nts|438[20] nts|338 (SL)[20],nts|1098000 nts|870000 (SL),nts|1800,nts|622,nts|121,59
+Lightning 1[21],Flag|USA,Firefly Aerospace,Alpha,2nd,RP1?/?LOX,nts|322,nts|70100,[empty],[empty],[empty],[empty]
+Merlin 1D FT,Flag|USA,SpaceX,Falcon 9 FT Falcon Heavy,1st,RP1?/?LOX,nts|311,nts|914000[22] nts|845000 (SL)[22],nts|470,nts|1945[22],[empty],[empty]
+Merlin Vacuum 1D,Flag|USA,SpaceX,Falcon 9 Falcon Heavy,2nd,RP1?/?LOX,nts|348[23],nts|934000[23],[empty],[empty],[empty],236
+Mira (LM10),Flag|Italy,Avio,Vega E[24],3rd[24],CH4?/?LOX[24],nts|3623[24],nts|98100[24],nts|250[24],nts|40[24],[empty],nts|34[24]
+NewtonThree,Flag|USA,Virgin Galactic,LauncherOne,Booster,RP1?/?LOX,[empty],nts|266893[25],[empty],[empty],[empty],[empty]
+NewtonFour,Flag|USA,Virgin Galactic,LauncherOne,2nd,RP1?/?LOX,[empty],nts|22241[25],[empty],[empty],[empty],[empty]
+NEXT,Flag|USA,NASA,[empty],Vacuum,Xenon,nts|4100 @69 kW,nts|0236 @69 kW,[empty],[empty],[empty],[empty]
+NK33A (AJ2662) 11Ð”111?/?14Ð”15,Flag|USSR,JSC Kuznetsov,Antares 100 Soyuz21v,1st,RP1?/?LOX,nts|331[26] nts|297 (SL),nts|1680000 nts|1510000 (SL),nts|1222,nts|1368,nts|145,[empty]
+NSTAR[27][28]efn|First ever ion engine used as a main engine on an operational science spacecraft (Deep Space 1),Flag|USA,Hughes Electron Dynamics Boeing,nobr|Deep Space 1 Dawn,Vacuum,Xenon,nts|3100 @23 kW,nts|00920 @23 kW,nts|82,[empty],[empty],[empty]
+P80[29][30]rp|5[31],EUR,[empty],Vega,1st,HTPB,nts|280,nts|2261000,nts|96000 with fuel,[empty],[empty],[empty]
+P120C[32],EUR,[empty],Ariane 6 VegaC,Booster  1st,HTPB[33],nts|279[32],nts|4650000[32],nts|161000 with fuel[32],[empty],[empty],[empty]
+P230,EUR,SNPE and Avio Spa (Italy),Ariane 5,Booster,HTPB,nts|286[34] nts|259 (SL),nts|6470000 nts|5860000 (SL),nts|269000 with fuel[34],[empty],[empty],[empty]
+PPS1350 (Ð¡ÐŸÐ”100),RUS,OKB Fakel,SMART1,Vacuum,Xenon,nts|1650 @15 kW,nts|0088 @15 kW,nts|53,[empty],[empty],[empty]
+S139,IND,SDSC,PSLV,1st,HTPB,nts|269[35],nts|4860000,nts|160200 with fuel,[empty],nts|58,[empty]
+Raptor[36],Flag|USA,SpaceX,Starship,1st  2nd,CH4?/?LOX,nts|356[37] nts|330 (SL),nts|1700000 (SL),nts|1360|prefix=~ (goal)[38],nts|170|prefix= (goal)[38],nts|300[39],36[40]
+Raptor Vacuum[36],Flag|USA,SpaceX,Starship,2nd,CH4?/?LOX,nts|380[41],nts|1900000[37],nts|1360|prefix=~ (goal)[38],nts|120|prefix=¤ (goal)[38],nts|300 [39],36[40]
+RD0124 14Ð”23,RUS,KBKhA,Soyuz21b Soyuz21v Angara,2nd  3rd,RP1?/?LOX,nts|359[42],nts|294300,nts|520,nts|577,nts|160,[empty]
+RD0146D,RUS,KBKhA,Angara,Upper,LH2?/?LOX,nts|470[43],68600,[empty],[empty],59,[empty]
+RD107A 14Ð”22,RUS,NPO Energomash,SoyuzFG Soyuz2,1st,RP1?/?LOX,nts|3202[44] nts|2633 (SL),nts|1019892 nts|839449 (SL),nts|1090,nts|7853,nts|612,[empty]
+RD108A 14Ð”21,RUS,NPO Energomash,SoyuzFG Soyuz2,2nd,RP1?/?LOX,nts|3206[44] nts|2577 (SL),nts|921825 nts|792377 (SL),nts|1075,nts|7516,nts|555,[empty]
+RD171Mefn|name=RD170|Most powerful multichamber rocket engine in the world11Ð”520,RUS,NPO Energomash,Zenit2M Zenit3SL Zenit3SLB Zenit3SLBF Soyuz5,1st,RP1?/?LOX,nts|3372[45] nts|3095 (SL),nts|7904160 nts|7256921 (SL),nts|9300,nts|7957,nts|250,[empty]
+RD180,RUS,NPO Energomash,Atlas V Atlas III,1st,RP1?/?LOX,nts|3384[46] nts|3119 (SL),nts|4152136 nts|3826555 (SL),nts|5480,nts|712,nts|2617,272
+RD181,RUS,NPO Energomash,Antares 200,1st,RP1?/?LOX,nts|3392[47] nts|3119 (SL),nts|2085000 nts|1922000 (SL),nts|2200,nts|89,nts|2626,[empty]
+RD191,RUS,NPO Energomash,Angara,1st,RP1?/?LOX,nts|3375[48] nts|3112 (SL),nts|2084894 nts|1922103 (SL),nts|2200,nts|8909,nts|2626,[empty]
+RD193,RUS,NPO Energomash,Soyuz21v,1st,RP1?/?LOX,nts|3375[49] nts|3112,nts|2084894 nts|1922103 (SL),nts|1900,nts|10315,[empty],[empty]
+RD276 14Ð”14Ðœ,RUS,NPO Energomash,ProtonM,1st,N2O4?/?UDMH,nts|3158[50] nts|288 (SL),nts|1831882 nts|1671053 (SL),nts|1120,nts|1712,nts|1685,[empty]
+RD8 11D513,USSR,Pivdenne/Pivdenmash,Zenit,2nd vernier,RP1?/?LOX,nts|342,nts|78450,nts|380,[empty],7747,24
+RD801,UKR,Pivdenne/Pivdenmash,Mayak,1st,RP1?/?LOX,[empty],nts|1340000  1198000 (SL),nts|1630,[empty],180,265
+RD805 (RD802),UKR,Pivdenne/Pivdenmash,[empty],Upper,RP1?/?LOX,[empty],[empty],[empty],[empty],[empty],[empty]
+RD809 (RD809M),UKR,Pivdenne/Pivdenmash,Antares,Upper,RP1?/?LOX,[empty],[empty],[empty],[empty],[empty],[empty]
+RD809K,UKR,Pivdenne/Pivdenmash,Mayak,Upper,RP1?/?LOX,[empty],[empty],[empty],[empty],[empty],[empty]
+RD810,UKR,Pivdenne/Pivdenmash,Mayak  Zenit,1st,RP1?/?LOX,[empty],nts|2105000 1876000 (SL),nts|2800,[empty],180,265
+RD843,UKR,Pivdenne/Pivdenmash,Vega,upper,N2O4?/?UDMH,3155,nts|2452000,nts|1593,[empty],204,20
+RD861K,UKR,Pivdenne/Pivdenmash,(Cyclone4M),3rd,N2O4?/?UDMH,[empty],[empty],[empty],[empty],[empty],[empty]
+Reaver 1[21],Flag|USA,Firefly Aerospace,Alpha,1st,RP1?/?LOX,nts|2956,nts|184000,[empty],[empty],[empty],[empty]
+RL10A42[51],Flag|USA,Aerojet Rocketdyne,Atlas IIIB Atlas V,Upper,LH2?/?LOX,nts|451,nts|99195,nts|168,nts|6027,42,55
+RL10B2[51],Flag|USA,Aerojet Rocketdyne,Delta III Delta IV SLS,Upper,LH2?/?LOX,nts|4655,nts|110093,nts|301,nts|3727,nts|44,588
+RL10C1[51],Flag|USA,Aerojet Rocketdyne,Delta III Delta IV SLS  Vulcan,Upper,LH2?/?LOX,nts|450,nts|101820,nts|191,nts|545,nts|44,55
+RS25,Flag|USA,Rocketdyne,Space Shuttle SLS,1st,LH2?/?LOX,nts|4523 nts|366 (SL),nts|2279000 nts|1860000 (SL)[52],nts|3526,nts|5379,nts|2064,[empty]
+RS68Aefn|Most powerful hydrogenfueled engine in the world,Flag|USA,Rocketdyne,Delta IV Delta IV Heavy,1st,LH2?/?LOX,nts|414[53] nts|365 (SL),nts|3560000 nts|3137000 (SL),nts|6747,nts|5380,nts|196Unreliable source?|date=June 2017,[empty]
+Rutherford,NZL Flag|USA,Rocket Lab,Electron,1st,RP1?/?LOX,311,24465 nts|16890 (SL),[empty],[empty],[empty],[empty]
+Rutherford Vacuum,NZL Flag|USA,Rocket Lab,Electron,2nd,RP1?/?LOX,343,24465,[empty],[empty],[empty],[empty]
+S200,IND,SDSC,GSLV Mk III,Booster,HTPB,nts|2745[54],nts|5150000[55][56][57],nts|207000 with fuel[54],[empty],[empty],[empty]
+SCE200,IND,LPSC,GSLV Mk III ULV,Upper  main,RP1?/?LOX,nts|335 nts|299 (SL),nts|2030000 nts|1820000 (SL),nts|2700,[empty],nts|180,[empty]
+SLS Solid Rocket Boosterefn|Largest  most powerful solidfuel rocket motor ever built,Flag|USA,Orbital ATK,SLS,Booster,PBAN,nts|267,nts|16000000,nts|730000 with fuel,[empty],[empty],[empty]
+SLV1,IND,Godrej & Boyce,PSLV,Booster,HTPB,nts|253[58],nts|502600,nts|10800 with fuel,[empty],nts|43,[empty]
+SPT100,RUS,OKB Fakel,LS1300 satellites,Vacuum,Xenon,nts|1500 @135 kW,nts|0083 @135 kW,nts|35,[empty],[empty],[empty]
+SRBA,JPN,IHI Aerospace JAXA,HIIA,Booster,HTPB,nts|280[59],nts|2250000,nts|76400 with fuel,[empty],[empty],[empty]
+SRBA3,JPN,IHI Aerospace JAXA,HIIB Epsilon,Booster,BP207J[60],nts|2836[60],nts|2305000 nts|2150000 (SL),nts|76600 with fuel,[empty],nts|111,[empty]
+TQ12[61],Flag|China,Landspace,ZQ2,1st,CH4?/?LOX,nts|284,nts|667000 (SL),[empty],[empty],nts|101,[empty]
+VASIMR,Flag|USA,Ad Astra Rocket Company,[empty],Vacuum,Argon,nts|5000 @200 kW,nts|57 @200 kW,[empty],[empty],[empty],[empty]
+Vikas (rocket engine),IND,LPSC,plainlist| PSLV GSLV GSLV Mk III ,2nd  main  booster,N2O4?/?UDMH,nts|262,nts|680500€“804500 nts|600500€“756500 (SL),[empty],[empty],nts|530€“585,[empty]
+Vinci,EUR,Snecma,Ariane 6,Upper,LH2?/?LOX,nts|467[62],nts|180000,nts|280,nts|6560,nts|61,[empty]
+Vulcain 2,EUR,Snecma,Ariane 5,1st,LH2?/?LOX,nts|429[63] nts|318 (SL)[64],nts|1359000[63] nts|939500 (SL)[64],nts|1800[63],nts|7704,nts|1173[63],[empty]
+XIPS25,Flag|USA,Boeing,Boeing 702 satellites,Vacuum,Xenon,nts|3500 @45 kW,nts|0165 @45 kW,[empty],[empty],[empty],[empty]
+YF100,CHN,AALPT,plainlist| Long March 5 Long March 6 Long March 7 ,Booster  1st,RP1?/?LOX,nts|335[65] nts|300 (SL),nts|1340000 nts|1200000 (SL),[empty],[empty],nts|180,[empty]
+YF115,CHN,AALPT,plainlist| Long March 6 Long March 7 ,2nd,RP1?/?LOX,nts|3415,nts|176500,[empty],[empty],[empty],[empty]
+YF21B,CHN,AALPT,plainlist| Long March 2E Long March 2F Long March 3 ,Booster  1st,N2O4?/?UDMH,nts|26066 (SL)[66],nts|740400 (SL)[66],[empty],[empty],[empty],[empty]
+YF21C,CHN,AALPT,plainlist| Long March 2C Long March 2D Long March 3A Long March 3B Long March 3C Long March 4B Long March 4C ,1st,N2O4?/?UDMH,nts|2607 (SL)[66],nts|740400 (SL)[66],[empty],[empty],[empty],[empty]
+YF25,CHN,AALPT,plainlist| Long March 3B Long March 3C ,Booster,N2O4?/?UDMH,nts|26066 (SL)[66],nts|740400 (SL)[66],[empty],[empty],[empty],[empty]
+YF22B,CHN,AALPT,plainlist| Long March 2E Long March 2F ,2nd,N2O4?/?UDMH,nts|2980[66],nts|738400,[empty],[empty],[empty],[empty]
+YF22C,CHN,AALPT,plainlist| Long March 2C Long March 2D Long March 4B Long March 4C ,2nd,N2O4?/?UDMH,nts|2980[66],nts|742040,[empty],[empty],[empty],[empty]
+YF22D,CHN,AALPT,plainlist| Long March 3 ,2nd,N2O4?/?UDMH,nts|2980[66],nts|741400,[empty],[empty],[empty],[empty]
+YF22E,CHN,AALPT,plainlist| Long March 3A Long March 3B Long March 3C ,2nd,N2O4?/?UDMH,nts|2980[66],nts|741400,[empty],[empty],[empty],[empty]
+YF40,CHN,AALPT,plainlist| Long March 4B Long March 4C ,3rd,N2O4?/?UDMH,nts|303,nts|103000,[empty],[empty],[empty],[empty]
+YF50D,CHN,AALPT,plainlist| Long March 3B Long March 3C Long March 5 Long March 7 ,Upper,N2O4?/?UDMH,nts|3155,nts|6500,[empty],[empty],[empty],[empty]
+YF73,CHN,AALPT,Long March 3,3rd,LH2?/?LOX,nts|4200,nts|44150,[empty],[empty],[empty],[empty]
+YF75,CHN,AALPT,plainlist| Long March 3A Long March 3B Long March 3C ,3rd,LH2?/?LOX,nts|4380[66],nts|167170,[empty],[empty],[empty],[empty]
+YF75D,CHN,AALPT,Long March 5,2nd,LH2?/?LOX,nts|4420,nts|86260,[empty],[empty],[empty],[empty]
+YF77,CHN,AALPT,Long March 5,1st,LH2?/?LOX,nts|430 nts|3102 (SL),nts|700000 nts|510000 (SL),nts|2700,[empty],nts|102,[empty]
+Zefiro 9A,EU,Avio,Vega,3rd,Solid,[empty],nts|72000,[empty],[empty],nts|75,[empty]
+Zefiro 23,EU,Avio,Vega,2nd,Solid,[empty],nts|209000 (SL),[empty],[empty],[empty],[empty]

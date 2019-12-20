@@ -1,0 +1,13 @@
+[empty],Maximum file size,Partial file loading,Disk sector editing,Bit editing,Text editor,Insert/delete bytes,Character encodings(ao),Search Unicode,File structure view,Disassembler,File compare,Find in files,Bookmarks,Macro,Data inspector
+beye,8 PiB,yes,no,yes,no,yes,ANSI  EBCDIC  ASCII  Macintosh,yes,[empty],datasortvalue="Yes" yes|AVR  Java  x86  i386  x8664  ARM/XScale  PowerPC  PPC64,[empty],[empty],yes,[added],[added]
+bvi,Unlimitedcitation needed|date=October 2019,yes,[empty],yes,yes,yes,ANSI  ASCII,[empty],no,no,[empty],Yes and replace,[empty],[added],[added]
+Emacs,Limited by RAM,[empty],no,no,yes,yes,[empty],[empty],no,no,[empty],[empty],[empty],yes,no
+FlexHex,Unlimitedcitation needed|date=October 2019,yes,yes,yes,no,yes,ANSI  OEM  UTF16,yes,yes,no,yes,no,yes,[empty],yes
+Frhed,Limited by RAM,yes,no(read only),yes,no,yes,ANSI  OEM,yes,yes,no,yes,no,yes,[added],[added]
+Hiew,Unlimitedcitation needed|date=October 2019,yes,partial|WinNT only,yes,yes,yes,ASCII OEM  Unicode Custom,yes,yes,datasortvalue="Yes" yes|x86  x8664  MMX  SSE 42  3DNow!  all assembler  ARM,[empty],yes,yes,yes,[added]
+HxD,Unlimited[2]citation needed|date=October 2019,yes,yes|Windows 9x/NT and up,yes,no,yes,ANSI  ASCII  OEM  EBCDIC  Macintosh,yes,no,yes,yes,yes,yes,[empty],yes
+VEDIT,Standard  2 GiB  Pro 64  unlimitedcitation needed|date=October 2019,yes,datasortvalue="Partial" partial|DOS version only,yes,yes,yes,ANSI  OEM  EBCDIC  ASCII  custom,[empty],no,no,yes,yes,yes,yes,[added]
+UltraEdit,>4 GiB,yes,no,no,yes,yes,ANSI  OEM  EBCDIC  ASCII  Mac  Unix  UTF8,yes,yes,no,yes,yes,yes,[added],[added]
+WinHex,Unlimitedcitation needed|date=October 2019,yes,yes,yes,partial|External notepad,yes,partial support of these formats ANSI  UNICODE  OEM  UTF8/UTF16  EBCDIC  ASCII,yes,yes,partial|Only x86 Intel opcodes,yes,datasortvalue="Yes" Yes and replace,[empty],yes[3],yes
+vim,Limited by RAM,yes[4],vim b ,yes[5],yes,yes,ASCII  ISO8859  DOS (OEM)  UTF8  UTF16  partial EBCDIC (compilation required)  unicode,yes,Yes2|Plugin[6],partial|external; libraries,yes[7],yes2|Plugin[8],yes2|Plugin[9],Yes,no
+! Maximum file size,Partial file loading,Disk sector editing,Bit editing,Text editor,Insert/delete bytes,Character encodings(ao),Search Unicode,File structure view,Disassembler,File compare,Find in files,Bookmarks,Macro,Data inspector,[added]

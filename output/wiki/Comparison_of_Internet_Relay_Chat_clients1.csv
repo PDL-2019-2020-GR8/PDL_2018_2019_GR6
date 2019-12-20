@@ -1,0 +1,44 @@
+Client,Primary developers,Distribution model,Software license,User interface,Programming language
+AdiIRC[1],Per Amundsen,Freeware,proprietary,GUI,NET Framework/C#
+Adium,Thijs Alkemade,Free software,free|GPL,GUI,ObjectiveC and C
+AmbassadorAnchor|Ambassador[2],Isengrim,Free software,free|MPL,GUIr|group=Note|standaloneandbrowser,JavaScript  XUL
+AndroIRC[3],Madalynn,Freeware,proprietary,GUI,?
+BersircAnchor|Bersirc[4],Jamie Frater  Nicholas Copeland,Free software,free|LGPL,GUI,C (Delphi originally)
+BitchXAnchor|BitchX,Colten Edwards,Free software,free|BSD,TUI  GUI,C
+ChatZillaAnchor|ChatZilla,Mozilla Foundation,Free software,free|MPL  GPL  LGPL trilicense,GUIr|group=Note|webbrowser,JavaScript  XUL
+ColloquyAnchor|Colloquy,Timothy Hatcher  Kiji Roshi,Desktop free software  mobile commercial,free|BSD mobile  GPL desktop,GUI,ObjectiveC
+ERCAnchor|ERC,Alexander L Belikoff  Sergey Berezin,Free software,free|GPL,TUI  GUI,Emacs Lisp
+FIRC,Folkert van Heusden,Free software,free|GPL,TUI,C
+GrumpyChat[5],Petr Bena,Free software,free|LGPL,GUI,C
+HexChat[6],Berke Viktor,Free software,free|GPL,TUI  GUI,C
+IceChat[7][8],Paul Vanderzee,Free software,free|GPL,GUI,C# (Visual Basic until 2004)[9]
+Igloo[10],Jordan Koch,Free mobile application,proprietary,GUI,Swift
+Instantbird,Florian QuÃ¨ze,Free software,free|GPL,GUI,C/C  JavaScript  CSS  XUL
+IRCCloud[11],IRCCloud Ltd,Freemium,proprietary,Web,JavaScript frontend  Erlang backend
+ircIIAnchor|ircII,Michael Sandrof,Free software,free|BSD,TUI,C
+IrcleAnchor|Ircle,Onno Tijdgat,Commercial 30day trial,proprietary,GUI,C
+IrssiAnchor|Irssi,Timo Sirainen,Free software,free|GPL,TUI,C
+KiwiIRCAnchor|KiwiIRC,Darren Whitlen,Free software,free|AGPL,Web,JavaScript frontend  Nodejs backend
+KVIrcAnchor|KVIrc,Szymon Stefanek,Free software,free|GPL,GUI,C
+KonversationAnchor|Konversation,KDE,Free software,free|GPL,GUI,C
+LeafChatAnchor|LeafChat[12],Samuel Marshall,Free software,free|GPL,GUI,Java
+LimeChatAnchor|LimeChat[13][14][15],Satoshi Nakagawa,Free software,free|GPL[16],GUI,RubyCocoa (2007€“2010)[15][16] ObjectiveC(2010€“)[17]
+LinkinusAnchor|Linkinus,Conceited Software,Commercial  15day trial,proprietary,GUI,ObjectiveC
+MibbitAnchor|Mibbit,Jimmy Moore,Textual Adbar,proprietary,Web,JavaScript frontend  Java backend
+mIRCAnchor|mIRC,Khaled MardamBey,Shareware 30day trial[18],proprietary,GUI,C/C (Borland C originally)[19]
+Monochrome[20],Peter Pawlowski,Freeware,GPLv2,GUI,C#
+Nettalk,Nicolas Kruse,Freeware,free|Apache 20,GUI,Visual Basic
+Opera (until version 12xx) Anchor|Operar|group=Note|opera,[empty],Freeware,proprietary,GUIr|group=Note|browsercomp,C
+Pidgin,[empty],Free software,free|GPL,GUI,C
+PIRCHAnchor|PIRCH,[empty],Shareware,proprietary,GUI,Delphi
+PJIRCAnchor|PJIRC,Philippe Detournay,Free software,free|GPL,GUI,Java
+QuasselAnchor|Quassel,Manuel Nickschas  Marcus Eggenberger  Alexander von Renteln,Free software,free|GPL,TUIr|group=Note|ncomp  GUIr|group=Note|cldaemon,C
+qwebircAnchor|qwebirc,Chris Porter,Free software,free|GPL,Web,JavaScript front end  Python backend
+rcircAnchor|rcirc,Ryan Yeske,Free software,free|GPL,TUI,Emacs Lisp
+SmuxiAnchor|Smuxi,Mirco Bauer,Free software,free|GPL,GUI  TUI  serverr|group=Note|cldaemon,C#
+SnakAnchor|Snak,Kent Sorensen,Commercial,proprietary,GUI,dunno
+ThunderbirdAnchor|Thunderbird,Mozilla Foundation,Free software,free|MPL 20,GUI,C  C  JavaScript
+Visual IRCAnchor|Visual IRC,Jesse McGrew,Free software,free|GPL,GUI,Delphi
+WeeChatAnchor|WeeChat,Sebastien Helleu,Free software,free|GPL,TUI  GUIr|group=Note|dev,C
+XChat (evolved into HexChat)Anchor|XChatr|group=Note|obsolete,Peter ½eleznÃ½,Unix/Linux free software; Windows commercial  30day trial[21] (HexChat is free of charge),partial|GPL; or proprietary for Windows,TUI  GUI,C
+Client,Primary developers,Distribution model,Software license,User interface,Programming language

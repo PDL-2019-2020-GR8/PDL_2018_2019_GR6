@@ -1,0 +1,26 @@
+Software,Microsoft Windows,Darwin/ OS X,Linux,IBM,HP-UX,illumos/ Solaris
+2000,XP,Vista,2003 Server,2008 R2 Server,2008 Server,2012 Server
+AdroitLogic UltraESB,Yes[13],Yes[13],Yes[13],Yes[13],Yes[13],Yes[13]
+Anypoint Platform,No,No,No,Yes,Yes,Yes
+Artix ESB,with SP3  SP4,with SP1  SP2,[empty],Yes,[empty],[empty]
+Automation Anywhere Integration Pack,Yes,Yes,Yes,Yes,[empty],[empty]
+BizTalk Server,Yes[14],Yes[15],Yes[16],Yes[17],Yes[18],Yes[19]
+Flow Software,Yes,Yes,Yes,Yes,Yes,Yes
+IBM Integration Bus [23],No,No,No,No,Yes,Yes
+JBoss Enterprise Service Bus (ESB),Yes,Yes,Yes,Yes,[empty],[empty]
+JBoss Enterprise SOA Platform,Yes,Yes,Yes,Yes,[empty],[empty]
+Informatica Power Center,Yes,Yes,Yes,Yes,[empty],[empty]
+Openadaptor,Yes,Yes,[empty],Yes,[empty],[empty]
+OpenESB,Yes,Yes,[empty],Yes,[empty],[empty]
+OpenLink Virtuoso,Yes,Yes,Yes,Yes,Yes,Yes
+Oracle BPEL Process Manager,Yes,Yes,[empty],Yes,Yes,[empty]
+Oracle Enterprise Service Bus,Yes,Yes,[empty],Yes,Yes,[empty]
+PEtALS ESB,Yes,Yes,[empty],Yes,[empty],[empty]
+SAP Exchange Infrastructure,Yes,Yes,Yes,Yes,[empty],[empty]
+ServiceMix,Yes,with SP2,Yes,Yes,[empty],[empty]
+Sonic ESB,Yes,Yes,Yes,Yes,[empty],[empty]
+Spagic,Yes,Yes,[empty],Yes,[empty],[empty]
+Sun Java Composite Application Platform Suite,Yes,Yes[26],[empty],Yes,[empty],[empty]
+TrackerSuite.Net,No,with SP2,Yes,Yes,[empty],[empty]
+Unify NXJ,with SP4,with SP1,[empty],Yes,[empty],[empty]
+WSO2 Enterprise Service Bus (ESB),Yes,Yes,Yes,Yes,Yes,Yes

@@ -1,0 +1,41 @@
+Name,Author,First public release,Stable version,Cost,Software license,Based framework,Written in
+AIMP,AIMP DevTeam,dts|20060808,Latest stable software release/AIMP,free,proprietary,BASS audio library (decoder),Delphi
+Amarok,Mark Kretschmann,dts|20030601,Latest stable software release/Amarok,free,free|GPLv2,via Phonon GStreamer  xine  MPlayer  VLC  DirectShow  QuickTime,C
+Aqualung,Tom Szilagyi et al,dts|20060101,09beta11 Start date and age|2013|01|30,free,free|GPLv2 or later,[empty],C
+aTunes,Alex Aranda et al,dts|20060101,Latest stable software release/aTunes,free,free|GPLv2,[empty],Java
+Audacious,Audacious Development Team,dts|20051030,Latest stable software release/Audacious,free,free|BSD,XMMS based,C  C (GTK)
+Banshee,Aaron Bockover,dts|20050217,Latest stable software release/Banshee,free,free|MIT,GStreamer,C#
+Clementine,Clementine Team,dts|20110301,Latest stable software release/Clementine,free,free|GPL,GStreamer,C (Qt)
+cmus,Timo Hirvonen,dts|20050118,Latest stable software release/cmus,free,free|GPL,[empty],C
+Cog,Vincent Spader,dts|20060501,Latest stable software release/Cog,free,free|GPL,[empty],ObjectiveC
+Exaile,Adam Olsen,dts|20060524,Latest stable software release/Exaile,free,free|GPLv2 or later,GStreamer,Python (GTK)
+Ecoute,Louka Desroziers & Julien Sagot,dts|200809,308,free (until version 4),proprietary,AV Foundation & QuickTime,ObjectiveC
+Flash MP3 Player,Reality Software,dts|20080311,100,free,proprietary,[empty],[empty]
+foobar2000,Peter Pawlowski,dts|20021129,Latest stable software release/foobar2000,free,proprietary (core)  BSD (SDK),[empty],C
+Guayadeque Music Player,Juan Rios,dts|20090312,045,free,free|GPL,GStreamer,C (wxWidgets  wxSqlite)
+iTunes,Apple Inc,dts|20010109,Latest stable software release/iTunes,free,proprietary,QuickTime,dunno
+JRiver Media Center,JRiver  Inc,dts|19990201,Latest stable software release/JRiver Media Center,nonfree,proprietary,JRiver code,C
+JuK,Scott Wheeler,dts|20030201,Latest stable software release/JuK,free,free|GPL,[empty],C
+MediaMonkey Standard,Ventis Media Inc,dts|20030825,Latest stable software release/MediaMonkey,free,proprietary,[empty],Delphi  C
+MediaMonkey Gold,Ventis Media Inc,dts|20030825,Latest stable software release/MediaMonkey,nonfree,proprietary,[empty],Delphi  C
+MediaMonkey Lifetime,Ventis Media Inc,dts|20030825,Latest stable software release/MediaMonkey,nonfree,proprietary,[empty],[empty]
+Groove Music,Microsoft,dts|2012,[empty],free,proprietary,[empty],[empty]
+MPXPLAY,MPXPLAY,dts|19980101,Latest stable software release/Mpxplay,free,free|GPL,[empty],C
+Music on Console,Damian Pietras,dts|20020101,Latest stable software release/Music on Console,free,free|GPL,[empty],C
+Music Player Daemon,Warren Dukes,dts|20030501,Latest stable software release/Music Player Daemon,free,free|GPL,[empty],C
+MusicBee,Steven Mayall,dts|20081204,Latest stable software release/MusicBee,free,proprietary,BASS audio library,Visual Basic NET
+musikCube,Casey Langen,dts|20050101,Latest stable software release/musikCube,free,free|BSD,[empty],[empty]
+Napster,William Christopher Gorog,dts|20031001,Latest stable software release/Napster (pay service),nonfree,proprietary,[empty],[empty]
+Quod Libet,Quod Libet Team,dts|20041108,Latest stable software release/Quod_Libet_(software),free,free|GPL,GStreamer,Python (GTK) PyGTK
+Rdio,Rdio Inc,When|date=August 2014 dts| ,Microsoft Windows 11200 (2013) WP 8  4050 (Start date and age|df=yes|2013|10|28) iOS 303 (Start date and age|df=yes|2014|09|27),Subscription,proprietary,[empty],[empty]
+Rhapsody,RealNetworks,dts|20030101,Latest stable software release/Rhapsody,Subscription,proprietary,[empty],[empty]
+Rhythmbox,Colin Walters,dts|20040401,Latest stable software release/Rhythmbox,free,free|GPL,GStreamer,C
+Songbird,POTI Inc,dts|20060208,Latest stable software release/Songbird,free,free|GPL,GStreamer,[added]
+Sonic Visualiser,Centre for Digital Music at Queen Mary  University of London,[empty],311 (August 14  2018),free,free|GPLv2 or later,[empty],[empty]
+Sonique,Media Science,dts|19981101,196 (March 2002),free,proprietary,[empty],[empty]
+Spotify,Spotify LTD,dts|2008,Latest stable software release/Spotify,Nonfree,proprietary,[empty],[empty]
+Style Jukebox,Digital Geek LTD,dts|20090701,Latest stable software release/Style Jukebox,free,proprietary,[empty],C#
+Winamp,Nullsoft,dts|April 21  1997,Latest stable software release/Winamp,free,proprietary,Wasabi,C/C
+XMMS,XMMS Team,dts|19971101,Latest stable software release/XMMS,free,free|GPL,original,C
+XMPlay,Un4seen Developments,dts|1998,38 (dts|2013|12|23),free,proprietary,original (based on the BASS audio library),[empty]
+Name,Author,First public release date,Stable version,Cost,Software license,Based framework,Written in

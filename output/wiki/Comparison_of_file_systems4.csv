@@ -1,0 +1,27 @@
+File system,Host OS,Offline grow,Online grow,Offline shrink,Online shrink
+FAT16 / FAT16B / FAT16X,misc,yes[54],no,yes[54],no
+FAT32 / FAT32X,misc,yes[54],no,yes[54],no
+exFAT,misc,no,no,no,no
+NTFS,Windows,yes,yes,yes,yes
+ReFS,Windows,dunno,yes,dunno,no
+HFS,macOS,no,yes,no,yes
+APFS,macOS,dunno,dunno,dunno,dunno
+HFS,Linux,no,no,no,no
+SquashFS,Linux,no,no,no,no
+NOVA,Linux,no,no,no,no
+JFS[55],Linux,yes,no,no,no
+XFS[56],Linux,no,yes,no,no
+Lustre[57],Linux,dunno,yes,no,no
+F2FS[58],Linux,yes,no,no,no
+NTFS[59],Linux,yes,no,yes,no
+ext2[60],Linux,yes,no,yes,no
+ext3[60],Linux,yes,yes,yes,no
+ReiserFS[61],Linux,yes,yes,yes,no
+Reiser4[62],Linux,yes,yes,yes,no
+ext4[60],Linux,yes,yes,yes,no
+Btrfs[63],Linux,yes,yes,yes,yes
+NILFS[64],Linux,no,yes,no,yes
+ZFS,misc,no,yes,no,partial[65]
+JFS2,AIX,dunno,yes,dunno,yes
+UFS2[66],FreeBSD,yes,yes (FreeBSD 100RELEASE or later),no,no
+HAMMER,DragonflyBSD,dunno,dunno,dunno,dunno

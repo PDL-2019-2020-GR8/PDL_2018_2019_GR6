@@ -5,6 +5,8 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.regex.Pattern;
 import org.jsoup.HttpStatusException;
@@ -30,6 +32,7 @@ public class HTMLConverter implements Converter {
 	private HTMLExtractor extractor;
 	private FileHandler filehandler;
 	private char separator = ',';
+	private HashMap<String, List<String>> htmlData = new HashMap<String, List<String>>() ;
 
 	public HTMLConverter() {
 		this.extractor = new HTMLExtractor();
@@ -61,7 +64,7 @@ public class HTMLConverter implements Converter {
 			Jsoup.connect(url).get();
 			return true;
 		} catch (HttpStatusException e) {
-			System.out.println(Constants.CONSOLE_RED_COLOR + "[" + url + "] does not exist!");
+			// System.out.println(Constants.CONSOLE_RED_COLOR + "[" + url + "] does not exist!");
 			return false;
 		}
 	}
@@ -109,9 +112,11 @@ public class HTMLConverter implements Converter {
 	 * @param filePath  the path for the files to be stored in
 	 * @throws HttpStatusException if the page does not exist
 	 */
-	public List<String> convertToCsv(Document doc, String baseUrl, String pageTitle, String filePath)
+	public HashMap<String, List<String>> convertToCsv(Document doc, String baseUrl, String pageTitle, String filePath)
 			throws HttpStatusException {
+		// List<String> data2 = new ArrayList<>();
 		List<String> data = new ArrayList<>();
+		htmlData = new HashMap<String, List<String>>() ;
 		String line = "";
 		String filename;
 		StringBuilder currentTdText;
@@ -122,7 +127,10 @@ public class HTMLConverter implements Converter {
 				System.out.println("Oups, smething wrong happened");
 			else {
 				for (Element currentTable : tableElements) {
-					Elements currentTableTrs = currentTable.select("tr"); //on selectionne tous les tr de currentTableTrs
+					Elements currentTableTrs = currentTable.select("tr");
+					   if(!htmlData.containsKey(pageTitle+filenameCounter)) {
+						   List<String> data2 = new LinkedList<String>();
+						   htmlData.put(pageTitle+filenameCounter, data2);
 					for (int i = 0; i < currentTableTrs.size(); i++) {
 						Element currentTr = currentTableTrs.get(i);
 						Elements currentRowTds = currentTr.select("td");
@@ -132,30 +140,27 @@ public class HTMLConverter implements Converter {
 							currentTdText = new StringBuilder(currentTd.text());
 							currentTdText = processCurrentTDText(currentTdText);
 							if (j == currentRowTds.size() - 1)
-								line += currentTdText.toString(); //quand on arrive au dernier td du premeir tr
+								line += currentTdText.toString();
 							else
-								line += currentTdText.toString() + separator; //on separe par une virgule chaque infos
-						}
+							    line += currentTdText.toString()+separator;
+						}		
 						if (line != "") {
 							line = processLine(line);
 							data.add(line);
+							 htmlData.get(pageTitle+filenameCounter).add(line);
 							line = "";
 						}
 					}
-					filename = this.filehandler.extractFilenameFromUrl(pageTitle, filenameCounter);
-					// System.out.println("data html"+data.contains(data.get(1)));
-					this.filehandler.write(filePath, filename, data);
-					System.out.println(Constants.CONSOLE_WHITE_COLOR + filename +" "+ "html has been generated");
 					filenameCounter++;
-					// data.clear();
+					data.clear();
+					}
 				}
 			}
 
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		return data	;
-
+		return htmlData;
 	}
 
 	private String processLine(String line) {

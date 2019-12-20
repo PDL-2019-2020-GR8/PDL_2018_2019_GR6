@@ -1,0 +1,45 @@
+Name,Operating system,Freeware version,Portable,Encrypts files,Detect conflict,File lock,Open file support,Revision control,Detect rename,Detect move,Full duplex transfer,Propagate deletes,Case sensitive,Delta copying (block level transfer),LAN Sync
+@MAX SyncUp,Windows,Partial|Limited,no,[empty],yes,yes,yes,[empty],No,No,[empty],yes,[empty],yes,yes
+Allway Sync,Windows,Partial|Limited,yes,yes,yes,[empty],yes,yes,No,No,yes,yes,[empty],[empty],yes
+AIMstor (discontinued),Windows,Partial|Limited,yes,[empty],yes,yes,yes,yes through VSS,Yes,Yes,Yes,yes,Partial|Case preserving only,[empty],[empty]
+Argentum Backup,Windows,no,yes,[empty],[empty],[empty],no,yes,[empty],[empty],[empty],[empty],yes,[empty],[empty]
+BackupAssist,Windows,no,[empty],[empty],no,[empty],yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Backup4all,Windows,Partial|Limited,yes,yes,no,[empty],yes,yes,[empty],[empty],[empty],yes,[empty],yes,[empty]
+Beyond Compare,Windows  OS X  Linux,Partial|Limited,yes,no,yes,[empty],yes,yes,[empty],[empty],[empty],yes,[empty],[empty],[empty]
+Box Sync,Windows [21] OS X [21] Android  BlackBerry  iOS[21],Partial|Limited,[empty],[empty],yes,?,?,yes,?,?,?,yes,?,[empty],No
+ChronoSync,OS X,no,no,yes,yes,yes,yes (only with APFS),yes,no,no,yes,yes,yes,no,yes
+Cloudike,Windows  OS X  iPhone  Android,yes,no,[empty],yes,no,yes,yes,yes,yes,yes,yes,yes,[empty],[empty]
+CloudMe,Windows  OS X  Linux  iPhone  Android  Google TV  Samsung TV,yes,no,[empty],yes,?,?,no,yes,no,?,?,yes,?,no
+Cubby  Free (discontinued),Windows  OS X,no,no,[empty],yes|Renames older and keeps both,no,[empty],yes,yes,yes,?,yes,[empty],no,no
+Cubby  Pro (discontinued),Windows  OS X,no,no,[empty],yes|Renames older and keeps both,no,[empty],yes,yes,yes,?,yes,[empty],Partial|LAN Sync only,yes
+Distributed Storage,Windows  Linux,no,[empty],[empty],yes,yes,yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Dmailer Sync (discontinued),Windows,yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Dropbox,Windows  OS X  Linux  Android  iPhone  BlackBerry,yes,no,[empty],yes,?,?,yes,yes,yes,yes,yes,yes,yes,yes
+Easy2Sync for Files,Windows,yes,[empty],[empty],yes,[empty],[empty],yes,yes  for folders,[empty],[empty],[empty],[empty],[empty],[empty]
+Egnyte,Windows  OS X  Linux  Android  iPad  iPhone,no,no,[empty],yes,yes,yes,yes,yes,yes,yes,yes,Partial|Case preserving only,yes,yes
+Gladinet,Windows  OS X  Android  iPad  iPhone  Windows RT  Blackberry,yes,Yes,Yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+GoDrive,Windows  Mac OS X  Linux  Android  iOS,Partial|Limited,yes,yes,yes,yes,yes,yes,yes,yes,?,yes,yes,?,yes
+GoodSync,Windows  OS X  Android  iPad  iPhone  USB flash drive,yes,Yes,yes  beta,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+GS RichCopy 360,Windows,Partial|Limited,no,no,yes,yes,yes,no,yes,yes,yes,yes,yes,Partial|Enterprise version only,yes
+IBM Connections,Windows  OS X  Android  iOS,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no
+MediaFire,Windows  OS X  Android  iOS,yes,[empty],yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no
+Name,Operating system,Freeware version,Portable,Encrypts files,Detect conflict,File lock,Open file support,Revision control,Detect rename,Detect move,Full duplex transfer,Propagate deletes,Case sensitive,Delta copying (block level transfer),LAN Sync
+Mega,Windows  OS X  Linux  Android  iPhone  BlackBerry,yes,[empty],yes,yes,[empty],[empty],yes,yes,yes,yes,yes,yes,No[22],yes
+RepliWeb,Windows  Linux,no,[empty],[empty],Partial,[empty],[empty],yes,yes,yes,yes,yes,yes,[empty],[empty]
+Resilio Sync (ex BitTorrent Sync),Windows  OS X  Linux  Android  iOS  Windows Phone  Amazon Kindle Fire  FreeBSD,Partial|Limited,no,yes  optional,no,no,no,yes,yes,yes,yes,yes,[empty],yes,yes
+Robocopy,Windows,yes,no,[empty],no,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SecureSafe,Windows  OS X  Android  iOS,yes,[empty],[empty],yes,no,[empty],no,no,no,no,yes,yes,no,no
+SpiderOak,Windows  OS X  Debian  Fedora  Slackware  Android  iOS,no,[empty],[empty],no,[empty],[empty],yes[23],no,[empty],no,[empty],[empty],yes[24],Yes
+ShareFile,Windows  OS X  Android  iPhone,yes,[empty],yes,[empty],[empty],[empty],yes[25],Yes,[empty],Yes,[empty],Yes,[empty],Yes
+SugarSync,Windows  OS X  Android  BlackBerry  iPhone  Windows Mobile,no,no,[empty],yes,[empty],[empty],yes[26],yes,yes,[empty],yes,[empty],[empty],[empty]
+Syncdocs,Windows  web app,Partial|Beta versions only,yes,[empty],yes,no,yes,yes,yes,yes,Partial|Microsoft Word only[27],yes,[empty],[empty],[empty]
+Synchronize It!,Windows,no,[empty],[empty],no,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Syncplicity,Windows  OS X  Android  iPhone  Windows Mobile,yes,[empty],[empty],yes,[empty],[empty],yes,[empty],[empty],yes,yes,[empty],No[28],No
+Tonido,Windows  OS X  Linux  Android  BlackBerry  iPhone  Windows Phone,yes,yes,[empty],yes,no,yes,no,yes,yes,yes,yes,[empty],[empty],[empty]
+Tresorit,Windows  OS X  Linux  Android  BlackBerry  iOS  Windows Phone,Partial|Limited,yes,yes,yes,[empty],yes  for Windows,yes,[empty],[empty],[empty],yes,yes,no,[empty]
+Ubuntu One (discontinued 2 April 2014),Windows  OS X  Ubuntu  iOS  Android[29],yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Windatareflector,Windows,yes,yes,no,yes,yes,no,yes,no,no,yes,yes,no,no,yes
+Wuala (discontinued),Windows  OS X  Debian  Ubuntu  Android  iOS,yes,[empty],yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ZumoDrive (discontinued),Windows  OS X  Linux  Android  iPhone  Palm webOS,yes,[empty],[empty],yes,[empty],[empty],yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Zettanet,Windows  OS X  Linux,No,[empty],[empty],Yes,[empty],Yes,Yes,Yes,Yes,[empty],Yes,Yes  Preserve file name case & file metadata,yes,Yes
+Name,Operating system,Freeware version,Portable,Encrypts files,Detect conflict,File lock,Open file support,Revision control,Detect rename,Detect move,Full duplex transfer,Propagate deletes,Case sensitive,Delta copying (block level transfer),LAN Sync

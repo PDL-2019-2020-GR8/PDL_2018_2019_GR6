@@ -139,11 +139,11 @@ public class HTMLExtractor implements Extractor {
 				
 				for (int j = 0; j < currentRowItems.size(); j++) {
 					currentTdTags = currentRowItems.get(j).select(tag);
-					if (currentRowItems.get(j).hasAttr(Constants.ROW_SPAN_ATTRIBUTE) 
-							|| currentRowItems.get(j).hasAttr(Constants.COL_SPAN_ATTRIBUTE)
-							|| currentRowItems.get(j).hasClass(Constants.MBOX_IMAGE_CLASS)) {
-						currentTable.addClass(Constants.GENERIC_CLASS_NAME_TO_REMOVE); 
-					}
+//					if (currentRowItems.get(j).hasAttr(Constants.ROW_SPAN_ATTRIBUTE) 
+//							|| currentRowItems.get(j).hasAttr(Constants.COL_SPAN_ATTRIBUTE)
+//							|| currentRowItems.get(j).hasClass(Constants.MBOX_IMAGE_CLASS)) {
+//						currentTable.addClass(Constants.GENERIC_CLASS_NAME_TO_REMOVE); 
+//					}
 					
 					if(currentRowItems.get(j).hasClass("extra_td_to_remove"))
 						currentRowItems.get(j).remove();

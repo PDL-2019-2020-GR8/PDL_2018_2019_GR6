@@ -1,0 +1,16 @@
+Name,Platform,License,Price,Latest stable release,Source availability,Notes
+Apertium,Crossplatform (Web application)  Unix compatible Precompiled packages available for Debian,GPL,No Fee Required,342,Yes,Rulebased  shallow transfer; all programs and language data are free and open source
+Anusaaraka,Unix compatible,GPL,No Fee Required,050,Yes,Rulebased  deep parser based  paninian framework based; all programs and language data are free and opensource
+IBM,Crossplatform,SaaS,Free  Commercial (varies by plan),30,No,Both rulebased and statistical models developed by IBM Research Neural Machine Translation models available through the Watson Language Translator API for developers[1][2]
+OpenLogos,Windows  Linux,GPL or Paid initiative taker,No Fee Required,103,Yes,Rulebased  deep transfer
+Moses,Crossplatform,LGPL,No Fee Required,30[3],Yes,Dropin replacement for Pharaoh  features factored translation models and decoding of confusion networks
+Moses for Mere Mortals,Ubuntu Linux,GPL,No Fee Required,20141116,Yes,Free open source; based on Moses; translation memories integration
+NiuTrans,Crossplatform,GPL,No fee required,110,Yes,Competitive performance for Chinese translation tasks; statistical machine translation Supports phrasebased  hierarchical phrasebased  and syntaxbased (stringtotree  treetostring  and treetotree) models for research purposes
+Google Translate,Crossplatform (Web application),SaaS,No fee required,Beta,No,Statistical and neural machine translation
+Bing Translator,Crossplatform (Web application),SaaS,No fee required,Final,No,Microsoft's linguistically informed statistical MT system
+YandexTranslate,Crossplatform (Web application),SaaS,No fee required,[empty],No,Statistical and neural machine translation
+SYSTRAN,Crossplatform (Web application),Proprietary software,$200 (desktop) €“ $15000 and up (enterprise server),Version 7,No,Hybrid rulesbased and SMT
+GramTrans,Crossplatform (Web application),Freeware,No Fee Required,dunno,No,Rulebased  using constraint grammar
+Promt,Crossplatform (Web application),Proprietary software,Commercial,125,No,Hybrid  rulesbased  SMT and neural[4]
+Babylon,Windows  Mac,Proprietary software,Depends on license ($990€“$89 for one license),103,No,Prompts to install the Babylon Toolbar  a browser hijacker which is difficult to remove[5][6]
+IdiomaX,Windows  Symbian S60  Windows Mobile,Proprietary software,Depends on configuration,60,No,Rulebased

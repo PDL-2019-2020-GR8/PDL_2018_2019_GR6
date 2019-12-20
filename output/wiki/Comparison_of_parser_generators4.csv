@@ -1,0 +1,32 @@
+Name,Parsing algorithm,Input grammar notation,Output languages,Grammar  code,Lexer,Development platform,IDE,License
+ACCENT,Earley,Yacc variant,C,DA|Mixed,external,Yes|All,No,Free  GNU GPL
+APaGeD,GLR  LALR(1)  LL(k),?,D,DA|Mixed,generated,Yes|All,No,Free  Artistic
+Bison,LALR(1)  LR(1)  IELR(1)  GLR,Yacc,C  C  Java  XML,DA|Mixed  except XML,external,Yes|All,No,Free  GNU GPL
+DMS Software Reengineering Toolkit,GLR,?,Parlanse,DA|Mixed,generated,Some|Windows,No,Proprietary
+DParser,Scannerless GLR,?,C,DA|Mixed,scannerless,Some|POSIX,No,Free  BSD
+Dypgen,Runtimeextensible GLR,?,OCaml,DA|Mixed,generated,Yes|All,No,Free  CeCILLB
+E3,Earley,?,OCaml,DA|Mixed,external  or scannerless,Yes|All,No,?
+Elkhound,GLR,?,C  OCaml,DA|Mixed,external,Yes|All,No,Free  BSD
+euh8meParsing,GLR,?,N/A (state machine is runtime generated),DP|Separate,external,Some|NET Framework,No,Free  BSD
+GDK,LALR(1)  GLR,?,C  Lex  Haskell  HTML  Java  Object Pascal  Yacc,DA|Mixed,generated,Some|POSIX,No,Free  MIT
+Happy,LALR  GLR,?,Haskell,DA|Mixed,external,Yes|All,No,Free  BSD
+Hime Parser Generator,GLR,?,C#  Java  Rust,DP|Separate,generated,Some|NET Framework  Java virtual machine,No,Free  GNU LGPL
+IronText Library,LALR(1)  GLR,C#,C#,DA|Mixed,generated or external,Some|NET Framework,No,Free  Apache 20
+Jison,LALR(1)  LR(0)  SLR(1),Yacc,JavaScript  C#  PHP,DA|Mixed,generated,Yes|All,No,Free  MIT
+Syntax,LALR(1)  LR(0)  SLR(1) CLR(1) LL(1),JSON/Yacc,JavaScript  Python  PHP  Ruby  C#  Rust  Java,DA|Mixed,generated,Yes|All,No,Free  MIT
+Laja,Scannerless  two phase,Laja,Java,DP|Separate,scannerless,Yes|All,No,Free  GNU GPL
+ModelCC,Earley,Annotated class model,Java,Generated,generated,Yes|All,No,Free  BSD
+parglare,Scannerless LR/GLR,BNFlike,Python interpreted  automata runtime generated,DA|Mixed,scannerless,Yes|All,No,Free  MIT
+P1,Combinators,BNFlike,OCaml,DA|Mixed,external  or scannerless,Yes|All,No,?
+P3,Earley€“combinators,BNFlike,OCaml,DA|Mixed,external  or scannerless,Yes|All,No,?
+P4,Earley€“combinators  infinitary CFGs,BNFlike,OCaml,DA|Mixed,external  or scannerless,Yes|All,No,?
+Scannerless Boolean Parser,Scannerless GLR (Boolean grammars),?,Haskell  Java,DP|Separate,scannerless,Some|Java virtual machine,No,Free  BSD
+SDF/SGLR,Scannerless GLR,SDF,C  Java,DP|Separate,scannerless,Yes|All,Yes,Free  BSD
+SmaCC,GLR(1)  LALR(1)  LR(1),?,Smalltalk,DA|Mixed,internal,Yes|All,Yes,Free  MIT
+SPARK,Earley,?,Python,DA|Mixed,external,Yes|All,No,Free  MIT
+Tom,GLR,?,C,Generated,none,Yes|All,No,Free  "No licensing or copyright restrictions"
+UltraGram,LALR  LR  GLR,?,C  C#  Java  Visual Basic NET,DP|Separate,generated,Some|Windows,Yes,Proprietary
+Wormhole,Pruning  LR  GLR  Scannerless GLR,?,C  Python,DA|Mixed,scannerless,Some|Windows,No,Free  MIT
+Whale Calf,General tabular  SLL(k)  Linear normal form (conjunctive grammars)  LR  Binary normal form (Boolean grammars),?,C,DP|Separate,external,Yes|All,No,Proprietary
+yaep,Earley,Yacclike,C,DA|Mixed,external,Yes|All,No,Free  GNU LGPL
+Zecc,Recursive pattern matching,Zecc/Zacc,Linkable library,DA|Mixed,Scannerless,Some|macOS,Yes,Proprietary

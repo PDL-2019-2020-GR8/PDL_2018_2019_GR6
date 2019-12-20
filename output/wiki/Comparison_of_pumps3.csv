@@ -1,0 +1,11 @@
+Pump type,Cyclic/continuous ?,Maximum lift height,Production cost,Efficiency,Output,Size of device,Fabrication requirements,Difficulty of production,Durability,Difficulty of repair,Suction lift ?
+Centrifugal (regenerative) pump,continuous,10m30m,mediumhigh,medium,medium,?,?,industrial,?,?,yes
+Centrifugal (turbine) pump,continuous,3m200m,mediumhigh,mediumhigh,high,?,?,industrial,?,?,yes
+Centrifugal (volute) pump,continuous,3m20m,medium,mediumhigh,high,?,?,industrial,?,?,yes
+Flap valve pump,?,2m4m,very low,lowmedium,very low,?,?,basic/traditional,?,?,no
+Inertia pump  joggle pump,cyclic,2m4m,lowmedium,mediumhigh,lowmedium,?,?,traditional  industrial,?,?,no
+Jet pump (water  air or stream),continuous,2m20m,medium,lowmedium,lowmedium,?,?,industrial,?,?,no
+Mixed flow pump,continuous,2m10m,mediumhigh,mediumhigh,high,?,?,industrial,?,?,no
+Propeller (axial flow) pump,continuous,5m30m,mediumhigh,mediumhigh,high,?,?,industrial,?,?,no
+Rebound inertia,cyclic,2m60m,medium,mediumhigh,very low,?,?,industrial,?,?,yes
+Resonating joggle pump,cyclic,2m10m,medium,mediumhigh,mediumhigh,?,?,traditional,?,?,no
