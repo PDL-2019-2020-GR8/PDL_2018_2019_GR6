@@ -53,9 +53,11 @@ This section describes the UML architecture of the application.
 We did not consider it necessary to make a diagram as it does not reflect relevant interaction.
  As a result, we present only class and sequence diagrams to illustrate the relevant flows.
 
-### Class diagram
+### Class diagram For V1
 ![Diagramme de classe](https://user-images.githubusercontent.com/45700033/66901199-8a262c80-effe-11e9-8481-563450130ee9.jpeg)
 
+### Class diagram For V2
+![new Diagram](https://user-images.githubusercontent.com/45700033/71295525-7f7c7080-237c-11ea-8ebb-853e9e8a0f06.png)
 
 ### Sequence diagram
 
