@@ -19,10 +19,10 @@ visualization software, in order to analyse them.
 The programming language used for this project is java. So several technologies are used to
 accomplish the project, we can list:
 
-##### Mylyn wikitext
-  *Mylyn wikitext* is an eclipse task management system that contains wikitext extensions that 
-support markup language. Mylyn is used to parse wikitext code in HTML.
-
+##### Bliki 
+in the existing project, they used mylyn for wiki extraction in html. However we decided to use bliki because it collects more data than Mylyn.
+  *Bliki* is a parser library for converting Wikipedia wikitext notation to HTML
+  
 ##### Jsoup
  *Jsoup* is an open source Java library designed to parse, extract, and manipulate data stored in 
 HTML documents. This library is used to parse and process the content of the HTML pages 
@@ -70,7 +70,8 @@ features.
 # Improvement
 
 Since with Mylyn we have data loss during the parsing, it would be interesting to set up a 
-library that would reduce the loss of information when parsing wikitext in html by Mylyn.
+library that would reduce the loss of information when parsing wikitext in html.
+For this we used Bliki which allows to recover more data than Mylyn.
 
 # New features
 *       To test the contents of two extractors to see if the texts are the same
@@ -82,6 +83,26 @@ library that would reduce the loss of information when parsing wikitext in html 
 *        An editor to manually correct CSV file data if they are not inserted correctly
 
 *        Extract tables from a single Wikipedia page into a CSV file.
+
+# Developped features
+
+After fixing some functionalities and issues to develop, here is what we managed to settle.
+
+*       To test the contents of two extractors to see if the texts are the same
+
+For this test case, it is difficult to have identical content because the extractors do not have the same way of generating the CSV files. For html it recovers the raw data and generates the CSV files and for wiki it also recovers the data, then goes through a parsing step and it is during this step that it  generates special characters
+
+*        To test if what we have locally corresponds to what we have on Wikipedia
+
+To test this case we take a specific URL then we choose an online cell corresponding to this URL and we test with a cell our local data of this same URL.
+
+*        Extract tables from a single Wikipedia page into a CSV file.
+
+To solve this problem, we just set a specific URL in the input file.
+
+*        Try to have the same number of tables between two extractors
+
+This problem was solved by ignoring the constraints of nested arrays on Html, because we deemed it relevant.
 
 
 # Project License
