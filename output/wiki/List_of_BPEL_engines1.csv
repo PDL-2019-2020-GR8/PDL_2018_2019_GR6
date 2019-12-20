@@ -1,0 +1,14 @@
+Product,Vendor,Edition,Release Date,Framework,Compatibility,License
+ActiveVOS,Active Endpoints,80,201009,Servlet or Java EE,BPMN 20; WSBPEL[1],Proprietary
+Activiti,Alfresco and the Activiti community,5164,20141016,Java,BPMN 20,Apache 20
+Apache ODE,ASF,137 10164,20161110 20060607,Apache Axis  JBI Java EE,BPEL4WS 11  WSBPEL 20 WSHumanTask with Apache HISE ),Apache 20
+BizTalk Server,Microsoft,Biztalk 2010,2010,NET,BPEL  BPMN  RFID  WSDL  UDDI  WS*  ,Proprietary
+ImixsWorkflow,Imixs,320,20150405,Java EE,BPMN 20,GPL 20
+jBPM,jBoss,640,20160323,Java EE,BPMN 20,Apache 20
+Open ESB,OpenESB Community,231,20131001,Java EE  JBI,WSBPEL 20,CDDL
+Oracle BPEL Process Manager (formerly Collaxa BPEL Orchestration Server),Oracle Corporation,11g,201004,Java EE,WSBPEL 20  BPMN 20,Proprietary
+OW2 Orchestra,OW2,490,20120123,Apache Axis Apache CXF OSGi Java EE,WSBPEL 20,LGPL
+Petals BPEL Engine,Petals Link,101,20091208,Java EE,WSBPEL 20  WSDL 11 and 20,LGPL
+SAP Exchange Infrastructure,SAP AG,30,[empty],[empty],BPEL,Proprietary
+Virtuoso Universal Server,OpenLink Software,45,2006,[empty],UDDI  WSBPEL  WS*,GPL and Proprietary
+WebSphere Process Server,IBM,6013,20060929,Java EE,WSBPEL,Proprietary

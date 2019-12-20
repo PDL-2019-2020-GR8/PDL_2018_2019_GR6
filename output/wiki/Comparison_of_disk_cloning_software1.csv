@@ -1,0 +1,22 @@
+Name,Operating system,User interface,Sector by sectorefn|name="Raw",File by fileefn|name="File",Hot transferefn|name="LiveCopy",Mount or extractefn|Extracting is the process of browsing a disk image and retrieving some of the files that it contains  one users choice Mounting a disk image is the process of make the disk image content available to the user as if he or she is accessing a physical readonly disk,Operation model,License
+Standalone,Client€“server,From a Live OS,[added],[added],[added],[added],[added],[added]
+Acronis True Image[1],Windows,Graphical,yesEfn|name="ATIht",Yes|FAT32  NTFSefn|name="ATIHLinux",yes,yes,yes,yes
+Apple Software Restore,macOS,Commandline,yes,yes|HFS,no,yes|via hdiutil,yes,yes
+CloneDisk[2],Windows 7,Graphical,yes,yes|FAT  FAT32  NTFS  exFAT  UDF,no,yes,yes,yes
+Clonezilla[3],Linux,Textbased,yes,yes|FAT12  FAT16  FAT32  NTFS  ext2  ext3  ext4  reiserfs  reiser4  xfs  jfs  btrfs  f2fs  NILFS2  HFS  UFS  minix  VMFS3,no,Partial|Through a hack[4],yes,yes (Clonezilla server edition)
+dcfldd,Linux,Commandline,yes,no,no,yes,yes,no
+dd (Unix),Unix,Commandline,yes,no,no,yesefn|name="Loop device",yes,no
+Disk Utility,macOS,Graphical,yes,yes|HFS,yes,yes,yes,no
+Drive SnapShot[5],Windows,Graphical  Commandline,yes[6],no,yes,yes,yes,no
+FSArchiver,Linux,Textbased,no,yes|FAT32  btrfs  ext2  ext3  ext4  ReiserFS4  HPFS  JFS  XFS,dunno,dunno,yes,no
+Ghost[7],Windows,Graphical  Commandline,yes,yes|FAT32  NTFS  HPFS  ext2  ext3 [8],yes,yes,yes,yes
+GParted Live CD[9],Linux,Graphical,no,yes|ext2  ext3,no,no,yes,no
+HDClone[10],Windows  (Linux[11]),Graphical  Commandline,yes,Yes| FAT16  FAT32  ExFAT  NTFS  ReFS  ext2  ext3  ext4  XFS  HFS,yes,yes,yes,no
+Image for Windows[12],Windows,Graphical,yes,yes|FAT32  NTFS  ext2  ext3,yes,yes,yes,no
+IsoBuster[13],Windows,Graphical,yes,yes|FAT12  FAT16  FAT32  ExFAT  NTFS  ext2  ext3  ext4  MFS  HFS  HFS  UDF  XFS[14],no,yes,yes,no
+Kleo Bare Metal Backup,Independent (Live OS),Graphical,yes,yes|FAT32  NTFS  ext2  ext3  HFS,no,dunno,no,yes
+Mondo Rescue[15],Linux,Textbased,yes,yes|FAT32  NTFS  ext2  ext3,yes,dunno,yes,dunno
+ntfsclone[16][17],Linux,Commandline,no,yes|NTFS,dunno,dunno,yes,no
+partimage[18][19],Linux,Textbased,no,yes|FAT32  ext2  ext3  ReiserFS3  HPFS  JFS  XFS; UFS (beta)  HFS (beta)  NTFS (experimental)[20],dunno,dunno,yes,yes
+PartitionSaving[21],Windows  Linux  DOS,Textbased Commandline,yes,yes|FAT32  NTFS  ext2  ext3,no,yes,yes,no
+Redo Backup and Recovery,Independent (Live OS),Graphical,yes,yes|FAT32  NTFS  ext2  ext3  ext4,no,no,no,Partial|Can access networked drives

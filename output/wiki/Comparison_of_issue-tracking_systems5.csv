@@ -1,0 +1,36 @@
+System,Git,Mercurial,Bazaar,Monotone,Darcs,CVS,Subversion,Perforce,AccuRev,ClearCase,Others
+Apache Bloodhound,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Optional[73],Yes,No,No
+Assembla Tickets,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No
+Axosoft,Yes,Yes[74],No,No,No,No,Yes,Yes,No,No,Yes VSS  Vault Sourcegear
+Bugzilla,Yes[75],Yes[76],Yes,No,No,Yes,Yes,Yes,Yes,No,No
+Debbugs,No,No,No,No,No,No,No,No,No,No,No
+Faveo Helpdesk,No,No,No,No,No,No,No,No,No,No,No
+FogBugz,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes|2[77]
+Fossil,No,No,No,No,No,No,No,No,Yes,No,Yes|1[78]
+FusionForge,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No
+GNATS,No,No,No,No,No,Yes,No,No,No,No,No
+HP Application Lifecycle Management,No,No,No,No,No,Yes,Yes,Yes[79],Yes,No,No
+IBM Rational ClearQuest,No,No,No,No,No,No,No,Yes[80],Yes,Yes,No
+Jira,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes[81],No[82],Yes[83]
+MantisBT,Yes,Yes[84],No,No,No,Yes,Yes,No,No,No,No
+Microsoft Dynamics CRM,No,No,No,No,No,No,No,No,No,No,No
+orgmode,No,No,No,No,No,No,No,No,No,No,No
+OTRS,No,No,No,No,No,No,No,No,No,No,No
+Phabricator,Yes,Yes,No,No,No,No,Yes,No,No,No,No
+Pivotal Tracker,Yes,No,No,No,No,Yes,Yes,No,No,No,No
+Redmine,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes[79],No,No,No
+Request Tracker,No,No,No,No,No,Yes,Yes,No,No,No,No
+Roundup,No,No,No,No,Yes,No,Yes,No,No,No,No
+StarTeam,No,No,No,No,No,No,No,No,No,No,Yes  StarTeam includes revision control
+Supportworks,No,No,No,No,No,No,No,No,No,No,No
+SysAid,No,No,No,No,No,No,Yes,No,No,No,No
+Team Foundation Server,Yes[85],No,Yes[86],No,No,No,Yes[87],No,No,No,Yes  TFS includes revision control
+TestTrack,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Yes  Surround SCM  VSS
+Trac,Yes,Yes,Yes,Yes,Yes,No,Yes,Optional[73],Yes,No,No
+TrackerSuiteNet,No,No,No,No,No,No,No,No,No,No,No
+Tuleap,Yes,No,No,No,No,Yes,Yes,No,No,No,No
+Twproject,No,No,No,No,No,No,Yes,No,No,No,No
+Usersnap,No,No,No,No,No,No,No,No,No,No,No
+Wrike,No,No,No,No,No,No,Yes,No,No,No,No
+YouTrack,Yes[88],Yes[88],No,No,No,Yes[88],Yes[88],Yes[88],No,Yes[88],Yes|3[88][89]
+System,Git,Mercurial,Bazaar,Monotone,Darcs,CVS,Subversion,Perforce,AccuRev,ClearCase,Others

@@ -1,0 +1,13 @@
+[empty],GUI,Console,Software license,Latest stable version,Latest release date,Windows,Macintosh,Linux
+beye,No,Yes,free|GPL,610,Dts|2009|December|12,yes,yes,yes
+bvi,No,Yes,free|GPL,140,Dts|2014|October|07,DOS  Win95 and up,yes,yes
+Cheat Engine,Yes,No,free|APL,681,Dts|2018|06|23,yes,Yes  ver 62,no
+GNU Emacs,Yes,Yes,free|GPL,262[1],Dts|2019|4|12,yes,yes,yes
+FlexHex,Yes,No,Proprietary (free for noncommercial use),27,Dts|2018|October|12,Windows XP and up,no,no
+Frhed (Free Hex Editor),Yes,No,free|GPL,171,Dts|2009|July|30,Win98 and up,no,no
+Hiew,No,Yes,Proprietary,868,Dts|2019|August|01,yes,no,no
+HxD,Yes,No,Proprietary (Freeware),2210,Dts|2019|February|17,Win95  WinNT4 and up,no,no
+VEDIT,Yes,Yes,Proprietary,6242,Dts|2015|Jan|1,yes,no,no
+UltraEdit,Yes,No,Proprietary,2610 (Windows) 180 (Linux / Mac OS X),Dts|2019|05|07 Dts|2018|01|02,yes,yes,yes
+WinHex,Yes,No,Proprietary,197,Dts|2018|08|19,Win95 and up,no,no
+vim,Yes,Yes,free|GPL compatible,810000,Dts|2018|05|17,Yes,Yes,Yes

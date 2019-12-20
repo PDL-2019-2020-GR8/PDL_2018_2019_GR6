@@ -1,0 +1,29 @@
+Product,Creator,Latest stable release date,Latest stable release,License,Runs on Windows,Runs on Mac OS X,Runs on Linux,Oracle,MySQL,PostgreSQL,MS SQL Server,ODBC,JDBC,SQLite,Other,Programming language
+Adminer,Jakub Vrána,Adminer version|releasedate,Adminer version,Apache License or GPL,yes,yes,yes,yes,yes,yes,yes,[empty],[empty],yes,[empty],PHP
+DaDaBIK,Eugenio Tacchini,DaDaBIK version|releasedate,DaDaBIK version,Proprietary,yes,yes,yes,yes,yes,yes,yes,no,no,yes,[empty],PHP
+Database Deployment Manager,The Unauthorized Frog project,20120529,v01i,LGPL,yes,no,yes,[empty],yes,[empty],[empty],[empty],[empty],[empty],[empty],Qt/C
+DatabaseSpy,Altova,DatabaseSpy version|releasedate,DatabaseSpy version,Proprietary,yes,no,no,yes,yes,yes,yes,yes,yes,[empty],IBM DB2  Sybase  MS Access,C
+Database Workbench,Upscene Productions,20170629,532,Proprietary,yes,Depends|requires Wine,Depends|requires Wine,yes,yes,[empty],yes,yes,[empty],[empty],InterBase  Firebird  SQL Anywhere  NexusDB and MariaDB,Delphi
+DataGrip,JetBrains,20170906,201722,Proprietary,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,Sybase  DB2  H2  Hypersonic SQL  Amazon Redshift  Apache Derby,Java
+DBeaver,Serge Rider,20190310,60,Apache License,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,MySQL  PostgreSQL  Oracle  EXASOL  IBM DB2  SQL Server  Apache Derby  Firebird all with JDBC driver,Java
+DBEdit,Jef Van Den Ouweland,20120510,246,GPL,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,IBM DB2  HSQLDB  Apache Derby  H2,Java
+Epictetus,Antilogic Software,dunno,dunno,Proprietary,yes,yes,yes,yes,[empty],yes,yes,[empty],[empty],[empty],Sybase  InterBase/Firebird  H2  HSQLDB,Java
+HeidiSQL,Ansgar Becker,HeidiSQL version|releasedate,HeidiSQL version,GPL,yes,Depends|requires Wine,Depends|requires Wine,[empty],yes,yes,yes,[empty],[empty],[empty],[empty],Embarcadero Delphi
+Maatkit,Baron Schwartz,20100601,5247,GPL,yes,yes,yes,[empty],yes,[empty],[empty],[empty],[empty],[empty],[empty],Perl
+Microsoft SQL Server Management Studio,Microsoft,20190728[1],182,Proprietary,yes,no,no,[empty],[empty],[empty],yes,[empty],[empty],[empty],including SSAS management  and MDX  DMX  and XMLA languages,Net
+ModelRight,ModelRight,201612??,41[2][3],Proprietary,yes,no,no,yes,yes,[empty],yes,yes,[empty],[empty],SQL Server  Oracle  MySQL  PostgreSQL  DB2  DB2/zOS  MS Access,C
+MySQL Workbench,Oracle Corporation,MySQL Workbench version|releasedate,MySQL Workbench version,Community Ed GPL Standard Ed Commercial Proprietary,yes,yes,yes,[empty],yes,[empty],[empty],[empty],[empty],[empty],[empty],C/C# ObjectiveC Python (programming language)
+Navicat,PremiumSoft CyberTech Ltd,20180726,121,Proprietary,yes,yes,Depends|requires Wine,yes,yes,yes,yes,yes,[empty],yes,[empty],Borland Delphi ObjectiveC
+Navicat Data Modeler,PremiumSoft CyberTech Ltd,20151210,21,Proprietary,yes,yes,yes,yes,yes,yes,yes,yes,[empty],yes,[empty],Borland Delphi ObjectiveC
+Oracle Enterprise Manager,Oracle Corp,20150616,12105,Proprietary,yes,No,yes,yes,yes,[empty],yes,[empty],[empty],[empty],DB2  Sybase  TimesTen,Java
+Oracle SQL Developer,Oracle Corp,20180405,18100951630,Proprietary,yes,yes,yes,yes,yes,no,yes,yes,yes,[empty],Microsoft Access  Sybase  DB2  Teradata,Java
+Orbada,Andrzej Kaluza,Orbada version|releasedate,Orbada version,GPL,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Firebird  HSQL  InterBase  Derby all with JDBC driver,Java
+pgAdmin III,pgAdmin Development Team,20120911,1222,PostgreSQL License,yes,yes,yes,[empty],[empty],yes,[empty],[empty],[empty],[empty],[empty],C
+phpLiteAdmin,Dane Iracleous  Christopher Kramer and others,20190905,1982[4],GPL,yes,yes,yes,no,no,no,no,no,no,yes,[empty],PHP
+phpMyAdmin,phpMyAdmin Development Team,phpMyAdmin version|releasedate,phpMyAdmin version,GPL,yes,yes,yes,[empty],yes,[empty],[empty],[empty],[empty],[empty],Drizzle  MariaDB,php
+SQL Database Studio,Jan Prochazka,20160527,341,Proprietary,yes,no,no,no,no,no,yes,[empty],[empty],[empty],[empty],NET  WPF  C#
+SQLyog,Webyog Softworks Pvt Ltd,SQLyog version|releasedate,SQLyog version,GPLv2,yes,Depends|requires Wine,Depends|requires Wine,[empty],yes,[empty],[empty],[empty],[empty],[empty],[empty],C
+SQuirreL SQL,Colin Bell  Gerd Wagner  Rob Manning and others,SQuirreL SQL Client version|releasedate,SQuirreL SQL Client version,GPLv2 & LGPLv2,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Access Axion Java RDBMS  Apache Derby  Daffodil DB  FileMaker (JDBC)  Fujitsu Siemens SESAM/SQL  Firebird  FrontBase  HSQLDB  Hypersonic SQL  H2 (DBMS)  IBM DB2  Informix  Ingres  OpenIngres  InstantDB  InterBase  Mckoi SQL Database  Microsoft SQL Server  Mimer SQL  Netezza  Pointbase  SAPDB  Sybase  Sunopsis XML Driver  Teradata Warehouse  ThinkSQL RDBMS  Vertica Analytic Database  and others with JDBC drivers,Java
+Toad,Quest Software,Various,Various,Proprietary,yes,no,no,yes,yes,[empty],yes,yes,[empty],[empty],DB2  Sybase,Embarcadero Delphi  C#NET
+Toad Data Modeler,Quest Software,20090305,338,Proprietary,yes,no,no,yes,yes,yes,yes,[empty],[empty],[empty],DB2  MS Access  Sybase,Embarcadero Delphi
+TOra,Community,20170704,32,GPL,yes,yes,yes,yes,yes,yes,[empty],[empty],[empty],[empty],Teradata,C/Qt

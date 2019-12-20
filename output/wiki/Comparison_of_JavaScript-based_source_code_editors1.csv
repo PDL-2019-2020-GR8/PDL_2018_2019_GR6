@@ -1,0 +1,19 @@
+Editor,Site,Latest version,Style  clone of,Cost (US$),Software license,Open source,Browser support,Activity
+Ace,Home  demo,142  20181121,Sublime Text / Microsoft Visual Studio,free,New BSD License,yes| Yes,Firefox 35  Safari 4  Chrome  IE 8  Opera 115,yes
+Atom,Home,173  20160428,Emacs  Vim and others,Free,Dual,Yes,Chrome,yes
+CodeMirror,Home  demo,5390  20180620,plain textarea,free,MITlike,yes| Yes,Firefox 3  Chrome  Safari 3  Internet Explorer 8  Opera 9[1],yes
+Codeanywhere,Home,60,SublimeText,,Public Cloud,no,Firefox 3  Chrome  Safari 3  Internet Explorer 8  Opera 9,yes
+Codenvy Editor,Home,21017  20140117,Eclipse,,Public Cloud,yes,Firefox 3  Chrome  Safari 3  Internet Explorer 8  Opera 9,yes
+Orion,Home,80  20150304,Eclipse SWT StyledText  regular textarea,free,duallicensed BSD 3clause and EPL,yes| Yes,Firefox 37  Chrome 40  Safari7  Internet Explorer 11[2],yes
+Monaco Editor,Home  demo,0171  20190625,Visual Studio Code,free,MIT,yes| Yes,IE8  Firefox 4  Chrome,yes
+Markitup,Home  demo,1114  20130204,Markup editor  no syntax highlight,free,MIT  GPL,yes,IE 6 & 7  Firefox 2 & 3  Safari 31  Opera 9[3],some
+LDT,Home,20120219,regular textarea,free,MIT  GPL,yes| Yes,Firefox 36  IE8  Chromium 16  Midori 41  Opera 11  Epiphany,some
+Ymacs,Home  demo,05  20120328,Emacs,free,BSD,yes| Yes,Firefox  Chrome  Safari,some
+CodePress,Home,096  20070926,Microsoft Visual Studio,free,LGPL,yes,dunno,no
+CodeTextArea,Home  demo,200906,Microsoft Visual Studio,free,BSD,yes,Dojo widget,no
+EditArea,Home  demo,082  20100114,Microsoft Visual Studio,free,LGPL,yes,IE 6  Firefox 15  Safari 3  Opera 9  Chrome[4],no
+Helene,Home  demo,09  unknown release date,Microsoft Visual Studio,free,GPL,yes,[empty],no
+9ne,Home,dunno,Emacs,free,GPL,yes,[empty],no
+jsvi,Home,dunno,vi,free,GPL,yes,[empty],no
+MDKEditor,Home,210  2008,Microsoft Visual Studio,depends| Depends on use,Dual,no| Code is readable,tested to work on IE 6  7  Firefox 2  3  Chrome,Yes
+Micro,Home,2013,nano,free,GPL,yes,[empty],some

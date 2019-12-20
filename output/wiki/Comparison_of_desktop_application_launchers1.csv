@@ -1,0 +1,8 @@
+[empty],Creator,Latest stable version,Release date,Software license,Open source,Programming language,Plugin support
+Appetizer,Laurent Cozic,146494,dts|2010|02|13,GPL,yes,C  wxWidgets,yes
+ASuite,SalvadorSoftware,1512,dts|2008|05|24,GPL,yes,Delphi,no
+Classic Shell,Ivo Beltchev,431,dts|2017|8|12,MIT,yes,C,yes (via shell namespace extensions inside the menu)
+LiberKey,Captel SARL,581129,dts|2015|11|30,Proprietary,no,dunno,no
+PortableAppscom Platform,Rare Ideas  LLC,1502,dts|2018|5|17,GPL,yes[1],Delphi,no
+SliderDock,Dimitri Roozendaal,121,dts|2010|10|11,Creative Commons,no,dunno,no
+Wox,Many,13524,dts|2018|2|25,MIT,yes,C#,yes

@@ -1,0 +1,23 @@
+IDE,Developer,Latest stable release version,Latest stable release date,Platform,Written in,Widget toolkit,License,Python2x support,Python3x support,Debugger,GUI builder,Integrated toolchain,Profiler,Code coverage,Autocomplete,Static program analysis,GUI based design,Class browser,Code refactoring,Version control system support,Web framework support
+Anjuta,Naba Kumar,322,20160918,Unixlike,C,GTK,yes|GPL,unk,unk,yes,unk,unk,unk,unk,unk,unk,unk,unk,unk,unk,unk
+eric,Detlev Offenbach,1910,20191003,Linux  Microsoft Windows  macOS,yes|Python,PyQt,yes|GPLv3 "or later",yes|Yes  until version 4525 and since version 550[38],yes|Yes  since version 500[39],yes|Yes  for Python 2 & 3,yes Qt Creator,unk,yes,yes,yes,yes|Multiple integrated checkers and Pylint via plugin,yes,yes,yes,yes|Subversion and Mercurial (core plugins)  git (optional plugin),yes|Django as optional plugin
+Geany,Team,1360,20190928,Windows  Linux  macOS  FreeBSD  AIX  OpenBSD  Solaris  other Unix,C,GTK,yes|GPL,unk,yes,no,unk,unk,unk,unk,yes,unk,unk,unk,unk,unk,unk
+IDLE,Guido van Rossum et al,37,20190325,Crossplatform,yes|Python,Tkinter,yes|PSFL,yes,yes,yes,yes,unk,no,no,yes,no,yes,yes,unk,no,no
+Komodo IDE,ActiveState,102,20170221,Crossplatform,unk,Mozilla platform,Proprietary,yes,yes,yes,unk,unk,unk,unk,unk,unk,unk,unk,unk,yes|Bazaar  CVS  Git  Mercurial  Perforce  SVN,unk
+KDevelop,KDE KDevelop Team,543,20191021,Crossplatform,C  C,Qt,yes|GPL,unk,yes,yes,unk,unk,unk,unk,yes,unk,unk,yes,yes,yes|Bazaar  CVS  Git  Mercurial  Perforce  SVN,unk
+MonoDevelop,Novell and the Mono community,61244,20161111,Windows  Linux  macOS  FreeBSD  OpenBSD  Solaris,C#,Gtk#,yes|LGPL,unk,unk,yes,unk,unk,unk,unk,unk,unk,unk,unk,unk,unk,unk
+NinjaIDE,Team,23,20130707,Crossplatform,yes|Python,PyQt,yes|GPL,yes (Python 27),yes,yes (with wdebugger plugin),unk,unk,unk,unk,unk,unk,unk,unk,unk,unk,unk
+PIDA,Team,062,20100804,Crossplatform,yes|Python,PyGTK,yes|GPL,unk,unk,yes (integrates with external debuggers),unk,unk,unk,unk,unk,unk,unk,unk,unk,unk,unk
+PyCharm,JetBrains,201923,20190925,Windows  Linux  macOS,Java,Swing,proprietary|Open core Full version under Apache License 20,yes,yes,yes,unk,yes,yes (full version only),yes (full version only),yes,yes PEP 8 and others,yes,yes,yes,yes,yes
+PyDev / LiClipse (plugin for Eclipse and Aptana),Appcelerator,721,20190426,Windows  Linux  macOS  FreeBSD  JVM  Solaris,unk,SWT,yes|EPL,yes,yes,yes,unk,unk,unk,unk,yes,yes,unk,yes,yes,yes,unk
+PyScripter,Kiriakos Vlahos,360,20190112,Windows,Object Pascal,JVCL,yes|MIT License,yes,yes up to v34,yes,unk,unk,unk,unk,unk,unk,unk,unk,unk,unk,unk
+Python Tools for Visual Studio,Microsoft,226[40],20170113,Windows,unk,Windows Forms,yes|Apache License 20,yes,yes,yes,unk,unk,unk,unk,unk,unk,unk,unk,unk,unk,unk
+PythonAnywhere,PythonAnywhere LLP,N/A,N/A,Webbased,yes|Python,HTML,proprietary,yes,yes,no,unk,unk,unk,unk,unk,unk,unk,unk,unk,unk,unk
+SlickEdit,SlickEdit,21,October 2016,Windows  Linux  macOS  Solaris  AIX  HPUX,C,Qt,Proprietary,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,No,Yes,No
+SourceLair,SourceLair  Limited,N/A,N/A,Webbased,yes|Python,HTML,proprietary,yes,no,no,unk,unk,unk,unk,unk,unk,unk,unk,unk,unk,unk
+Spyder,Carlos Cordoba and contributors,400,20191206,Crossplatform,yes|Python,PyQt  PySide,yes|MIT License,yes 27,yes 34  37,yes,no,yes,yes,no,yes,yes,unk,beta,planned,partial,no
+Stani's Python Editor,Stani Michiels,084h,20080214,Crossplatform,yes|Python,wxPython,yes|GPLv2,unk,unk,yes (with winpdb),unk,unk,unk,unk,unk,unk,unk,unk,unk,unk,unk
+Thonny,Aivar Annamaa and contributors,323,20191104,Windows  Linux  macOS,yes|Python,Tkinter,yes|MIT License,no,yes,yes,no,no,no,no,yes,yes,unk,yes,no,no,Flask
+Understand,SciTools,40,20150401,Windows  Linux  macOS  Solaris  other Unix,unk,HTML,Proprietary,unk,unk,no,unk,unk,unk,unk,unk,unk,unk,unk,unk,unk,unk
+Visual Studio Code,Microsoft,1392,20191016,Linux  Microsoft Windows  macOS,JavaScript,HTML,yes|MIT License,yes,yes,yes,no,unk,yes,unk,yes,unk,unk,unk,unk,yes,yes
+Wing,Wingware,713,20191114,Windows  Linux  macOS,yes|Python,Qt5 with PyQt,proprietary|Proprietary,yes,yes,yes (also remote  multithreaded  and multiprocess debugging),no,yes,no,no,yes,yes,yes,yes,yes,yes,yes

@@ -1,0 +1,20 @@
+[empty],Version,Operating systems,Office suite,Developer,License,ECMA376,ISO/IEC 295002008,Notes
+DataViz Sheet To Go,11000[12],Palm OS  Windows Mobile  Symbian (UIQ  S80),Documents To Go,DataViz,proprietary,yes,[empty],[empty]
+EIOffice Spreadsheet,2009  501272101[13],Windows  Linux,EIOffice,Evermore Software,proprietary,yes,[empty],Import only[13]
+Gnumeric,18[35],Linux  Unix  Windows,[empty],GNOME,free|GPL,yes,[empty],Incomplete support
+Gooo Calc,300[14],Windows  Linux  Unix  Mac OS X,Gooo,Free software community,free|LGPL  CDDL,yes,[empty],Import only
+Google Docs,(current)[15],Web application,Google Docs,Google,proprietary,yes,[empty],[empty]
+IBM Lotus Symphony,13[16],Windows  Mac OS X  Linux,IBM Lotus Symphony,IBM,proprietary,yes,[empty],Import only
+Kingsoft Office Spreadsheets,2009 [22] 6301733,Windows,Kingsoft Office,Kingsoft,proprietary,yes,[empty],Import only beta support
+LibreOffice,All versions,Windows  OS X  Linux  Unix  Android,[empty],The Document Foundation,free|MPL,yes,yes,[empty]
+Microsoft Office Excel,2013  2011 for Mac,Windows  Mac OS X,Microsoft Office,Microsoft,proprietary,yes,yes,[empty]
+Microsoft Office Mobile Excel Mobile,61[23],Windows Mobile,Microsoft Office Mobile,Microsoft,proprietary,yes,[empty],[empty]
+Microsoft Works Spreadsheet,9[24],Windows,Microsoft Works,Microsoft,proprietary,yes,yes,[empty]
+NeoOffice Calc,225[36],Mac OS X,NeoOffice,Patrick Luby and Edward Peterlin,free|GPL,yes,[empty],[empty]
+Numbers,'08[37],Mac OS X,iWork,Apple Inc,proprietary,yes,[empty],[empty]
+ONLYOFFICE,52[27],Web Application,ONLYOFFICE,Ascensio System SIA,Proprietary  AGPL,yes,!,[added]
+OpenOfficeorg Calc,30,Windows  Linux  Unix  Mac OS X,OpenOfficeorg,OpenOfficeorg,free|LGPL,yes,[empty],Import only
+Quattro Pro,X4 (2008)[34],Windows,WordPerfect Office,Corel,proprietary,yes,[empty],Import only
+StarOffice Calc,9[30],Windows  Linux  Solaris,StarOffice,Sun Microsystems,proprietary,yes,[empty],Import only[31]
+Thinkfree Office Calc,[33],Windows  Mac OS X  Linux,Thinkfree Office,ThinkFree Corp,proprietary,yes,[empty],[empty]
+! Version,Operating systems,Office suite,Developer,License,ECMA376,ISO/IEC 295002008,Notes,[added]

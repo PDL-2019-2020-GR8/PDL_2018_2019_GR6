@@ -1,0 +1,6 @@
+Software,Developed by,Latest stable release,Cost (USD),Contract support offered,Community website support,Open source,Multilingual,Programming language,User Interface,Notes
+Connectbeam,Connectbeam,Spotlight 31 (20086),per instance,yes,no,no,no,binary only,browser,none
+Dogear,IBM Corporation,201 (20093),per instance,yes,yes,no,yes,binary only,browser,does not run on mySQL  requires IBM DB2 91 FP5  Oracle Database 10g 10203  Microsoft SQL Server 2005 Enterprise Edition
+Jumper 20,Jumper Networks,2017 (20107),free,yes,yes,yes  GPL,yes,JavaScript & PHP,browser,runs on mySQL database for storing tag profiles Can also be configured to run on Oracle Database 10g or Microsoft SQL Server 2005 Enterprise Edition
+Knowledge Plaza,Knowledge Plaza,2318,free trial  starts at ‚¬35/month/instance,yes,yes,no,yes,JavaScript and Python (programming language),browser,SoftwareasaService
+Scuttle,Scuttle,090 (201304),free,no,no,yes  GPL,no,JavaScript & PHP,browser,still in alpha stage

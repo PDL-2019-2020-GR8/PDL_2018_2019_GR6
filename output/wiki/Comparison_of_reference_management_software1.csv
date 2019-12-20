@@ -1,0 +1,31 @@
+Software,Developer,First public release,Latest stable release date,Latest stable version,Cost (USD),Free software,License,Notes
+Bebop,ALaRI Institute,20071108,20091110,11,free,yes,BSDlic,webbased BibTeX frontend (Apache  PHP  MySQL)
+BibBase,Christian Fritz,2005,201307,v3,free,no,proprietary,centrally hosted website  intended for publication pages
+BibDesk,BibDesk developers,200204,20190603,171,free,yes,BSDlic,BibTeX frontend  repository; Cocoabased; integration with Spotlight
+Biblioscape,CG Information,1997,20150622,10036,nonfree|US$79299[1],no,proprietary,ODBC; web access in Pro ed; optional client/server; discontinued?
+BibSonomy,University of Kassel,200601,20180730,3813,free,yes,free |AGPL  GPL  LGPL[2],centrally hosted website
+Bibus,Bibus developers,20040603,20130523,151,free,yes,GPLlic,discontinued?
+Bookends,Sonny Software,1988 (Mac) / 1983 (Apple II),20190622,1324 [3],nonfree|US$5999[1],no,proprietary,Desktop & iOS synced via iCloud  integrated web search  pdf download  autocompletion  Word plugin  BibTex support  PDF annotations stored as notes
+Citavi,Swiss Academic Software,20060213,20190110,63,depends|US$70949 / Free for projects up to 100 references[4],no,proprietary,data can be saved locally on the computer  or  for team access  in the Citavi Cloud or an intranet Microsoft SQL Server;[5] search databases from interface[6]
+CiteULike,Oversity Limited,200411,Shut down in 20190330[7],[empty],free,no,proprietary |proprietary[8],centrally hosted website
+colwiz,colwiz Ltd,2011,20160509,[empty],free|Free / Online storage free up to 3 GB / Additional storage space available,no,proprietary,Desktop (Win  Mac  Linux) & Web components  iOS and Android
+EndNote,Clarivate Analytics,1988,20180109,X9,nonfree|US$29995[1],no,proprietary,The web version EndNote basic (formerly  EndNote Web) is free of charge
+F1000Workspace,F1000/Science Navigation Group,201505,Continually updated online,[empty],nonfree|Institutional access €“ varies with size of institute / Personal subscription $999/month / Free Trial Version,No,proprietary,Webbased  Microsoft Word plugin (Win  Mac)  Google Docs addon  browser extension(s) Chrome  Firefox  Safari  Opera  Internet Explorer 11  mobile app available
+JabRef,JabRef developers,20031129,20180605,431,free,yes,MIT license,Java BibTeX and BibLaTeX manager
+KBibTeX,KBibTeX developers,200508,20180621,081,free,yes,GPLlic,BibTeX frontend  using the KDE Software Compilation
+Mendeley,Elsevier,200808,2018,119,free|Free / Online storage free up to 2 GB / Additional storage space available,no,proprietary |proprietary (OS API clients exist),Account required  Desktop & Web components  Windows  Linux  macOS  iPhone & iPad  Android
+Paperpile,Stefan Washietl  Gregorgy Jordan  Andreas Gruber,2013,Continually updated online,[empty],nonfree|US$299/month for academics  999/month otherwise,no,proprietary,webapplication  integrates with Google Docs  collaboration & sharing features  currently only on Google Chrome
+Pybliographer,pybliographer developers,19981030 (02),20180403,140,free,yes,GPLlic,Python/GTK2
+Qiqqa,Qiqqa,201004,201609,v79,free|Free  Freemium and Premium versions,No,proprietary,Desktop; Tablet; Web; Intranet
+ReadCube Papers (now Papers),ReadCube,201110,20190118,v4016 (Web App),nonfree|US$ 3/month for students  5/month academics,no,proprietary,Webbased  MacOS  Windows  iOS and Android Microsoft Word plugin browser extension (Chrome  Firefox  Edge)
+refbase,refbase developers,20030603,20140228,096,free,yes,GPLlic,webbased for institutional repositories/selfarchiving[9]
+RefDB,refdb developers,20010425,20071105,099,free,yes,GPLlic,networktransparent; XML/SGML bibliographies
+Reference Manager,Thomson Reuters,1984,2010,1203,nonfree|Not for sale anymore  sales ceased December 31  2015,no,proprietary,network version; builtin web publishing tool; discontinued
+Referencer,Referencer developers,20080315,20140227,122,free,yes,GPLlic,BibTeX frontend
+RefWorks,Ex Libris / ProQuest,2001,2018,3,nonfree|Institutional subscription,no,proprietary,webbased  browseraccessed  Word & Google Docs
+RefME,RefME,2014,Shut down in 2017,[empty],free,no,proprietary,Web  iOS and Android; Chrome and Safari Extensions available; discontinued
+SciRef,Scientific Programs,2012,20150726,15,depends|US$3890 / Free trial version,no,proprietary,[empty]
+Sente,Third Street Software  Inc,2004,Shut down in 2017,679,depends|US$60€“80[1] / Free for libraries up to 100 refs,no,proprietary,Desktop and iPad  centralized backup/synching; discontinued
+Wikindx,Mark Grimshaw,200402,20190820,582,free,yes,CCBYNCSA,webbased
+WizFolio,WizPatent,200806,Shut down in 2017,Avatara,depends|US$25 / Free Basic version,no,proprietary,centrally hosted website; discontinued
+Zotero,Roy Rosenzweig Center for History and New Media at GMU,2006,20190614,5067 [10],free|Free / Online storage free up to 300 MB / Additional storage space available,yes,free |AGPL,Multiplatform desktop version with connectors for Firefox  Chrome and Safari Webbased access to reference library also available

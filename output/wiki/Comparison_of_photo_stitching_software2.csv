@@ -1,0 +1,38 @@
+Name,HDR input (EXR  HDR  Logluv  etc),Merging to HDR from LDR images,HDR output (EXR  HDR  Logluv  etc),Tonemapping,Exposure fusion,Notes
+Panoweaver Standard / Professional[4],yes,yes,yes,yes,yes,[empty]
+i2Align Quickage Express / Pro[5],no,yes*,yes*,no,no,) Pro version only
+Pixtra PanoStitcher,no,no,no,no,no,[empty]
+Pixtra OmniStitcher,no,no,no,no,no,[empty]
+QuickPHOTO[6],no,no,no,no,yes,[empty]
+PhotoFit Harmony / Premium,no,no,no,no,no,[empty]
+PanoramaPlus X4,no,no,no,no,no,[empty]
+PanoramaBuilder 70 / PanoramaBuilder 70 Pro,no,no,no,no,no,[empty]
+360 Panorama Professional,no,no,no,no,no,[empty]
+VRstitcher Fisheye Pro,no,no,no,no,no,[empty]
+COOL 360,no,no,no,no,no,[empty]
+The Panorama Factory v5,no,no,no,no,no,[added]
+PixMaker Lite / Home / Business,no,no,no,no,no,[empty]
+PTAssembler,no,no,no,no,yes,Exposure fusion with TuFuse or enfuse Automatic detection of image stacks
+PTgui / PTgui Pro,yes*,yes*,yes*,yes*,yes*,Exposure fusion with enfuse or TuFuse *) Pro version only
+Autopano Pro / Giga / Server,yes,yes,yes,yes,yes,Ceased trading September 2018
+Autostitch,no,no,no,no,no,[empty]
+Calico Panorama,no,no,no,no,no,[empty]
+Hugin,yes,yes,yes,no,yes,Exposure fusion with enfuse  automatic detection of image stacks
+3DVista Stitcher 30,no,no,no,no,no,[empty]
+D Joiner,no,no,no,no,no,[empty]
+Panorama Maker 6,no,no,no,no,no,[empty]
+Photovista Panorama,no,no,no,no,no,[empty]
+PanoramaStudio,no,no,no,no,no,[empty]
+Stitcher Unlimited 2009[7],yes,yes,yes,yes,no,[empty]
+ADG Panorama Tools / Pro,no,no,no,no,no,[empty]
+Panorama Composer 3,no,no,no,no,no,[empty]
+Image Composite Editor,no,no,no,no,no,Supports 16bit camera raw input via WIC plugins
+Panorama Perfect,no,no,no,no,no,[empty]
+Photoshop,yes,yes,yes,yes,no,[empty]
+AIPR Lite 1,no,no,no,yes*,no,(*) color mapping around the seams allows to preserve the original photometric properties of the images
+Gigapan Stitch 10,no,no,no,no,no,[empty]
+PanoramaMaker,no,no,no,no,no,[empty]
+Panorama Stitcher,yes,no,no,no,no,[empty]
+SharpStitch,yes,no,no,no,no,[empty]
+Pano2VR / Pano2VR pro,yes,no,yes,no,no,[empty]
+Name,HDR input (EXR  HDR  Logluv  etc),Merging to HDR from LDR images,HDR output (EXR  HDR  Logluv  etc),Tonemapping,Exposure fusion,Notes

@@ -1,0 +1,18 @@
+[empty],MPU,MT32,GM,GS,XG level 1,XG level 2,XG level 3,GM level 2,XGlite
+Entry date,1984[1][2],1987,1991,1991,1994,1997,1998,1999,2002
+Organization,Roland,JMSC (AMEI) MMA,Roland,Yamaha,MMA,Yamaha,[added],[added],[added]
+Minimum equipment requirements,[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Simultaneous melodic voices,[empty],8 combined (up to 32 partials),16,16,32 combined,64 combined,128 combined,16,32 combined
+Simultaneous percussion voices,[empty],8,8,16,[added],[added],[added],[added],[added]
+MIDI melodic channels,[empty],8,15,15[3],16 combined,32 combined (on 2 ports),64 combined (on 4 ports),14,16 combined
+Rhythm/percussion channels,[empty],1,1 (#10),1,2 (#10 & #11),[added],[added],[added],[added]
+Channel recommendations,[empty],[empty],10 drums[4],[empty],1 melody; #2 melody (duet); #3 bass; #4 pad; #5 riff; #10 drums[5],[empty],[empty],[added],[added]
+Sounds banks available,[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Melodic instruments,[empty],128,128,226,480,1074,1149,256,360
+Drum kits,[empty],1,1,8  1 SFX kit,9  2 SFX kits,34  2 SFX kits,35  2 SFX kits,9,12 kits
+Drum sounds per kit,[empty],30,47,61,72,61,53,[added],[added]
+Controls available,[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Special CC[6],[empty],2[7],6 (MT324),[empty],[empty],[empty],[empty],6 (GM),[empty]
+Parametric effect CC[8],[empty],4[7],5,16 (GM11),51 (GM46),12 (GM7),[empty],[added],[added]
+RPNs,[empty],0[7],5[9],[empty],[empty],[empty],[empty],6 (GM1) [9],[empty]
+SysEx messages,[empty],[empty],2,[empty],[empty],[empty],[empty],14,[empty]

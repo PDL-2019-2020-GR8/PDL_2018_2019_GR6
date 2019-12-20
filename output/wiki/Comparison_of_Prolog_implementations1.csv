@@ -1,0 +1,22 @@
+Platform,Features,Toolkit,| Prolog Mechanics
+Name,OS,Licence,Native Graphics
+BProlog,Unix  Windows  Mac OS X,Free for noncommercial uses,[empty]
+JIProlog,JVM  Android,Shareware/Commercial and AGPL,yes
+Ciao,Unix  Windows  Mac OS X,GPL  LGPL,[empty]
+DOSPROLOG,MSDOS,Shareware,yes
+ECLiPSe,Linux  Windows  Solaris  macOS,MPL,[empty]
+GNU Prolog,Unix  Windows  Mac OS X,GPL  LGPL,[empty]
+Jekejeke Prolog,JVM  Android,Distribution Evaluation,yes
+JLog,JVM,GPL,yes
+JScriptLog,Web Browser,GPL,[empty]
+jTrolog,JVM,LGPL,[empty]
+LPAPROLOG,Windows,Commercial,yes
+Open Prolog,Mac OS,Freeware,[empty]
+Poplog Prolog,Linux (32 and 64bit)  Unix  Windows,Free Open Source,Only through POP11  on Linux
+SICStus Prolog,Unix  Linux  Windows  macOS,Commercial,yes
+Strawberry Prolog,Windows  Unix,Freeware  Commercial,yes
+SWIProlog,Unix  Linux  Windows  macOS,BSD License,yes
+tuProlog,JVM  Android,LGPL,yes
+Visual Prolog,Windows,Freeware  Commercial,yes
+XSB Prolog,Linux  Windows  Solaris  macOS,LGPL,[empty]
+YAPProlog,Linux  Windows  Solaris  Mac OS X  HPUX,GPL or Artistic (user choice),[empty]

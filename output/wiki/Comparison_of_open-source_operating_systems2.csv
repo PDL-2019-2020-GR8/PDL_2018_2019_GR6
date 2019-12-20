@@ -1,0 +1,33 @@
+Name,x86  i386  IA32,x86 SMP,Xen,IA64,x8664,PowerPC,PowerPC SMP,SPARC32,SPARC SMP,Alpha,MIPS,ARM,XScale,M68k,PARISC,OpenRISC,others,hosted mode
+Linux,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,FRV  Cell  ETRAX CRIS  M32R  Xtensa  h8  s390  SuperH,UML  coLinux  MkLinux  Itanium LinuxonLinux  wombat
+FreeBSD[3],yes,yes,yes,yes,yes,yes,yes,no,yes,no,yes,yes,yes,no,no,no,PC98,[empty]
+OpenBSD[4],yes,yes,no,no,yes,yes,yes,no,yes,yes,yes,yes,yes,no,yes,no,SuperH ],[empty]
+NetBSD[5],yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,SuperH  ns32k  VAX  hppa  M68010  mipseb  mipsel  sh3eb  sh3el  sparc64,[empty]
+DragonFly BSD[6],no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,[empty],vkernel
+OpenSolaris[7] illumos,yes,yes,yes,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,[empty],[empty]
+AuroraUX[7],yes,yes,yes,no,yes,yesr|group=Note|b1,no,yes,yes,no,yesr|group=Note|b1,yes,no,no,no,no,[empty],[added]
+Darwin  OpenDarwin[8],yes,yes,no,no,yes,yes,yes,no,no,no,no,yes,no,yes,no,no,[empty],L4/Darwin
+MINIX[9],yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,[empty],[empty]
+FreeDOS,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,[empty],[empty]
+Genode,yes,yes,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,RISCV,Linux
+Haiku,yes,yes,no,no,yes,no,no,no,no,no,no,nor|group=Note|b1[10],no,no,no,no,[empty],[empty]
+KolibriOS,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,[empty],[empty]
+MenuetOS,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,[empty],[empty]
+GNU,yes,yesr|group=Note|b4,yesr|group=Note|b4,yesr|group=Note|b4,yesr|group=Note|b4,yesr|group=Note|b4,yesr|group=Note|b4,yesr|group=Note|b4,yesr|group=Note|b4,yesr|group=Note|b4,yesr|group=Note|b4,yesr|group=Note|b4,yesr|group=Note|b4,yesr|group=Note|b4,yesr|group=Note|b4,yesr|group=Note|b4,FRV  Cell  ETRAX CRIS  M32R  Xtensa  h8  s390  SuperHr|group=Note|b4,UML  Itanium LinuxonLinuxr|group=Note|b5
+ReactOS,yes,yes,nor|group=Note|b1,no,yes,nor|group=Note|b1,nor|group=Note|b1,no,no,no,no,yes,no,no,no,no,[empty],[empty]
+RISC OS,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,[empty],[empty]
+L4  Pistachio,yes,no,no,yesr|group=Note|b2,yesr|group=Note|b2,yesr|group=Note|b2,no,no,no,yesr|group=Note|b2,yesr|group=Note|b2,yes,no,no,no,no,[empty],[empty]
+Plan 9,yes,yes,yes,no,yes,yes,yes,yesr|group=Note|b3,yesr|group=Note|b3,yes,yes,yes,yes,yesr|group=Note|b3,no,no,See[11][12],lguest  vx32
+AROS,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,yes,no,no,[empty],i386linux  i386freebsd
+Syllable,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,[empty],[empty]
+Inferno,yes,dunno,no,no,dunno,yes,dunno,yes,dunno,no,yes,yes,yes,yesr|group=Note|b3,no,no,AMD Am29000 r|group=Note|b3 Texas Instruments OMAP,Microsoft Windows  Linux  FreeBSD  Plan 9  OS X  Solaris  Irix  UnixWare r|group=Note|b3 HPUX r|group=Note|b3 Internet Explorer
+FreeRTOS,yes,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,AVR  PIC  MSP430  HCS12  8052  MicroBlaze  CortexM3  H8S,[empty]
+eCos,yes,yes,no,no,no,yes,no,yes,no,no,yes,yes,yes,yes,no,yes,CalmRISC  ColdFire  FRV  h8  Matsushita AM3x  Nios II  NEC V8xx  SuperH,Microsoft Windows  Linux
+RTEMS,yes,no,Xen,no,no,yes,no,yes,no,no,yes,yes,yes,yes,yes,yes,Blackfin  Nios II  Coldfire  Texas Instruments C3x/C4x  SuperH  H8S,Linux  Solaris  Cygwin  FreeBSD  multiple CPU simulators
+HelenOS,yes,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,[empty],[empty]
+E/OS,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,[empty],[empty]
+TempleOS,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,[empty],QEMU  VirtualBox  etc
+[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+K42,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+UnixLite,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Name,x86  i386  IA32,x86 SMP,Xen,IA64,x8664,PowerPC,PowerPC SMP,SPARC32,SPARC SMP,Alpha,MIPS,ARM,XScale,M68k,PARISC,OpenRISC,other,hosted mode

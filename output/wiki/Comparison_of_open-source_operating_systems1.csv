@@ -1,0 +1,35 @@
+Name,License,Kernel type,Kernel programming language,Kernel thread support,OS family,Oldest nonEOL versionr|group=Note|a1,Forks
+Linux,free|GPL/LGPL,Monolithic with modules,C,11,Unixlike,316,elks
+FreeBSD,free|BSD; GPL  LGPL software usually included,Monolithic with modules,C,11,BSD  Unixlike,11,DragonFly BSD
+OpenBSD,free|BSD,Monolithic,C,11,BSD  Unixlike,64,MirOS
+NetBSD,free|BSD,Monolithic with modules,C,11,BSD  Unixlike,70,OpenBSD
+DragonFly BSD,free|BSD,Hybrid,C,11,BSD  Unixlike,no,[empty]
+OpenSolaris  illumos,free|CDDL,Monolithic with modules,C,11  MN,Unix,no,[empty]
+AuroraUX,free|BSD/CDDL,Monolithic with modules,C  Ada,11  MN,Unix,no,[empty]
+Darwin  OpenDarwin,free|APSL,Hybrid,C  Cr|group=Note|a3,11,BSD  Unix  Unixlike  OS X,no,[empty]
+MINIX,free|BSD,Microkernel,C,[empty],Unixlike,no,[empty]
+RedoxOS,free|MIT,Microkernel,Rust,[empty],Unixlike,no,[empty]
+FreeRTOS,free|modified GPL,RTOS,C,[empty],RTOS,no,[empty]
+FreeDOS,free|GPL,Monolithic,C,[empty],DOS,11,[empty]
+Genode,free|AGPL,Microkernel,C,11,Genode,[empty],[empty]
+Haiku,free|MIT,Hybrid,C  C,[empty],BeOS,no,TiltOS
+House,free|BSD,[empty],Haskell,[empty],own/original,no,[empty]
+KolibriOS,free|GPL,Monolithic,ASM,[empty],MenuetOS,no,[empty]
+MenuetOS,partial|Menuet 64  commerce excluded,Monolithic,ASM,[empty],own/original,no,KolibriOS
+GNU,free|GPL,URL|https//wwwgnuorg/software/hurd/faq/multiserver_microkernelhtml|Multiserver Microkernel (Hurd kernel) or Monolithic (Linuxlibre kernel  fork of Linux kernel  and other kernels which are not part of the GNU Project),C,11,Unixlike,24 on Linuxlibre kernel (not on Hurd kernel),Linux
+ReactOS,free|GPL  LGPL,Hybrid,C  C,[empty],Windowslike,no,[empty]
+RISC OS,free|Apache 20,Monolithic (with cooperative multitaslking),ARM assembly,na,RISC OS,no,RISC OS 6
+L4  Fiasco  Pistachio,free|Some GPL  some BSD,Microkernel,C,[empty],L4,no,[empty]
+Plan 9,free|LPL,Hybrid,C,11  1M Cothread style,own  Unix informed,no,Inferno  Plan B
+AROS,free|APL,Exokernel,C,[empty],AmigaOS,no,[empty]
+Syllable,free|GPL,Monolithic with modules,C  C,11,Unixlike  BeOS  AmigaOS  POSIX,no,[empty]
+Inferno,free|GPL  LGPL; MIT,[empty],C,[empty],Plan 9,no,OzInferno
+NuttX,free|BSD,RTOS,C,[empty],RTOS,no,[empty]
+eCos,free|modified GPL  eCos,RTOS,C  C,[empty],RTOS,no,[empty]
+RTEMS,free|modified GPL  BSD  Stanford,RTOS,C and ASM with native support for other languages including C and Ada,POSIX  RTEID/ORKID  uITRON,RTOS,471,[empty]
+HelenOS,free|BSD,Microkernel,C,MN,own/original,no,[empty]
+E/OS,free|GPLv2,Monolithic,ASM  C,11,BeOS  Unixlike,no,[empty]
+TempleOS,free|public domain,Monolithic,HolyC  C  C,[empty],Commodore 64like,no,
+K42,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UnixLite,[empty],[empty],[empty],[empty],[empty],[empty],>
+Name,License,Kernel type,Kernel programming language,Kernel thread support,OS family,Oldest nonEOL version,Forks

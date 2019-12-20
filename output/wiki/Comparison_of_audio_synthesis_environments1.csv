@@ -1,0 +1,12 @@
+Name,Creator,Primary Purpose(s),First release date,Most recent update,Most recent version,Cost,License,Main user interface type,Development status
+Bidule,Plogue,Realtime synthesis  live coding  algorithmic composition  acoustic research  allpurpose programming language,2002,201706,09757,nonfree,Proprietary,Graphical,Mature
+ChucK,Ge Wang and Perry Cook,Realtime synthesis  live coding  pedagogy  acoustic research  algorithmic composition,2004,20180209,v1400,free,GPL,Document,Immature
+Csound,Barry Vercoe,Realtime performance  sound synthesis  algorithmic composition  acoustic research,1986,20190712,v6130,free,LGPL,Document  graphical,Mature
+Impromptu,Andrew Sorensen,Live coding  algorithmic composition  hardware control  realtime synthesis  2d/3d graphics programming,2006,201010,v25,free,Proprietary,Document,Stable
+Kyma,Carla Scaletti,Realtime audio synthesis  hardware control  acoustic research  algorithmic composition  data sonification  liveperformance multieffects processing,1986,2018903,v723,nonfree,Proprietary,Graphical,Mature
+Max/MSP,Miller Puckette,Realtime audio  video synthesis  hardware control  GUI design,1980s (mid),20190924,v810,nonfree,Proprietary,Graphical,Mature
+Pure Data,Miller Puckette,Realtime synthesis  hardware control  acoustic research,1990s,20190827,v050,free,BSDlike,Graphical,Mature
+Reaktor,Native Instruments,Realtime synthesis  hardware control  GUI design,1996,20170816,62,nonfree,Proprietary,Graphical,Mature
+SuperCollider,James McCartney,Realtime synthesis  live coding  algorithmic composition  acoustic research  allpurpose programming language,199603,20190831,v3103,free,GPL,Document,Mature
+Sporth,Paul Batchelor,Sound design  algorithmic composition  live coding  embedded systems,2015,201605,,free,MIT,Document,Immature
+VCV Rack,Andrew Belt,Realtime audio synthesis,201709,20190929,115,free,BSDlike,Graphical,Immature

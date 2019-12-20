@@ -1,0 +1,17 @@
+Name,Bootable,Encryption Type,Certification,Managed,Interface,Max Capacity,Included Software,Other Features
+datAshur PRO,yes,AES 256bit XTS Hardware Encryption,FIPS 1402 Level 3,No,USB 30,64GB,[empty],OS & Platform independent software free
+diskAshur PRO²,Yes,AES 256bit XTS Hardware Encryption,FIPS 1402[1],No,USB 31,5TB,[empty],OS & Platform independent software free
+SafeStick SuperSonic,no,AES 256bit CBC Hardware Encryption,CESG CCTM  FIPS 1402[2],Optional (with SafeConsole),USB 20,8GB,[empty],High transfer speeds  Inactivity lock
+IronKey S100,no,AES 128bit CBC Hardware Encryption,FIPS 1402 Level 2,Enterprise Model only,USB 20,16GB,Identity Manager; Secure Sessions,[empty]
+IronKey S200,no,AES 256bit CBC Hardware Encryption,FIPS 1402 Level 3,Enterprise Model only,USB 20,16GB,Identity Manager; Secure Sessions,[empty]
+IronKey D200,no,AES 256bit CBC Hardware Encryption,FIPS 1402 Level 3,Enterprise Model only,USB 20,32GB,Identity Manager; Secure Sessions,[empty]
+CryptX2,yes,AES 256bit CBC Hardware Encryption,no,no,USB 20,64GB / Future Support for 4TB,No Software Required,ID Verify  Panic Mode  Upgradeable Firmware
+DataTraveler 5000,no,AES 256bit XTS Hardware Encryption,FIPS 1402 Level 2[1],no,USB 20,16GB,[empty],Water resistant
+DataTraveler Locker,no,Hardware Encryption,no,no,USB 20,32GB,no,[empty]
+DataTraveler Vault,no,AES 256bit Hardware Encryption,no,no,USB 20,32GB,DTVaultLock,Second unsecured partition
+DataTraveler Vault €“ Privacy Edition,no,AES 256bit Hardware Encryption,no,[empty],USB 20,32GB,[empty],Waterproof to 4'
+JumpDrive SecureII Plus,no,Hardware,FIPS 1402 ?,[empty],USB 20,[empty],[empty],[empty]
+IronClad,yes,AES 256bit CBC Hardware Encryption,FIPS 1402 Level 3,Yes,USB 20,16GB,[empty],[empty]
+Cruzer Enterprise,no,Hardware,FIPS 1402 ?,yes,USB 20,[empty],[empty],[empty]
+Store 'n' Go Corporate,no,Hardware,FIPS 1402 ?,[empty],USB 20,[empty],[empty],[empty]
+Name,Bootable,Encryption Type,Certification,Managed,Interface,Max Capacity,Included Software,Other Features

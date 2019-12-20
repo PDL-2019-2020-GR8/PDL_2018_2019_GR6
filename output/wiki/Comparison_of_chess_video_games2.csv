@@ -1,0 +1,27 @@
+[empty],included chess engine(s),Can open/save PGN,Can import UCI[4] engines,Levels,3D or Animated pieces,Variants,Multiplayer
+| Aquarium,Crafty  Delfi  Rybka  Spike,yes,yes,multivariation[5]  uci_elo[6],no,Chess960,no
+| Battle Chess,n/a,no,no,[empty],yes,no,[empty]
+| Battle Chess Game of Kings,n/a,no,no,[empty],yes,no,[empty]
+| Battle vs Chess,Fritz,no,no,levels 19,yes,[empty],[empty]
+| Chessaria The Tactical Adventure,Chessaria AICE,no,no,[empty],yes,yes,yes
+| Chess Assistant,Dragon  Rybka,yes,yes,multivariation  uci_elo[7],no,Chess960,no
+| Chessbase,Fritz,yes,yes,uci_elo[8] for analysis but no timed games,yes,Chess960,no
+| Chessmaster,The King,yes,no,Personalities with Elo ratings,yes,no,no longer supported
+| Chess Titans,n/a,no,no,yes,no,no,[empty]
+| ChessV,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+| Fritz,Rybka  earlier Pandix or Fritz,yes,yes,Friend Mode[9]  Handicap and Fun[10]  uci_elo[11],yes,Chess960,[empty]
+| Fritz and Chesster,Koenig Schwarz,[empty],[empty],[empty],[empty],[empty],[added]
+| GNOME Chess,[empty],[empty],[empty],[empty],[empty],[empty],[added]
+| GNU Chess,GNU chess,yes,no,[empty],no,Knightmate  Capablanca  Gothic  Shatranj  Courier  Cylinder  Berolina,no
+| Hiarcs Chess Explorer,Hiarcs,yes,yes,uci_elo[12],no,no,no
+| Chessbase Houdini,Houdini,yes,yes,Friend Mode[13]  Handicap and Fun[14]  uci_elo[15],yes,Chess960,yes
+| Chessbase Junior,Junior,yes,yes,Friend Mode  Handicap and Fun  uci_elo[16],yes,Chess960,yes
+| Chessbase Komodo,Komodo,yes,yes,Friend Mode[17]  Handicap and Fun[18]  uci_elo[19],yes,Chess960,yes
+| Playchess,none,yes,no,Other players have Elo rating,no,Chess960,yes
+|Play Magnus,Glaurung,yes,no,can choose Magnus' age,no,no,no
+| Pure Chess,n/a,no,no,[empty],yes,[empty],[empty]
+| pyChess,Pychess engine  Stockfish,yes,yes,[empty],[empty],[empty],yes
+| Chessbase Rybka,Rybka,yes,yes,Friend Mode  Handicap and Fun  uci_elo[20],yes,Chess960,yes
+| Shredder UCI GUI,Shredder,yes,yes,uci_elo[21],no,Chess960,no
+| Wii Chess,Loop Express,no,no,[empty],[empty],[empty],[empty]
+| Winboard/xBoard,Crafty,yes,via UCI2WB,no,no,Knightmate  Capablanca  Gothic  Shatranj  Courier  Cylinder  Berolina,yes

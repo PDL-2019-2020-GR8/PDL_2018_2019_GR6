@@ -1,0 +1,28 @@
+Name,Creator,FOSS,Free,First public release date,Year of latest stable version,Windows,Macintosh,Linux,Other platforms,Max Supported File Size
+Beyond Compare,Scooter Software[1],no; Proprietary,no,1996,2019122 (v433),Yes,Yes,Yes,[empty],> 2GB (64 bits)
+Compare,Coode Software[2],no; Proprietary,no,2010,20141112 (22120),Yes[3],No,No,[empty],[empty]
+diff  diff3,AT&T,yes; BSD 3clause  BSD 4clause  CDDL  GPL  Proprietary,yes,1974,[empty],Yes,Yes (Mac OS X),Yes,ported to most platforms as part of SCCS,> 2GB but less than 64 bits
+Eclipse (compare),[empty],yes; Eclipse Public License,yes,20040721,20160928 (461 (Neon1)),Yes,Yes,Yes,Anything with Java,[empty]
+Ediff,Michael Kifer[4],yes; GPL,yes,1994,2814,Yes[5],Yes (Mac OS X),Yes,Anything with Emacs and diff,[empty]
+ExamDiff Pro,PrestoSoft[6],no; Proprietary,no,1998,20170923 (v 9016),Yes (Win98 and up),No,No,[empty],[empty]
+Far Manager (compare),Eugene Roshal (original); FAR Group,yes; Revised BSD license,yes,1996,20170807 (v30 build 5000),Yes,No,No,[empty],[empty]
+fc,Microsoft[7],no; Proprietary,yes; Part of OS,1987,[empty],Yes (DOS),No,No,[empty],[empty]
+FileMerge (aka opendiff),Apple Inc,no; Proprietary,yes; (part of Apple Developer Tools),1993 (part of NEXTSTEP 32[8]),2014 (v28),No,Yes (Mac OS X),No,[empty],[empty]
+FreeFileSync,Zenju,yes; GPLv3,yes,2008,20190916 (v1016),Yes,Yes,Yes,[empty],[empty]
+Guiffy SureMerge,Guiffy Software[9],no; Proprietary,no,2000,20191001 (v1111),Yes,Yes,Yes,Anything with Java,> 2GB
+IntelliJ IDEA (compare),JetBrains[10],no; Proprietary,no,2001,20190820 (201921),Yes,Yes,Yes,[empty],[empty]
+jEdit JDiff plugin,Various[11],yes; GPL,yes,1998,20121004 (330),Yes,Yes,Yes,Anything with Java,[empty]
+Kompare,Otto Bruggeman[12],yes; GPLv2,yes,[empty],[empty],Yes [13],Yes (Mac OS X),Yes,[empty],[empty]
+Lazarus Diff,Lazarus (software),yes; GPL,yes,2000,20161113 (162),Yes,Yes,Yes,FreeBSD,[empty]
+Meld,Stephen Kennedy[14],yes; GPLv2,yes,2002,20190331 (3201),Yes[15],Yes,Yes,BSD  Solaris,[empty]
+Notepad (compare),Various,yes; GPLv3,yes,2009,20150106 (1566),Yes[16],No,No,[empty],[empty]
+Perforce P4Merge,Perforce,no; Proprietary,yes,[empty],2019 (20191/1815056),Yes,Yes,Yes,Sun Solaris,[empty]
+Pretty Diff,Austin Cheney[17],yes; MITcompatible,yes,2009,20161111 (2114),Yes (Web),Yes (Web),Yes (Web),Nodejs,[empty]
+Tkdiff,Tkdiff[18],yes; GPLv2,yes,2003 (or before),20111127 (v42),Yes (Tcl),Yes (Tcl),Yes (Tcl),Anything with Tcl,[empty]
+Total Commander (compare),Christian Ghisler[19],no; Proprietary,no,[empty],20161123 (v900),Yes,No,No,[empty],[empty]
+twdiff (TextWrangler Diff Helper),Bare Bones Software  Inc[20],no; Proprietary,yes; with TextWrangler,[empty],2012 (10 (v22)),No,Yes,No,No,[empty]
+vimdiff,Bram Moolenaar et al,yes; GPLcompatible [21],yes,2001,20161003 (v800022),Yes,Yes,Yes,Anything with vim,[empty]
+WinDiff,Microsoft[22],no; Proprietary,yes; Part of Platform SDK,1992,20020816 143614 (v50021956601),Yes,No,No,No,[empty]
+WinMerge,Dean Grimm[23],yes; GPL,yes,1998,20181122 (v2180),Yes (Win95 and up),Yes (in wine[24]),Yes (in wine[24]),[empty],2 GB
+UCC,USC CSSE[25],no; USCCSSE Limited Public License,yes,2009,20151230 (201512),Yes,Yes,Yes 269,Sun Solaris,[empty]
+Name,Creator,FOSS,Free,First public release date,Year of latest stable version,Windows,Macintosh,Linux,Other platforms,Max Supported File Size

@@ -1,0 +1,27 @@
+Name,Show inline changes,Directory comparison,Binary comparison,Moved lines,3way comparison,Merge,Structured comparison[26],Manual compare alignment,Image Compare
+Beyond Compare,Yes,Yes,Yes,No,Yes (Files and Folders),Yes (Pro only),[empty],Yes,Yes
+Compare,Yes,Yes,[empty],[empty],Yes,Yes,Yes (C/C C# Java Javascript CSS3),[empty],[empty]
+diff,No,Yes,partly,No,No,No,[empty],[empty],[empty]
+diff3,No,No,[empty],[empty],Yes (nonoptional),[empty],[empty],[empty],[empty]
+Eclipse (compare),Yes,[empty],[empty],[empty],No (only ancestor),Yes,[empty],No,[empty]
+Ediff,Yes,Yes,Yes,[empty],Yes,Yes,[empty],[empty],[empty]
+ExamDiff Pro,Yes,Yes,Yes,Yes[27],Yes (ExamDiff Pro Master only)[28],Yes,[empty],Yes |manual synchronization,[empty]
+Far Manager (compare),Yes (Via plugin) [29],Yes,Yes,Yes (Via plugin) [29],No,No,[empty],[empty],[empty]
+fc,No,No,Yes,[empty],No,No,[empty],[empty],[empty]
+FileMerge (aka opendiff),Yes,Yes,Yes,[empty],Yes (optional ancestor),Yes,[empty],[empty],[empty]
+Guiffy SureMerge,Yes,Yes,Yes,[empty],Yes,Yes,[empty],Yes,Yes
+IntelliJ IDEA (compare),Yes,Yes,Yes,No,Yes,Yes,[empty],Yes,Yes
+jEdit JDiff plugin,Yes,[empty],[empty],[empty],No,Yes,[empty],[empty],[empty]
+Kompare,[empty],Yes,No,[empty],No,Yes,[empty],[empty],[empty]
+Lazarus Diff,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Meld,Yes,Yes,No,Yes,Yes,Yes,[empty],Yes| line alignment  unlink scroll,[empty]
+Notepad (compare),Yes,No,No,Yes,No,No,No,[empty],[added]
+Perforce P4Merge,Yes,No,No,[empty],Yes,Yes,[empty],[empty],Yes
+Pretty Diff,Yes,Yes,No,No,No,No,Yes,No,[empty]
+Tkdiff,Yes,No,No,No,No,No,[empty],[empty],[empty]
+Total Commander (compare),Yes,Yes,Yes,No,No,Yes,No,Yes| resync comparison,No
+vimdiff,Yes,Yes (via DirDiff plugin),[empty],[empty],Yes,Yes,[empty],[empty],[empty]
+WinDiff,Yes,Yes,Yes,Yes,No,No,[empty],[empty],[empty]
+WinMerge,Yes,Yes,No,Yes,Yes,Yes,[empty],No,Yes
+UCC,Yes,Yes,Yes,Yes,No,Yes,[empty],[empty],[empty]
+Name,Show inline changes,Directory comparison,Binary comparison,Moved lines,3way comparison,Merge,Structured comparison[26],Manual compare alignment,Image compare

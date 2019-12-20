@@ -1,0 +1,8 @@
+[empty],Trident,Gecko,WebKit,Blink,Presto,KHTML,Prince XML,Amaya,Batik,Renesis,LeonLabs
+SVG,11,Tiny (SVGT),rowspan="3" partial|50[1],rowspan="3" partial[2],rowspan="3" partial,rowspan="3" partial,yes|10,rowspan="3" partial#tagref|KHTML does not have any native image support This is by design in Konqueror  multimedia files are handled by KParts The KDE project also developed an SVG plugin for Konqueror  known as KSVG[3]|group=note,rowspan="3" partial,rowspan="3" partial,rowspan="3" partial|Mostly
+Basic (SVGB),rowspan="2" partial|Mostly,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Full,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+12,Tiny,rowspan="4" no,rowspan="4" no,rowspan="4" no,rowspan="4" no,partial|21,rowspan="4" no,dunno,dunno,partial,partial
+Full,rowspan="3" no,rowspan="3" no,rowspan="3" no,no,rowspan="3" no,rowspan="3" no,[added],[added],[added],[added],[added]
+sXBL,yes,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+XBL 20,no,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]

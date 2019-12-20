@@ -1,0 +1,25 @@
+IRC daemon,Connectflood detection,Channel flood controls basic / advanced,Join throttling,Spamfilter regexp / glob,Channel censor IRCd config / chanopcontrolled,Variable perchannel banlist size,Timed bans,DNSBL,CGIIRC/WEBIRC host spoofing
+Bahamut,yes,partial| Yes / No ,yes,no| No / No ,no| No / No ,no,no,no,yes
+bIRCd,no,no| No / No ,no,no| No / No ,no| No / No ,no,no,no,no
+Charybdis,yes,no| No / No ,yes,no| No / No ,no| No / No ,yes,yes Citation needed|date=September 2010,yes,yes
+ConferenceRoom,yes,yes| Yes / Yes ,yes,partial| No / Yes ,partial| Partial / No ,no,partial,yes,no
+InspIRCd,yes,yes| Yes / Yes ,yes,yes| Yes / Yes ,yes| Yes / Yes ,yes,yes,yes,yes
+IRCD,no,no,no,no,no,no,no,no,no
+IRCDHybrid,yes,no| No / No ,no,no| No / No ,no| No / No ,no,no,no,yes
+ircdratbox,yes,no| No / No ,no,no| No / No ,no| No / No ,no,no,no,yes
+ircu,yes,unk,unk,unk,unk,unk,unk,no,no
+ithildin,yes2 Module,no| No / No ,no,no| No / No ,no| No / No ,no,no,unk,unk
+miniircd,no,no,no,no,no,no,no,no,no
+Nefarious IRCu,yes,no| No / No ,no,partial| Yes / No ,no| No / No ,no,no,yes,yes
+ngIRCd,no,no| No / No ,no,no| No / No ,no| No / No ,no,no,no,yes
+OfficeIRC Server,yes,yes,yes,yes,yes,yes,yes,yes,unk
+Oragono,yes,partial| Yes / No,unk,no,no,no,unk,no,yes
+PleXusIRCd,yes,no| No / No ,no,no| No / No ,no| No / No ,no,no,unk,unk
+pureIRCd,unk,unk,unk,unk,unk,unk,unk,unk,unk
+RockIRCd,no,partial| Yes / No ,no,no,no,no,no,no,unk
+RubIRCd,no,no,no,no,no,no,no,no,no
+ShadowIRCd,yes,no| No / No ,yes,no| No / No ,no| No / No ,yes,yes,yes,yes
+solidircd,yes,partial| Yes / No ,yes,no| No / No ,no| No / No ,no,no,no,unk
+Synchronet IRCd,yes,partial| Yes / No ,yes,no| No / No ,no| No / No ,no| No / No ,no,no,unk
+UnrealIRCd,yes,yes,yes,yes,partial|Yes / third party module[72],no,yes,yes,yes
+WeIRCd,partial,no| No / No ,no,no| No / No ,no| No / No ,no,no,no,yes

@@ -1,0 +1,3 @@
+Client name,Encryption protocols
+Google Hangouts[32],yes|SRTP[49]
+Skype[32],yesno|A custom protocol

@@ -1,0 +1,38 @@
+Name,Rectilinear lenses (ie normal camera lenses),Fish eye lenses,Partial or full (spherical) panoramas or images from panoramic cameras,Different focal lengths in single panorama,Different lens types in single panorama,Perspective correction lenses,Other/Notes
+Panoweaver Standard / Professional [29],yes,yes,yes,yes,yes,yes,[empty]
+i2Align Quickage Express / Pro,yes,no,no,dunno,dunno,no,[empty]
+Pixtra PanoStitcher[30],yes,no,no,yes,no,no,[empty]
+Pixtra OmniStitcher[31],yes,yes,no,yes,no,no,[empty]
+QuickPHOTO,no,no,no,no,no,no,PROMICAM[32] microscope camera needed
+PhotoFit Harmony / Premium,yes,no,no,no,no,no,[empty]
+PanoramaPlus X4,yes,no,no,no,no,no,[empty]
+PanoramaBuilder 70 / PanoramaBuilder 70 Pro,yes,no,no,no,no,no,[empty]
+360 Panorama Professional,yes,no,no,no,no,no,[empty]
+VRstitcher Fisheye Pro,yes,yes,no,no,no,no,[empty]
+COOL 360,yes,no,no,no,no,no,[empty]
+PanaVue ImageAssembler Std / Pro / Ent,yes,yes*,no,no,no,dunno,) Circular fish eyes not supported [33] diagonal fish eyes up to 180 degree field of view
+The Panorama Factory v5,yes,no,no,no,no,[empty],[added]
+PixMaker Lite / Home / Business,yes,no,no,no,no,no,[empty]
+PTAssembler[34],yes,yes,yes,yes,yes,yes,[empty]
+PTgui / PTgui Pro,yes,yes,yes,yes,yes,yes,[empty]
+Autopano Pro / Giga / Server,yes,yes,no,yes,yes,yes,Also supports motorized panoramic heads  in Giga & Pro versions
+Autostitch,yes,dunno,no,no,yes,dunno,[empty]
+Calico Panorama,yes,no,no,no,no,no,[empty]
+Hugin,yes,yes*,yes,yes,yes,yes,As of v20102 onwards  all known fish eye projections are supported (equisolid  orthographic  stereographic)
+3DVista Stitcher 30,yes,yes,no,no,no,no,"One shot" ie panoramic mirror lenses also supported
+D Joiner,yes,no,no,no,no,no,[empty]
+Panorama Maker 6,yes,no,no,no,no,no,[empty]
+Photovista Panorama,yes,no,no,no,no,no,[empty]
+PanoramaStudio / Pro,yes,no,no,no,no,no,[empty]
+Stitcher Unlimited 2009,yes,yes,yes,dunno,dunno,no,[empty]
+ADG Panorama Tools / Pro[35],yes,no,yes*,no,no,no,) Cylindrical only
+Panorama Composer 3,yes,no,no,no,no,no,[empty]
+Image Composite Editor,yes,no,no,no,no,no,[empty]
+Panorama Perfect,yes,no,no,no,no,no,[empty]
+Photoshop,yes,no,no,no,no,no,[empty]
+AIPR Lite 1,yes,no,no,yes,yes,yes*,(*) homographic model compensates for these type of lenses
+Gigapan Stitch 10,yes,no,yes,no,no,no,[empty]
+PanoramaMaker,yes,dunno,dunno,yes,dunno,dunno,[empty]
+PanoEdit,yes,no,no,no,no,dunno,[added]
+SharpStitch,yes,no,no,no,no,no,[empty]
+Name,Rectilinear lenses (ie normal camera lenses),Fish eye lenses,Partial or full (spherical) panoramas or images from panoramic cameras,Different focal lengths in single panorama,Different lens types in single panorama,Perspective correction lenses,Other/Notes

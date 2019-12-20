@@ -1,0 +1,13 @@
+IDE,Developer,Latest stable release,Windows,Linux,macOS,Other platforms,Mobiles,Debugger,GUI builder,License,Autocomplete
+Delphi,Embarcadero Technologies,Delphi 103 (Rio) / November 21 2018,yes,no,no,crosscompile to macOS  Android  iOS (Linux server on the roadmap)[34],yes,yes,yes,proprietary,yes
+Free Pascal IDE,Volunteers,304 / December 6  2017,yes,yes,yes,AmigaOS  Android  FreeBSD  Game Boy Advance  Haiku  AIX  iOS  MorphOS  DOS  NetBSD  Nintendo DS  Nintendo Wii  OpenBSD  OS/2  Solaris  Windows CE  Java Virtual Machine  LLVM (experimental)  JavaScript transpiler  Embedded systems,yes,yes,no,yes|GPL; LGPL with static linking exception,no
+KDevelop,KDevelop Team,Latest stable release/KDevelop (only 3x supports Pascal),yes,yes,yes,FreeBSD  OpenBSD  NetBSD  Solaris  other Unix,no,no,no,yes|GPL,[empty]
+Lazarus,Volunteers,200 / February 6  2019,yes,yes,yes,See Free Pascal,yes,yes,yes,yes|GPL; LGPL with static linking exception,yes
+MIDletPascal,Code Research Laboratories,35 / February 2  2013,yes,no,no,crosscompile from Windows to Java ME,yes,no,no,yes|GPL,[empty]
+Morfik,Morfik Technology Pty Ltd,20527,yes,yes,yes,compiles to HTMLCSSXMLJavaScript (web apps),yes,yes,yes,proprietary,[empty]
+MSEide,Martin Schreiber,46 / 20171124,yes,yes,no,FreeBSD,yes,yes,yes,yes|GPL; LGPL with static linking exception for the library MSEgui,[empty]
+Understand,SciTools,40 / April 2015,yes,yes,yes,Solaris,yes,no,yes,proprietary,[empty]
+Visual Studio via Oxygene,RemObjects Software,100 / August 2018,yes and additional Water IDE,no,yes via Fire IDE,JVM  NET  Mono  Cocoa  Cocoa Touch  Android  iOS  WebAssembly  cross compile to Linux,yes,yes,yes,proprietary; free compiler,yes
+PocketStudio,winsoft,30,no,no,no,Palm OS,yes,yes,yes,proprietary,[empty]
+DevPascal,Bloodshed Software,192 (using FPC 192 from 2005),yes,no,no,[empty],no,yes,no,yes|GPL,[empty]
+PascalABCNET,Volunteers,34 / Jule 27  2018,yes,yes,yes,compiles to CLR,no,yes,yes,yes|LGPL,yes

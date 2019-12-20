@@ -1,0 +1,10 @@
+Name,Keyboard mapping,Session tabs,ZMODEM transfers,Find text in buffer,Mouse input supportr|group=Note|mouse_input,Unicode support,URL hyperlinking,Public key authentication,Smart card support,Hardware encryption,FIPS 1402 validation,Scripting,Shared Database,Autoreconnect,CA Certificates
+AbsoluteTelnet,yes|full,yes,yes,yes,yes,yes,yes,yes,yes,dunno,yes,yes,dunno,dunno,dunno
+OpenSSH (OpenBSD Secure Shell),dunno,no,no,dunno,yesr|group=Note|openssh_mouse_input,yes,partial|not nativer|group=Note|openssh_url_highlight,yes,yesr|group=Note|openssh_smartcard,yes,partialr|group=Note|openssh_fips,No,No,dunno,yesr|group=Note|opensshCA
+PuTTY,no,nor|group=Note|puttyTabs,no,no,yes,yes,nor|group=Note|puttyHyperlink,yes,nor|group=Note|puttySmartcard,yes,no,no,no,no,nor|group=Note|puttyCA
+SecureCRT,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,no,dunno,dunno
+SmartFTP,partial,yes,no,yes,yes,yes,yes,yes,yes,yes|AESNI,yes,no,dunno,dunno,dunno
+Tera Term,yes,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,no,dunno,dunno
+TN3270 Plus,yes,yes,no,no,no,no,yes,yes,no,no,no,yes,dunno,dunno,dunno
+TtyEmulator,no,no,no,yes,yes,no,yes,yes,no,no,no,yes,dunno,dunno,dunno
+ZOC,yes|full,yes,yes,yes|AltF,yes,yes|UTF8,yes,yes,yes|pkcs#11,no,no,yes,dunno,dunno,dunno

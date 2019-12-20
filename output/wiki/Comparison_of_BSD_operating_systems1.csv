@@ -1,0 +1,41 @@
+[empty],Primary developers,First public release,Based on,Latest stable version,Cost (USD),Preferred license,Purpose,Short description
+Version,Release Date,[added],[added],[added],[added],[added],[added],[added]
+FreeBSD,The FreeBSD Project,date|199312|iso,386BSD  44BSDLite,120,date|20181207[37]|iso,Free,Simplified BSD,Server  Workstation  Network Appliance  Embedded
+OpenBSD,The OpenBSD Project,date|199609|iso,NetBSD 10,66,20191017,Free,ISC,Server  Workstation  Network Appliance  Embedded
+NetBSD,The NetBSD Project,date|199305|iso,386BSD  44BSDLite,81,date|20190531|iso,Free,Simplified BSD,Server  Workstation  Network Appliance  Embedded
+DragonFly BSD,Matt Dillon,date|20040712|iso,FreeBSD 48,561,date|20190619|iso,Free,Modified BSD,Server  Workstation  Network Appliance  Embedded
+386BSDr|group=Note|a1,William and Lynne Jolitz,date|199203|iso,43BSD Net/2,10,date|199411|iso,Free,BSD,Open source general purpose
+BSD/OS (BSD/386)r|group=Note|a1,BSDi  Wind River Systems,date|199303|iso,43BSD Net/2  44BSD,51,date|200310|iso,dunno,Proprietary,General purpose
+SunOSr|group=Note|a1r|group=Note|a2,Sun Microsystems,date|1982|iso,4xBSD  UNIX System V[38],414,date|199411|iso,Included in hardware and support charges,Proprietary,Server  Workstation
+Ultrixr|group=Note|a1,Digital Equipment Corporation,date|1984|iso,42BSD  SVR2,45,date|1995|iso,dunno,Proprietary,General Purpose
+RISCiX,Acorn Computers,1988,43 BSD  Unix System V,131c,19930907,Nonfree £1000 GBP (Approx $1400),Proprietary,Workstation
+Tru64 UNIX (DEC OSF/1  Digital UNIX),DEC  Compaq  HP,date|1993|iso,43BSD  44BSD  Mach 25  UNIX System V,51B6,date|201010|iso,Nonfree $99 (noncommercial),Proprietary,General Purpose
+macOS,Apple Inc,date|20010324|iso,Darwin,10151 "Catalina",date|20191029|iso,Client Free Server (addon application) $1999,Open source core system (see Darwin) with proprietary higher level API layers locking to Apple hardware,Workstation  Home Desktop  Server
+iOS,Apple Inc,date|200706|iso,Darwin,1323,date|20191118|iso,Free,Open source core system (see Darwin) with proprietary higher level API layers locking to Apple hardware,Embedded mobile device
+Darwin,Apple Inc,date|200103|iso,NeXTSTEP  FreeBSD  classic Mac OS,1800,date|20180924|iso,Free,APSL  GPL and others,Workstation  Home Desktop  Server
+TrueOS,iXsystems  Inc,date|20060429|iso,FreeBSD,183,date|20180330|iso,Free,BSD,Server
+GhostBSD,Eric Turgeon,date|200911|iso,FreeBSD,111,date|20171116|iso,Free,BSD,Desktop  Workstation
+FuryBSD,Joe Maloney,date|20191024|iso,FreeBSD,#invokeWikidata|claim|1=P348|id=Q79027338|qualifier=P577|parameter=timej M Y #invokeWikidata|claim|1=P348|id=Q79027338,date|20191202|iso,Free,BSD,Desktop  Workstation
+DesktopBSD,Peter Hofer  Daniel Seuffert,date|20050725|iso,FreeBSD,17,date|20090907|iso,Free,BSD,Desktop
+ClosedBSD,Joshua Bergeron and various contributors,dunno,FreeBSD,10B (floppy)  10RC1 (CD),dunno,Free,Proprietary,dunno
+FreeSBIE,dunno,dunno,FreeBSD,203,date|200702|iso,Free,dunno,dunno
+PicoBSD,Michael Bialecki,dunno,FreeBSD,042,dunno,Free,BSD,boot floppy
+AnonymOS,dunno,date|200501|iso,OpenBSD 38,none (beta only),dunno,Free,dunno,Anonymous browsing
+MirOS BSD,The MirOS Project,dunno,OpenBSD 31,10,date|20080316|iso,Free,dunno,dunno
+ekkoBSDr|group=Note|a1,Rick Collette,dunno,OpenBSD 33,dunno,dunno,dunno,dunno,Server
+MicroBSDr|group=Note|a1,Bulgarians,dunno,OpenBSD 30/34,06,date|20031027|iso,Free,dunno,General purpose
+OliveBSD,Gabriel Paderni,dunno,OpenBSD 38,dunno,dunno,Free,dunno,Live CD
+Gentoo/FreeBSD,Gentoo Linux developers,dunno,FreeBSD,dunno,dunno,Free,GPL  BSD,Server  Workstation  Network Appliance
+Gentoo/OpenBSD,Gentoo Linux developers,dunno,OpenBSD,dunno,dunno,Free,GPL  BSD,Server  Workstation  Network Appliance  Embedded
+Gentoo/NetBSD,Gentoo Linux developers,dunno,NetBSD,dunno,dunno,Free,GPL  BSD,Server  Workstation  Network Appliance  Embedded
+Gentoo/DragonflyBSD,Robert Sebastian Gerus (project not yet officially supported by Gentoo),dunno,DragonFly BSD,dunno,dunno,Free,dunno,Server  Workstation  Network Appliance
+Debian GNU/kFreeBSD,The Debian GNU/kFreeBSD team,date|20110206|iso,GNU  FreeBSD,75,date|20140426|iso,Free,DFSG,General purpose
+Debian GNU/NetBSD,The Debian GNU/kNetBSD team,Abandoned,GNU  NetBSD,Abandoned,Abandoned,Free,DFSG,General purpose
+MidnightBSD[39],Lucas Holt,date|20070804|iso,FreeBSD 61 beta[40],086,date|20170828|iso,Free,BSD,Desktop
+pfSense,various contributors,date|20061004|iso,FreeBSD,243,date|20180329|iso,Free,BSD,Security appliance
+Paxym FreeBSD for Octeon,Paxym Inc,date|20071211|iso,FreeBSD 70,47,date|20080813|iso,dunno,Proprietary,Network  Storage  Security Applications Routers/UTM/Firewall/NAS
+MaheshaBSD,[empty],dunno,FreeBSD 8,dunno,dunno,Free,BSD,FreeBSD multipurpose
+KarmaBSD[42],[empty],dunno,FreeBSD 8 OpenBSD,dunno,dunno,Free,Free software,FreeBSD  OpenBSD Firewall  MP3 player  backup  others
+Jibbed[43],[empty],[empty],OpenBSD  NetBSD,60,[empty],Free,BSD,[empty]
+Bitrig,The Bitrig Developers,date|20141125|iso,OpenBSD,10,date|20141125|iso,Free,ISC,General Purpose
+! Developer,First public release,Based on,Version,Release Date,Cost (USD),Preferred license,Purpose,Short description

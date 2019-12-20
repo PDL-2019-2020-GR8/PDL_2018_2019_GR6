@@ -5,6 +5,7 @@ import org.eclipse.mylyn.wikitext.mediawiki.MediaWikiLanguage;
 import org.eclipse.mylyn.wikitext.parser.MarkupParser;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
+import info.bliki.wiki.model.WikiModel;
 
 
 /**
@@ -37,19 +38,20 @@ public class WikiRunner {
 			throws IOException, UrlNotFoundException {
 		String wikitext = ApiCaller.extractWikitextFromApiResponse(languageVariant, pageTitle);
 		String html = null;
+		String htmlText = null;
 		Document doc = null;
 		if (wikitext != null) {
 			try {
 
-				MarkupParser markupParser = new MarkupParser();
-				markupParser.setMarkupLanguage(new MediaWikiLanguage());
-				html = markupParser.parseToHtml(wikitext);
+//				MarkupParser markupParser = new MarkupParser();
+//				markupParser.setMarkupLanguage(new MediaWikiLanguage());
+				htmlText = WikiModel.toHtml(wikitext);
 
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
 			
-			doc = Jsoup.parse(html);
+			doc = Jsoup.parse(htmlText);
 		}
 
 		return doc;

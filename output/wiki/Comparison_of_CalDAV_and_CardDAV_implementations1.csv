@@ -1,0 +1,23 @@
+Client name,Platform,License,WebDAV ACL editor,Discovery of other user€™s collections,ICalendar events,ICalendar tasks,ICalendar journals,ICalendar VAVAILABILITY (RFC 7953),CalDAV Scheduling,CardDAV,vCard Synchronization,User interface,Online store,wellknown URLs,FBURL,DNS SRV,handles homesets
+AgenDAV[1],Crossplatform JavaScript Web browser,GPLlic,yes limited,no,yes,n/a,unk,no,no Does not arrange meetings with participants,n/a,out of scope,AgenDAV's fullcalendario,no,no The used server is fixed in the configuration file,no Does not arrange meetings with participants,no the caldavserver settings need to be fixed in AgenDAV's configuration file,yes
+Cadaver[2],Commandline,GPLlic,unk,unk,yes,unk,unk,unk,unk,yes,unk,unk,unk,unk,unk,unk,unk
+aCal[3],Android,GPLlic,unk,unk,yes,yes,unk,unk,unk,n/a,unk,aCal,yes|aCal,unk,unk,unk,unk
+AndroidCaldavSyncAdapater[4],Android,GPLlic,unk,unk,yes,n/a,unk,unk,unk,n/a,out of scope,Android,yes|Google Play,unk,no Out of scope,unk,unk
+CalDavZAP[5],Crossplatform JavaScript Web browser,free|AGPL,no,no,yes,yes,unk,no,no Does not arrange meetings with participants,n/a,out of scope,CalDavZAP,no,no The used server is fixed in the configuration file,no Does not arrange meetings with participants,no The used server is fixed in the configuration file,yes
+CardDavMATE[6],Crossplatform JavaScript Web browser,free|AGPL,no,no,out of scope,out of scope,out of scope,out of scope,out of scope,yes vCard 30 only,no,CardDavMATE,no,no The used server is fixed in the configuration file,no Out of scope,no The used server is fixed in the configuration file,yes
+InfCloud (CalDavZAPCardDavMATE)[7],Crossplatform JavaScript Web browser,free|AGPL,no,no,yes,yes,unk,no,no Does not arrange meetings with participants,yes vCard 30 only,no,InfCloud,no,no The used server is fixed in the configuration file,no Does not arrange meetings with participants,no The used server is fixed in the configuration file,yes
+Chandler Desktop[8],Crossplatform Python,free|Apache,unk,unk,yes,yes,unk,unk,unk,no,unk,unk,unk,unk,unk,unk,unk
+DAVx?[9],Android,GPLlic,no,no,yes,yes,out of scope,out of scope,No (except attendees/invitations),yes,no (server always wins),Android  OpenTasks,yes|Google Play  OpenTasks,yes,out of scope,yes,yes
+jqCalDAV[10],Crossplatform JavaScript Web browser,free|MIT,unk,unk,yes,yes,unk,unk,unk,n/a,unk,unk,unk,unk,unk,unk,unk
+KCardDAV[11] (discontinued),Crossplatform Kontact addon,GPLlic,unk,unk,n/a,n/a,n/a,unk,unk,yes,unk,unk,unk,unk,unk,unk,unk
+KOrganizer  KAddressBook  Kontact,UnixKDE,GPLlic,unk,unk,yes,yes,unk,unk,unk,yes,unk,KOrganizer,yes|KOrganizer,unk,unk,unk,unk
+Lightning[12],Crossplatform Thunderbird Addon,free|MPL  GPL  LGPL,unk,unk,yes,yes,unk,unk,unk,n/a,Out of scope,Lightning,yes|Lightning,unk,unk,unk,unk probably not
+CardBook[13],Crossplatform Thunderbird Addon,free|MPL,no,no,Out of scope,Out of scope,Out of scope,Out of scope,Out of scope,yes vCard 30 and vCard 40,yes,CardBook,Mozilla Addons (ATN),yes,Out of scope,no,partial
+MineTime[14],Crossplatform,proprietary,no,no,yes,no,no,no,no,no,no,no,MineTime,minetimeai,no,no,no
+Mulberry[15],Crossplatform,free|Apache,unk,unk,yes,yes,unk,unk,unk,yes,unk,unk,unk,unk,unk,unk,unk
+Outlook CalDav Synchronizer[16],Windows,free|AGPL,unk,unk,yes,yes,unk,unk,unk,yes,unk,Outlook,unk,yes,unk,yes,yes
+pyCardDAV[17],Crossplatform Python,free|MIT,unk,unk,n/a,n/a,n/a,unk,unk,yes,unk,unk,unk,unk,unk,unk,unk
+The Bat![18],Windows,proprietary,unk,unk,no,no,no,unk,unk,yes,unk,The Bat!,yes|The Bat!'s address book,unk,unk,unk,unk
+Inverse SOGo ConnectorIntegrator[19],Crossplatform Thunderbird Addon,free|MPL  GPL  LGPL,unk,unk,yes,yes,unk,unk,unk,yes,unk,Mozilla,yes|Mozilla Addons,unk,unk,unk,unk
+Evolution,Crossplatform,GPLlic,no,no,yes,yes,yes,no,no,yes vCard 30 only,unk,Evolution,yes|Evolution,yes,yes if the URL does not require authentication,yes,yes
+ReminderFox[20],Crossplatform Firefox,free|MPL 11,unk,unk,yes,yes,unk,unk,no,n/a,unk,ReminderFox,yes,unk,unk,unk,unk

@@ -1,0 +1,11 @@
+Name,First release,Description,Language,OS,Memory protection?,Program animation?,License,Most recent release
+adb,1977,Unix standard debugger,Any compiled to machine code,Unix,No,?,proprietary,[empty]
+Allinea DDT,2002,Allinea DDT Debugger,Any compiled to machine code,Linux,Offers guard page for memory usage bugs,Yes,proprietary,51  Aug 2015
+GDB,1986,GNU Debugger,Any compiled to machine code,Unixlike systems  Windows,No,?,free|GPL,80  Jun 2017
+IDB,2012,Intel Debugger,Any compiled to machine code,Windows  Linux  OS X,No,?,proprietary,1301  2013
+LLDB,2003?,LLVM Debugger,Any compiled to machine code,macOS i386 and x8664  Linux  FreeBSD  Windows support is coming soon,No,?,free|BSDStyle,350  Sep 2014
+mdb,1999,Solaris standard debugger (adb) successor,Any compiled to machine code,Solaris,Yes (Memory debugger),?,free|CDDL,2016
+TotalView,1998,Source code and memory serial and parallel debugger,C  C  CUDA  FORTRAN  MPI  OpenMP,Linux  AIX  Solaris  OS X  Cray  Blue Gene[1],Yes (Memory debugger),Yes,proprietary,201607  Nov 2016
+Valgrind,2007?,tool suite for debugging and profiling Linux programs[2],C  C  Java  Perl  Python  assembly code  Fortran  Ada  ,Linux  Darwin (Mac OS X)  Android,Yes,?,free|GPL,3101  Nov 2014
+Visual Studio Debugger,1995,Debugger in Microsoft Visual Studio,C  JavaScript  net languages,Windows 7  Windows Server 2008 R2  Windows 8  Windows Server 2012  Windows 81  Windows Server 2012 R2[4]  Windows 10  Windows Server 2016,Yes (Managed),Yes,proprietary,March 7  2017
+XPEDITER,1980?,family of mainframe debuggers,COBOL  PL/1 & Assembler,z/OS,Yes (CICS),Yes,proprietary,z21  Oct 2014

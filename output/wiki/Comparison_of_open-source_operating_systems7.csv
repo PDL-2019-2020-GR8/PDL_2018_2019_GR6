@@ -1,0 +1,29 @@
+Name,RAID,quota,Resource access control,encryption,other special file system features
+Linux,yes,yes,Unix  ACL  MAC,yes,LVM  EVMS
+FreeBSD,yes,yes,Unix  ACL  MAC,yes,GEOM  snapshots  background fsck  usermountable file systems
+OpenBSD,yes,yes,Unix,yes,[empty]
+NetBSD,yes,yes,Unix  Veriexec,yes,Snapshots  Journaling
+DragonFly BSD,yes,yes,Unix,yes,HAMMER  Snapshots  Checksumming  Deduplication
+OpenSolaris  illumos,yes,yes,Unix  ACL  MAC,yes,Solaris Volume Manager  ZFS  snapshots  transparent data repair
+AuroraUX,yes,yes,Unix  ACL  MAC,[empty],Solaris Volume Manager  ZFS  snapshots  transparent data repair
+Darwin  OpenDarwin,[empty],yes,Unix  ACL,yes,[empty]
+MINIX,[empty],[empty],Unix,[empty],[empty]
+FreeDOS,[empty],[empty],no,[empty],[empty]
+Genode,no,no,no,no,Perprocess virtual filesystem layer
+KolibriOS,[empty],[empty],no,[empty],[empty]
+MenuetOS,[empty],[empty],no,[empty],[empty]
+GNU,[empty],[empty],Unix,[empty],[empty]
+ReactOS,[empty],[empty],no,[empty],[empty]
+L4  Fiasco  Pistachio,[empty],[empty],[empty],[empty],[empty]
+Plan 9,no,no,Unixlike  no root,no,snapshots  venti archival storage  perprocess namespace  usermountable file systems
+AROS,[empty],[empty],[empty],[empty],[empty]
+Syllable,[empty],[empty],Unix,[empty],64bit  journaling  extended file attributes
+Inferno,no,no,Unixlike  no root,no,perprocess namespace  usermountable file systems
+FreeRTOS,[empty],[empty],[empty],[empty],[empty]
+eCos,[empty],[empty],[empty],[empty],[empty]
+RTEMS,[empty],[empty],[empty],[empty],[empty]
+HelenOS,no,no,no,no,no
+E/OS,yes,yes,Unix,yes,
+K42,[added],[added],[added],[added],[added]
+UnixLite >,[added],[added],[added],[added],[added]
+Name,RAID,quota,Resource access control,encryption,other special file system features

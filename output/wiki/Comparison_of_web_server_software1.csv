@@ -1,0 +1,38 @@
+Server,Developed by,Software license,Last stable version,Latest release date
+AOLserver,NaviSoft,free|Mozilla,452,20120919
+Apache HTTP Server,Apache Software Foundation,free|Apache,2441,20190814
+Apache Tomcat,Apache Software Foundation,free|Apache,9021,20190607
+Boa,Jon Nelson and Larry Doolittle,free|GNU GPL,09413,20020730 (discontinued)
+Caddy,Matt Holt,free|Apache,100,20190424
+Caudium,The Caudium Group,free|GNU GPL,1418,20120224
+Cherokee HTTP Server,�?lvaro López Ortega,free|GNU GPL,12103,20130421
+GlassFish,"Oracle Corporation (initial code from Sun Microsystems)",free|Common Development and Distribution License & GNU General Public License,51,20190128
+H2O,Kazuho Oku,free|MIT,226,20190813
+Hiawatha,Hugo Leisink,free|GNU GPLv2,109,20190218
+HFS,Rejetto,free|GNU GPL,23i,20160614
+IBM HTTP Server,IBM,nonfree proprietary,900,20160311
+Internet Information Services,Microsoft,nonfree proprietary,100177631,20181002
+Jetty,Eclipse Foundation,free|Apache,9418,20190429
+Jexus,Bing Liu,nonfree proprietary,552,20140427
+lighttpd,Jan Kneschke (Incremental),free|BSD variant,1454,20190527
+LiteSpeed Web Server,LiteSpeed Technologies,nonfree proprietary,537,20190315
+Mongoose,Cesanta Software,free|GNU GPLv2 / proprietary license,614,20190304
+Monkey HTTP Server,Monkey Software,free|Apache,169,20160504
+NaviServer,Various,free|Mozilla 11,49918,20190224
+NCSA HTTPd,Robert McCool,nonfree proprietary,152a,19961008
+Nginx,NGINX  Inc,free|BSD variant,1161,20190813
+OpenLink Virtuoso,OpenLink Software,free|GNU GPL and proprietary versions,7251,20181022
+Oracle HTTP Server,Oracle Corporation,nonfree proprietary,1212,20140923
+Oracle iPlanet Web Server,Oracle Corporation,free|BSD,7023,20160212
+Oracle WebLogic Server,Oracle Corporation (formerly BEA Systems),nonfree proprietary,12cR3 (1213),20140626
+Resin Open Source,Caucho Technology,free|GNU GPLv3 / proprietary license,4057,20180719
+Resin Professional,Caucho Technology,nonfree proprietary,4049,20161019
+thttpd,Jef Poskanzer for ACME Laboratories,free|BSD variant,227,20141003
+TUX web server,Ingo Molnár,free|GNU GPL,32618,20060920
+Wakanda Server,Wakanda,free|GNU AGPLv3 / proprietary license,210,20170727
+WEBrick,Ruby Community,free|Ruby,193 p286 (Ruby),20121012
+Xitami,iMatix Corporation,free|BSD,50a0,20090219
+Yaws,Claes Wikström,free|BSD variant,204,20160922
+Zeus Web Server,Zeus Technology,nonfree proprietary,43r5,20100113
+Zope,Zope Corporation,free|Zope,21321,20130716
+Server,Developed by,Software license,Last stable version,Latest release date

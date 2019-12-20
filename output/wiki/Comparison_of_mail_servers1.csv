@@ -1,0 +1,45 @@
+| sort|00000|,sort|00000|Server OS support,sort|00000|Features,sort|00000|Storage,| sort|00000|Users
+Mail server,Linux/Unix,SMTP,POP3,IMAP
+agorum core,yes,yes,no,yes
+Apache James,yes,yes,yes,yes
+Axigen,yes,yes,yes,yes
+Citadel,yes,yes,yes,yes
+CommuniGate Pro,yes,yes,yes,yes
+Courier Mail Server,yes,yes,yes,yes
+Cyrus IMAP,yes,no,yes,yes
+Dovecot,yes[4],yes[5],yes,yes
+Eudora Internet Mail Server,no,yes,yes,yes
+Exim,yes,yes,no|Dovecot  UW IMAP,no|Dovecot  UW IMAP
+FirstClass,yes,yes,yes,yes
+Gordano Messaging Suite,yes,yes,yes,yes
+GroupWise,yes,yes,yes,yes
+Halon,yes,yes,no,no
+Haraka,yes,yes,no,no
+hMailServer,no,yes,yes,yes
+IBM Lotus Domino,yes,yes,yes,yes
+IceWarp Mail Server,yes,yes,yes,yes
+Ipswitch IMail Server,no,yes,yes,yes
+Kerio Connect,yes,yes,yes,yes
+Kolab,yes,yes,yes,yes
+Kopano,yes,yes2|External[11],yes,yes
+Mailsite,no,yes,yes,yes
+Mailtraq,no,yes,yes,yes
+MDaemon,no,yes,yes,yes
+Mercury Mail Transport System,no,yes,yes,yes
+Microsoft Exchange Server,no,yes,yes,yes
+NetMail,yes,yes,yes,yes
+OpenSMTPD,yes,yes,no,no
+OpenXchange,yes,yes,yes,yes
+Oracle Communications Messaging Server,yes,yes,yes,yes
+Postfix,yes,yes,no|Dovecot  UW IMAP,no|Dovecot  UW IMAP
+qmail,yes,yes,yes,no|Dovecot  UW IMAP
+Qpopper,yes,no,yes,no
+Scalix,yes,yes,yes,yes
+Sendmail,yes,yes,no|Dovecot  UW IMAP,no|Dovecot  UW IMAP
+SparkEngine,yes,yes,no,no
+UW IMAP,yes,no,yes,yes
+WinGate,no,yes,yes,yes
+Zarafa,yes,yes2|External[11],yes,yes
+Zentyal,yes,yes,yes,yes
+Zimbra,yes,yes,yes,yes
+Mail server,Linux/Unix,SMTP,POP3,IMAP

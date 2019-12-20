@@ -1,0 +1,13 @@
+Distribution,Target Boot Time,Whole OS Loads to RAM (Default),LIVE Medium,Target Users,SSD Write Optimization (SSD degradation  I/O optimization  etc),Specific Supported Hardware
+Aurora 30,[empty],[empty],[empty],[empty],[empty],[empty]
+EasyPeasy 16,[empty],[empty],LIVE Medium,Beginner  highly mobile netbook users,[empty],[empty]
+Eeedora[4],[empty],[empty],[empty],[empty],[empty],[empty]
+Firefly Linux 10 Beta 1,[empty],[empty],[empty],[empty],[empty],[empty]
+Joli OS 12,[empty],[empty],[empty],[empty],[empty],[empty]
+Kuki Linux 20,[empty],[empty],[empty],[empty],[empty],[empty]
+Linux4One 15,40 seconds[13],[empty],[empty],[empty],[empty],[empty]
+Manjaro Netbook Edition,[empty],[empty],[empty],[empty],[empty],[empty]
+Moblin 20,5 seconds[14][15],[empty],[empty],[empty],[empty],[empty]
+OpenGeeeU 810,[empty],[empty],[empty],[empty],[empty],[empty]
+Puppeee Linux 43X,30s,Loads to RAM,[empty],[empty],Layered filesystem  caches writes in RAM,Lightweight kernel compiled for EeePCs only
+Ubuntu Netbook Edition 1010,[empty],[empty],[empty],[empty],[empty],[empty]

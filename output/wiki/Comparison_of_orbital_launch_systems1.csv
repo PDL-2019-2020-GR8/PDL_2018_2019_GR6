@@ -1,0 +1,114 @@
+Vehicle,Origin,Manufacturer,Payload mass to  (kg),Launchesefn|group=note|Suborbital flight tests and onpad explosions are excluded  but launches failing en route to orbit are included,Date of flight
+LEO,GTO,Other,Firstefn|group=note|Effective year for active rockets  planned year for rockets in development,Latest,[added]
+Alpha,USA,Firefly Aerospace,nts|1000[5],[empty],nts|630 to SSO
+Angara 12,RUS,Khrunichev,nts|3500[7],[empty],nts|2400 to SSO
+Angara A5,RUS,Khrunichev,nts|24000[7],nts|7500 with KVTK nts|5400 with BrizM [7],[empty]
+Antares 230 / 230,USA,NG Innovation,nts|8200[10],[empty],nts|3000 to SSOefn|group=note|name=500km
+Ariane 5 ECA,flag|Europe,EADS Astrium,nts|21000[12],nts|10865[13]efn|group=note|Upgraded to 11115 kg by 2020[14],[empty]
+Ariane 6 A62,flag|Europe,ArianeGroup,nts|10350[16]rp|45,nts|5000[16]rp|33,nts|6450 to SSO nts|3000 to HEO nts|3000 to TLI [16]rp|40€“49
+Ariane 6 A64,flag|Europe,ArianeGroup,nts|21650[16]rp|46,nts|11500 [16]rp|33,nobr|nts|14900 to SSO nts|5000 to GEO nts|8400 to HEO nts|8500 to TLI [16]rp|40€“49
+Atlas V 401,USA,ULA,nts|9050[19],nts|4950,nts|6670 to SSO
+Atlas V 411,USA,ULA,nts|9050[19],nts|6075,nts|8495 to SSO
+Atlas V 421,USA,ULA,nts|9050[19],nts|7000,nts|9050 to SSO
+Atlas V 431,USA,ULA,nts|9050[19],nts|7800,nts|9050 to SSO
+Atlas V 501,USA,ULA,nts|8250[19],nts|3970,nts|5945 to SSO 1500 to GEO
+Atlas V 511,USA,ULA,nts|10950[19],nts|5370,nts|7820 to SSO 1750 to GEO
+Atlas V 521,USA,ULA,nts|13300[19],nts|6485,nts|9585 to SSO 2760 to GEO
+Atlas V 531,USA,ULA,nts|15300[19],nts|7425,nts|11160 to SSO 3250 to GEO
+Atlas V 541,USA,ULA,nts|17100[19],nts|8240,nts|12435 to SSO 3730 to GEO
+Atlas V 551,USA,ULA,nts|18500[19],nts|8700,nts|13550 to SSO 3960 to GEO
+Atlas V 552,USA,ULA,nts|20520[20],[empty],[empty]
+Atlas V N22efn|group=note|for Starliner[22],USA,ULA,nts|13000[23],[empty],[empty]
+Beta,USA,Firefly Aerospace,nts|4000[25],ntsh|0abbr|TBA|To be announced,nts|3000 to SSO
+Bloostar,flag|Spain,Zero 2 Infinity,nts|140[26],[empty],nts|75 to SSO[26]
+Cyclone4M,UKR,Yuzhnoye Yuzhmash,nts|5000[28],nts|1000[29],nts|3350 to SSO[28]
+Delta IV Heavy,USA,ULA,nts|28790[31],nts|14220,nts|23560 to polar nts|10000 to TLI nts|8000 to TMI
+Electron,USA NZL,Rocket Lab,nts|225[33],[empty],nts|150 to SSO
+Epsilon,JPN,IHI[35],nts|1500[36],[empty],nts|590 to SSO
+ErisS,AUS SIN,Gilmour Space Technologies,nts|200[38],[empty],[empty]
+ErisL,AUS SIN,Gilmour Space Technologies,nts|450[38],[empty],[empty]
+Falcon 9 Full Thrust (partially reusable),USA,SpaceX,nts|16800[40]efn|name=PAFlimit|group=note,nts|5500[41]efn|group=note|GTO payload is 5550 kg when the first stage lands downrange on a drone ship (ASDS) Reduced to 3500 kg if the first stage returns to the launch site (RTLS)[42],nts|9600 to polar[43]
+nobr|Falcon 9 Full Thrust (expended),USA,SpaceX,nts|22800[41]efn|name=PAFlimit|group=note|PAF structural limit 10886 kg[47],nts|6500[42]€“8300[41],nts|4020 to TMI
+Falcon Heavy (partially reusable),USA,SpaceX,nts|30000[50]€“57000[51],nts|8000[41]€“10000efn|group=note|GTO payload is 8000 kg when the core firststage booster lands downrange on a drone ship (ASDS) and the side boosters return to the launch site (RTLS) Increased to 10000 kg if all boosters land on drone ships[42],[empty]
+Falcon Heavy (expended),USA,SpaceX,nts|63800[41],nts|15000[42]€“26700[41],nts|16800 to TMI
+GSLV Mk II,IND,ISRO,nts|5000[54],nts|2700[55]efn|group=note|GTO payload with enhanced engines  as of GSLV version 2A[56],[empty]
+GSLV Mk III,IND,ISRO,nts|10000[57],nts|4000,[empty]
+HIIA 202,JPN,Mitsubishi,nts|8000[60]rp|67,nts|4000[60]rp|48,nts|5100 to SSOefn|group=note|5100 kg to a 500km Sunsynchronous orbit; 3300 kg to 800 km[60]rp|64€“65 [60]rp|64€“65
+HIIA 204,JPN,Mitsubishi,[empty],nts|5950[60]rp|48,[empty]
+HIIB,JPN,Mitsubishi,nts|16500 (ISS)[62],nts|8000,[empty]
+H3,JPN,Mitsubishi,nts|4000[64],nts|6500[62],nts|4000 to SSO[65]
+Hyperbola1,CHN,iSpace,nts|300[67],[empty],[empty]
+Hyperbola2,CHN,iSpace,nts|2000[67],[empty],[empty]
+Jielong 1[70],CHN,CALT,[empty],[empty],nts|200 (SSO)
+Kaituozhe2,CHN,CASC,nts|800[71],[empty],[empty]
+Kuaizhou 1/1A,CHN,ExPace,nts|400[72],[empty],[empty]
+Kuaizhou 11,CHN,ExPace,nts|1500[73],[empty],nts|1000 to SSO[74]
+Kuaizhou 21,CHN,ExPace,nts|20000[76],[empty],[empty]
+LauncherOne,USA,Virgin Orbit,nts|500[77],[empty],nts|300 to SSO[78]
+Long March 2C,CHN,CALT,nts|3850 citation needed|date=October 2018,nts|1250 with CTS2,nts|2000 to SSO with YZ1S[80]
+Long March 2D,CHN,SAST,nts|4000,[empty],nts|1150 to SSO
+Long March 2F,CHN,CALT,nts|8600,[empty],[empty]
+Long March 3A,CHN,CALT,nts|6000[82],nts|2600,nts|5000 to SSO
+Long March 3B/E,CHN,CALT,nts|11500[82],nts|5500,nts|6900 to SSO
+Long March 3C,CHN,CALT,nts|9100[82],nts|3800,nts|6500 to SSO
+Long March 4B,CHN,SAST,nts|4200[84],nts|1500,nts|2800 to SSO
+Long March 4C,CHN,SAST,nts|4200[85],nts|1500,nts|2800 to SSO
+Long March 5,CHN,CALT,nts|25000[86],nts|14000,nts|15000 to SSO[87] nts|8200 to TLI[88] nts|5000 to TMI[88]
+Long March 6,CHN,SAST,[empty],[empty],nts|1080 to SSO[90]
+Long March 7,CHN,CALT,nts|13500[92],[empty],nts|5500 to SSO
+Long March 8 (partially reusable)[94],CHN,CALT,nts|7600[95],nts|2500,nts|4500 to SSO
+Long March 9[96],CHN,CALT,nts|140000[97],nts|66000[98],nts|50000 to TLI[97] nts|44000 to TMI[94]
+Long March 11,CHN,CALT,nts|700[100],[empty],nts|350 to SSO
+Minotaur I,USA,NG Innovation,nts|580[102],[empty],[empty]
+Minotaur IV,USA,NG Innovation,nts|1735[104],[empty],[empty]
+Minotaur V,USA,NG Innovation,[empty],nts|670[105],nts|465 to HCO
+MinotaurC (Taurus)[106],USA,NG Innovation,nts|1458[107],[empty],nts|1054 to SSOefn|name=400km|group=note|Reference altitude 400 km
+Miura 5,ESP,PLD Space,nts|300[109],[empty],[empty]
+New Glenn,nobr|USA,Blue Origin,nts|45000[110],nts|13000,[empty]
+New Line 1 (partially reusable)[112],CHN,LinkSpace,[empty],[empty],nts|cvt|440|lb|kg|disp=number to SSO[112]
+Nuri (KSLV2),KOR,KARI,nts|1500 at 600€“800 km[113],[empty],[empty]
+OmegA Intermediate,nobr|USA,NG Innovation,nts|22000[114],nts|9200[114],nts|3200 to GEO[114]
+OmegA Heavy,nobr|USA,NG Innovation,nts|23200[114],nts|14000[114],nts|6700 to GEO[114]
+OSM1,CHN,OneSpace,nts|205[116],[empty],nts|143 to SSO
+OSM2,CHN,OneSpace,nts|390[116],[empty],nts|292 to SSO
+Pegasus,USA,NG Innovation,nts|500[119],[empty],[empty]
+Prime,UK,Orbex,nts|220[121],[empty],nts|150 to SSOefn|name=500km|group=note|Reference altitude 500 km[122]
+ProtonM / M,RUS,Khrunichev,nts|23000 (M)[123] nts|21600 (M)[124],nts|6920 (M) nts|6150 (M),[empty]
+PSLVCA,IND,ISRO,nts|2100[128],[empty],nts|1100 to SSO
+PSLVDL,IND,ISRO,[empty],[empty],[empty]
+PSLVQL,IND,ISRO,[empty],[empty],[empty]
+PSLVXL,IND,ISRO,nts|3800[128],nts|1300,nts|1750 to SSO nts|1350 to TMI[129]
+Rokot,RUS,Khrunichev,nts|1950[130],[empty],nts|1200 to SSO
+Safir,IRI,Iranian Space Agency,nts|65[132],[empty],[empty]
+Shavit,ISR,IAI,nts|300[133],[empty],[empty]
+Simorgh,IRI,Iranian Space Agency,nts|350[135],[empty],[empty]
+Soyuz21a,RUS,TsSKBProgress,nts|7020 from Baikonur[136],[empty],[empty]
+Soyuz21b,RUS,TsSKBProgress,nts|8200 from Baikonur[136],nts|2400[140],[empty]
+Soyuz STA,RUS flag|Europe,TsSKBProgress Arianespace,nts|7800 from Kourou[142],nts|2810 with Fregat[143],[empty]
+Soyuz STB,RUS flag|Europe,TsSKBProgress Arianespace,nts|9000 from Kourou[144],nts|3250 with Fregat[143],nts|4400 to SSO[145]
+Soyuz21v,RUS,TsSKBProgress,nts|2800[146],[empty],nts|1400 to SSO
+Soyuz5,RUS,TsSKBProgress RSC Energia,nts|18000[147],[empty],nts|2500 to GEO
+Space Launch System Block 1efn|group=note|with ICPS,USA,NASA / Boeing (core) NG Innovation (SRBs),nts|95000[150],[empty],nts|26000 to TLI[150]
+SLS Block 1Befn|group=note|with EUS,USA,NASA / Boeing NG Innovation,nts|105000[152],[empty],nts|37000 to TLI[150]
+SLS Block 2efn|group=note|with EUS and advanced boosters,USA,NASA / Boeing NG Innovation,nts|130000[154],[empty],nts|45000 to HCO[150]
+SS520,JAP,IHI Aerospace,nts|4[155],[empty],[empty]
+SSLV,IND,ISRO,nts|500[158],[empty],nts|300 to SSO
+Starship[160] (reusable),USA,SpaceX,nts|100000[160],nts|100000[160],[empty]
+Terran 1,USA,Relativity Space,nts|1250[161],[empty],nts|900 to SSO
+Unha,flag|North Korea,KCST,nts|100[163],[empty],[empty]
+Vega,flag|Europe,ESA / ASI,nts|1500efn|name=700km|group=note|Reference altitude 700 km[165],[empty],nts|1330 to SSO[166]
+Vega C,flag|Europe,ESA / ASI,nts|2200efn|name=700km|group=note[168],[empty],[empty]
+Vega E,flag|Europe,ESA / ASI,nts|3000efn|name=700km|group=note[170],[empty],[empty]
+Vikram l[172],IND,Skyroot aerospace[173],nts|280,[empty],nts|200 to SSPO
+Vikram ll[172],IND,Skyroot aerospace,nts|520,[empty],nts|410 to SSPO
+Vikram lll[172],IND,Skyroot aerospace,nts|720,[empty],nts|580 to SSPO
+Vulcan / Centaur,USA,ULA,nts|cvt|56000|lb|disp=number[175],nts|cvt|33000|lb|disp=number[175],nts|cvt|16000|lb|disp=number to GEO[175][176]
+Vulcan / ACES,USA,ULA,nts|#expr 28790 * 130 round 2[31][178]efn|name=vulcanacescalc|group=note|Calculated as 30% more than Delta IV Heavy  per sources,nts|#expr 14220 * 130 round 2efn|name=vulcanacescalc|group=note,nts|#expr 10000 * 130 round 2 to TLIefn|name=vulcanacescalc|group=note
+Yun Feng,TWN,Taiwan National ChungShan Institute of Science and Technology,nts|200[180],[empty],[empty]
+Yenisei[181],RUS,TsSKBProgress RSC Energia,nts|88000€“115000[149],[empty],nts|20000 to TLI[182][183]
+Zenit3F,UKR,Yuzhnoye,[empty],[empty],nts|1740 to GEO[184]
+Zenit3SL,UKR,Yuzhmash RSC Energia,nts|7000[185],nts|6160,[empty]
+Zenit3SLB / 3M,UKR,Yuzhmash RSC Energia,[empty],nts|3750[185],[empty]
+Zero,JPN,Interstellar Technologies,[empty],[empty],nts|100 to SSOefn|name=500km|group=note[186]
+Zhuque1,CHN,LandSpace,nts|300[188],[empty],nts|200 to SSO
+Zhuque2,CHN,LandSpace,nts|4000[190],[empty],nts|2000 to SSO

@@ -1,0 +1,16 @@
+Name,Developer,Status,First release,Latest release,Current version,Based on,License,Source available
+AbsoluteTelnet,Celestial Software (Brian Pence),site active,1996,20161012,1016[1],[empty],Proprietary,no
+ConnectBot,Kenny Root / Jeffrey Sharkey,site active,200711,20181109,192 [2],Trilead SSH2 for Java,free|Apache,yes
+CRAX Commander,Soft4U2 Marcin S‚owik,site active,201309,20151201,1106,libSSH2,Proprietary,yes
+Dropbear,Matt Johnston,site active,20030406,20170518,201775,[empty],free|MIT,yes
+eSSH Client,Ecode Software,site inactive,200207,[empty],[empty],[empty],Proprietary,no
+lsh,Niels MÃ¶ller,site active,19990523,20130626,21,[empty],free|GPL,yes
+OpenSSH (OpenBSD Secure Shell),The OpenBSD project,site active,19991201,2019417,80,ossh,free|BSD,yes
+PuTTY,Simon Tatham,site active,19990122,20190316,073[3],[empty],free|MIT,yes
+SecureCRT,VanDyke Software,site active,199806,20181115,852[4],[empty],Proprietary,no
+SSH Tectia Client/ConnectSecure,SSH Communications Security (former Tectia),site active,199507,20170622,6415,Own implementation in C,Proprietary,no
+SSH Secure Shell Client,SSH Communications Security Corp,site inactive,2000,2003,329[5],[empty],Proprietary,no
+Tera Term,TeraTerm Project,site active,2004,20180831,4100[6],Tera Term Pro 23 (1994€“1998),free|BSD,yes
+TN3270 Plus,SDI USA  Inc,site active,2006,[empty],[empty],[empty],Proprietary,No
+TtyEmulator,FCS Software,site active,200205,[empty],[empty],[empty],Proprietary,no
+ZOC Terminal,EmTec  Innovative Software,site active,19950701,20181017,7211[7],[empty],Proprietary,no

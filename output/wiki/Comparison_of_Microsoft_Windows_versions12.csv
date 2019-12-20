@@ -1,0 +1,44 @@
+Operating system,Limit on IA32,Limit on x64
+sort|40a|Windows NT 40,4 GB,n/a
+sort|50b|Windows 2000 Professional/Server,4 GB,n/a
+sort|50c|Windows 2000 Advanced Server,8 GB,n/a
+sort|50d|Windows 2000 Datacenter,32 GB,n/a
+sort|51a|Windows XP Starter,sort|05 GB|512 MB,n/a
+sort|51b|Windows XP Home,4 GB,n/a
+sort|51c|Windows XP Professional,4 GB,128 GB
+sort|51sp0w|Windows Server 2003 RTM Web,2 GB,n/a
+sort|51sp0x|Windows Server 2003 RTM Standard/Small Business,4 GB,n/a
+sort|51sp0z|Windows Server 2003 RTM Enterprise/Datacenter,64 GB,n/a
+sort|51sp1x|Windows Server 2003 R2/SP1 Standard,4 GB,32 GB
+sort|51sp1z|Windows Server 2003 R2/SP1 Enterprise/Datacenter,64 GB,sort|1024 GB|1 TB
+sort|60a|Windows Vista Starter,1 GB,n/a
+sort|60b|Windows Vista Home Basic,4 GB,8 GB
+sort|60c|Windows Vista Home Premium,4 GB,16 GB
+sort|60f|Windows Vista Business/Enterprise/Ultimate,4 GB,128 GB
+sort|60v|Windows Home Server,4 GB,n/a
+sort|60x|Windows Server 2008 Web Server/Standard/Small Business,4 GB,32 GB
+sort|60y|Windows HPC Server 2008,n/a,128 GB
+sort|60z|Windows Server 2008 Enterprise/Datacenter,64 GB,sort|1024 GB|1 TB
+sort|61a|Windows 7 Starter,2 GB,n/a
+sort|61b|Windows 7 Home Basic,4 GB,8 GB
+sort|61c|Windows 7 Home Premium,4 GB,16 GB
+sort|61f|Windows 7 Professional/Enterprise/Ultimate,4 GB,192 GB
+sort|61w|Windows Server 2008 R2 Foundation,n/a,8 GB
+sort|61x|Windows Server 2008 R2 Web Server/Standard,n/a,32 GB
+sort|61y|Windows HPC Server 2008 R2,n/a,128 GB
+sort|61z|Windows Server 2008 R2 Enterprise/Datacenter,n/a,sort|2048 GB|2 TB
+sort|62a|Windows 8,4 GB,128 GB
+sort|62c|Windows 8 Pro/Enterprise,4 GB,512 GB
+sort|62w|Windows Server 2012 Foundation,n/a,32 GB
+sort|62x|Windows Server 2012 Essentials,n/a,64 GB
+sort|62z|Windows Server 2012 Standard/Datacenter,n/a,sort|4096 GB|4 TB
+sort|62z|Windows Storage Server 2012 Standard,n/a,sort|4096 GB|4 TB
+sort|62z|Windows Storage Server 2012 Workgroup,n/a,32 GB
+sort|62z|HyperV Server 2012,n/a,sort|4096 GB|4 TB
+sort|7a|Windows 10 Mobile,4 GB,n/a
+sort|7b|Windows 10 Home,4 GB,128 GB
+sort|7c|Windows 10 Pro,4 GB,sort|2048 GB|2 TB
+sort|7d|Windows 10 Education,4 GB,sort|2048 GB|2 TB
+sort|7e|Windows 10 Enterprise,4 GB,sort|2048 GB|2 TB
+sort|8y|Windows Server 2016 Standard,n/a,sort|24576 GB|24 TB
+sort|8z|Windows Server 2016 Datacenter,n/a,sort|24576 GB|24 TB

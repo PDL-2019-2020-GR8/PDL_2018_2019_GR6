@@ -1,0 +1,29 @@
+Software,Windows,macOS,Linux,ChromeOS,BSD,Unix,iOS App,Android App,Windows App
+Bebop,yes,yes,yes,dunno,yes,yes,no,no,no
+BibBase,n/a,n/a,n/a,n/a,n/a,n/a,dunno,dunno,dunno
+BibDesk,no,yes,no,dunno,no,no,Thirdparty  PocketBib,dunno,dunno
+BibSonomy,n/a,n/a,n/a,n/a,n/a,n/a,dunno,dunno,dunno
+Bibus,yes,tableexperimental,yes,dunno,yes,yes,no,no,no
+Bookends,no,yes,no,dunno,no,no,yes,dunno,dunno
+Citavi,yes,no,no,no,no,no,no,no,no
+CiteULike,n/a,n/a,n/a,n/a,n/a,n/a,dunno,dunno,dunno
+colwiz,yes,yes,yes,dunno,yes,yes,yes,yes,no
+EndNote,yes,yes,no,no,no,no,yes,no,no
+F1000Workspace,yes,yes,no,no,no,no,Yes,Yes,no
+JabRef,yes,yes,yes,no,yes,yes,no,no,no
+KBibTeX,tableexperimental,tableexperimental,yes,dunno,yes,yes,no,no,no
+Mendeley,yes,yes,yes,no,no,no,yes,yes,no
+Paperpile,yes,yes,yes,yes,no (requires Chromium),no (requires Chromium),depends|in beta,depends|in beta,no
+Pybliographer,partial[11],partial[11],yes,dunno,yes,yes,no,no,no
+Qiqqa,yes,no,no,dunno,no,no,no,yes,no
+ReadCube (now Papers),Yes|Yes|align=|style=|color=,Yes|Yes|align=|style=|color=,No|No|align=|style=|color=,Yes|Yes|align=|style=|color=,no,no,yes,yes,Yes|Yes|align=|style=|color=
+refbase,yes,yes,yes,dunno,yes,yes,no,no,no
+RefDB,yes,yes,yes,dunno,yes,yes,no,no,no
+Reference Manager,yes[12],no,no,dunno,no,no,no,no,no
+Referencer,no,no,yes,dunno,no,no,dunno,dunno,dunno
+RefWorks[13],yes,yes,no,yes,yes,dunno,No  but is responsive,dunno,no
+SciRef,yes,no,no,dunno,no,no,dunno,dunno,dunno
+Sente,no,yes,no,dunno,no,no,yes[14],dunno,dunno
+Wikindx,yes,yes,yes,yes,yes,yes,yes,yes,yes
+WizFolio,yes,yes,yes,dunno,yes,yes,dunno,dunno,dunno
+Zotero,yes,yes,yes,dunno,yes,yes,depends|third party,depends|third party  Aziz  Lite![15],no

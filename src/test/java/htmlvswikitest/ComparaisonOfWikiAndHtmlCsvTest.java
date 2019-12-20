@@ -6,6 +6,7 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.HashMap;
 import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -33,12 +34,15 @@ class ComparaisonOfWikiAndHtmlCsvTest {
 	
 	private WikiConverter wikiConverter;
 	private HTMLConverter htmlConverter;
+	private FileHandler filehandler;
+	private  HashMap<String, List<String>> wikiData;
 	
 	
 	@BeforeEach
 	public void setup() {
 		 this.wikiConverter = new WikiConverter();
 		 this.htmlConverter = new HTMLConverter();
+		 filehandler =  new FileHandlerImpl();
 	}
 	
 	
@@ -50,6 +54,8 @@ class ComparaisonOfWikiAndHtmlCsvTest {
 		FileReader fr = null;
 		BufferedReader br = null;
 		Document doc = null;
+		String filename = null;
+		
 		try {
 			file = new File(Constants.WIKI_URLS_FILE_PATH);
 			fr = new FileReader(file);
@@ -65,10 +71,11 @@ class ComparaisonOfWikiAndHtmlCsvTest {
 			files = wikiDirectory.listFiles();
 			String row;
 			 int z = 0 ;
+			
 			 
 			while ((pageTitle = br.readLine()) != null) {
 				if (!wikiConverter.doesUrlExist("en", pageTitle)) {
-					System.out.println(Constants.CONSOLE_RED_COLOR+"["+ pageTitle + "] does not exist!");
+					 System.out.println(Constants.CONSOLE_RED_COLOR+"["+ pageTitle + "] does not exist!");
 					if(!wikiConverter.doesUrlExist("fr",  pageTitle) && !htmlConverter.doesUrlExist(Constants.EN_BASE_WIKIPEDIA_URL + pageTitle))
 						continue;
 				}
@@ -79,34 +86,70 @@ class ComparaisonOfWikiAndHtmlCsvTest {
 					doc = WikiRunner.getDocument("fr", pageTitle);
 		
 				Document docH = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + pageTitle).get();
-			    List<String> htmlData = htmlConverter.convertToCsv(docH, Constants.EN_BASE_WIKIPEDIA_URL,pageTitle, Constants.HTML_OUTPUT_DIR);
-			    List<String> wikiData  = wikiConverter.convertToCsv(doc, Constants.EN_BASE_WIKIPEDIA_URL, pageTitle, Constants.WIKI_OUTPUT_DIR);
-			    int i = 0,y = 0 ;
-			    for(String line: htmlData ) {
-			    	 try {
-			    		 
-			    		  if(wikiData.contains(line)) {
-			    			  assertTrue(wikiData.contains(line));
-			    		  }else {
-			    			  i++;
-			    		  }
-			    		  y++;
-			    		  
-			    	 } catch (Exception e) {};
-			    	
-			    }
-			    double resultat = 0;
-			    if(y!=0) {
-			    	 resultat = (100*i)/y;
-			    	 if(resultat <= 30) {
-			    		 z++;
+				HashMap<String, List<String>> htmlData = htmlConverter.convertToCsv(docH, Constants.EN_BASE_WIKIPEDIA_URL,pageTitle, Constants.HTML_OUTPUT_DIR);
+			    HashMap<String, List<String>> wikiData = wikiConverter.convertToCsv(doc, Constants.EN_BASE_WIKIPEDIA_URL, pageTitle, Constants.WIKI_OUTPUT_DIR);
+			    
+			  
+//			    wikiData.keySet().stream().forEach((e) -> {
+//			    	// if(data.get(e).size() != 0) {
+//			    		 System.out.println(e +" size new :"+ wikiData.get(e).size() +"data "+ wikiData.get(e));
+//			    		 filename = this.filehandler.extractFilenameFromUrl(e );
+//						 this.filehandler.write(Constants.WIKI_OUTPUT_DIR, e , wikiData.get(e));
+//						 System.out.println(Constants.CONSOLE_WHITE_COLOR+e +" "+ "wiki has been generated");
+//						// System.out.println(e+" size: "+wikiData.get(pageTitle+filenameCounter).size());
+//					// }
+//			   
+//				 // System.out.println(wikiConverter.getWikiData().size()); 	
+//			    });
+			    for(String e :  wikiData.keySet() ) {
+			    	 filename = this.filehandler.extractFilenameFromUrl(e);
+			    	 if(wikiData.get(e) != null) {
+			    		 this.filehandler.write(Constants.WIKI_OUTPUT_DIR,  filename , wikiData.get(e));
+						 System.out.println(Constants.CONSOLE_WHITE_COLOR+e +" "+ "wiki has been generated");
 			    	 }
 			    }
-			    System.out.println("------------------------------------------------------------------------------------------------\n");
-			    Logger.getGlobal().log(Level.INFO, "for this title :"+ pageTitle +" " +resultat+" %"+ " of content in csv and wiki files are not compliant");
-			    System.out.println("------------------------------------------------------------------------------------------------\n");
-				htmlData.clear();
-				wikiData.clear();
+			    
+			    for(String e :  htmlData.keySet() ) {
+			    	 filename = this.filehandler.extractFilenameFromUrl(e);
+			    	 if(htmlData.get(e) != null) {
+			    		 this.filehandler.write(Constants.HTML_OUTPUT_DIR,  filename , htmlData.get(e));
+						 System.out.println(Constants.CONSOLE_WHITE_COLOR+e +" "+ "html has been generated"); 
+			    	 }
+				    
+			    }
+			  
+//			    int i = 0,y = 0 ;
+//			    double resultat = 0;
+//			    System.out.println("taille html "+data.size());
+//			    System.out.println("taille html "+data2.size());
+//			   // if(data.size() == data2.size()) {
+//			    	for(String line: data ) {
+//				    	 try {
+//				    		 
+//				    		  if(data2.contains(line)) {
+//				    			  assertTrue(data2.contains(line));
+//				    		  }else {
+//				    			  i++;
+//				    		  }
+//				    		  y++;
+//				    		  
+//				    	 } catch (Exception e) {};
+//				    	
+//				    }
+//				    if(y!=0) {
+//				    	 resultat = (100*i)/y;
+//				    	 if(resultat <= 25) {
+//				    		 z++;
+//				    	 }
+//				    }
+			    // }
+			    
+			   
+//			    System.out.println("------------------------------------------------------------------------------------------------\n");
+//			    Logger.getGlobal().log(Level.INFO, "for this title :"+ pageTitle +" " +resultat+" %"+ " of content in csv and wiki files are not compliant");
+//			    System.out.println("------------------------------------------------------------------------------------------------\n");
+				// data.clear();
+//				data2.clear();
 				number++;
 			}
 			

@@ -1,0 +1,39 @@
+Name,License,Can reside in,Can boot from,Can boot
+ESP (UEFI),MBR,VBR,Floppy,Hard disk
+Acronis OS Selector,proprietary,Dunno,Dunno,Dunno
+AiRBoot,free|GPLv3,Dunno,Yes,No
+AKernelLoader,free|GPLv2,Dunno,Yes,No
+Barebox,free|GPLv2,Yes,Yes,No
+BootIt Bare Metal (formerly BootIt Next Generation),proprietary,Dunno,Dunno,Dunno
+BootKey,proprietary,Dunno,No,No
+BootManager,free|MIT,Dunno,Yes,No
+BootX (Apple),proprietary,Dunno,Dunno,Dunno
+BootX (Linux),proprietary,Dunno,Dunno,Dunno
+Clover (fork of rEFIt),free|GPLv2/BSD license,yes,yes,yes
+Darwin Boot Loader,free|APSL 20,Dunno,Dunno,Dunno
+Das UBoot,free|GPLv2,Dunno,Dunno,Dunno
+GAG,free|GPLv2,Dunno,Yes (SafeBoot),No
+GRUB Legacy,free|GPLv2,Dunno,no,yes
+GNU GRUB,free|GPLv3,yes,yes,yes
+GRUB4DOS,free|GPLv2,Dunno,no,yes
+Gujin [1],free|GPLv2,Dunno,no,yes
+systemdboot / Gummiboot,free|LGPL 21,yes,no,no
+iBoot,proprietary,yes,dunno,dunno
+LILO,free|BSD license,yes,yes,yes
+loader(8),free|BSD license,yes,yes,yes
+loadlin,free|GPLv2,Dunno,no,no
+MasterBooter,proprietary,dunno,yes,Dunno
+NTLDR,proprietary,Dunno,no,yes
+OSL2000 Boot Manager,proprietary,Dunno,yes,yes
+PLoP Bootmanager,proprietary,Dunno,yes,yes
+RedBoot,mod free|GPLv2,Dunno,no,yes
+rEFInd (fork of rEFIt),free|GPLv3/BSD license,yes,yes,yes
+rEFIt (not maintained),free|GPLv2/BSD license,yes,yes,yes
+Smart Boot Manager,free|GPLv2,Dunno,yes,no
+SPFdisk,free|GPLv2,Dunno,yes,yes
+SYSLINUX,free|GPLv2,yes,no,yes
+XOSL,free|GPLv2,Dunno,no,no
+Windows Boot Manager,proprietary,yes,no,yes
+FreeLoader (ReactOS Boot Loader),free|GPLv2,Dunno,no,yes
+Name,Software license,Can reside in,Can boot from,Can boot
+ESP (UEFI),MBR,VBR,Floppy,Hard disk

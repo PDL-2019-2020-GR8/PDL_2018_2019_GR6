@@ -1,0 +1,4 @@
+IDE,Developer,Latest stable release,Platform,License
+Eclipse DLTK,[empty],50,Windows  Linux  macOS  FreeBSD  JVM  Solaris,yes|EPL
+Komodo IDE / Edit,ActiveState,901,Crossplatform,partial|IDEProprietary  EditGPL  LGPL  MPL
+SlickEdit,SlickEdit,October 2016 v21,Windows  Linux  macOS  AIX  Solaris  HPUX,Proprietary

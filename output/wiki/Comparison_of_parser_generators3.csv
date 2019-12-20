@@ -1,0 +1,49 @@
+Name,Parsing algorithm,Output languages,Grammar  code,Development platform,License
+Arpeggio,PEG parser interpreter  Packrat,Python (no generation  interpreted),DA|Mixed,Yes|All,Free  MIT
+AustenX,Packrat (modified),Java,DP|Separate,Yes|All,Free  BSD
+Aurochs,Packrat,C  OCaml  Java,DA|Mixed,Yes|All,Free  GNU GPL
+BNFlite,Recursive descent,C,DA|Mixed,Yes|All,Free  MIT
+Canopy,Packrat,Java  JavaScript  Python  Ruby,DP|Separate,Yes|All,Free  GNU GPL
+CLpeg,Packrat,Common Lisp,DA|Mixed,Yes|All,Free  MIT
+Drat!,Packrat,D,DA|Mixed,Yes|All,Free  GNU GPL
+Frisby,Packrat,Haskell,DA|Mixed,Yes|All,Free  BSD
+grammarpeg,Packrat,Tcl,DA|Mixed,Yes|All,Free  BSD
+Grako,Packrat  Cut  Left Recursion,Python  C (beta),DP|Separate,Yes|All,Free  BSD
+IronMeta,Packrat,C#,DA|Mixed,Some|Windows,Free  BSD
+Katahdin,Packrat (modified)  mutating interpreter,C#,DA|Mixed,Yes|All,Free  public domain
+Laja,2phase scannerless topdown backtracking  runtime support,Java,DP|Separate,Yes|All,Free  GNU GPL
+larsParser,Packrat (supporting leftrecursion and grammar ambiguity),C,Identical,Yes|All,Free  BSD
+LPeg,Parsing machine,Lua,DA|Mixed,Yes|All,Free  MIT
+lug,Parsing machine,C17,DA|Mixed,Yes|All,Free  MIT
+Mouse,Recursive descent,Java,DP|Separate,Some|Java virtual machine,Free  Apache 20
+Narwhal,Packrat,C,DA|Mixed,Some|POSIX  Windows,Free  BSD
+Nearley,Earley,JavaScript,DA|Mixed,Yes|All,Free  MIT
+NemerlePeg,Recursive descent  Pratt,Nemerle,DP|Separate,Yes|All,Free  BSD
+neotoma,Packrat,Erlang,DP|Separate,Yes|All,Free  MIT
+NPEG,Recursive descent,C#,DA|Mixed,Yes|All,Free  MIT
+OMeta,Packrat (modified  partial memoization),JavaScript  Squeak  Python,DA|Mixed,Yes|All,Free  MIT
+PackCC,Packrat (modified),C,DA|Mixed,Yes|All,Free  MIT
+Packrat,Packrat,Scheme,DA|Mixed,Yes|All,Free  MIT
+Pappy,Packrat,Haskell,DA|Mixed,Yes|All,Free  BSD
+parboiled,Recursive descent,Java  Scala,DA|Mixed,Some|Java virtual machine,Free  Apache 20
+Lambda PEG,Recursive descent,Java,DA|Mixed,Some|Java virtual machine,Free  Apache 20
+parsepp,Recursive descent,C,DA|Mixed,Yes|All,Free  public domain
+Parsnip,Packrat,C,DA|Mixed,Some|Windows,Free  GNU GPL
+peg,Recursive descent,C,DA|Mixed,Yes|All,Free  MIT
+PEGjs,Packrat (partial memoization),JavaScript,DA|Mixed,Yes|All,Free  MIT
+pegparser,PEG parser interpreter,Dylan,DP|Separate,Yes|All,?
+Pegasus,Recursive descent  Packrat (selectively),C#,DA|Mixed,Some|Windows,Free  MIT
+pegc,Recursive descent,C,DA|Mixed,Yes|All,Free  public domain
+pest,Recursive descent,Rust,DP|Separate,Yes|All,Free  MPL
+PetitParser,Packrat,Smalltalk  Java  Dart,DA|Mixed,Yes|All,Free  MIT
+PEGTL,Recursive descent,C11,DA|Mixed,Yes|All,Free  MIT
+Parser Grammar Engine (PGE),Hybrid recursive descent / operator precedence[7],Parrot bytecode,DA|Mixed,Some|Parrot virtual machine,Free  Artistic 20
+PyPy rlib,Packrat,Python,DA|Mixed,Yes|All,Free  MIT
+pyPEG,PEG parser interpreter  Packrat,Python,DA|Mixed,Yes|All,Free  GNU GPL
+Rats!,Packrat,Java,DA|Mixed,Some|Java virtual machine,Free  GNU LGPL
+Spirit2,Recursive descent,C,DA|Mixed,Yes|All,Free  Boost
+textX,PEG parser interpreter  Packrat,Python (no generation  interpreted),DP|Separate,Yes|All,Free  MIT
+Treetop,Recursive descent,Ruby,DA|Mixed,Yes|All,Free  MIT
+Yard,Recursive descent,C,DA|Mixed,Yes|All,Free  MIT or public domain
+Waxeye,Parsing machine,C  Java  JavaScript  Python  Racket  Ruby,DP|Separate,Yes|All,Free  MIT
+PHP PEG,PEG Parser?,PHP,DA|Mixed,Yes|All,Free  BSD

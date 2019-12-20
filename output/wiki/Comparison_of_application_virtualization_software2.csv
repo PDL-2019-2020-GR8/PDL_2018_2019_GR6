@@ -1,0 +1,39 @@
+Virtual machine,Languages,Comments,Interpreter,JIT,Implementation language,SLoC
+Common Language Runtime (CLR),C#  C/CLI  F#  VBNET,bytecode is CIL; NET Core Runtime on GitHub,no,yes,C#  C,[empty]
+Adobe Flash Player (aka Tamarin),ActionScript  SWF (file format),interactive web authoring tool bytecode is named "ActionScript Byte Code (abc)",yes,yes,C,135k (initially released)
+Dis (Inferno),Limbo,Dis Virtual Machine Specification,yes,yes,C,15k  2850 per JIT arch  500 per host OS
+DotGNUPortableNET,CLI languages including C#,Common Language Runtime clone,no,yes,C  C#,[empty]
+Forth,Forth,Features are simplified  usually include assembler  compiler  textlevel and binarylevel interpreters  sometimes editor  debugger and OS Compiling speeds are >20 SKLOC/S and behave much like JIT,yes,no,Forth  Forth Assembler,28K to 56K; advanced  professional implementations are smaller
+Glulx,Inform 6  Inform 7  others,[empty],yes,no,Various implementations exist,[empty]
+HHVM,PHP  Hack,Is an opensource virtual machine designed for executing programs written in Hack and PHP,yes,yes,C  OCaml,[empty]
+Icon,Icon,Base source code provides both the interpreter as well as an unsupported compiletoC version The runtime code  that is shared between the compiler and the interpreter  is written in a variant of C called RTT,yes,no,C  RTT (a custom frontend to C  provided with the base source for Icon),~180k total (source to bytecode ~11k  bytecode interpreter ~46k  iconc ~23k  common/headers ~13k  rtt ~15k)
+JVM,Java  Kotlin  Jython  Groovy  JRuby  C  C  Clojure  Scala and several others,Reference implementation by Sun ; OpenJDK code under GPL ; IcedTea code and tools under GPL,yes,yes,JDK  OpenJDK & IcedTea with regular JIT  Java  C  ASM ; IcedTea with the "Zero" JIT  Java  C,JVM is around 6500k lines; TCK is 80k tests and around 1000k lines
+LLVM,C  C  Kotlin  ObjectiveC  Swift  Ada  Fortran  and Rust,MSIL  C and C output are supported ActionScript Byte Code output is supported by Adobe Alchemy bytecode is named "LLVM Bytecode (bc)" assembly is named "LLVM Assembly Language (*ll)",yes,yes,C,811k [4]
+Lua,Lua,[empty],yes,LuaJIT,C,13k  7k LuaJIT
+MMIX,MMIXAL,[empty],[empty],[empty],[empty],[empty]
+Mono,CLI languages including C#  VBNET  IronPython  IronRuby  and others,Common Language Runtime clone,yes,yes,C#  C,2332k
+Oz,Oz  Alice,[empty],[empty],[empty],[empty],[empty]
+NekoVM,currently Neko and Haxe,[empty],yes,x86 only,C,46k
+Ocode machine,BCPL,[empty],[empty],[empty],[empty],[empty]
+pcode machine,Pascal,UCSD Pascal  widespread in late 70s including Apple II,[empty],[empty],[empty],[empty]
+Parrot,Perl 5  Raku  NQPrx  PIR  PASM  PBC  BASIC  bc  C99  ECMAScript  Lisp  Lua  m4  Tcl  WMLScript  XML  and others,[empty],yes,yes,C  Perl,111k C  240k Perl
+Perl virtual machine,Perl,opcode tree walker,yes,no,C  Perl,175k C  9k Perl
+CPython,Python,[empty],yes,Psyco,C,387k C  368k Python  10k ASM  31k Psyco
+PyPy,Python,Selfhosting implementation of Python  next generation of Psyco,yes,yes,Python,[empty]
+Rubinius,Ruby,Virtual machine for another Ruby implementation,yes,yes,C  Ruby,[empty]
+Silverlight,C#  VBNET,A Microversion of Microsoft NET Framework to let applications run sandboxed inside browser,yes,yes,C,7MB (initially released)
+ScummVM,Scumm,Computer game engine,[empty],[empty],[empty],[empty]
+SECD,ISWIM  Lispkit Lisp,[empty],[empty],[empty],[empty],[empty]
+Squirrel,Squirrel,[empty],yes,Squirrel_JIT,C,12k
+Smalltalk,Smalltalk,[empty],[empty],[empty],[empty],[empty]
+SQLite,SQLite opcodes,Virtual database engine,[empty],[empty],[empty],[empty]
+Squeak,Squeak Smalltalk,Self hosting implementation of Squeak virtual machine Rich multimedia support,yes,yes|Cog & Exupery,Smalltalk/Slang,110k Smalltalk  ~300K C
+TraceMonkey,JavaScript,Based on Tamarin,no,yes,C,173k
+TrueType,TrueType,Font rendering engine,yes,no,C (typically),[empty]
+Valgrind,x86/x8664 binaries,Checking of memory accesses and leaks under Linux,[empty],[empty],C,467k [5]
+VisualWorks,Smalltalk,[empty],no,yes,C,[empty]
+Vx32 virtual machine,x86 binaries,Applicationlevel virtualization for native code,no,yes,[empty],[empty]
+Waba,[empty],Virtual machine for small devices  similar to Java,[empty],[empty],[empty],[empty]
+Yet Another Ruby VM (YARV),Ruby,Virtual machine of the reference implementation for Ruby 19 and newer versions,yes,yes,C,[empty]
+Zmachine,ZCode,[empty],[empty],[empty],[empty],[empty]
+Zend Engine,PHP,[empty],yes,no,C,75k

@@ -1,0 +1,31 @@
+Name,Interface,Type of Client,Downloading headers XOVER,PAR,NZB,unZip or unRAR,Integrated Search Service (retention / $$$/yr),IPv6,SSL/TLS,Audio Video Streaming,Price,Platform,License,Other
+Arachne,GUI,Traditional Newsreader,Yes,No,No,[empty],[empty],[empty],[empty],[empty],Free,DOS  Unixlike,free|GPL,[empty]
+BinTube,GUI,Binary Grabber,No,Yes,Yes,Yes,Yes (3200 Days / Free),Yes,Yes,Yes,$5995 / Free with subscription,Microsoft Windows,proprietary,Streams media while downloading; Free with Usenet Service
+Claws Mail,GUI,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Free,Crossplatform,Free|GPL,[empty]
+Forté Agent,GUI,Combination,Yes,Yes,Yes,Yes,[empty],[empty],Yes,[empty],$29,Microsoft Windows,proprietary,Includes 3 month newsgroup service trial; Shareware
+Gnus,Textbased,Traditional Newsreader,Yes,No,No,No,No,Yes,Yes,No,Free,Crossplatform,free|GPL,Runs in Emacs; also does Email
+GrabIt,GUI,Binary Grabber,Yes,Yes,Yes,Yes,Yes ( 30 days / $2499/yr ),No,Yes,[empty],Free (searching extra),Microsoft Windows,proprietary,Usenet Search Service
+KNode,GUI,Traditional Newsreader,Yes,No,No,[empty],[empty],yes,yes,[empty],Free,Unixlike,free|GPL,KDE
+Lotus Notes,GUI,Traditional Newsreader,Yes,No,No,[empty],[empty],[empty],[empty],[empty],Varies,Microsoft Windows  Unixlike  Mac OS X,proprietary,[empty]
+Name,Interface,Type of Client,Downloading headers XOVER,PAR,NZB,unZip unRAR,Integrated Search Service (retention / $$$/yr),IPv6,SSL/TLS,Audio Video Streaming,Price,Platform,License,Other
+Lynx,Textbased,Traditional Newsreader,Yes,No,No,[empty],[empty],Yes,Yes,[empty],Free,Crossplatform,free|GPL,Limited USENET support
+Mozilla Mail & Newsgroups,GUI,Traditional Newsreader,Yes,No,No,No,No,[empty],[empty],[empty],Free,Crossplatform,free|MPL/GPL/LGPL trilicense,Replaced by SeaMonkey Mail & Newsgroups
+Mozilla Thunderbird,GUI,Traditional Newsreader,Yes,No,No,No,No,Yes,Yes,[empty],Free,Crossplatform,free|MPL,Plugin support
+Newsbin Pro,GUI,Binary Grabber,Yes,Yes,Yes,Yes,Yes ( $10/yr ),Yes,Yes,[empty],$20,Microsoft Windows,proprietary,Shareware
+NewsLeecher,GUI,Combination,Yes,Yes,Yes,Yes,Yes Optional extra Add $10 per year,No,Yes,[empty],Varies,Microsoft Windows,proprietary,Shareware
+Novell GroupWise,GUI,Traditional Newsreader,Yes,No,No,[empty],[empty],[empty],[empty],[empty],Varies,Microsoft Windows  Unixlike,proprietary,[empty]
+Opera Mail,GUI,Traditional Newsreader,Yes,No,No,[empty],No,Yes,Yes,[empty],Free,Crossplatform,proprietary,Part of Opera up to version 1217
+Outlook Express,GUI,Traditional Newsreader,Yes,No,No,No,No,Yes,Yes,[empty],[empty],Microsoft Windows,proprietary,Part of Microsoft Windows (up to Windows Server 2003)
+Pan,GUI,Combination,Yes,No,Yes,No,[empty],Yes,Yes,[empty],Free,Unixlike  Microsoft Windows,free|GPL,Gtk
+Name,Interface,Type of Client,Downloading headers XOVER,PAR,NZB,unZip & unRAR,Integrated Search Service (retention / $$$/yr),IPv6,SSL/TLS,Audio Video Streaming,Price,Platform,License,Other
+Seamonkey Mail & Newsgroups,GUI,Traditional Newsreader,Yes,No,No,No,No,[empty],[empty],[empty],Free,Crossplatform,free|MPL,Replaced Mozilla Mail & Newsgroups
+slrn,textbased,Traditional Newsreader,Yes,Yes (using macros),Yes (using macros),Yes (using macros),No,Yes,Yes,No,Free,Crossplatform,free|GPLv2,Highly extensible using SLang scripts (macros)
+Sylpheed,GUI,Traditional Newsreader,Yes,No,No,[empty],[empty],[empty],Yes,[empty],Free,Crossplatform,free|GPL/LGPL,Gtk
+tin,textbased,Traditional Newsreader,Yes,No,No,No,[empty],Yes,No,[empty],Free,Unixlike,free|BSD,Free Software
+Unison,GUI,Combination,Yes,Yes,Yes,Yes,[empty],Yes,Yes,Yes (audio only),Free,Mac OS X,proprietary,Development has ceased Free but unsupported
+Usenet Explorer,GUI,Combination,Yes,Yes,Yes,Yes,Yes ( 1500 days / $2334/yr ),Yes,Yes,[empty],$35,Microsoft Windows,proprietary,Shareware
+Windows Live Mail,GUI,Traditional Newsreader,Yes,[empty],[empty],[empty],[empty],Yes,[empty],[empty],Free,Microsoft Windows,proprietary,[empty]
+Windows Mail,GUI,Traditional Newsreader,Yes,[empty],[empty],[empty],[empty],Yes,[empty],[empty],[empty],Microsoft Windows,proprietary,Part of Windows Vista and Windows Server 2008
+Xnews,GUI,Combination,Yes,No,No (Can create NBZs),[empty],[empty],No,[empty],[empty],Free,Microsoft Windows,proprietary,[empty]
+XPN,GUI,Traditional Newsreader,Yes,No,No,[empty],[empty],[empty],Yes,[empty],Free,Crossplatform,free|GPL,[empty]
+Name,Interface,Type of Client,Downloading headers XOVER,PAR,NZB,unZip unRAR,Integrated Search Service (retention / $$$/yr),IPv6,SSL/TLS,Audio Video Streaming,Price,Platform,License,Other

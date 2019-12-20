@@ -1,0 +1,33 @@
+! HTML5 standard,HTML web browser features,Adobe Flash/AIR features
+Date started,Work began in 2003 Working Draft as of 2011[3],n/a
+Desktop operating systems,n/a,yes|AmigaOS  MorphOS  Apple macOS  Linux  Microsoft Windows
+Mobile operating systems,n/a,yes| Android 23 and newer[5] Apple iOS 6 and newer[5] Symbian Belle[5] BlackBerry OS 7 and 10[5] Windows Phone 7 and newer[5] |
+Video game consoles,n/a,yes| PlayStation (PS4  PS3 and PS Vita)[11][12][13] Nintendo Switch and Wii U[14][15][11][16] Nintendo 3DS family (partial)[11] Xbox One and Xbox 360[11][17] |
+Device support,n/a,colspan="2" yes|Full  permissionbased access to web camera  microphone  accelerometer and GPS
+Market penetration,n/a,yes|Available in all major browsers
+Vector graphics formats,n/a,yes|Scalable Vector Graphics (SVG) supported on ~97% of browsers[19]
+Bitmap effects,yes,yes|90%[20] support of Filters in CSS3 (eg Glow  Blur  Drop Shadow  Sepia)[21]
+Vector text display,yes,yes
+Font support,n/a,yes|Installed fonts and custom fonts using CSS 3 web fonts
+Text antialiasing,n/a,yes  implemented in most browsers  for system and custom fonts
+Text tab stops,no,depends|Only supported inside "pre" tags
+Liquid text layout,yes,yes  via "div" tag and CSS styling
+Tabular data,yes,yes  via "table" tag
+Linked text framesnote|a|1,depends|As of|2016  two specifications compete CSS Regions[24] and CSS Overflow[25],depends|With CSS Regions  supported by Safari  IE11 and Edge[26]
+Programming languages,depends,yes|JavaScript
+C support,yes|Crosscompiling C code to JavaScript via Emscripten,depends|Native code execution with Google Native Client in Google Chrome  also supported with WebAssembly (experimental)
+Code delivery format,Plaintext,Plaintext JavaScript with limited obfuscation  WebAssembly bytecode (experimental)  GLSL for GPUs  in Canvas elements
+Data formats,depends,yes|CSS 3  HTML  XML  JSON[29]
+Data compression,no,yes|GZIP compression for HTML  JS and CSS files[31]
+Image formats,depends,yes|PNG  JPEG  SVG  Animated GIF[32][33]
+Video formats,depends,yes|90% support of H264;[36] varying support of WebM and Ogg Theora (see HTML5 video)
+Streaming video,yes[38],yes|Supported by IE  Edge  Firefox  Chrome  Safari and Opera[39]
+Audio formats,depends,yes|~94% support of MP3 [40] AAC[41] and WAV PCM; varying support of Ogg Vorbis  and WebM Vorbis (see HTML5 audio)
+Fullscreen support,yes[42],yes|Supported on all major desktop browsers  with warning displayed[43] Not yet widely supported on mobile
+Encryption DRM,depends,depends|~65% support of audio/video files[44] All other files being plaintext  except for obfuscation
+File system access,depends,depends|~87% support of single file upload  and drag and drop of files onto browser[45]
+Bitmap manipulation,depends,yes|~95% support for canvas element[48]
+Binary manipulation,yes,yes  via JavaScript Typed Arrays[50]
+Large binary data,no,depends|Via Web Sockets to stream binary or XML data
+Offline storage,depends,yes  via Web storage  HTTP cookie  or Indexed DB to store binary  XML or JSON data[53]
+Metadata,yes|Meta tags,yes|Can be included in meta tags

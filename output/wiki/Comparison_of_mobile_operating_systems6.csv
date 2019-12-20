@@ -1,0 +1,24 @@
+Feature,Android,iOS,Windows 10 Mobile,BlackBerry 10,Tizen,Sailfish OS,Ubuntu Touch
+Default web browser/engine,Blink,WebKit,Trident (EdgeHTML after 10),WebKit,WebKit,Gecko[185],QtWebEngine (based on Blink)
+Major web browser available,Chrome for Android  Opera  Firefox  Microsoft Edge,Safari  Chrome for iOS  Opera Mini  Firefox  Microsoft Edge,Internet Explorer  Opera Mini  UC Browser  Microsoft Edge,BlackBerry 10 Browser  Opera Mini  Opera,Tizen Browser (Based on UC Browser),Sailfish Browser (Firefox)  Webcat (WebKit)  Web Pirate (WebKit)  others via Android (Firefox  Chrome  Opera),Morph Browser
+Browser extensions,No2 No[186] 3rd party software[187],Yes|8[188],No2 No  3rd party software[189],No,No,No,No
+Browser direct Internet connection (increased resilience to outages),Yes,Yes,Yes,Yes|10 [190] 71 and older route through BlackBerry Internet Service  direct browsing supported over WiFi,Yes,?,?
+Browser undo close tab,Yes|Google Chrome for Android[191],Yes|8[192],No2 No  3rd party software[193],No,No,No,No
+Browser keeps windows open on shutdown or crash,Yes|23 Google Chrome[194] but not on the deprecated AOSP browser[195],Yes,Yes,Yes|10 Opens dialog for choosing which websites to restore after crash  option to restore all sites after restart,No,Yes,Yes
+Browser keeps windows open when cleaning cookies,Yes,no2|3rd party software[196],Yes,Yes,?,Yes,Yes
+Browser search engine options,Many[197],Bing  Google  Yahoo! Search  DuckDuckGo,Bing  Google support removed on some markets on 81 GDR1[198] W10M Many,Bing  Google  Yahoo  User Defined,Bing  Google  Yahoo! Search,Bing  Google  Yahoo  Yandex Baidu  DuckDuckGo  StartPage  Searx  ixquick  Swisscows  Qwant  Seznam  Hulbee via openrepos[199],Baidu  Bing  DuckDuckGo  Ecosia  Google  lilo  Peekier  Qwant  Wikipedia  Yahoo[200]
+Browser find on page,Yes|15[201],Yes|42[202],Yes|8[203],Yes[204],Yes,Yes|11216[205],Yes
+Browser/email save images,Yes,Yes[206],Yes[207],Yes,?,Yes,Yes
+Browser/email save PDFs,Yes,Yes[82],Yes[208],Yes,Yes,Yes,Yes
+Browser save audio/video,Okay|Yes  but only links  not embedded media,Yes|13;[209] 5 3rd party software[210],Yes|81[211],Okay|Yes (embedded media not supported),Yes,Yes,Yes
+Browser save page,Yes  Google Chrome 55[212],Yes|6 Offline Reading List;[213] 3rd party software[214],Yes|10[215],Yes[216],Yes,?,Yes
+Browser save any file,Yes  Chrome for Android,Yes|13;[209] 5 When an app that can handle/open the filetype is installed (excluding audio/video €“ requires 3rd party software[217]);[218],Yes|81[211],Yes|10,?,Yes,Yes
+Browser force enable zoom,No  not working anymore on Android 44[219],Yes[220],Yes  via accessibility settings,Yes via accessibility settings,?,?,?
+Browser text reflow[221],No  removed on Android 44[222][223],Okay|5 Only on pages with reader mode available[224][225] 3rd party browsers on prior versions[226],Okay|Only on pages available on reading view on 81,Yes[227] 10 Only in reader mode,No,No,No
+Browser Reader Mode,No2No [228] 3rd party software[229][230],Yes|5[224][225],Yes|81[231],Yes|10[232],Yes,No[233],No
+Browser file upload,Yes|22[234],Yes|9; 6€“8 Limited,Yes,Yes|42[235],Yes,Yes|10716[236],Yes
+Browser form navigation,Yes|Next button[237],Yes|Previous  Next  AutoFill  and Done buttons[238],Yes,Yes[235],?,?,?
+Browser private browsing mode,Yes|30 with AOSP browser[239] or with Chrome for Android,Yes|5[240],Yes|81[101],Yes|10[241],Yes,Yes|11627[242],Yes
+Offline web apps,Yes[243],Yes[244][245][246],?,?,No,?,Yes
+HTTP Live Streaming,Yes|3[247],Yes|3[248],Yes|10[249],Yes|10[250],No,?[251],Yes
+WebRTC,Yes[252],Yes|11[253],No,Yes (beta),No,No,Yes

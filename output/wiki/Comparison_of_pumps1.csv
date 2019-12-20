@@ -1,0 +1,14 @@
+Pump type,Cyclic/continuous ?,Maximum lift height,Production cost,Efficiency,Output,Size of device,Fabrication requirements,Difficulty of production,Durability,Difficulty of repair,Suction lift ?
+Continuous bucket pump,continuous,5m50m,lowmedium,medium,lowmedium,?,?,traditional,?,?,no
+Counterpoise lift or Shadoof,cyclic,1m4m,lowmedium,lowmedium,lowmedium,?,?,traditional,?,?,no
+Mohte,cyclic,3m8m,lowmedium,low,medium,?,?,traditional,?,?,no
+Persian wheel "Tablia",continuous,3m10m,lowmedium,medium,medium,?,?,traditional,?,?,no
+Persian wheel "Zawaffa",continuous,3m15m,medium,mediumhigh,mediumhigh,?,?,traditional,?,?,no
+Pivoting gutters and "dhones",cyclic,1m15m,lowmedium,lowmedium,lowmedium,?,?,traditional,?,?,no
+Reciprocating bucket hoist,cyclic,100m500m,mediumhigh,medium,mediumhigh,?,?,industrial,?,?,no
+Rope & bucket and windlass,cyclic,5m50m,very low,very low,very low,?,?,basic,?,?,no
+Scoops and bailers,cyclic,>1m,very low,very low,lowmedium,?,?,basic,?,?,no
+Scoop wheel "Sakia",continuous,>2m,mediumhigh,mediumhigh,mediumhigh,?,?,traditional,?,?,no
+Swing basket,cyclic,>1m,very low,very low,lowmedium,?,?,basic,?,?,no
+Waterwheels or noria,continuous,>5m,lowmedium,lowmedium,lowmedium,?,?,traditional,?,?,no
+Watering car,cyclic,>3m,very low,very low,very low,?,?,basic,?,?,no

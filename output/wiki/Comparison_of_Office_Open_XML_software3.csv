@@ -1,0 +1,17 @@
+[empty],Version,Operating systems,Office suite,Developer,License,ECMA376,ISO/IEC 295002008,Notes
+Butler Office Pro X,220[11],Mac OS X,Butler Office Pro X,Butler Software Solutions,proprietary,yes,[empty],Full support via email
+DataViz Slideshow To Go,11000[12],Palm OS  Windows Mobile  Symbian (UIQ  S80),Documents To Go,DataViz,proprietary,yes,[empty],[empty]
+EIOffice Presentation,2009  501272101[13],Windows  Linux,EIOffice,Evermore Software,proprietary,yes,[empty],Import only[13]
+Gooo Impress,300[14],Windows  Linux  Unix  Mac OS X,Gooo,Free software community,free|LGPL  CDDL,yes,[empty],Import only
+IBM Lotus Symphony,13[16],Windows  Mac OS X  Linux,IBM Lotus Symphony,IBM,proprietary,yes,[empty],Import only
+Keynote,'08[38],Mac OS X,iWork,Apple Inc,proprietary,yes,[empty],[empty]
+LibreOffice,All versions,Windows  OS X  Linux  Unix  Android,[empty],The Document Foundation,free|MPL,yes,yes,[empty]
+Microsoft Office PowerPoint,2013  2011 for Mac,Windows  Mac OS X,Microsoft Office,Microsoft,proprietary,yes,yes,[empty]
+Microsoft Office Mobile PowerPoint Mobile,61[23],Windows Mobile,Microsoft Office Mobile,Microsoft,proprietary,yes,[empty],[empty]
+NeoOffice Impress,225[36],Mac OS X,NeoOffice,Patrick Luby  Edward Peterlin,free|GPL,yes,[empty],[empty]
+ONLYOFFICE,52[27],Web Application,ONLYOFFICE,Ascensio System SIA,Proprietary  AGPL,yes,!,[added]
+OpenOfficeorg Impress,30,Windows  Linux  Unix  Mac OS X,OpenOfficeorg,OpenOfficeorg,free|LGPL,yes,[empty],Import only
+Corel Presentations,X4 (2008)[34],Windows,WordPerfect Office,Corel,proprietary,yes,[empty],Import only
+StarOffice Impress,9[30],Windows  Linux  Solaris,StarOffice,Sun Microsystems,proprietary,yes,[empty],Import only[31]
+Thinkfree Office Show,[33],Windows  Mac OS X  Linux,Thinkfree Office,ThinkFree Corp,proprietary,yes,[empty],[empty]
+! Version,Operating systems,Office suite,Developer,License,ECMA376,ISO/IEC 295002008,Notes,[added]

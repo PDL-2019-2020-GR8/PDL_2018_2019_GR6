@@ -1,0 +1,15 @@
+Feature,Android,iOS,Windows 10 Mobile,BlackBerry 10,Tizen,Sailfish OS,Ubuntu Touch
+Proxy server,Okay|31[489] but only global  not per connection[490] and only works for the browser[491] 3rd party apps available[492],Yes,Yes,Yes,Yes,Yes[493],No
+Ondevice encryption,Okay|3[494] but insecure on Qualcomm devices[495],Yes[496] (3rd party software may attempt bruteforce attacks on password[497]),Yes|8[498],Yes[499] (3rd party software may attempt bruteforce attacks on password[497]),No,No[500],No
+External storage encryption,Yes|6,No|External storage not available,Yes|10  81 Apps and data only[501],Yes[502],No,Yes,No
+Zero knowledge encryption[503],No|No  data is accessible by Google[504] and shared with the American PRISM surveillance program[505],No  data stored on iCloud is accessible by Apple[506] and shared with the American PRISM surveillance program[505],No|No  data is accessible by Microsoft[507] and shared with the American PRISM surveillance program[505],?,?,?,No
+Privacy of synchronization[508],No2 3rd party software like ownCloud[509],Yes|When synchronizing locally and not using iCloud,Okay|Partial  Contacts  Calendar and Mail can be kept private when using your own Exchange server or Office 365 own cloud instead of synchronizing with public cloud servers (that keeps data unencrypted)[510] for Photos and Office docs can be kept private when using your own Office 365 cloud or SharePoint [511] or synchronization of Phones can be disabled (by default)[512],No2|When using your own BES instead of BlackBerry cloud BES (that keeps data unencrypted)[513],?,?,?
+Sync to cloud communication encryption,Yes|234[514],Yes[515],Yes|71077200[516],Yes[517],?,?,?
+Wireless antitracking[518],Yes|Developer Options (9)[519],Yes|8[520],Yes|10[521],No,No,?,No
+Remote device location tracking,Yes[522],Yes[523],Yes[524],Yes,?,?,No
+Remote device locking and/or data wipe,Yes|22[525],Yes[523],Yes[524],Yes,?,?,No
+Endtoend encrypted push notifications,Yes|Possible  notifications are handled by the app that can decrypt it[163],Yes|Possible since iOS 7  where the app can handle the notification and decrypt it[526],Yes|Possible  raw notifications are handled by the app that can decrypt it[527],?,?,?,Yes
+SSH Client,Yes,Yes[528][529],Yes[530],Yes,?,Yes,Yes
+VPN,Yes[531],Yes[532],Yes|81[101],Yes|10[533],?,Yes,Yes
+OpenVPN,No2 No  but possible with 3rd party firmware[534],Yes[535],No,No,?,Yes,Yes
+WPA PEAP,Yes[536],Yes[537],Yes[538],Yes,?,Okay|In developer mode[539],Yes

@@ -1,0 +1,13 @@
+IDE,License,Platform,Developer,Latest stable release
+CodeBlocks,yes|GPL,Windows  Linux  macOS  FreeBSD  OpenBSD  Solaris,CodeBlocks Team,1712 / 20171230
+Geany,yes|GPL,Windows  Linux  macOS  FreeBSD  AIX  OpenBSD  Solaris  other Unix,Team,127 / March 13  2016
+GNAT Programming Studio,yes|GPL,Windows  Linux  macOS  DragonFly BSD  FreeBSD  NetBSD  OpenBSD  Solaris,AdaCore,431 / June 2009
+KDevelop,yes|GPL,Linux,KDevelop Team,Latest stable release/KDevelop
+NetBeans,yes|CDDL|GPL,Windows  Linux  macOS,NetBeans Community,81 / November 4  2015
+OpenWatcom,yes|OSI Approved,Windows  Linux  DOS  OS/2,OpenWatcom Community,19 / June 2  2010
+Photran (Eclipse),yes|EPL,Windows  Linux  macOS  FreeBSD  JVM  Solaris,University of Illinois  Los Alamos National Laboratory,91 / June 24  2015
+Plato,Proprietary,Windows,Silverfrost,4730
+Understand,proprietary,Windows  Linux  macOS  Solaris  other Unix,SciTools,December 4  2015
+Simply Fortran,Proprietary,Windows  Linux,Approximatrix  LLC,239 / August 30  2017
+SlickEdit,Proprietary,Windows  Linux  MacOS  AIX  Solaris  Solaris SPARC  HPUX,SlickEdit,October 2016
+IntelliJ IDEA,ASLv2,Windows  Linux  MacOS  FreeBSD  OpenBSD  Solaris,JetBrains,September 2017

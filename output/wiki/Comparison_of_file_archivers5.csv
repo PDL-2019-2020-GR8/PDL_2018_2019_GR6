@@ -1,0 +1,30 @@
+[empty],ZIP,TAR,gzip,bzip2,7z,xz,RAR,LHA/LZH,ACE,StuffIt,StuffIt X,ARJ,KGB,DAR,ARC,CAB,ALZ,ISO/CD Image,ZPAQ
+7Zip,yes,yes,yesRef label|writing7Zip|14,yesRef label|writing7Zip|14,yes,yesRef label|writing7Zip|14,no,no,no,no,no,no,no,no,no,no,no,no,no
+ALZipRef label|ALZip|6,yes,yes,yes,yes,no,unk,no,no,no,no,no,no,no,no,no,yes,yes,unk,no
+Archive Manager,yes,yes,yes,yes,yes,yes,noRef label|writingarchivemanager|12,yes,unk,unk,unk,yes,unk,unk,unk,unk,unk,no,no
+Archive Utility,yes,no,no,no,no,unk,no,no,no,no,no,no,no,no,no,no,no,no,no
+Ark,yes,yes,yes,yes,yes,yes,noRef label|writingark|10,yes,no,no,no,no,no,no,no,no,no,no,no
+B1 Free Archiver,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+BetterZip,yes,yes,yes,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no
+bsdtar/libarchive,yes,yes,yesRef label|writingbsdtar|15,yesRef label|writingbsdtar|15,yes,yesRef label|writingbsdtar|15,no,no,no,no,no,no,no,no,no,no,no,yes,no
+Commander One,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+CRAX Commander,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,no
+Disk ARchiver,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no
+Filzip,yes,yes,yes,no,no,unk,no,yes,no,no,no,no,no,unk,unk,unk,unk,unk,no
+FreeArc,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no
+GNU tar,no,yes,yesRef label|tarcompressionw|1,yesRef label|tarcompressionw|1,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no
+iArchiver,yes,yes,yes,yes,yes,unk,no,no,no,no,no,no,no,no,no,no,no,no,no
+InfoZIP,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+KGB Archiver,yes,no,no,no,no,unk,no,no,no,no,no,no,yes,unk,unk,unk,unk,unk,no
+PeaZip,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,yes,no,no,no,yes
+PKZIP,yes,yes,yes,yes,no,unk,no,no,no,no,no,no,no,unk,unk,unk,unk,unk,no
+PowerArchiver,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,yes,no,no,yes
+Star,no,yes,yesRef label|tarcompressionw|1,yesRef label|tarcompressionw|1,yesRef label|tarcompressionw|1,yesRef label|tarcompressionw|1,no,no,no,no,no,no,no,no,no,no,no,no,no
+StuffItRef label|StuffItonly|4,yes,yes,yes,yes,no,unk,noRef label|StuffIt|9,yes,no,yes,yes,no,no,unk,unk,unk,unk,unk,no
+TUGZip,yes,yes,yes,yes,yes,unk,noRef label|writingtugzip|2,yes,noRef label|writingtugzipace|4,no,no,no,no,no,no,yes,no,unk,no
+WinAce,yes,yes,yes,yes,no,unk,no,yes,yes,no,no,no,no,unk,unk,yes,unk,yes,no
+WinRAR,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no
+WinZip,yes,no,no,no,no,unk,no,yes,no,no,no,noRef label|writingwinzip|3,no,unk,yes,no,no,no,no
+Xarchiver,yes,yes,yes,yes,yes,unk,noRef label|writingxarchiver|11,yes,no,unk,unk,yes,unk,unk,unk,unk,unk,unk,no
+ZipGenius,yes,yesRef label|zipgeniusupdating|7,yesRef label|zipgeniusupdating|7,yesRef label|zipgeniusupdating|7,yes,unk,no,yesRef label|zipgeniusexternal|8,no,no,no,no,no,no,unk,yesRef label|zipgeniusupdating|7,no,no,no
+! ZIP,TAR,GZ,BZ/BZ2,7z,xz,RAR,LHA/LZH,ACE,SIT,SITX,ARJ,KGB,DAR,ARC,CAB,ALZ,ISO/CD Image,ZPAQ,[added]

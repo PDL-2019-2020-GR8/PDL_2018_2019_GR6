@@ -1,0 +1,7 @@
+Name,Mac OS X,Mac OS classic,Windows,Cygwin,BSD,Linux,Solaris,Java,OpenVMS,z/OS,AmigaOS,AIX,HPUX,iOS iPhone r|group=Note|iphone iPod Touch,webOS,Android
+Apache MINA SSHD,yes,no,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,no,no,no
+CopSSH,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no
+CrushFTP Server,yes,no,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,no,no,no
+Dropbear,yes,no,no,yes,yes,yes,yes,no,no,no,no,yes,yes,no,yesr|group=Note|sshwebos,yes
+lsh,yes,no,no,no,partialr|group=Note|freebsdonly,yes,yes,no,no,no,no,no,no,no,no,??
+OpenSSH (OpenBSD Secure Shell),included,no,optionalr|group=Note|win32openssh,included,included,includedr|group=Note|opensshlinux,yes,no,yes,yes,yes,yesr|group=Note|opensshaix,included,yesr|group=Note|opensshiphone,yesr|group=Note|sshwebos,partial

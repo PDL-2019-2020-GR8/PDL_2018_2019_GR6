@@ -1,0 +1,23 @@
+Name,Lexer algorithm,Output languages,Grammar  code,Development platform,License
+Alex,DFA,Haskell,DA|Mixed,Yes|All,Free  BSD
+AnnoFlex,DFA,Java,DA|Mixed,Some|Java virtual machine,Free  BSD
+AustenX,DFA,Java,DP|Separate,Yes|All,Free  BSD
+Boozetools,DFA,state machine is runtimegenerated or saved as JSON,DA|Mixed,Some|Python,Free  public domain
+C# Flex,DFA,C#,DA|Mixed,Some|NET CLR,Free  GNU GPL
+C# Lex,DFA,C#,DA|Mixed,Some|NET CLR,?
+CookCC,DFA,Java,DA|Mixed,Some|Java virtual machine,Free  Apache 20
+DFAlex,DFA,no code generation required,Java,Some|Java,Free  Apache 20
+Dolphin,DFA,C,DP|Separate,Yes|All,Proprietary
+Flex,DFA table driven,C  C,DA|Mixed,Yes|All,Free  BSD
+gelex,DFA,Eiffel,DA|Mixed,Some|Eiffel,Free  MIT
+golex,DFA,Go,DA|Mixed,Some|Go,Free  BSDstyle
+gplex,DFA,C#,DA|Mixed,Some|NET CLR,Free  BSDlike
+JFlex,DFA,Java,DA|Mixed,Some|Java virtual machine,Free  BSD
+JLex,DFA,Java,DA|Mixed,Some|Java virtual machine,Free  BSDlike
+lex,DFA,C,DA|Mixed,Some|POSIX,Partial  proprietary  CDDL
+lexertl,DFA,C,?,Yes|All,Free  GNU LGPL
+LRSTAR,DFA,C,DP|Separate,Some|Windows,Free  BSD
+Quex,DFA direct code,C  C,DA|Mixed,Yes|All,Free  GNU LGPL
+Ragel,DFA,C  C  assembly,DA|Mixed,Yes|All,Free  GNU GPL  MIT[1][1]
+RE/flex,DFA direct code  DFA table driven  and NFA regex libraries,C,DA|Mixed,Yes|All,Free  BSD
+re2c,DFA direct code,C,DA|Mixed,Yes|All,Free  public domain

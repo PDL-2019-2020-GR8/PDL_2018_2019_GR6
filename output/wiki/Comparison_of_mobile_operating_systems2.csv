@@ -1,0 +1,21 @@
+Feature,Android,iOS,Windows 10 Mobile,BlackBerry 10,Tizen,Sailfish OS,Ubuntu Touch
+Whileinuse permissions,Yes|10,Okay|11 Location only[42],No,No,No,No,Yes
+Perapp Internet access,No2No [43] 3rd party software[44],Okay|7 Cellular only;[45] 3rd party software on jailbroken devices[46],No,Yes[47],No,No,No
+Perapp identity access,Yes|8[48],Yes|6[49][50],No,Yes,No,No,Yes
+Perapp user data access,Yes|6[51],Yes|6[52],Yes|81update2[53],Yes[47],No,No,Yes
+Perapp background execution,No2 No [54] 3rd party apps available[55],Yes|7[56],Yes[57],Yes|1021[58],No,No,No|Background execution not allowed
+Perapp notifications,Yes|41[59],Yes|5[60][61],Yes|81[62],Yes|10,No,No,Yes
+Perapp location access,Yes|6[51],Yes|4[63],Yes|10[64],Yes[47],No,No,Yes
+Perapp camera access,Yes|6[51],Yes|8[65],Yes|81update2[53],Yes[47],No,No,Yes
+Perapp microphone access,Yes|6[51],Yes|7[66],Yes|81update2[53],Yes[47],No,No,Yes
+Perapp shared files access,Yes|6[51],Yes|8[67],No,Yes[47],No,No,Yes
+Perapp network data usage auditing,Yes|4[68],Yes[69],Yes|8 GDR2 Data Sense[70] or Nokia Counters in 75[71],Yes[72],?,No[73],No
+Fine grained storage usage,Yes[74],Yes|5[75],Yes|8 GDR3[76],Yes|1021,?,No,Yes
+Parental controls,Rarely|43 or 3rd party software[77],Yes[78],Yes|8[79],Yes|71[80],?,No,No
+Screen orientation lock,Yes[81],Yes[82],Yes|8 GDR3[83],Yes|10[84],?,Yes|1041[85],Yes
+File manager,Yes|60[86],Yes|11[87],Yes|81[88],Yes|10[89],No2 3rd party software[90],Yes[91],Yes
+File manager write access to external storage,Yes|6 Or 3rd party software like LineageOS,No2|3rd party software and external storage[92],Yes,Yes,Yes,Yes,Yes
+Multiuser,Yes|42  including phones 5[93][94],Okay|93 Education use only on iPad[95],No,No,No,No,No
+Guest mode,Yes|5[96],Yes|6[97],No  Kid's Corner removed on Windows 10 Mobile Anniversary Update  Apps Corner is removed on Creators Update[98],No,No,No,No
+Do not disturb mode,Yes|5[99],Yes|6[100],Yes|81[101],Yes,No,No,No
+App groups,Yes,Yes|4[102],Yes|81 Update,Yes[103],?,Yes|10716[104],Yes

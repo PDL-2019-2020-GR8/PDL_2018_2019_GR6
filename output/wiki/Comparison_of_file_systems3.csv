@@ -1,0 +1,58 @@
+File system,Hard links,Symbolic links,Block journaling,Metadataonly journaling,Casesensitive,Casepreserving,File Change Log,Internal snapshotting / branching,XIP,Filesystemlevel encryption,Data deduplication,Data checksums
+DECtape,no,no,no,no,no,no,no,no,no,no,no,no
+BeeGFS,yes,yes,yes,yes,yes,yes,no,no,no,no,yes,no
+LevelD,no,no,no,no,no,no,no,no,no,no,no,no
+RT11,no,no,no,no,no,no,no,no,no,no,no,no
+APFS,yes,yes,dunno,dunno,partial,yes,dunno,yes,dunno,yes,partial,no
+Version 6 Unix file system (V6FS),yes,no,no,no,yes,yes,no,no,no,no,no,no
+Version 7 Unix file system (V7FS),yes,noefn |name=note59 |System V Release 4  and some other Unix systems  retrofitted symbolic links to their versions of the Version 7 Unix file system  although the original version didn't support them,no,no,yes,yes,no,no,no,no,no,no
+exFAT,no,no,no,partial (with TexFAT only),no,yes,no,no,no,no,no,no
+FAT12,no,no,no,partial (with TFAT12 only),no,partial (with VFAT LFNs only),no,no,no,partial (DRDOS with SECURITY only),no,no
+FAT16 / FAT16B / FAT16X,no,no,no,partial (with TFAT16 only),no,partial (with VFAT LFNs only),no,no,no,partial (DRDOS with SECURITY only),no,no
+FAT32 / FAT32X,no,no,no?,partial (with TFAT32 only),no,partial (with VFAT LFNs only),no,no,no,no,no,no
+GFS,yes,yesefn |Context based symlinks were supported in GFS  GFS2 only supports standard symlinks since the bind mount feature of the Linux VFS has made context based symlinks obsolete,yes,yesefn |Optional journaling of data,yes,yes,no,no,no,no,dunno,no
+HPFS,no,no,no,no,no,yes,no,dunno,no,no,dunno,no
+NTFS,yes,yesefn |As of Windows Vista  NTFS fully supports symbolic links[35] NTFS 30 (Windows 2000) and higher can create junctions  which allow entire directories (but not individual files) to be mapped to elsewhere in the directory tree of the same partition (file system) These are implemented through reparse points  which allow the normal process of filename resolution to be extended in a flexible manner,noefn |name=note37 |NTFS stores everything  even the file data  as metadata  so its log is closer to block journaling,yesefn |name=note37 (2000),yesefn |name=note36 |While NTFS itself supports case sensitivity  the Win32 environment subsystem cannot create files whose names differ only by case for compatibility reasons When a file is opened for writing  if there is any existing file whose name is a caseinsensitive match for the new file  the existing file is truncated and opened for writing instead of a new file with a different name being created Other subsystems like e g Services for Unix  that operate directly above the kernel and not on top of Win32 can have casesensitivity,yes,yes,partialefn |name=note93 |NTFS does not internally support snapshots  but in conjunction with the Volume Shadow Copy Service can maintain persistent block differential volume snapshots,dunno,yes,yesefn |name=noteNTFSDedup |Supported only on Windows Server SKUs However  partitions deduplicated on Server can be used on Client[36],no
+HFS Plus,yes[37],yes,no,yesefn |name=note48 |Metadataonly journaling was introduced in the Mac OS X 1022 HFS Plus driver; journaling is enabled by default on Mac OS X 103 and later,partialefn |Although often believed to be case sensitive  HFS Plus normally is not The typical default installation is casepreserving only From Mac OS X 103 on the command newfs_hfs s will create a casesensitive new file system[38] HFS Plus version 5 optionally supports casesensitivity However  since casesensitivity is fundamentally different from caseinsensitivity  a new signature was required so existing HFS Plus utilities would not see casesensitivity as a file system error that needed to be corrected Since the new signature is 'HX'  it is often believed this is a new filesystem instead of a simply an upgraded version of HFS Plus[39][40],yes,yesefn |Mac OS X Tiger (104) and late versions of Panther (103) provide file change logging (it's a feature of the file system software  not of the volume format  actually)[41],no,no,noefn |name=note77 |HFS does not actually encrypt files to implement FileVault  OS X creates an HFS filesystem in a sparse  encrypted disk image that is automatically mounted over the home directory when the user logs in,no,no
+FFS,yes,yes,no,no,yes,yes,no,no,no,no,no,no
+UFS1,yes,yes,no,no,yes,yes,no,no,no,no,no,no
+UFS2,yes,yes,no,yesefn |name=note66 |"Soft dependencies" (softdep) in NetBSD  called "soft updates" in FreeBSD provide metadata consistency at all times without double writes (journaling) [42] efn|Journaled Soft Updates (SUJ) are the default as of FreeBSD 9xRELEASE [43][44],yes,yes,no,yes,dunno,no,no,no
+HAMMER,yes,yes,yes,yes,yes,yes,dunno,yes,no,no,yes,yes
+LFS,yes,yes,yesefn |name=note38 |UDF  LFS  and NILFS are logstructured file systems and behave as if the entire file system were a journal,no,yes,yes,no,yes,no,no,no,no
+ext,yes,yes,no,no,yes,yes,no,no,no,no,no,no
+Xiafs,yes,yes,no,no,yes,yes,no,no,no,no,no,no
+ext2,yes,yes,no,no,yes,yes,no,no,yesefn |name=note65 |Linux kernel versions 2612 and newer,no,no,no
+ext3,yes,yes,yes (2001) efn |name=note62 |Off by default,yes (2001),yes,yes,no,no,yes,no,no,no
+ext4,yes,yes,yesefn |name=note62,yes,yes  optional [45],yes,no,no,yes,yes  experimental [46],no,no
+NOVA,yes,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+F2FS,yes,yes,yesefn |name=note38,no,yes,yes,no,no,no,yes  experimental [47],no,no
+Lustre,yes,yes,yesefn |name=note62,yes,yes,yes,yes,no,no,no,no,no
+NILFS,yes,yes,yesefn |name=note38,no,yes,yes,no,yes,no,no,no,yes
+ReiserFS,yes,yes,yesefn |name=note44 |Full block journaling for ReiserFS was added to Linux 268,yes,yes,yes,no,no,dunno,no,no,no
+Reiser4,yes,yes,yes,no,yes,yes,no,dunno,dunno,yesefn |name=note50 |Reiser4 supports transparent compression and encryption with the cryptcompress plugin which is the default file handler in version 41,dunno,no
+OCFS,no,yes,no,no,yes,yes,no,no,no,no,no,no
+OCFS2,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no
+XFS,yes,yes,yes,yes,yesefn |name=note40 |Optionally no on IRIX and Linux,yes,yes,no,dunno,no,yes  experimental [48],no
+JFS,yes,yes,yes,yes (1990),yesefn |name=note30 |Particular Installable File System drivers and operating systems may not support case sensitivity for JFS OS/2 does not  and Linux has a mount option for disabling case sensitivity,yes,no,dunno,dunno,no,dunno,no
+QFS,yes,yes,no,yes,yes,yes,no,no,no,no,no,no
+BFS,yes,yes,no,yes,yes,yes,dunno,no,no,no,no,no
+NSS,yes,yes,dunno,yes,yesefn |name=note20 |Casesensitivity/Preservation depends on client Windows  DOS  and OS/2 clients don't see/keep case differences  whereas clients accessing via NFS or AFP may,yesefn |name=note20,yesefn |name=note6 |The file change logs  last entry change timestamps  and other filesystem metadata  are all part of the extensive suite of auditing capabilities built into NDS/eDirectory called NSure Audit[49],yes,no,yes,dunno,no
+NWFS,yesefn |name=note53 |Available only in the "NFS" namespace,yesefn |name=note53,no,no,yesefn |name=note20,yesefn |name=note20,yesefn |name=note6,dunno,no,no,dunno,no
+ODS2,yes,yesefn |name=note18 |These are referred to as "aliases",no,yes,no,no,yes,yes,no,no,no,no
+ODS5,yes,yesefn |name=note18,no,yes,no,yes,yes,yes,dunno,no,no,no
+UDF,yes,yes,yesefn |name=note38,yesefn |name=note38,yes,yes,no,no,yes,no,no,no
+VxFS,yes,yes,yes,no,yes,yes,yes,yesefn |name=note70 |VxFS provides an optional feature called "Storage Checkpoints" which allows for advanced file system snapshots,dunno,no,Yes,no
+Fossil,no,no,no,no,yes,yes,yes,yes,no,no,yes,no
+ZFS,yes,yes,yesefn |name=note56 |ZFS is a transactional filesystem using copyonwrite semantics  guaranteeing an alwaysconsistent ondisk state without the use of a traditional journal However  it does also implement an intent log to provide better performance when synchronous writes are requested,noefn |name=note56,yes,yes,no,yes,no,yesefn |name=zfscrypt |Applies to proprietary ZFS release 30 and ZFS On Linux Encryption support is not yet available in all OpenZFS ports[50][51][52],yes,yes
+Btrfs,yes,yes,yes,yes,yes,yes,dunno,yes,dunno,no  planned  not being developed (Nov  2015)[53],yes,yes
+Minix V1,yes,yes,no,no,yes,yes,no,no,no,no,no,no
+Minix V2,yes,yes,no,no,yes,yes,no,no,no,no,no,no
+Minix V3,yes,yes,no,no,yes,yes,no,no,no,no,no,no
+VMFS2,yes,yes,no,yes,yes,yes,no,no,no,no,no,no
+VMFS3,yes,yes,no,yes,yes,yes,no,no,no,no,no,no
+ReFS,no,yes,dunno,dunno,yesefn |name=note36,yes,dunno,dunno,dunno,no,yes,yes
+ISO 9660,no,no,no,no,no,no,no,no,no,no,noefn|name=note79|Some file system creation implementations reuse block references and support deduplication this way This is not supported by the standard  but usually works well due to the file system's readonly nature,no
+Rock Ridge,yes,yes,no,no,yes,yes,no,no,no,no,noefn|name=note79,no
+Joliet ("CDFS"),no,no,no,no,no,yes,no,no,no,no,noefn|name=note79,no
+SquashFS,yes,yes,no,no,yes,yes,no,no,no,no,yes,yes
+File system,Hard links,Symbolic links,Block journaling,Metadataonly journaling,Casesensitive,Casepreserving,File Change Log,Internal snapshotting / branching,XIP,Filesystemlevel encryption,Data deduplication,Data checksums

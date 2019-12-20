@@ -1,0 +1,22 @@
+Model,Release date,Coverage per room (CPR),Selfcharging,Selfcleaning,Sensors,Cleaning algorithm,Surfaces/areas treated,Expansion interfaces,Filter quality[1]
+Floor cleaning/vacuuming robots,[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Neato Botvac Connected,2016,high,Yes,no,lasers  cliff IR  object IR  dirt  motion ,Laser mapping,lowmid carpet  floors,No,03m not HEPA
+Roomba 980,201516,high,yes,no,bump  cliff IR  object IR  motion  dirt,Mapping,lowmid carpet  floors,yes,10m
+bObsweep,2010,high,Yes,no,bump  cliff IR  object IR  dirt  motion ,unk,lowmid carpet  floors,unk,unk
+Koolvac,unk,unk,unk,unk,unk,unk,unk,unk,unk
+Milagrow BlackCat[2],2011[3],High,yes,yes,Cliff IR  Optical Floor Sensor  Obstacle IR Sensors  UV Bulb  Dirt Detection Sensors  Battery Status Sensors  RF Remote  Gyro and Accelerometer,Zig Zag  Spiral  Walltowall and Auto Random,Tile  Marble  Wood  Lowmid carpets  Linoleum  Glass,Yes,unk
+Milagrow RedHawk[4],2011[5],Very High,yes,yes,Cliff IR  Optical Floor Sensor  Obstacle IR Sensors  UV Bulb  Dirt Detection Sensors  Battery Status Sensors  Gyro and Accelerometer,Zig Zag  Spiral  Walltowall and Auto Random,Tile  Marble  Wood  Lowmid carpets  Linoleum  Glass,Yes,unk
+Milagrow RoboCop[6],2011,High,yes,yes,Cliff IR  Optical Floor Sensor  Obstacle IR Sensors  Dirt Detection Sensors  Battery Status Sensors  Gyro and Accelerometer,Zig Zag  Spiral  Walltowall and Auto Random,Tile  Marble  Wood  Lowmid carpets  Linoleum  Glass,Yes,unk
+Milagrow SuperBot[7],2011,High,yes,yes,Cliff IR  Optical Floor Sensor  Obstacle IR Sensors  Dirt Detection Sensors  Battery Status Sensors  Gyro and Accelerometer,Zig Zag  Spiral  Walltowall and Auto Random,Tile  Marble  Wood  Lowmid carpets  Linoleum  Glass,Yes,unk
+Roboking,Dec 2009,Very High,yes,unk,Vision Camera  Ultrasonic  Cliff IR  PSD IR  Optical Floor Sensor  Gyro and Accelerometer,Cell by Cell  Zig Zag  Spiral and Reservation,lowmid carpet  floors,unk,unk
+Orazio,unk,unk,no,unk,unk,unk,lowmid carpet  floors,unk,unk
+Kärcher RC3000/Siemens sensor cruiser,September 2002,Very high,yes,Automatic dustbin emptying,cliff  bump  IR  dirt  motion  dustbin,simple repertoire,lowmid carpet  floors,unk,unk
+Roboking,Dec 2009,Very High,yes,unk,Vision Camera  Ultrasonic  Cliff IR  PSD IR  Optical Floor Sensor  Gyro and Accelerometer,Cell by Cell  Zig Zag  Spiral and Reservation,lowmid carpet  floors,unk,unk
+Roomba 1st Gen,October 2002,high,no,no,bump  cliff IR  motion,simple repertoire,lowmid carpet  floors,yes,unk
+Roomba 2nd Gen,July 2004,high,yes,no,bump  cliff IR  motion  dirt,simple repertoire,lowmid carpet  floors,yes,unk
+Roomba 3rd Gen,2007,high,yes,no,bump  cliff IR  object IR  motion  dirt,simple repertoire,lowmid carpet  floors,yes,unk
+Trilobite (Discontinued),2001,high,yes,no,ultrasonic  IR  bump  others?,mapping,low to deep pile,unk,unk
+Neato XV11,February 2010,high,yes,no,laser  cliff  bump,mapping,lowmid carpet  floors,unk,unk
+Floor washing robots,[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Scooba,2006,Medium,no,no,cliff  softtouch  IR,simple repertoire,hard floors,yes,unk
+Scooba 450[8],2014,unk,unk,unk,unk,unk,unk,unk,unk

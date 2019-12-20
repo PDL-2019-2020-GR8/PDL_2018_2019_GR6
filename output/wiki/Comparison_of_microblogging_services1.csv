@@ -1,0 +1,15 @@
+Service,Owner,Launched,Primary service,Software license,Content license,Multilingual,Adfree
+GNU social,Open source,2010,microblogging,AGPLv3,CCBY 30,yes,yes
+Diaspora,Open source,201011,social network,AGPLv3,AGPLv3,yes,yes
+Facebook,Facebook  Inc[1],200402,social network,proprietary,own TOS,yes,no
+Gab,Gab AI  Inc,201608,microblogging,proprietary,own TOS,yes,yes
+microblog,Riverfold Software,201704,microblogging,???,???,Yes,Yes
+identica,Status Net  Inc,200807 [2],microblogging,Apache v2 (pumpio),CCBY 30,yes,yes
+Tout,Tout,201004 [3],microblogging,proprietary,own TOS,Yes,yes
+Twitter,Twitter  Inc,200608 [4],microblogging,proprietary,own TOS,Yes,no
+Yammer,Yammer  Inc,200809 [5],microblogging,proprietary,own TOS,Yes,yes
+Mastodon,Open source,201610[6],microblogging,AGPLv3,own TOS,Yes,Yes
+Misskey,Open source,2014,microblogging,AGPLv3,own TOS,Yes,Yes
+Pleroma,Open source,2017,microblogging,AGPLv3,own TOS,Yes,Yes
+Twister,Open source,2013,microblogging,MIT and BSD licenses,own TOS,Yes,Yes
+Tumblr,Oath Inc,2007,microblogging,proprietary,own TOS,Yes,No

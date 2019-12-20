@@ -1,0 +1,30 @@
+Driver,80211,Bus interface,WEP,WPA,WPA2,Monitor mode,Master mode,AdHoc mode
+acx,80211a  80211b  80211g,Cardbus  PCI,Yes,No,No,Yes,Yes,Yes
+an,80211b,PC Card  PCI  ISA,Yes,No,No,Yes,No,Yes
+ath,80211a  80211b  80211g,Cardbus  PCI,Yes,Yes,Yes,Yes,Yes,Yes
+athn,80211a  80211b  80211g  80211n,Cardbus  PCIE  Mini PCIE,Yes,Yes,Yes,Yes,Yes,No
+atu,80211b,USB,Yes,No,No,No,No,Yes
+atw,80211b,Cardbus  PCI,No,No,No,No,No,Yes
+bwi,80211b  80211g,Cardbus  PCI,Yes,Yes,Yes,Yes,No,No
+cnw,N/A,PC Card,No,No,No,No,No,No
+ipw,80211b,PCI,Yes,Yes,Yes,Yes,No,Yes
+iwi,80211a  80211b  80211g,PCI,Yes,Yes,Yes,Yes,No,Yes
+iwn,80211a  80211b  80211g  80211n,PCIE  Mini PCIE,Yes,Yes,Yes,Yes,No,No
+iwm,80211a  80211b  80211g  80211n,PCIE  Mini PCIE,Yes,Yes,Yes,Yes,No,No
+malo,80211b  80211g,Cardbus  PC Card  PCI,Yes,Yes,Yes,Yes,No,No
+otus,80211a  80211b  80211g,USB,Yes,Yes,Yes,Yes,No,No
+pgt,80211a  80211b  80211g,Cardbus  PCI,Yes,No,No,Yes,Yes,Yes
+ral,80211a  80211b  80211g,Cardbus  PCI  Mini PCI,Yes,Yes,Yes,Yes,Yes,Yes
+ray,N/A,PC Card,No,No,No,No,No,Yes
+rtw,80211b,Cardbus  PCI,Yes,No,No,Yes,Yes,Yes
+rtwn,80211b  80211g,Mini PCIE,Yes,Yes,Yes,Yes,No,No
+rum,80211a  80211b  80211g,USB,Yes,Yes,Yes,Yes,Yes,Yes
+run,80211a  80211b  80211g,USB,Yes,Yes,Yes,Yes,No,No
+uath,80211a  80211b  80211g,USB,Yes,No,No,Yes,No,No
+upgt,80211b  80211g,USB,Yes,Yes,Yes,Yes,No,No
+ural,80211b  80211g,USB,Yes,Yes,Yes,Yes,Yes,Yes
+urtw,80211b  80211g,USB,Yes,Yes,Yes,Yes,No,No
+urtwn,80211b  80211g,USB,Yes,Yes,Yes,Yes,No,No
+wi,80211b,PC Card  PCI  USB,Yes,No,No,No,Yes,Yes
+wpi,80211a  80211b  80211g,PCI,Yes,Yes,Yes,Yes,No,No
+zyd,80211b  80211g,USB,Yes,Yes,Yes,Yes,No,No

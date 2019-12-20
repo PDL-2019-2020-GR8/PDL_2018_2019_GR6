@@ -1,0 +1,38 @@
+File manager,SMB/CIFS,WebDAV,NFS,AFP,FTP,FISH/SSH
+Altap Salamander,yes,no,yes,no,yes,yes
+Commander One,yes[42],yes,yes[42],yes[42],yes,yes
+CRAX Commander,yes[42],yes,yes[42],yes[42],yes,yes
+Directory Opus,yes,yes,yes,no,yes,yes (SFTP & SSL[43])
+Dired,yes[42],yes[42],yes[42],no,yes,yes[42]
+Documents by Readdle,[empty],[empty],[empty],[empty],[empty],[empty]
+Dolphin,yes,yes,yes,dunno,yes,yes
+Double Commander,yes,dunno,dunno,dunno,yes,dunno
+emelFM2,dunno,dunno,dunno,dunno,no,dunno
+Far Manager,yes,partial[44],partial[45],no,yes,yes[46]
+File Commander,yes,partial[44],partial[45],no,partial[47],partial[48]
+File Manager,dunno,dunno,dunno,dunno,dunno,dunno
+Files (Apple),[empty],[empty],[empty],[empty],[empty],[empty]
+Files by Google,[empty],[empty],[empty],[empty],[empty],[empty]
+Finder,yes[42],yes[42],yes[42],yes[42],partial[42],no
+ForkLift,yes,yes,yes,yes,yes,yes
+GNOME Commander,yes,yes,yes,no,yes,yes
+Konqueror,yes,yes,yes,yes,yes,yes
+Krusader,yes,yes,yes,no,yes,yes
+muCommander,yes,dunno,yes,dunno,yes,yes
+Midnight Commander,yes,no,yes,no,yes,yes
+GNOME Files (Nautilus),yes,yes,yes,yes,yes,yes
+Nemo,yes,?,?,?,yes,yes
+NomadNET,yes,no,no,no,yes,no
+Path Finder,yes,yes,yes,yes,yes (Read Access),no
+PCManFM,yes[49],dunno,dunno,dunno,dunno,dunno
+ROXFiler,yes[42],yes[42],yes[42],yes[42],yes[42],yes[42]
+Total Commander,yes,yes[46],partial[45],no,yes,yes
+Thunar,yes[49],yes[49],yes[49],no,yes[49],yes[49]
+Windows Explorer,yes,yes,yes[50],no,yes,no
+Xandros File Manager,dunno,dunno,dunno,dunno,dunno,dunno
+Xfe,dunno,dunno,dunno,dunno,dunno,dunno
+Xfm,dunno,dunno,dunno,dunno,dunno,dunno
+xplorer²,yes,yes[51],partial[45],no,yes,no
+XYplorer,yes,yes,yes[50],no,yes,no
+ZTreeWin,yes,partial[47],partial[45],no,partial[47],partial[48]
+File manager,SMB/CIFS,WebDAV,NFS,AFP,FTP,FISH/SSH

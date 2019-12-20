@@ -73,21 +73,21 @@ public class WikiConverterTest {
 	@Tag("robustness")
 	public void testConvertAllToCSV()
 	{
-		// try {
-		// 	assertTrue(new File(Constants.WIKI_OUTPUT_DIR).isDirectory());
-		// 	assertDoesNotThrow(() -> wikiConverter.convertAllToCSV());
+		try {
+			assertTrue(new File(Constants.WIKI_OUTPUT_DIR).isDirectory());
+			assertDoesNotThrow(() -> wikiConverter.convertAllToCSV());
 			
-		// 	System.out.println("------------------ Statistics for Wiki Converter --------------");
-		// 	int totalExtacted = 0;
-		// 	for(Statistics s : WikiExtractor.statisticsList) {
-		// 		totalExtacted += s.getExtractedTablesNumber();
-		// 	}
-		// 	System.out.println("Number of extracted pertinent tables : "+totalExtacted);
-		// 	Utils.displayInfo(WikiExtractor.statisticsList, "WIKI Extractor");
+			System.out.println("------------------ Statistics for Wiki Converter --------------");
+			int totalExtacted = 0;
+			for(Statistics s : WikiExtractor.statisticsList) {
+				totalExtacted += s.getExtractedTablesNumber();
+			}
+			System.out.println("Number of extracted pertinent tables : "+totalExtacted);
+			Utils.displayInfo(WikiExtractor.statisticsList, "WIKI Extractor");
 			
-		// } catch (Exception e) {
-		// 	e.printStackTrace();
-		// }
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 		
 	}
 	
@@ -140,29 +140,29 @@ public class WikiConverterTest {
 	
 	
 	// TO BE IMPROVED
-	// @Test
-	// @AfterAll
-	// @DisplayName("test validity of all csv files")
-	// @Tag("robustness")
-	// public static void testAreCsvFilesValid() {
-	// 	File[] files = null;
-	// 	int counter = 0;
-	// 	File wikiDirectory = null;
-	// 	try {
-	// 		wikiDirectory = new File(Constants.WIKI_OUTPUT_DIR);
-	// 		assertTrue(wikiDirectory.isDirectory());
-	// 		files = wikiDirectory.listFiles();
-	// 		for(File f : files) {
-	// 			counter++;
-	// 			System.out.println("CSV validity of current file, filename : "+f.getName()+" is valid : "+fileHandler.isCsvFileValid(f, separator));
-	// 			assertTrue(fileHandler.isCsvFileValid(f, separator));
-	// 		}
-	// 	} catch (Exception e) {
-	// 	}
+	@Test
+	@AfterAll
+	@DisplayName("test validity of all csv files")
+	@Tag("robustness")
+	public static void testAreCsvFilesValid() {
+		File[] files = null;
+		int counter = 0;
+		File wikiDirectory = null;
+		try {
+			wikiDirectory = new File(Constants.WIKI_OUTPUT_DIR);
+			assertTrue(wikiDirectory.isDirectory());
+			files = wikiDirectory.listFiles();
+			for(File f : files) {
+				counter++;
+				System.out.println("CSV validity of current file, filename : "+f.getName()+" is valid : "+fileHandler.isCsvFileValid(f, separator));
+				assertTrue(fileHandler.isCsvFileValid(f, separator));
+			}
+		} catch (Exception e) {
+		}
 		
-	// 	System.out.println("total number of files tested : "+counter);
+		System.out.println("total number of files tested : "+counter);
 		
-	// }	
+	}	
 
 	
 	

@@ -1,0 +1,25 @@
+[empty],Language,License,Mutual auth,Encrypts,Verify mode,Agentless,Have a GUI,First release,Latest stable release
+Ansible,Python,GPLv3,yes[1],yes[2],yes,yes,yes[3],20120308,20181213 275[4][5][6]
+Bcfg2,Python,BSD 2clause[7],yes[8],yes[9],yes[10],no,yes[11],20040811[12],20150611 136[12]
+Capistrano,Ruby,MIT License,[empty],yes[2],[empty],yes[2],no,2005,20170308 442
+cdist,Python,GPLv3,yes[1],yes[2],[empty],yes,[empty],2010,20180420 484[13]
+Chef,Ruby  Erlang,Apache 20,yes[14],yes[15],yes[16][17],no,yes,20090115 050,20190128 14109 (client) [18] 20180213 121733 (server)[19]
+CFEngine,C[20],GPLv3[21],yes[1],yes[22],yes[23][24],no,yes[25],1993,20191218 3150 [26] 20191206 3123 [27] 20191206 3107[28]
+ISconf,Python,GPL[29],yes[30],no[31],[empty],[empty],[empty],1998,20060813 428233
+Juju,Python  Go[32],Affero General Public License,yes[1],yes[9],no,no,yes[33],20100917[34],20191030 270[35]
+Local ConFiGuration system (LCFG),Perl,GPL,partial[36],partial[37],[empty],[empty],[empty],1994,Weekly Releases
+NOC,Python,BSD License 20,yes[1],yes[2],yes,yes,yes,20120308,20150520 15051[38]
+OCS Inventory NG with GLPI,Perl  PHP  C,GPL,no[39],yes[9],[empty],no,[empty],2003,20140713[40]
+Open pc server integration (Opsi),Python  Java,GPL,no,yes[9],[empty],no,[empty],2004,20130301 403
+PIKT,C,GPLv2[41],yes[42],yes[43],[empty],no,[empty],1998[44],20070910 1190
+Puppet,C & Clojure from 40 [45] Ruby before then,Apache from 270  GPL before then,yes[46],yes[9],yes[47][48],no,yes[49],20050830[50],20190115 605[51]
+Quattor,Perl  Python,Apache 20[52][53],yes[54],yes[55],[empty],[empty],[empty],20050401[56],2018073 1860[57]
+Radmind,C,BSD[58],yes[59],yes[60],[empty],no,[empty],20020326[61],20081008 1130[62]
+Rex,Perl,Apache,yes[1],yes[2],[empty],yes,[empty],20101105 090[63],20171203 160[64]
+Rudder,C  Scala and Rust,GPLv3 and Apache 20[65],yes[1],yes[9],yes[66][67],no,yes,20111031,20190512 5015[68]
+SmartFrog,Java,LGPL,yes[69],yes[69],[empty],no,[empty],20040211,20090126 316004[70][71]
+Salt[72],Python[73],Apache 20[74],yes[75],yes[75],yes,Both[76][77],yes[78][79],20110317 060[80],20190225 v201920[81]
+Spacewalk,Java (C  Perl  Python  PL/SQL),GPLv2,yes,yes,[empty],no,[empty],200806[82],20190114 29[83]
+STAF,C,CPL[84],no[85][86],partial[87],[empty],no,[empty],19980216[88],20121216 3416 [89]
+Synctool[90],Python[91],GPLv2[92],yes[93],yes[2],yes[94],yes[95],[empty],2003[96],20140615 61[97]
+[empty],Language,License,Mutual auth,Encrypts,Verify mode,Agentless,Have a GUI,First release,Latest stable release

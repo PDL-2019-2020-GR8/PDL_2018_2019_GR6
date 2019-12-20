@@ -1,0 +1,11 @@
+Feature,Android,iOS,Windows 10 Mobile,BlackBerry 10,Tizen,Sailfish OS,Ubuntu Touch
+NonEnglish languages support,Okay|Partial[297],Yes[298][299][300],Yes,Yes,Okay|Limited (Search is not diacritical markinsensitive),Yes,Yes
+Underlining spell checker,Yes|23[301][302],Yes[303],Yes[304],Yes,No,?,No
+Builtin systemwide dictionary,Yes|Built into keyboard app Available on every device[305],Yes|5[306],Yes[307],Yes,No,Yes,Yes
+Autoexpanding text replacements,Yes,Yes|5[308],Yes[307],Yes[309],?,?,?
+Keyboard next word prediction,No2 No [310] 3rd party software[311],Yes|8[312],Yes[313],Yes,No,Yes,Yes
+Keyboard cursor controller,Yes|Google Keyboard;[314];[315],Yes|12;[316] 911 Only on devices with 3D Touch;[317],Yes[318],No,No,No,Yes
+Optical character recognition input method,No[319],Okay|11 Notes app;[320] 8 Only for inputting credit card details[321],No,No,No,No,No
+Third party input methods,Yes[322],Yes|8,No,No2 No  only for Android apps through sideload of Android keyboard[323],?,?,?
+Gesture text input,Yes|4[324],Yes|13;[325] 8 3rd party software like SwiftKey,Yes|81[326],Yes,?,No[327],No
+Emoji support,Yes|44[328],Yes[329],Yes[330],Yes|102[331],?,No2 3rd party software,Yes

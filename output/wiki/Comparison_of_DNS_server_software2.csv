@@ -1,0 +1,18 @@
+Server,BSD,Solaris,Linux,Mac OS X,Windows
+BIND,yes,yes,yes,yes,yesr|group=Note|ntbind
+Microsoft DNS,no,no,no,no,includedr|group=Note|msdns_included_functionality
+djbdns,yes,yes,yes,yes,no
+Dnsmasq,yes,yes,yes,yes,no
+Simple DNS Plus,no,no,no,no,yes
+NSD,yes,yes,yes,yes,no
+Knot DNS,yes,no,yes,yes,no
+Knot Resolver,partial,no,yes,yes,no
+PowerDNS,yes,yes [7],yes,beta,no
+MaraDNS,yes,yes [8],yes,yes,partial
+pdnsd,yes,partial[40],yes,yes,no
+Posadis,yes,yes,yes,yes,yes [9]
+Unbound,yes,yes,yes,yes,yes
+Cisco Network Registrar,no,yes,yes,no,yes
+YADIFA,yes,yes,yes,yes,no
+Secure64 DNS Authority,no,no,yes,no,no
+Secure64 DNS Cache,no,no,yes,no,no

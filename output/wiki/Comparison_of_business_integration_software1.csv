@@ -1,0 +1,34 @@
+Software,Creator,Edition,Release Date,Cost (USD),Open source,Software license,Implementation
+AdroitLogic UltraESB,AdroitLogic,1701,January 2017,Subscription based licensing and support or perpetual licensing,No,proprietary,Enterprise Service Bus
+Anypoint Platform,MuleSoft,Mule 37,June 2015,Sold as software as a subscription with various packaged options to serve different use cases The pricing scales with usage as measured by number of cores onpremises and virtual cores in the cloud,No,Dual (CPAL or proprietary,[empty]
+Apache Camel,Apache Software Foundation,2233,November 29  2018,Free/Commercial support available,yes,free| Apache Software License,[empty]
+Apache Kafka,Apache Software Foundation,01020,February 2017,Free / Commercial support available,yes,free| Apache Software License,[empty]
+Apache ServiceMix,Apache Software Foundation,70,January 2017,Free / Commercial support available,yes,free| Apache Software License,[empty]
+Apache Synapse,Apache Software Foundation,30,December 2016,Free / Commercial support available,yes,free| Apache Software License,[empty]
+Artix ESB,Progress Software,5x,2003,[empty],no,proprietary,[empty]
+Automation Anywhere Integration Pack,Automation Anywhere,61,Feb 2011,$5500,No,proprietary,[added]
+BizTalk Server,Microsoft,2016,December 2016,Enterprise Edition $10835 per core; Standard Edition $2485 per core; Branch Edition $620 per core (minimum 4 cores required); Developer Edition  per seat  available under Volume or MSDN licence[1],no,proprietary,Enterprise Application Integration  Hub and Spoke architecture  Cloud ready
+Flow Software,Flow Software Ltd,230,May  2010,Free Community Edition  and Enterprise licenses,no,proprietary,[empty]
+Fuse  Enterprise Camel,Red Hat,70,2018,[empty],yes,Free|based on Apache Software License,[added]
+Anchor|IIB IBM Integration Bus (formerly WebSphere Message Broker ),IBM,100,March 2015[2],Varies between approximately 100 and 850 per Value Unit[3],no,proprietary,Enterprise Service Bus
+Informatica Power Center,Informatica,85,October 2007,Varies 50000  100000 generally,no,proprietary,[added]
+JBoss Enterprise Service Bus (ESB),JBoss  a division of Red Hat  Inc,412,March 2013,Free / Commercial support available,yes,LGPLlic,Enterprise Service Bus  Replaced by JBoss Fuse
+JBoss Enterprise SOA Platform,JBoss  a division of Red Hat  Inc,51,February 2011,Free / Commercial support available,yes,LGPLlic,Replaced by JBoss Fuse
+Magic xpi Integration Platform,Magic Software Enterprises,40,May 2015,[empty],No,proprietary,[empty]
+Openadaptor,The Software Conservancy,346,February 2011,Free,yes,Free|variant of MIT,[empty]
+OpenESB,OpenESB Community,312,December 2018,Free / Enterprise Edition with commercial support,yes,Free|CDDL,[empty]
+OpenLink Virtuoso,OpenLink Software,7251,20180815,Varies[4],yes,Dual (GPL or proprietary),[empty]
+Oracle BPEL Process Manager[5],Oracle Corporation,121300,June 2014,Varies[6],no,proprietary,[empty]
+Oracle Enterprise Service Bus[5],Oracle Corporation,121300,June 2014,Varies[7],no,proprietary,[empty]
+PEtALS ESB,OW2 Consortium,313,July 2011,Free / Commercial support available,yes,LGPLlic,[added]
+Sonic ESB,Progress Software,8x,2011,[empty],no,proprietary,Enterprise Service Bus
+SAP NetWeaver Process Integration (short SAP PI),SAP AG,75,2011,Varies[8],no,proprietary,[added]
+ServiceMix,Apache Software Foundation,511,July 2014,free/commercial support available,yes,free| Apache Software License,[empty]
+Spagic,Engineering group,30,May 2010,free / Commercial support,yes,LGPLlic,[empty]
+Sun Java Composite Application Platform Suite,Sun Microsystems,6,June 2008,$100 per employee per year subscription  perpetual per socket licensing available[9],no[10],proprietary,[empty]
+TrackerSuiteNet,Automation Centre,40,June 2012,Based on number of users and modules utilized Available as SaaS  or as a licensed installation,no,proprietary,[empty]
+Unify NXJ,Unify Corporation,11,[empty],[empty],no,proprietary,[added]
+webMethods Integration Server,Software AG,90[11],May 2013,varies,no,proprietary,Enterprise Service Bus[12]
+WebSphere Message Broker (now known as IBM Integration Bus),IBM,80,October 2011,No longer marketed under this name  replacement name is IBM Integration Bus,no,proprietary,Enterprise Service Bus
+WSO2 Enterprise Integrator,WSO2,64,2018,Free / Commercial support available,Yes,free| Apache License 20,Enterprice Service Bus  Message Broker  Application Server  Business Process Server  Data Services Server
+WSO2 Enterprise Service Bus (ESB),WSO2,500,2016,Free / Commercial support available,yes,free| Apache Software License,[empty]

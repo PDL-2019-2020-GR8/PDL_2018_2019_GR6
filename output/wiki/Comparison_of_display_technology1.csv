@@ -1,0 +1,32 @@
+Display technology,Screen shape,Largest known diagonal,Typical use,Usable in bright room
+(in),(cm),[added],[added],[added]
+Eidophor front projection,Flat,(limited only by brightness),TV,no
+Shadow mask CRT,Spherical curve or Flat,42[1],107,Computer monitor  TV
+Aperture grille CRT,Cylindrical curve or Flat,42[2],107,Computer monitor  TV
+Monochrome CRT,Spherical curve or Flat,30[3],76,Computer monitor  TV  Radar display  Oscilloscope
+Direct view Charactron CRT,Spherical curve,24,61,Computer monitor  Radar display
+CRT selfcontained rearprojection,Flat lenticular,80[4],203,TV
+CRT front projection,Flat,(limited only by brightness),TV or presentation,no
+Plasma display panel (PDP),Flat,152[5],386,TV
+Direct view LCD,Flat,110[6],274,Computer monitor  TV
+LCD selfcontained rearprojection,Flat lenticular,70[7],178,TV
+LCD frontprojection,Flat,(limited only by brightness),TV or presentation,yes
+DLP selfcontained rearprojection,Flat lenticular,120[8],305,TV
+DLP frontprojection,Flat,(limited only by brightness),TV or presentation,yes
+LCoS selfcontained rearprojection,Flat,110[9],279,TV
+LCoS frontprojection,Flat,(limited only by brightness),TV or presentation,yes
+Laser selfcontained rear projection,Flat lenticular,75[10],191,TV
+LED,Flat,27992[11],711,Billboards  TV
+SED,Flat,55[12],140,Computer monitor  TV
+FED,Flat,dunno,dunno,Computer monitor  TV
+EPD (epaper),Flat (flexible),dunno,dunno,Electronic paper
+OLED,Any  but most commonly flat rectangular with or without rounded edges  notch(es) and holes  circular  or curved (flexible)[13],88[14],19558,Computer monitor  TV  Mobile phone
+'LED' LCD,Flat rectangular  circular  semi circle,80,203,TV  Computer monitor
+'QLED' LCD,Curved or Flat,80,203,TV  Computer monitor
+Telescopic pixel display,[empty],[empty],[empty],[empty]
+Ferroelectric LCD,[empty],[empty],[empty],[empty]
+'mLED' LED,Curved or Flat,??,??,Mobile phone  Wearable Electronics  VR Display  Smartwatch  Optical Instruments  AR Display
+QDLED[15][16][17][18],n/a,n/a,n/a,n/a
+IMOD,Flat,12[19],3,Mobile phone[20]
+Laser Phosphor Display (LPD),Flat / Box,196,4978,Presentation
+Virtual retinal display,Any shape,n/a,n/a,Experimental  possibly virtual reality

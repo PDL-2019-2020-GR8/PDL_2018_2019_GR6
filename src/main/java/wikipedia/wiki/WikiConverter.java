@@ -5,8 +5,14 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.regex.Pattern;
+import java.util.stream.Collectors;
+
 import org.jsoup.HttpStatusException;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -33,6 +39,8 @@ public class WikiConverter implements Converter {
 	private WikiExtractor extractor;
 	private FileHandler filehandler;
 	private char separator = ',';
+	private int filenameCounter ;
+	private  HashMap<String, List<String>> wikiData;
 
 	public WikiConverter() {
 		this.extractor = new WikiExtractor();
@@ -89,7 +97,7 @@ public class WikiConverter implements Converter {
 			int number = 0;
 			while ((pageTitle = br.readLine()) != null) {
 				if (!doesUrlExist("en", pageTitle)) {
-					System.out.println(Constants.CONSOLE_RED_COLOR+"["+ pageTitle + "] does not exist!");
+					// System.out.println(Constants.CONSOLE_RED_COLOR+"["+ pageTitle + "] does not exist!");
 					if(!doesUrlExist("fr",  pageTitle))
 						continue;
 				}
@@ -132,55 +140,69 @@ public class WikiConverter implements Converter {
 	 * @param baseUrl the base url to use to make api calls
 	 * @param pageTitle the title of the page
 	 * @param filePath the path for to be stored in
+	 * @return 
+	 * @return 
 	 * @throws HttpStatusException if the page does not exist
 	 */
-	public List<String> convertToCsv(Document doc, String baseUrl, String pageTitle, String filePath) throws HttpStatusException {
-		List<String> data = new ArrayList<>();
-		String line = "";
-		String filename;
-		StringBuilder currentTdText;
-		int filenameCounter = 1;
-		try {
-			Elements tableElements = this.extractor.extractTables(doc, baseUrl + pageTitle);
-			if (tableElements == null)
-				System.out.println("Oups, something wrong happened");
-			else {
-				for (Element currentTable : tableElements) { 
-					Elements currentTableTrs = currentTable.select("tr");
-					for (int i = 0; i < currentTableTrs.size(); i++) {
-						Element currentTr = currentTableTrs.get(i);
-						Elements currentRowTds = currentTr.select("td");
-						Element currentTd;
-						for (int j = 0; j < currentRowTds.size(); j++) {
-							currentTd = currentRowTds.get(j);
-							currentTdText = new StringBuilder(currentTd.text());
-							currentTdText = processCurrentTDText(currentTdText);
-							if (j == currentRowTds.size() - 1)
-								line += currentTdText.toString();
-							else
-								line += currentTdText.toString() + separator;
+	// pour une url donne genere un nombre de csv en fonction du nombre de tableau
+	public  HashMap<String, List<String>> convertToCsv(Document doc, String baseUrl, String pageTitle, String filePath) throws HttpStatusException {
+//		if(!wikiData.containsKey(pageTitle)) {
+		  wikiData = new HashMap<String, List<String>>() ;
+			List<String> data = new ArrayList<String>();
+			
+			// HashMap<Integer, List<String>> data2 = new HashMap<Integer, List<String>>();
+			// data2.put(1,data);
+			String line = "";
+			String filename;
+			StringBuilder currentTdText;
+			 filenameCounter = 1;
+			// System.out.println(pageTitle);
+			try {
+				Elements tableElements = this.extractor.extractTables(doc, baseUrl + pageTitle);
+				if (tableElements == null)
+					System.out.println("Oups, something wrong happened");
+				else {
+					for (Element currentTable : tableElements) {
+						
+					   if(!wikiData.containsKey(pageTitle+filenameCounter)) {
+						  // data.clear();
+						  // System.out.println(pageTitle+filenameCounter);
+						  List<String> data2 = new LinkedList<String>();
+						  wikiData.put(pageTitle+filenameCounter, data2);
+						Elements currentTableTrs = currentTable.select("tr");
+						for (int i = 0; i < currentTableTrs.size(); i++) {
+							Element currentTr = currentTableTrs.get(i);
+							Elements currentRowTds = currentTr.select("td");
+							Element currentTd;
+							for (int j = 0; j < currentRowTds.size(); j++) {
+								currentTd = currentRowTds.get(j);
+								currentTdText = new StringBuilder(currentTd.text());
+								currentTdText = processCurrentTDText(currentTdText);
+								if (j == currentRowTds.size() - 1) {
+									 line += currentTdText.toString().replaceAll("[-}+.{^ÀÁÂÄÇÈÉÊËÌÍÎÏ‰¥µÅÅÑÒÓÔÕÖÙÚÛÜÝàáâãäçèéêëìíîïñòóôõöùúûüýÿ:,]","");
+						
+								}
+								else
+									  line += currentTdText.toString().replaceAll("[-}+.{ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒ‰¥µÅÅÓÔÕÖÙÚÛÜÝàáâãäçèéêëìíîïñòóôõöùúûüýÿ^:,]","")+separator;
+							}
+							if (line != "") {
+								line = processLine(line);
+								data.add(line) ;
+								 wikiData.get(pageTitle+filenameCounter).add(line);
+								line = "";
+							}
 						}
-						if (line != "") {
-							line = processLine(line);
-							data.add(line);
-							line = "";
-						}
+						
+						
 					}
-					filename = this.filehandler.extractFilenameFromUrl(pageTitle, filenameCounter);
-					// System.out.println("wiki data length"+data.contains(data));
-					this.filehandler.write(filePath, filename, data);
-					System.out.println(Constants.CONSOLE_WHITE_COLOR+filename +" "+ "wiki has been generated");
-					filenameCounter++;
-					// data.clear();
 				}
+			  }
+
+			} catch (IOException e) {
+				e.printStackTrace();
 			}
-
-		} catch (IOException e) {
-			e.printStackTrace();
+			return wikiData;
 		}
-		return data;
-
-	}
 	
 	private String processLine(String line) {
 		StringBuilder sb = new StringBuilder(line);
@@ -188,7 +210,6 @@ public class WikiConverter implements Converter {
 			if (sb.charAt(i) == '\n') 
 				sb.setCharAt(i, ' ');
 		}
-		
 		return sb.toString();
 	}
 

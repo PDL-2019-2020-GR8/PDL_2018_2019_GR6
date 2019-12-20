@@ -1,0 +1,4 @@
+[empty],Trident,Gecko,WebKit,KHTML,Presto,Prince XML,Antenna House
+XLink[15],yes|50,partial#tagref|Gecko  as of version 18  only supports simple XLinks  and only for SVG and MathML[16][17]|group=note,no[18],no,partial,partial#tagref|Prince XML supports only simple XLinks[19]|group=note,partial[20]
+XML Base[21],no,yes|10,no[22],yes,yes,yes|60,yes[23]
+XPointer[24],Dunno,partial,no[25],no,no,Dunno,no

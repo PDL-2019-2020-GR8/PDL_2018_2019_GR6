@@ -1,0 +1,24 @@
+Firewall,License,Cost,OS
+Clavister,Proprietary,Included on all Clavister NGFWs,Proprietary operating system cOS Core
+Check Point,Proprietary,Included on Check Point security gateways,Proprietary operating system Check Point IPSO and Gaia (Linuxbased)
+FortiGate,Proprietary,Included on all Fortigate devices,Proprietary  FortiOS  Based on the Linux kernel
+Palo Alto Networks,Proprietary,Included on Palo Alto Networks firewalls,Proprietary operating system PANOS
+Sophos,Proprietary,Included on Sophos UTM,Linuxbased appliance
+Cisco ASA Firepower,Proprietary,Included on all CISCO ASA devices,Proprietary operating system
+Cisco PIX,Proprietary,Included on all CISCO PIX devices,Proprietary operating system
+Juniper SSG,Proprietary,Included on Netscreen security gateways,Proprietary operating system ScreenOS
+Juniper SRX,Proprietary,Included on SRX security gateways,Proprietary operating system Junos
+Sonicwall,Proprietary,Included on Dell appliance,Proprietary operating system SonicOS Based on the Linux kernel
+Barracuda Firewall,Proprietary,Included Firewall Next Generation appliance,Windowsbased appliance embedded firewall distribution
+Cyberoam,Proprietary,Included Firewall Sophos appliance,Windowsbased appliance embedded firewall distribution
+DLink,Proprietary,Included Firewall DFL,Windowsbased appliance embedded firewall distribution
+Endian Firewall,Proprietary,Free / Paid,Linuxbased appliance
+Forcepoint NGFW,Proprietary,Included on all Forcepoint NGFW devices,Proprietary operating system
+OPNsense,Simplified BSD / FreeBSD License,Free / Paid,FreeBSDbased appliance firewall distribution
+pfSense,ESF/Apache 20,Free / Paid,FreeBSDbased appliance firewall distribution
+Untangle,GPL,Free / Paid,Linuxbased appliance firewall distribution
+Zeroshell,GPL,Free / Paid,Linux/NanoBSDbased appliance firewall distribution
+SmoothWall,GPL,Free / Paid,Linuxbased appliance embedded firewall distribution [4]
+IPFire,GPL,Free (Donations welcomed),Linuxbased appliance embedded firewall distribution
+WatchGuard,Proprietary,Included on all Firebox devices,Proprietary  Fireware OS  Based on the Linux kernel
+WinGate,Proprietary,Free / Paid,Windowsbased appliance embedded firewall distribution

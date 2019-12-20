@@ -1,0 +1,30 @@
+Name,FAT16  dosfs; FAT32  vfat,NTFS,Ext2,Ext3,XFS,ReiserFS,UFS,UFS2,HFS,HFS,MINIXfs,BFS,ISO 9660,UDF,NFS,SMBFS,RAM disk  tmpfs,ZFS,Other special file systems
+Linux,yes,yesr|group=Note|f5r|group=Note|f7,yes,yes,yes,yes,yesr|group=Note|f2,yes[34],yes,yesr|group=Note|f9,yes,yesr|group=Note|f2,yes,yes,yes,yes,yes,yes,9P r|group=Note|f3 FUSE r|group=Note|f3 sysfs r|group=Note|f3 configfs r|group=Note|f3 Reiser4 r|group=Note|f3r|group=Note|f4 JFS  Btrfs  UnionFS  Ext4
+FreeBSD,yes,yesr|group=Note|f2r|group=Note|f7,yes,yesr|group=Note|f2,yesr|group=Note|f5,yesr|group=Note|f2,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,FUSE  nullfs  UnionFS
+NetBSD,yes,yesr|group=Note|f2r|group=Note|f7,yes,[empty],no,no,yes,yes,[empty],yesr|group=Note|f2,no,no,yes,yesr|group=Note|f2,yes,yes,yes,yes,PUFFS  LFS  EFS
+OpenBSD,yes,yesr|group=Note|f2,yes,[empty],no,no,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,no,AFS
+DragonFly BSD,yes,yesr|group=Note|f2,yes,no,no,no,yes,no,no,no,no,no,yes,yesr|group=Note|f10,yes,yes,yes,no,HAMMER  nullfs  PUFFS
+OpenSolaris  illumos,yes,yes r|group=Note|f7r|group=Note|f8,no,no,no,no,yes,[empty],no,no,no,no,yes,yes,yes,yes,yes,yes,SMB (native)  QFS
+AuroraUX,yes,yes r|group=Note|f7r|group=Note|f8,yes,yes,no,no,yes,[empty],no,no,no,no,yes,yes,yes,yes,yes,yes,SMB (native)  QFS
+Darwin  OpenDarwin,yes,yesr|group=Note|f2r|group=Note|f7,[empty],[empty],[empty],[empty],yes,[empty],yes,yes,[empty],[empty],yes,yes,yes,yes,[empty],[empty],[empty]
+MINIX,yes,no,yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],yes,no,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FreeDOS,yes,no,no,no,no,no,no,[empty],[empty],[empty],no,no,yes,[empty],[empty],[empty],yes,[empty],[empty]
+Genode,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,yes,no,Extensible VFS layer
+Haiku,yes,yes r|group=Note|f7,yes r|group=Note|f12,yes r|group=Note|f12,[empty],[empty],[empty],[empty],[empty],[empty],[empty],yes,yes,yes,yes,nor|group=Note|f11,[empty],[empty],[empty]
+KolibriOS,yes,yesr|group=Note|f2,yesr|group=Note|f2,yesr|group=Note|f2,yesr|group=Note|f2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],yes,[empty],[empty],[empty],yes,[empty],[empty]
+MenuetOS,yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GNU,yes,[empty],yes,yesr|group=Note|f13,[empty],[empty],yesr|group=Note|f14,[empty],[empty],[empty],[empty],[empty],yes,[empty],yes,[empty],yes,no,[empty]
+ReactOS,yes,[empty],yes,no,no,no,no,[empty],[empty],[empty],no,no,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+L4  Fiasco  Pistachio,yes,no,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Plan 9,yes,[empty],yes,no,no,no,no,no,no,no,no,no,yes,no,yes,yes,yes,no,Fossil  Venti  most system services
+AROS,yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],yes,[empty],SFS  AFFS
+Syllable,yes,yesr|group=Note|f2,yesr|group=Note|f2,yesr|group=Note|f2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],yes,yes,[empty],[empty],[empty],yes,[empty],AFS
+Inferno,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,yes,[empty],kfs  most system services
+FreeRTOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],no,[empty]
+eCos,yes,[empty],yesr|group=Note|f2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],yes,[empty],MMFS  ROMfs  JFFS2  YAFFS
+RTEMS,yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],yes,[empty],yes,[empty],TarFS  TFTP FS  IMFS  miniIMFS
+HelenOS,yes,no,yes,yes,no,no,no,no,no,no,yes,no,yes,yes,no,no,yes,[empty],locfs  exFAT
+E/OS,yes,no,yes,no,no,no,no,no,no,no,yes,yesr|group=Note|f6,yes,no,yes,yes,yes,[empty],
+K42,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+UnixLite >,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Name,FAT16  dosfs; FAT32  vfat,NTFS,Ext2,Ext3,XFS,ReiserFS,UFS,UFS2,HFS,HFS,MINIXfs,BFS,ISO 9660,UDF,NFS,SMBFS,RAM disk  tmpfs,ZFS,Other special file systems

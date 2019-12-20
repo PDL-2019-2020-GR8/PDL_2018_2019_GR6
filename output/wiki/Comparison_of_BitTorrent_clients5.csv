@@ -1,0 +1,34 @@
+BitTorrent client,Cache [67],Hash Web seeding,HTTP Web seeding,Broadcatching (RSS),Prioritization,Selective downloads,Sequential downloading,SOCKS,Tracker exchange [68],Remote control via web,Search engine,Auto updates,Reviews and Comments,Notes
+ABC,no,yes,no,no,yes,no,no,no,no,yes,yes2 Separate download,no,no,[empty]
+Acquisition,no,no,[empty],no,no,no,no,no,no,no,no,no,no,3 torrents max  infinite when registered
+BitComet,yes,no,yes[69],beta,yes,yes,yes[70],yes,no,yes,partial|Builtin Web browser,yes,no,Portable version available
+BitLet,no,no,no,no,no,no,no,no,no,no,no,yes,no,[empty]
+BitLord,yes,no,partial|Partial [71][72],yes,yes,yes,no,yes,no,no,partial|Builtin Web browser,yes,no,[empty]
+BitTornado,yes,yes,no,no,yes,yes,no,no,no,no,no,yes2 via PMS,no,[empty]
+BitTorrent 5  Mainline,no,yes,partial|Partial [72],no,yes,yes,no,no,no,no,yes,yes,no,[empty]
+BitTorrent 6,yes,yes,[empty],yes,yes,yes,yes[73],yes,no,yes,yes,yes,yes,[empty]
+BitTyrant,yes,yes[74],yes,yes2 Plugin,yes,yes,no,yes,no,yes2 Plugin[75],partial|3rd party plugins,yes,no,Upload priority optimized according to a series of research papers
+Blog Torrent,no,no,no,no,no,no,no,no,no,no,no,no,no,[empty]
+Deluge,yes,yes,partial|Partial [71],yes2 Plugin,yes,yes,yes,yes,no,yes,no,yes2 via PMS,no,[empty]
+FlashGet,no,no,[empty],no,no,no,no,no,no,no,no,no,no,FlashGet (standalone application) is not FlashGot (Firefox Addon)
+Free Download Manager,no,yes,no,no,yes,yes,no,no,no,yes,no,Optional,no,[empty]
+KTorrent,yes,yes,[empty],yes,yes,yes,yes,yes,no,yes,partial|Builtin Web browser,yes2 via PMS,no,[empty]
+LimeWire,yes,yes,no,no,yes,yes,no,yes,no,no,no,yes,no,[empty]
+Meerkat Bittorrent Client,yes,no,[empty],no,no,no,no,no,no,no,no,no,no,[empty]
+MLDonkey,yes,no,[empty],partial|3rd party bash script,yes,no,no,no[76],no,yes,partial|Builtin Web browser,yes2 via PMS,no,[empty]
+¼Torrent,yes,yes[77],partial|Partial [72],yes[78],yes[79],yes,yes[80],yes,no,yes,yes,yes,yes,[empty]
+OneSwarm,yes,yes,partial|Partial [72],no,yes,yes,no,yes,no,no,no,yes,no,has all BitTyrant features
+Opera 12,no,no,[empty],yesr|group=Note|OperaRSS,no,no,no,no,no,no,partial|builtinto Web browser,yes|Windows and Mac OS X only; via PMS on Linux,no,Web browser
+qBittorrent,yes,yes,partial|Partial [71],yes,yes,yes,yes,yes,partial|hardcoded as disabled in newer versions,yes,yes,yes2 via PMS,no,[empty]
+rTorrent,partial,no,no,partial|3rd party utility [81],yes,yes,no,no,no,yes,no,yes2 via PMS,no,No builtin disk cache but a delayed sync
+Shareaza,yes,yes,no,no,yes,yes[82],yes2|in mod client,no,yes [83][84][85],yes,yes,yes,no,[86]
+SymTorrent,no,no,[empty],no,no,no,no,no,no,no,no,no,no,BitTorrent client for cell phones
+Tixati,yes,yes,partial|Partial [71] [87][72],yes,yes,yes,yes,yes,yes,yes,no,yes,no,lightweight client  Portable version available  option to keep all peers unchoked available Integral encrypted chatrooms that allow streaming audio and video  link sharing and searching
+Tomato Torrent,no,no,no,no,no,no,no,no,no,no,no,no,no,supports AppleScript
+Tonido,no,no,[empty],no,yes,yes,no,no,no,yes,no,yes,no,[empty]
+TorrentFlux,yes,yes,no,yes,yes,yes,no,no,no,yes,yes,no,no,[empty]
+Transmission,yes,no,partial|Partial [72][88],no,yes,yes,yes[89][90],no,no,yes,no,yes,no,[empty]
+Tribler,yes,no,no,yes,yes,yes,no,no,no,partial,yes (DHT)[91],yes,no,Fully distributed keyword search; integrated antispam measures[92]
+Vuze (formerly Azureus),yes,[empty],yes[74],yes,yes,yes,yes2 in paid version [93],yes,no,yes2 Plugin[75],yes,yes,yes[94],The only client to bridge between i2p and the clearnet
+Xunlei,yes,no,[empty],yes,yes,yes,yes,[empty],[empty],yes,no,yes,no,[empty]
+BitTorrent client,Cache,Hash Web seeding,HTTP Web seeding,Broadcatching (RSS),Prioritization,Selective downloads,Sequential downloading,SOCKS,Tracker exchange,Remote control via web,Search engine,Auto updates,Reviews and Comments,Notes

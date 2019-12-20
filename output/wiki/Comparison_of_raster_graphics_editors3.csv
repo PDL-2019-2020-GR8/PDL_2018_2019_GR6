@@ -1,0 +1,93 @@
+[empty],Windows,macOS,Linux,iOS,BSD,Unix,AmigaOS,Other
+Ability Photopaint,yes,no,no,[empty],no,no,no,no
+ACD Canvas,yes,partial|Dropped[8],no,[empty],no,no,no,no
+ACDSee,yes,yes,no,[empty],no,no,no,no
+Acorn Image Editor,no,yes,no,[empty],no,no,no,no
+Adobe Fireworks*,yes,yes,no,[empty],no,no,no,no
+Adobe Photoshop,yes,yes,no,yes (iPad),no,no,no,no
+Adobe Photoshop Lightroom,yes,yes,no,[empty],no,no,no,no
+Affinity Photo,yes,yes,no,yes (iPad),no,no,no,no
+Aperture,no,yes,no,[empty],no,no,no,no
+Autodesk SketchBook Pro,yes,yes,no,yes,no,no,no,yes|Android
+Artipic,yes,yes,no,[empty],no,no,no,no
+ArtRage,yes,yes,no,yes,no,no,no,yes|Android
+Artweaver,yes,no,no,[empty],no,no,no,no
+Bibble*,yes,yes,yes,[empty],no,no,no,no
+Bloom Image Editor,yes,yes,yes,[empty],no,no,no,no
+Brush Strokes Image Editor,yes,no,no,[empty],no,no,no,no
+Capture One,yes,yes,no,[empty],no,no,no,no
+Chasys Draw IES,yes,no,no,[empty],no,no,no,no
+CinePaint,partial|Version 017 only,yes,yes,[empty],yes,yes,no,no
+CodedColor PhotoStudio Pro,yes,no,no,[empty],no,no,no,no
+Corel PaintShop Pro,yes,no,no,[empty],no,no,no,no
+Corel Painter,yes,yes,no,[empty],no,no,no,no
+Corel PhotoPaint,yes,no,no,[empty],no,no,no,no
+darktable,yes,yes,yes,[empty],yes,no,no,yes|Solaris
+Deluxe Paint*,no,no,no,[empty],no,no,yes,yes|Atari ST  DOS[9]
+DigiKam,yes,yes,yes,[empty],yes,yes,no,no
+Erdas Imagine,yes,no,no,[empty],no,yes,no,no
+Fatpaint,yes,yes,yes,[empty],no,no,no,no
+Fotografix,yes,no,no,[empty],no,no,no,no
+FSpot,no,no,yes,[empty],yes,no,no,no
+G'MIC,yes,yes,yes,[empty],yes,yes,no,no
+GIMP,yes,yes,yes,No[10],yes,yes,partial|Needs X11 Cygnix,yes|SkyOS
+GimPhoto,yes,yes,yes,[empty],no,no,no,no
+GIMPshop,yes,yes,yes,[empty],yes,yes,no,no
+GNU Paint,no,no,yes,[empty],yes,no,no,no
+GrafX2,yes,yes,yes,[empty],yes,yes,yes,yes|Haiku  MiNT  DOS
+GraphicConverter,no,yes,no,[empty],no,no,no,no
+GraphicsMagick,yes,yes,yes,[empty],yes,no,no,no
+gThumb,no,no,yes,[empty],yes,no,no,no
+HDR PhotoStudio,yes,yes,no,[empty],no,no,no,no
+Helicon Filter,yes,no,no,[empty],no,no,no,no
+ImageJ,yes,yes,yes,[empty],yes,no,no,no
+ImageMagick,yes,yes,yes,[empty],yes,no,no,no
+iPhoto*,no,yes,no,[empty],no,no,no,no
+IrfanView,yes,no,no,[empty],no,no,no,no
+Iridient Developer,no,yes,no,[empty],no,no,no,no
+Kolourpaint,yes,no,yes,[empty],yes,yes,no,no
+Krita,yes,yes,yes,[empty],yes,yes,no,no
+LazPaint,yes,partial|Partial[11],yes,[empty],no,no,no,no
+LiveQuartz,no,yes,no,[empty],no,no,no,no
+MacPaint*,no,no,no,[empty],no,no,no,yes|Mac OS[12]
+Microsoft Office Picture Manager*,yes,yes,no,[empty],no,no,no,no
+Microsoft Paint,yes,no,no,[empty],no,no,no,no
+Microsoft Photo Editor*,yes,no,no,[empty],no,no,no,no
+mtPaint,yes,no,yes,no,no,no,no,no
+MyPaint,yes,yes,yes,[empty],yes,yes,no,no
+OpenCanvas,yes,no,no,[empty],no,no,no,no
+PaintNET,yes,no,partial|Partial[13],[empty],no,no,no,no
+Paint Tool SAI,yes,no,no,no,no,no,no,no
+PC Paintbrush*,no,no,no,[empty],no,no,no,yes|DOS[14]
+Pencil2D,yes,yes,yes,[empty],yes,no,no,no
+Phatch,yes,yes,yes,[empty],yes,no,no,no
+Photogenics,yes,no,yes,[empty],no,no,partial|Up to version 5,yes|Pocket PC
+PhotoLine,yes,yes,no,[empty],no,no,no,yes|ATARI ST
+PhotoPerfect*,yes,no,no,[empty],no,no,no,no
+Photos,no,yes,no,[empty],no,no,no,no
+Photo Raster,yes,yes,yes,[empty],yes,yes,no,no
+Picasa*,yes,yes,partial|Up to version 30,[empty],no,no,no,no
+PicMaster,yes,no,no,[empty],no,no,no,no
+Pinta,yes,yes,yes,[empty],yes,yes,no,no
+PixBuilder Photo Editor,yes,no,no,[empty],no,no,no,no
+Pixelmator,no,yes,no,[empty],no,no,no,no
+Pixen,no,yes,no,[empty],no,no,no,no
+Pixia,yes,no,no,[empty],no,no,no,no
+PMview,yes,no,no,[empty],no,no,no,yes| OS/2
+Project Dogwaffle,yes,no,no,[empty],no,no,no,no
+QFX,yes,no,no,[empty],no,no,no,yes|DOS 33 and up
+Rawstudio,no,yes,yes,[empty],yes,no,no,no
+RawTherapee,yes,yes,yes,[empty],no,no,no,no
+Seashore,no,yes,no,[empty],no,no,no,no
+Serif PhotoPlus,yes,no,no,[empty],no,no,no,no
+Shotwell,no,no,yes,[empty],yes,no,no,no
+Tux Paint,yes,yes,yes,[empty],yes,yes,no,no
+TVPaint,yes,yes,yes,[empty],no,no,partial|Up to version 359[15],no
+UFRaw,yes,yes,yes,[empty],yes,no,no,no
+Ulead PhotoImpact*,yes,no,no,[empty],no,no,no,no
+Ultimate Paint*,yes,no,no,[empty],no,no,no,no
+WinImages,yes,no,no,[empty],no,no,no,no
+Xara Photo & Graphic Designer,yes,no,no,[empty],no,no,no,no
+XnView,yes,yes,yes,[empty],no,no,no,partial|varying[16]
+XPaint,no,yes,yes,[empty],yes,yes,no,yes|IBM AIX
+Zoner Photo Studio,yes,no,no,[empty],no,no,no,no

@@ -1,0 +1,6 @@
+Name,Architecture,Integrated firewall,SMP support,USB support,UDMA support,LFN support,Update management,APIs,Safe Mode
+Windows 10,x86 16bit,No,No,No,No,No,No,Win16,No
+Windows 20,x86 16bit,No,No,No,No,No,No,Win16,No
+Windows 21x,x86 16bit,No,No,No,No,No,No,Win16,No
+Windows 30,x86 16bit,No,No,No,No,No,No,Win16,No
+Windows 31x,x86 16bit (partial 32bit compatibility through Win32s),No,No,No,No,No,No,Win16  Win32s,No

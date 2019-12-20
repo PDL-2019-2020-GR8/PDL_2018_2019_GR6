@@ -1,0 +1,52 @@
+File system,Sparse files,Transparent compression,Block suballocation,Tail packing,Extents,Variable file block sizeefn |name=note41 |Variable block size refers to systems which support different block sizes on a perfile basis (This is similar to extents but a slightly different implementational choice) The current implementation in UFS2 is readonly,Allocateonflush,Copy on write,Trim support
+DECtape,no,no,no,no,no,no,no,no,no
+BeeGFS,yes,yes,no,no,yes,yes,yes,yes,dunno
+LevelD,no,no,no,no,yes,no,no,no,dunno
+APFS,yes,no,dunno,dunno,yes,dunno,yes,yes,yes[67][68]
+Version 6 Unix file system (V6FS),yes,no,no,no,no,no,no,dunno,no
+Version 7 Unix file system (V7FS),yes,no,no,no,no,no,no,dunno,no
+exFAT,no,no,no,no,no,no,no,no,yes
+FAT12,partial (only inside of compressed volumes)[69],partialefn |name=note51,partial (only inside of Stacker 3/4 and DriveSpace 3 compressed volumes[70]),no,partial (only inside of compressed volumes)[71],no,no,no,yes (Linux)
+FAT16 / FAT16B / FAT16X,partial (only inside of compressed volumes)[69],partialefn |name=note51 |SuperStor in DR DOS 60  PalmDOS 10  PC DOS 61 and 63  Stacker in Novell DOS 7  OpenDOS 701  DRDOS 702 (and higher)  and PC DOS 70 (and higher)  DoubleSpace in MSDOS 60 and 620  and DriveSpace in MSDOS 622 and Windows 95  98 and Me are disk compression schemes for FAT  but are not supported for other operating systems,partial (only inside of Stacker 3/4 and DriveSpace 3 compressed volumes[70]),no,partial (only inside of compressed volumes)[71],no,no,no,yes (Linux)
+FAT32 / FAT32X,no,no,no,no,no,no,no,no,yes (Linux)
+GFS,yes,no,no,partialefn |Only for "stuffed" inodes,no,no,no,dunno,yes
+HPFS,no,no,no,no,yes,no,no,dunno,no
+NTFS,yes,yes,partial,no,yes,no,no,dunno,yes (NT 61  newer)
+HFS Plus,no,no,no,no,yes,no,no,dunno,yes (macOS)
+FFS,yes,no,yes2 81efn |name=note45 |Other blockfragment size ratios supported; 81 is typical and recommended by most implementations,no,no,no,no,dunno,no
+UFS1,yes,no,yes2 81efn |name=note45,no,no,no,no,dunno,no
+UFS2,yes,no,yes2 81efn |name=note45,no,no,yes,no,dunno,yes[72][73]
+LFS,yes,no,yes2 81efn |name=note45,no,no,no,no,yes,dunno
+ext,yes,no,no,no,no,no,no,no,no
+Xiafs,yes,no,no,no,no,no,no,dunno,dunno
+ext2,yes,noefn |name=note49 |e2compr  a set of patches providing blockbased compression for ext2  has been available since 1997  but has never been merged into the mainline Linux kernel,noefn |name=note47 |Fragments were planned  but never actually implemented on ext2 and ext3,no,no,no,no,no,yes
+ext3,yes,no,noefn |name=note47,no,no,no,no,no,yes
+ext4,yes,no,noefn |name=note47,no,yes,no,yes,no,yes
+NOVA,yes,no,no,no,yes,no,no,yes,dunno
+F2FS,yes,no,no,no,partialefn |name=note75 | Stores one largest extent in disk  and caches multiple extents in DRAM dynamically,no,yes,yes,yes[74]
+Lustre,yes,no,no,no,yes,no,yes,dunno,dunno
+NILFS,yes,no,no,no,no,no,yes,yes,dunno
+ReiserFS,yes,no,yesefn |name=note73 |Tail packing is technically a special case of block suballocation where the suballocation unit size is always 1 byte,yes,no,no,no,dunno,dunno
+Reiser4,yes,yesefn |name=note50,yesefn |name=note73,yes,yesefn |name=note39 |In "extents" mode,no,yes,dunno,dunno
+OCFS,dunno,no,no,no,yes,no,no,dunno,dunno
+OCFS2,yes,no,no,no,yes,no,no,dunno,dunno
+XFS,yes,no,no,no,yes,no,yes,yes  on request[75],yes (Linux)
+JFS,yes,yes2 only in JFS1 on AIX[76],yes,no,yes,no,no,dunno,yes (Linux)
+QFS,dunno,no,yes,no,no,no,no,dunno,dunno
+BFS,dunno,no,no,no,yes,no,no,dunno,yes (Haiku)
+NSS,dunno,yes,no,no,yes,no,no,dunno,dunno
+NWFS,dunno,yes,yesefn |name=note42 |Each possible size (in sectors) of file tail has a corresponding suballocation block chain in which all the tails of that size are stored The overhead of managing suballocation block chains is usually less than the amount of block overhead saved by being able to increase the block size but the process is less efficient if there is not much free disk space,no,no,no,no,dunno,dunno
+ODS5,dunno,no,no,no,yes,no,no,dunno,dunno
+VxFS,yes,no,dunno,no,yes,no,no,dunno,dunno
+UDF,no,no,no,no,yes,no,dunnoefn |name=note46 |Depends on UDF implementation,dunno,no
+Fossil,dunno,yes,no,no,no,no,no,dunno,dunno
+ZFS,yes,yes,yes,no,no,yes,yes,yes,yes (FreeBSD  illumos)
+Btrfs,yes,yes,yes,yes,yes,yes,yes,yes,yes
+VMFS2,yes,no,yes,no,no,no,no,dunno,dunno
+VMFS3,yes,no,yes,no,no,no,no,dunno,dunno
+ReFS,yes,no,dunno,dunno,dunno,no,dunno,yes,dunno
+ISO 9660,no,noefn|name=note80|Linux supports the zisofs extension that allows perfile compression  and file system creation tools may support creating such images zisofs images are incompatible on nonLinux OSes,no,no,yesefn|name=note81|ISO 9660 Level 3 only,no,no,no,no
+Rock Ridge,no,noefn|name=note80,no,no,yesefn|name=note81,no,no,no,no
+Joliet ("CDFS"),no,noefn|name=note80,no,no,yesefn|name=note81,no,no,no,no
+SquashFS,yes,yes,no,no,no,no,no,no,no
+File system,Sparse files,Transparent compression,Block suballocation,Tail packing,Extents,Variable file block sizeefn |name=note41,Allocateonflush,Copy on write,Trim support

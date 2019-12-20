@@ -1,0 +1,30 @@
+!AngularJS,Apache Royale,Dojo,Emberjs,Enyo,Ext JS,Google Web Toolkit,jQuery,jQWidgets,MooTools,OpenUI5,Prototype & script aculous[11],qooxdoo,SmartClient and SmartGWT,SproutCore,Vue,Wakanda,ZK,Webix
+Feature detection[13],yes,[empty],yes[14],yes,[empty],yes[15],no[16][17],yes[18],yes,yes[19],[empty],no[20],yes,depends |Partial [21],yes,[empty],Partial,no[22]
+DOM wrapped[23],yes,[empty],yes,no,yes,yes,yes,yes,[empty],no[24],[empty],no[25][26],yes,yes,no,[empty],yes,yes
+XMLHttpRequest data retrieval,yes,yes,yes[27],[empty],yes,yes,yes,yes,yes[28],yes[29],yes,yes,yes,yes,yes,[empty],yes,[empty]
+WebSocket,[empty],[empty],yes[27],[empty],yes,yes,yes,yes,no,yes[29],yes[30],yes,yes,yes,yes| Via Plugin,[empty],yes,[empty]
+Server push data retrieval,[empty],[empty],yes[32],[empty],[empty],yes[33],yes[34],yes[32],no,[empty],[empty],[empty],[empty],yes[35],yes| Via Plugin,[empty],[empty],yes[36]
+Other data retrieval,[empty],yes| Yes XML  HTML  CSV  ATOM  AMF  JSON,yes| Yes XML  HTML  CSV  ATOM[37],[empty],[empty],yes | Yes XML  SOAP  AMF  ExtDirect,yes | Yes RPC  RequestFactory,yes | Yes XML  HTML,yes | Yes XML  JSON  CSV  TSV[28],yes | Yes XML  HTML,[empty],[empty],[empty],yes | Yes XML  WSDL  RSS  and Javabased SQL  Hibernate  POJO adapters,[empty],[empty],yes | Yes JSONRPC  Wakanda REST,[empty]
+Drag and drop,[empty],yes,yes[38],[empty],[empty],yes,depends| With plugin[39],depends|With plugins[40],yes[41],yes[42],yes[43],yes,yes,yes,yes,[empty],yes,yes
+Simple visual effects,yes,yes,yes[45],[empty],yes,yes,yes,yes,yes,yes[46],yes,yes,yes,yes,yes[47],[empty],yes,yes
+Animation / advanced visual effects,yes,[empty],yes[48],[empty],yes[49],yes,yes,yes,yes,yes[50],[empty],yes,yes,yes,yes[47],[empty],yes,yes
+Back button support / history management,[empty],[empty],yes[52],yes,yes[53],yes[54],yes,depends|With plugins[55],no,depends|With plugin[56],[empty],yes,yes,yes,yes,[empty],[empty],yes
+Input form widgets & validation,yes,yes,yes[57],[empty],yes,yes,yes  Validation requires plugin[58],depends|With plugins[59],yes[60],yes,yes,yes,yes,yes,yes,[empty],yes,yes
+[empty],AngularJS,Apache Royale,Dojo,Emberjs,Enyo,ExtJS,Google Web Toolkit,jQuery,jQWidgets,MooTools,OpenUI5,Prototype & script aculous[11],qooxdoo,SmartClient and SmartGWT,SproutCore,Vue,Wakanda,ZK
+Grid,[empty],yes,yes[63],[empty],[empty],yes,yes,depends|With plugins[64],yes[65],depends|With plugin[66],yes,[empty],yes,yes,yes,[empty],yes[67],yes
+Hierarchical Tree,[empty],yes,yes[69],[empty],yes[70],yes[71],yes,depends|With plugins[72],yes[73],depends|With plugins[74],yes,[empty],yes[75],yes,yes,[empty],yes (Auto Form)[76],yes
+Rich text editor,no,yes,yes[78],[empty],[empty],yes[79],yes,depends|With plugins[80],yes[81],yes[82],[empty],[empty],yes,yes,yes|Via plugin,[empty],yes[83],yes
+Autocompletion tools,no,[empty],yes[85],[empty],[empty],yes,yes,yes[86],yes[87],depends|With plugin[88],[empty],yes,[empty],yes,depends|With plugins,[empty],yes[89],yes
+HTML generation tools,no,[empty],yes[90],[empty],[empty],yes,yes,yes,yes[81],yes[91],[empty],yes,yes,yes,yes,[empty],no,yes
+Widgets themeable / skinnable,[empty],yes,yes[92],[empty],yes,yes[93],yes[94],yes[95],[empty],yes,yes,yes,[empty],yes,yes,[empty],[empty],yes
+GUI resizable panels and modal dialogs,[empty],yes,yes,[empty],yes,yes,yes,depends|With plugins,yes[96],yes[97],[empty],[empty],yes,yes,yes,[empty],yes[98],yes[99]
+GUI page layout,[empty],[empty],yes,[empty],[empty],yes,yes,depends|With plugin[100],yes[101][102],yes[97],[empty],[empty],yes,yes,yes,[empty],yes[103],yes[99]
+Canvas support,[empty],yes,yes[105],[empty],yes,yes,yes,depends|With plugin[106],yes[107],yes[108],[empty],[empty],yes,yes,yes,[empty],yes[109],yes[110]
+Mobile/tablet support (touch events),yes,yes,yes[111],yes,yes,yes,depends|With plugin[112],depends|With plugin[113],yes[114],depends|With plugin[115],yes,[empty],yes,yes,yes,[empty],yes[116][117],yes[118]
+Accessibility / graceful degradation[120],yes,[empty],yes[121],no,yes,yes[122],yes[123],yes,yes[124],yes,[empty],[empty],no[125],partial| Degradation No Accessibility Yes,partial| Degradation No Accessibility Yes,[empty],[empty],yes
+ARIA compliant,[empty],[empty],yes[121],[empty],[empty],yes[122],[empty],yes[127],yes[124],[empty],yes,[empty],No,yes,yes,[empty],[empty],yes
+Developer tools  Visual design,[empty],[empty],yes[129][130],[empty],yes|in progress[131],yes[132][133][134],yes,yes[135][136],yes[137][138][139],yes[140][141],[empty],[empty],yes[142],yes,no,[empty],yes[143],yes
+Offline storage[146],[empty],yes,no[147],[empty],yes,yes[148],depends| Via Google Gears[149],depends|With plugin[150],yes[151],[empty],[empty],[empty],yes,yes,yes,[empty],planned,yes
+Crossbrowser 2d Vector Graphics[152],[empty],[empty],yes[153],[empty],[empty],yes,[empty],depends| With plugin[154],yes[107],yes[155],[empty],[empty],[empty],yes,no],[empty],yes (via Raphael),yes[110]
+Charting & Dashboard[157],[empty],yes,yes[158],[empty],[empty],yes[159],[empty],depends|With plugin[160][161],yes[162][163],[empty],[empty],[empty],[empty],yes,no,[empty],yes[164],yes[165]
+RTL Support in UI Components,[empty],yes,yes,[empty],[empty],yes,[empty],depends|Depends on the plugin used,yes[124],[empty],yes,[empty],[empty],yes,yes,[empty],[empty],[empty]

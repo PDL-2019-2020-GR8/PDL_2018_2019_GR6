@@ -1,0 +1,43 @@
+Name,Language,License,Type,Configurable titlebar buttons,Graphical configuration,Hotkeys,ICCCM/EWMH compliant,Panel for window switching,Tabbed windows,Themeable,Memory (MB)[1],Initial Release,Latest Stable Release
+2bwm,C,[empty],Stacking,[empty],no,yes,[empty],[empty],[empty],yes,[empty],[empty],[added]
+9wm,C,MIT,Stacking,no,no,no,[empty],yes,no,no,04,1994,[added]
+aewm,C,MIT,Stacking,no,no,no,yes,yes,no,no,[empty],[empty],[added]
+awesome,C  Lua,GPL,Dynamic,yes,no,yes,yes,yes,no,yes,9,20070918,[added]
+Blackbox,C,MIT,Stacking,no,won|thirdparty,won|with bbkeys,yes|through 065 / from 070[2],yes,no,yes,3,[empty],[added]
+bspwm,C,BSD[3],Tiling,no,no,won|with sxhkd,partial,no,no,no,[empty],20130423,[added]
+Compiz,C (OpenGL),MIT,Compositing,yes,yes,yes,yes,won|thirdparty,yes,yes,[empty],2006,20161111
+cwm,C,ISC,Stacking,no2no titlebar buttons,no,yes,[empty],no,no,yes,[empty],20040710,[added]
+dwm,C,MIT,Dynamic,no2no titlebar buttons,no,yes,[empty],yes,no,yes,1,20060714,[added]
+Enlightenment,C,BSD,Compositing,yes,yes,yes,yes,yes,no,yes,[empty],1997,201908[4]
+evilwm,C,MIT[5],Stacking,no2no titlebar buttons,no,yes,partial[6],no,no,yes,noCitation needed|date=December 2019,[empty],[added]
+EXWM,Emacs Lisp,GPL,Tiling,no,no,yes,partial,no,no,yes,[empty],[added],[added]
+Fluxbox,C,MIT,Stacking,yes,won|thirdparty,yes,yes[7],yes,yes,yes,16,[empty],[added]
+FLWM,C (FLTK),GPL,Stacking,[empty],no,yes,[empty],no|There is a window list menu,no,No,[empty],1998,[added]
+FVWM,C,GPL,Dynamic,yes,no,yes,yes,yes,yes[8],won|thirdparty[9][10],4,19930601,[added]
+i3,C,BSD,Dynamic,no2no titlebar buttons,no,yes,yes,no,yes,yes,3,20090315,[added]
+IceWM,C,LGPL,Stacking,yes,won|thirdparty,yes,yes,yes,no,yes,45,1997,20190327
+Ion,C  Lua,LGPL with naming restrictions on modified versions,Tiling,no2no titlebar buttons,no,yes,[empty],no,yes,yes,[empty],2000,20090110
+JWM,C,MIT (Formerly GPL),Stacking,yes,won|thirdparty,yes,yes|EWMH,yes,no,yes,3,2003,[added]
+KWin (KDE),C (Qt),GPL,Compositing,yes,yes,yes,yes,yes,no,yes,41,[empty],201901
+Matchbox,C,GPL,Stacking,[empty],[empty],[empty],Yes|EWMH compliance,no,no,yes,[empty],20070413,[added]
+Metacity (GNOME),C  C (GTK),GPL,Compositing,yes,yes,yes,yes,yes,no,yes,[empty],200210,201609
+Mutter (GNOME/MeeGo),C (Clutter),GPL,Compositing,yes,yes,yes,yes,won|Gnome Shell,no,yes,186,201104,201809
+mwm (Motif Window Manager),C,The Open Group Public License,Stacking,no,no,yes,[empty],[empty],[empty],No|can change colours,[empty],1989,[added]
+Openbox,C,GPL,Stacking,yes,won|thirdparty,yes,yes,won|thirdparty,no,yes,7,20020918,[added]
+PekWM,C,GPL,Stacking,yes,no,yes,partial,no,yes,yes,53,[empty],[added]
+PlayWM,C,GPL,Stacking,yes,no,yes,yes,yes,no,yes,[empty],[empty],[added]
+Ratpoison,C,GPL,Tiling,no,no,yes,no,no,no,no,1,20001204,[added]
+Sawfish,Lisp  C,GPL,Stacking,yes,yes,yes,Partial,yes,primitive,yes,31,20000101,[added]
+sithWM,C,GPL,Stacking,no2no titlebar buttons,no,yes,[empty],no,no,yes,[empty],[empty],[added]
+spectrwm,C,ISC,Dynamic,no2no titlebar buttons,no,yes,yes,no,no,won|solid colors,[empty],[empty],[added]
+steamcompmgr,unknown,BSD2clause,Compositing,no,no,yes,[empty],no,no,no,[empty],2013,[added]
+StumpWM,Common Lisp,GPL,Tiling,no,no,yes,no,no,no,no,[empty],[empty],[added]
+twm,C,MIT,Stacking,yes,no,yes,[empty],yes,no,won|solid colors,12,1987,[added]
+WMFS,C,BSD,Tiling,yes,no,yes,Yes,yes,yes,yes,[empty],[empty],[added]
+Window Maker,C,GPL,Stacking,no,yes,yes,partial,yes,yes,yes,7,1997,20170311
+Wingo,Go,WTFPL,Dynamic,yes,no,yes,yes,yes,no,yes,[empty],[empty],[added]
+wmii,C,MIT,Dynamic,yes,no,yes,yes,no,yes,yes,[empty],20050601,[added]
+Xfwm (Xfce),C  C (GTK),GPL  LGPL,Compositing,yes,yes,yes,yes,yes,no,yes,70,1996,20190812
+xmonad,Haskell,BSD,Dynamic,yes,no,yes,yes|Yes / ?,won|thirdparty,yes,yes,2,20070306,[added]
+uwm,C,Similar to BSD license,Stacking,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],1985,[added]
+Name,Language,License,Type,Configurable titlebar buttons,Graphical configuration,Hotkeys,ICCCM/EWMH compliant,Panel for window switching,Tabbed windows,Themeable,Memory (MB),Initial release,Last Stable Release

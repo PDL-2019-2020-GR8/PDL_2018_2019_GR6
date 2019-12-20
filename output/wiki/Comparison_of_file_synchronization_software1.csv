@@ -1,0 +1,19 @@
+Name,Programming language,Platform,License,Stable version,Portable,Detect conflict,Renames or moves,Propagate deletes,Revision control,Scheduling or service,Other information
+Conduit,Python,Linux  FreeBSD,GPL,0317 (20100121),No,[empty],[empty],[empty],[empty],Yes,Synchronizes files  website  network apps
+DirSync Pro,Java,Java SE,GPLv3,153 (20180307),Yes,Yes,No,[empty],Yes (creates backup files),Yes (native  via OS),symlinks  filter  metadata  contents  autosync
+FreeFileSync,C,Windows  OS X  Linux,GPL,1010 (20190310),Yes (Donation Edition)[2],Yes[3],Yes[3],Yes[3],Yes (versioning  recycler)[3],Yes,Older version had OpenCandy Adware/malware  but now funded by donations[4] [5]
+iFolder,C#  Mono,Windows  OS X  Linux  Solaris,GPL,3803 (20100719),No,Yes (centralized database),Yes (files  not folders),[empty],[empty],[empty],[empty]
+InterPlanetaryFileSystem,Go,Windows  OS X  Linux,GPL,0415 (20180512),[empty],Yes,[empty],[empty],No (Planned)[6],[empty],[empty]
+luckyBackup,C,Windows  OS X  Linux  FreeBSD,GPLv3,049 (20171017),Yes,[empty],[empty],[empty],[empty],Yes,Uses rsync backend
+Nextcloud,PHP  C  JavaScript[7],Server Linux Clients Windows  OS X  Linux  Android  iOS,AGPLv3,1701 (20191107),yes,yes,yes,Yes[8],yes,yes,Fork of ownCloud and actively maintained Windows Phone App
+OneSync,C#,Windows,GPL,40 (20120219),No,Yes,Yes,[empty],[empty],No,[empty]
+ownCloud community edition,PHP  C  JavaScript[9],Server Linux  FreeBSD Clients Windows  OS X  Linux  FreeBSD  Android  iOS,AGPLv3 (Server Edition) / proprietary (Enterprise Edition),Latest stable software release/ownCloud,yes,yes,yes,Yes[10],yes,yes,iOS  Android  Blackberry  Win  Mac  Linux Client; external storage support; encryption app; app framework
+Pydio Open source home,Server PHP  Python  C Clients JS  C#  Swift  Java,Windows  OS X  Linux  Android  iOS,AGPLv3,802 (20171213),yes,yes,yes,[empty],yes (Git[11]),yes,[empty]
+rsync,C in a UnixLinux shell,Windows  OS X [12] Linux [13][14] BSD,GPL v3,Latest stable software release/rsync,Yes,No,No,[empty],No,Yes (via OS),client & server operation Multiple comparison criteria (date  checksum)
+Seafile community edition,C99  Python[15],Server Linux  Raspbian  Windows Clients Linux  OS X  Windows  Android  iOS[16],AGPLv3 (Server)  Apache License 20 (Client),Latest stable software release/Seafile,no,yes,yes,yes,yes,yes (via Seafile Client),Android and iOS mobile clients
+SparkleShare,C#,Windows  OS X  Linux  Android  iOS,GPL v3 and LGPL,201 (20171222),Yes,Yes,No,[empty],Yes (Git[17]),[empty],[empty]
+SymmetricDS,Java,Java SE,GPL,394 (20180216),Yes,Yes,Yes,[empty],No,Yes,plugin APIs for customization
+Synchronizer (krusader),[empty],Windows  OS X  Linux,GPL v2,260 (20170412),No,Yes,No,[empty],No,No,Synchronizer no longer in active development
+Syncthing,Go,Windows  OS X  Linux  Android  BSD  Solaris,MPL v2,100 (20190101),Yes,Yes,Yes,Yes,Yes,Yes,Distributed peertopeer sync
+Synkron,C,Windows  OS X  Linux,GPL v2,162 (20110125)[18],Yes,Yes,No,Yes,Yes,Yes,no longer in active development
+Name,Programming language,Platform,License,Stable version,Portable,Detect conflict,Renames or moves,Propagate deletes,Revision control,Scheduling or service,Other information

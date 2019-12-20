@@ -1,0 +1,29 @@
+Audio player,Video playback,Outbound streaming,Skinnable,Media database,Gapless audio decoding,Visualizer,Remote controllable,Intelligent playlists from database (based on criteria)
+AIMP,no,partial|via Plugins,yes,yes,yes,yes,partial|via Plugins,no
+Amarok,partial[4],yes,partial[5],yes,yes,yes,yes,yes
+Audacious,no,no,yes,no,yes,yes,yes,no
+Audion,no,no,yes,no,dunno,yes,dunno,no
+cmus,no,no,yes,yes,yes,no,yes,no
+Cog,no,no,no,no,yes,no,yes,no
+Clementine,no,no,no,yes,yes,yes,yes,yes
+Exaile,no,dunno,no,yes,yes,no,yes[6],yes
+foobar2000,no,partialefn|name=plugin|Plugin available,yes[7],yes,yes,yes,partialefn|name=plugin,yes
+iTunes,yes,yes,partialefn|name=plugin,yes,yes,yes,yes,yes
+JRiver Media Center,yes,partial|via Plugins,yes,yes,yes,yes,partial|via Plugins,yes
+JuK,no,no,no,yes,no,no,yes[8],dunno
+MediaMonkey,yes,partialefn|name=plugin,yes,yes,yes,yes,partialefn|name=plugin,yes
+MPXPLAY,yes (with MMC v200a),dunno,no|textinterface,yes,yes,yes,yes (also LCD ability),dunno
+Music Player Daemon,no,yes,yes|Client dependent,yes,yes,yes|Client dependent,yes,yes|Client dependent
+MusicBee,no,no,yes,yes,yes,yes,yes,yes
+Musicmatch Jukebox,no,no,yes,yes,dunno,yes,yes,dunno
+musikCube,no,no,no,yes,no,partialefn|name=plugin,dunno,yes
+Quod Libet,no,no,no,yes,yes,no,yes,yes
+Rhapsody,no,no,no,yes,dunno,no,dunno,dunno
+Rhythmbox,no,no,no,yes,yes,yes,yes,yes
+Sonique,partialefn|name=plugin,no,yes,no,no,yes,dunno,no
+Spotify,yes,dunno,no,no,yes,no,yes (via app),no
+Winamp,yes,yes,yes,yes,yes,yes,yes,yes
+XMMS,partialefn|name=plugin,partialefn|name=plugin,yes,no,partialefn|name=plugin,yes,yes,no
+XMPlay,partialefn|name=plugin,partialefn|name=plugin,yes,no,yes,yes,no,no
+Zinf,no,no,yes,yes,dunno,no,dunno,dunno
+Audio player,Video playback,Outbound streaming,Skinnable,Media database,Gapless audio decoding,Visualizer,Remote controllable,Intelligent playlists from database (based on criteria)

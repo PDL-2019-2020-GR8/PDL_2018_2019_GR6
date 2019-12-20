@@ -1,0 +1,16 @@
+Client,Primary developers,Cost,Software license,User interface,Programming language,Computing platform,Website
+AndroidChat[1],[empty],free|Free software,GNU GPL,TUI  GUI,Java,Android,[1]
+Mobile Colloquy,Kiji Roshi,nonfree|US$199,BSD License,GUI,ObjectiveC,iOS,[2]
+fIRC,Laurence Muller,free|Free software,GNU GPL,GUI,Java,Android,[3]
+Igloo,Jordan Koch,nonfree|US$599,dunno,GUI,Swift,iOS,[4]
+IRCCloud,IRCCloud Ltd,free|Freeware[2],Apache 20,GUI,ObjectiveC  Java,iOS  Android,[5]
+jmIrc,Juho VähäHerttua,free|Free software,GNU GPL,GUI,Java,Java ME,[6]
+kIRC,Armond Avanes,free|Free software,GNU GPL,GUI,Java,Java ME,[7]
+microirc,[empty],free|Free software,GNU GPL,GUI,C ?,Windows Mobile 5 (and above),[8]
+Virca,[empty],free|Free software,GNU GPL,TUI,Java,Java ME,[9]
+wIRC,[empty],free|Free software,GNU GPL,GUI,C & JavaScript,WebOS,[10]
+WLIrcAnchor|WLIrc,Sverre Kristian Valskr�,free|Free software,GNU LGPL,GUI,Java,Java ME,[11]
+YaaicAnchor|Yaaic,Sebastian Kaspari,free|Free software,GNU GPL,GUI,Java,Android,[12]
+Simple IRC,The Linux Geek,free|Free software,GNU GPL,GUI,Java,Android,[13]
+zsIRCAnchor|zsIRC,Gargaj,free|Free software,3clause BSD,GUI,C,Windows Mobile,[14]
+Client,Primary developers,Cost,Software license,User interface,Programming language,Computing platform,Website

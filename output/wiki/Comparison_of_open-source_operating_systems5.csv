@@ -1,0 +1,30 @@
+Name,Firewall,TCP/IP,IPv6,IPX,PPP,PPPoE,DHCP,bridge,TUN/TAP,ssh,OpenVPN
+Linux,netfilter iptables/nftables,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+FreeBSD,IPFW2  IPFilter  PF,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+OpenBSD,PF,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+NetBSD,IPFilter  NPF  PF,yes,yes,[empty],yes,yesr|group=Note|e1,yes,yes,yes,yes,yes
+DragonFly BSD,IPFW2  PF,yes,yes,no,yes,yes,yes,yes,yes,yes,[empty]
+OpenSolaris  illumos,IPFilter,yes,yes,[empty],yes,yes,yes,yes,yesr|group=Note|e2,yes,yes
+AuroraUX,IPFilter,yes,yes,[empty],yes,yes,yes,yes,[empty],yes,yes
+Darwin  OpenDarwin,IPFW,yes,yes,[empty],[empty],[empty],yes,[empty],[empty],yes,[empty]
+MINIX,[empty],yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],yes,[empty]
+FreeDOS,[empty],yes,[empty],yes,yes,yes,yes,[empty],[empty],yes,[empty]
+Genode,software IP routing,yes,[empty],no,no,no,yes,yes,[empty],[empty],[empty]
+Haiku,None,yes,yes,[empty],[empty],[empty],yes,[empty],[empty],yes,yes
+KolibriOS,None,yes,[empty],no,yes,no,yes,[empty],[empty],[empty],[empty]
+MenuetOS,None,yes,[empty],no,no,no,[empty],[empty],[empty],[empty],[empty]
+GNU,netfilter iptables/nftables (with Linuxlibre and Linux kernel)r|group=Note|e3,yes,yesr|group=Note|e4,[empty],[empty],[empty],yesr|group=Note|e5,[empty],[empty],yes,[empty]
+ReactOS,[empty],yes,yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+L4  Fiasco  Pistachio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Plan 9,ipmux,yes,yes,no,yes,yes,yes,yes,no,yes,no
+AROS,[empty],yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Syllable,[empty],yes,[empty],[empty],yes,yes,yes,[empty],[empty],yes,[empty]
+Inferno,ipmux,yes,yes,no,yes,yes,yes,yes,no,no,no
+FreeRTOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+eCos,[empty],yes,yes,[empty],yes,[empty],yes,[empty],[empty],yes,[empty]
+RTEMS,[empty],yes,no,[empty],yes,yes,yes,yes,yes,[empty],[empty]
+HelenOS,[empty],yes,yes,no,no,no,yes,no,no,no,no
+E/OS,[empty],yes,yes,yes,yes,yes,yes,yes,yes,yes,
+K42,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+UnixLite >,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Name,Firewall,TCP/IP,IPv6,IPX,PPP,PPPoE,DHCP,bridge,TUN/TAP,ssh,OpenVPN

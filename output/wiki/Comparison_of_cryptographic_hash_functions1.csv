@@ -1,0 +1,20 @@
+Function,Year,Designer,Derived from,Reference
+BLAKE,2008,JeanPhilippe Aumasson Luca Henzen Willi Meier Raphael CW Phan,ChaCha20,Website Specification
+BLAKE2,2012,JeanPhilippe Aumasson Samuel Neves Zooko WilcoxO'Hearn Christian Winnerlein,BLAKE,Website Specification IETF RFC|7693
+GOST R 341194,1994,FAPSI and VNIIstandart,GOST 2814789,IETF RFC|5831
+HAVAL,1992,Yuliang Zheng Josef Pieprzyk Jennifer Seberry,[empty],Website Specification
+KangarooTwelve,2016,Guido Bertoni Joan Daemen Michaël Peeters Gilles Van Assche,Keccak,Website Specification
+MD2,1989,Ronald Rivest,[empty],IETF RFC|1319
+MD4,1990,[empty],IETF RFC|1320,[added]
+MD5,1992,MD4,IETF RFC|1321,[added]
+MD6,2008,[empty],Website Specification,[added]
+RIPEMD,1992,The RIPE Consortium[1],MD4,[empty]
+RIPEMD128 RIPEMD256 RIPEMD160 RIPEMD320,1996,Hans Dobbertin Antoon Bosselaers Bart Preneel,RIPEMD,Website Specification
+SHA0,1993,NSA,[empty],SHA0
+SHA1,1995,SHA0,Specification,[added]
+SHA256 SHA384 SHA512,2002,[empty],[added],[added]
+SHA224,2004,[added],[added],[added]
+SHA3 (Keccak),2008,Guido Bertoni Joan Daemen Michaël Peeters Gilles Van Assche,RadioGatún,Website Specification
+Streebog,2012,FSB  InfoTeCS JSC,[empty],IETF RFC|6986
+Tiger,1995,Ross Anderson Eli Biham,[empty],Website Specification
+Whirlpool,2004,Vincent Rijmen Paulo Barreto,[empty],Website

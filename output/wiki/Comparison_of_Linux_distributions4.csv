@@ -1,0 +1,57 @@
+Distribution,Size of media (MB),RAM use (MB),Boots from CD,Boots from DVD,Installable live CD/DVD,Installable from USB
+Arch Linux,nts|742,[empty],Yes,Yes,Yes,Yes
+AUSTRUMI,nts|301,[empty],Yes,Yes,Yes,Yes
+BLAG Linux and GNU,nts|696,dunno,yes,no,dunno,[empty]
+Bodhi Linux,nts|1024,nts|80,Yes,Yes,Yes,Yes
+CentOS,nts|603 (Minimal) nts|4096 (DVD),[empty],Yes,Yes,Yes |Yes (installable since 60),Yes
+Chakra,nts|2150,[empty],no,yes,yes,yes
+Debian,nts|958,[empty],Yes,Yes,Yes,Yes
+Devuan,nts|868,Yes,Yes,Yes,Yes,[added]
+Dragora GNU/LinuxLibre,nts|655,dunno,yes,dunno,dunno,dunno
+dynebolic,nts|1650,dunno,partial|up to version 2x,Yes,dunno,dunno
+Fedora,nts|1434,nts|256 to nts|1024,Yes,Yes,Yes,Yes
+Gentoo,nts|260 (Minimal) nts|2048 (Live DVD),up to nts|128,Yes,Yes,Yes,Yes
+gNewSense[198],nts|1200,nts|512,dunno,dunno,yes,dunno
+Grml,nts|460,nts|32 to nts|128,Yes,No,Yes,Yes
+Guix[199],nts|1375,nts|366,no,yes,yes,Yes
+Hyperbola GNU/Linuxlibre,nts|660 and nts|688,dunno,yes,yes,yes,yes
+Knoppix CD,nts|700,nts|128 to nts|320,Yes,Yes,No|Only DVD edition is maintained,[empty]
+Knoppix DVD,nts|4813,nts|128 to nts|500,No,Yes,[empty],[empty]
+LibreCMC,dunno,dunno,no,no,no,no
+Mandriva Linux One,nts|700,nts|128 to nts|768,Yes,Yes,Yes,Yes
+Manjaro Linux,nts|473 to nts|2200[200],nts|256 to nts|1024,Yes,Yes,Yes,Yes
+MEPIS,nts|700 to nts|4000,nts|128 to nts|512,Yes,Yes,Yes,Yes
+Musix GNULinux,nts|2000,dunno,No,Yes,Yes,Yes
+Nanolinux,nts|18,nts|64|prefix=‰ˆ,Yes,Yes,Yes,Yes
+openGEU,nts|700,nts|192 to nts|512,Yes,[empty],Yes,[empty]
+openSUSE (Not 421),nts|700,nts|128 to nts|768,Yes,Yes,Yes,Yes
+OpenWrt,nts|4|prefix=min ,nts|16|prefix=min ,No,No,No,No
+Parabola GNU/Linuxlibre,nts|400 to nts|3300,dunno,yes,yes,yes,yes
+Pardus,nts|1256 to nts|1276,nts|256 to nts|1024,Yes,Yes,Yes,Yes
+PCLinuxOS,nts|130 to nts|700,nts|96 to nts|512,Yes,Yes,Yes,Yes
+Pentoo,nts|666 and nts|700,nts|48 to nts|96,Yes,Yes,Yes |By hand[201],Yes |By hand
+Porteus,nts|224 to nts|373,nts|min 36,dunno,dunno,Yes,Yes
+Puppy Linux (Slacko),nts|235,nts|32 to nts|192,Yes,Yes,Yes,Yes
+Puredyne,nts|542,[empty],Yes,Yes,Yes,Yes
+Sabayon Linux Live CD,nts|695,[empty],Yes,Yes,Yes,Yes
+Sabayon Linux Live DVD,nts|2400,[empty],no,Yes,Yes,Yes
+Scientific Linux,nts|431 to nts|2300[202],nts|640,Yes,Yes,Yes,Yes
+Slackware,nts|2600,nts|64 to nts|1024[203],Yes,Yes,Yes,Yes
+Slax,nts|200,nts|96 to nts|320,Yes,Yes,[empty],Yes
+Solus,nts|1200,nts|1024,No,Yes,Yes,Yes
+SystemRescueCD,nts|459,[empty],Yes,Yes,Yes,Yes
+SliTaz GNU/Linux,nts|35,nts|24 to nts|192,Yes,Yes,Yes,Yes
+Tails,nts|900|prefix=‰ˆ,nts|1024|prefix=‰ˆ,No,Yes,Yes,Yes (when run from DVD)
+Tiny Core Linux,nts|16,nts|46,Yes,Yes,Yes,Yes
+Tiny SliTaz,nts|64,nts|4,Yes,Yes,Yes |By SliTaz,Yes |By SliTaz
+Torramdisk,nts|5,nts|256 or >[204],Yes,Yes,Yes,Yes
+Trisquel,nts|1500[205],nts|384,Yes,Yes,Yes,Yes
+TurnKey GNU/Linux Core (base) appliance ISO,nts|212,nts|173|prefix=~,Yes,Yes,Yes,Yes
+Ubuntu,nts|1700[206],nts|384,Yes,Yes,Yes,Yes
+Ututo,nts|3500,dunno,No,Yes,Yes,dunno
+Edubuntu,nts|2900[207],[empty],Yes,Yes,Yes,[empty]
+Kubuntu,nts|1400[208],nts|384,Yes,Yes,Yes,Yes
+XBMC Live,nts|700,nts|256 to nts|1024,Yes,no,Yes,Yes
+Zentyal,nts|600,nts|256,Yes,Yes,Yes,Yes
+Xubuntu,nts|1200[209],nts|256,Yes,Yes,Yes,Yes
+Distribution,Size of media (MB),RAM use (MB),Boots from CD,Boots from DVD,Installable live CD/DVD,Installable from USB

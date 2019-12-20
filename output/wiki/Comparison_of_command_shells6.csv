@@ -1,0 +1,24 @@
+Shell,Secure (password) prompt,Encrypted variables/ parameters,File/directory passwords,Execute permission,Untrusted script blocking,Restricted shell subset,Safe data subset
+Bourne shell,some|via stty[72],no,?,N/A[73],no,yes,no
+POSIX shell,some|via stty[72],no,?,N/A[73],no,no,no
+bash (v40),yes|read s,no,?,N/A[73],no,yes,no
+csh,some|via stty[72],no,?,N/A[73],no,yes,no
+tcsh,some|via stty[72],no,?,N/A[73],no,yes,no
+Hamilton C shell,no,no,no,no,no,no,no
+Scsh,some|via stty[72],no,?,N/A[73],no,no,no
+ksh (ksh93t),some|via stty[72],no,?,N/A[73],no,yes,no
+pdksh,some|via stty[72],no,?,N/A[73],no,yes,no
+zsh,yes|read s,no,?,N/A[73],no,yes,no
+ash,some|via stty[72],no,?,N/A[73],no,yes,no
+CCP,no,no,no,no,no,no,no
+COMMANDCOM,partial (only under DRDOS  prompts for password if file/directory is protected),no,partial (only under DRDOS via \dirname;dirpwd\filename;filepwd syntax)[74],partial (only under DRDOS  if files are passwordprotected for read and/or execute permission)[75],no,no,no
+OS/2 CMDEXE,no,no,no,no,no,no,no
+Windows CMDEXE,no,no,no,no,no,no,no
+4DOS,yes (via INPUT /P or INKEY /P)[76],no,partial (only under DRDOS via \dirname;;dirpwd\filename;;filepwd syntax)[74],partial (only under DRDOS  if files are passwordprotected for read and/or execute permission)[75],no,no,no
+4OS2,?,no,no,no,no,no,no
+TCC (formerly 4NT),yes (via INPUT /P  INKEY /P or QUERYBOX /P)[76],no,no,no,no,no,no
+PowerShell,yes[77],yes,no,no[78],yes[79],yes[80],yes[81]
+rc,some|via stty[72],no,?,N/A[73],no,yes[82],no
+BeanShell,?,?,?,?,?,?,?
+VMS DCL,yes,no,no,yes,no,yes,no
+fish,yes|read s,no,?,N/A[73],no,yes| Yes (via fish l),?

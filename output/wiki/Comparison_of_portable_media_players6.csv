@@ -1,0 +1,27 @@
+Name,FM radio,Microphone,Linein recording,DVR recording,Playback while charging,USB host,HDMI out
+Archos 105,no,no,no,no,unk,[empty],[empty]
+Archos 405,no,no,no,yes,unk,[empty],[empty]
+Archos 5,yes2 With FM remote,yes2 With FM remote,yes2 With dock,yes2 With DVR dock,yes2 With dock,[empty],[empty]
+Archos 605 WiFi / GPS,no,no,no,yes,yes,[empty],[empty]
+Archos 705 WiFi,no,no,no,yes,unk,[empty],[empty]
+Cowon A3,yes,yes,yes,no,unk,yes,[empty]
+Cowon D2,yes,yes,yes,no,yes,[empty],[empty]
+Cowon Q5W,yes,yes,no,no,unk,[empty],[empty]
+Gigabeat TSeries,no,no,yes,no,unk,[empty],[empty]
+GP2X F200,no,no,no,no,unk,[empty],[empty]
+iPod,yes2 Nano generations 5 & 6 only,yes,no,no,yes,[empty],yes2 iPod Touch only
+iriver clix 2G,yes,yes,yes2No[98],no,unk,[empty],[empty]
+PSP 1000 Series,no,no,no,no,yes,[empty],[empty]
+PSP Slim & Lite 2000 Series,no,yes2Accessory only,no,no,yes,[empty],[empty]
+PSP Slim & Lite 3000 Series,no,yes,no,no,yes,[empty],[empty]
+Samsung Galaxy Player,yes,yes,no,no,yes,no,yes2 Korean version only
+Samsung T10,yes,yes,no,no,yes2Power only; no data[99],[empty],[empty]
+Samsung P2,yes,yes,no,no,yes2Power only; no data[99],[empty],[empty]
+Sansa Fuze,yes,yes,no,no,yes2Power only; no data[99],[empty],[empty]
+Sansa Fuze,yes|with pause and record,yes,no,no,yes2Power only; no data[99],[empty],[empty]
+Sansa View,yes,yes,no,no,yes2Power only; no data[99],[empty],[empty]
+Walkman NWZA810 series,no,no,no,no,yes,[empty],[empty]
+ZEN,yes,yes,no,no,yes,[empty],[empty]
+ZEN Vision W,yes,yes,no,no,yes2Power only; no data[99],[empty],[empty]
+Zune,yes HD Radio,no,no,no,yes,[empty],yes  Zune HD
+Zvue 260,no,no,no,no,no,[empty],[empty]

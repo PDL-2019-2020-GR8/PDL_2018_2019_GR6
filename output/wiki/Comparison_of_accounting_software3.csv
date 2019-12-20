@@ -1,0 +1,15 @@
+Package,Programming Language,First public release date (YYYYMMDD),Latest stable release,Stable release date (YYYYMMDD),Development Status,Database,Supported languages
+Acumatica,C#  C,20090101,172000401,20171006,5  Production / Stable,Microsoft SQL  MySQL,100 UNICODE English  Spanish  French  Chinese  Japanese  Malay  Khmer  Thai 
+Adempiere,J2EE  JBoss,20061012,380LTS,20150102,5  Production / Stable,Oracle  PostgreSQL,10 English  Spanish  French  
+Apache OFBiz,Java  XML  FreeMarker  Groovy  Javascript,?,161104,20180102,5  Production / Stable,Apache Derby  MSSQL  MySQL  Oracle  PostgreSQL,Multilingual
+CGram Software,C  Java,1982,500,20090801,5  Production / Stable,PostgreSQL,English
+Compiere,J2EE  JBoss,20010608,389,20160913,5  Production / Stable,Oracle  Advance Server  MS SQL  PostgreSQL,10 English  Germany  Spanish  French  Indonesia 
+GnuCash,C 80%  Scheme / Lisp 13%  Perl 7%?,19991108  Registered,37,20190908,5  Production / Stable,XML (Compressed)  SQLite3  MySQL  PostgreSQL,software 33 languages;[7] website 8 languages
+GNU Enterprise,Python 100%,20020628,14,20081119,5  Production / Stable,PostgreSQL 81,2 English  German 
+JFire,J2EE  JBoss  Eclipse RCP  JDO,?,101,20100320,?,MS SQL  Derby  ,English  German  Thai  
+LedgerSMB,Perl,20060906,173,20191115,5  Production / Stable,PostgreSQL 94,40English development  Multilingual (po files Gettext#Translating )
+NewViews,C  Tcl/Tk,1985,234,20191219,5  Production / Stable,Proprietary  Object Oriented,English
+Openbravo,J2EE  JBoss,2006,3030460,20170309,5  Production / Stable,Oracle  PostgreSQL,English  German  Spanish (Spain)  Spanish (Mexico)  French  Italian  Dutch  Polish  Portuguese  Romanian  Russian  Chinese  Hebrew  Bulgarian  etc
+Odoo,Python  Javascript,2005,120,20181003,5  Production / Stable,PostgreSQL,40 Multilingual[8]
+SQLLedger,Perl,19990129,324,20170321,5  Production / Stable,PostgreSQL,30 English  
+Tryton,Python,20081117,42,20161128,5  Production / Stable,PostgreSQL  MySQL  SQLite,English  Bulgarian  Catalan  Czech  Dutch  French  German  Italian  Russian  Slovene  Spanish

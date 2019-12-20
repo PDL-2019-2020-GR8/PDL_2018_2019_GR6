@@ -1,0 +1,5 @@
+[empty],Trident,Tasman,Gecko,WebKit,KHTML,Presto,Prince XML
+MathML,no,rowspan="4" no,yes|10,no[12],no,yes|21,yes|60
+SVG,yes|50,yes|18,yes|522,yes|32,yes|10,yes|51,[added]
+XForms,rowspan="2" no,no[13],no[14],rowspan="2" no,no,?,[added]
+VoiceXML,no,no,yes|10,no,[added],[added],[added]

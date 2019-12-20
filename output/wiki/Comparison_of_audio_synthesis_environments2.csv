@@ -1,0 +1,11 @@
+Name,Textual/graphical,Objectoriented,Type system
+Bidule,Graphical,No,[empty]
+ChucK,Textual,Yes,Static
+Csound,Textual/Graphical (FLTK/Qt/HTML5),No,In development
+Impromptu,Mostly textual,,Dynamic & static
+Kyma,Mostly Graphical,Yes,Dynamic
+Max/MSP,Graphical,No,[empty]
+Pure Data,Graphical,No,[empty]
+Reaktor,Graphical,No,[empty]
+SuperCollider,Textual/Graphical (Cocoa/Swing/Qt),Yes,Dynamic
+MPEG4/SA,Textual,No,No

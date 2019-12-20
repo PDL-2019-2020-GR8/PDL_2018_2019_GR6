@@ -1,0 +1,9 @@
+Format,Filename extension,Created by,Introduced in,Based on,Integrity check,Recovery record,Encryption supported,Unicode filenames,Modification date resolution
+Debian package (deb),deb,Debian,1994 Debian 091,ar  tar  and gzip,yes,no,no,yes,1 s
+Macintosh Installer,pkg  mpkg (metapackage),NeXT,1989 NeXTSTEP 10,pax and gzip,yes,dunno,dunno,yes,dunno
+RPM Package Manager (RPM),rpm,Red Hat,1995 Red Hat Linux 10,cpio and gzip,yes,dunno,dunno,dunno,1 s
+Slackware Package,tgz,Patrick Volkerding,1993 Slackware 10,tar and gzip,yes,no,no,dunno,dunno
+Windows Installer (also MSI),msi,Microsoft,2000 Windows 2000,OLE Structured Storage  Cabinet and SQL,optional PKCS7 Authenticode Signature,no,no,no,2 s
+Java Archive (JARref|b1|1),jar,Sun Microsystems,1997 JDK 11,PKZIP,yes,no,dunno,yes,dunno
+Google Chrome extension package,crx,Google,2009 (Chrome 40),Zip,dunno,dunno,yes[3]failed verification|date=March 2016,dunno,dunno
+Pacman,pkgtarxz  pkgtar (no compression),Judd Vinet,2001 (before ArchLinux 01),tar and xz (formerly gzip),yes,no,no,yes,1 s

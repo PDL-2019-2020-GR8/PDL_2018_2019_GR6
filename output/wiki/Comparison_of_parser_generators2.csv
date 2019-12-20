@@ -1,0 +1,101 @@
+Name,Parsing algorithm,Input grammar notation,Output languages,Grammar  code,Lexer,Development platform,IDE,License
+ANTLR4,ALL(*)[2],EBNF,C#  Java  Python  JavaScript  C  Swift  Go  PHP,DA|Mixed,generated,Some|Java virtual machine,Yes,Free  BSD
+ANTLR3,LL(*),EBNF,ActionScript  Ada95  C  C  C#  Java  JavaScript  ObjectiveC  Perl  Python  Ruby,DA|Mixed,generated,Some|Java virtual machine,Yes,Free  BSD
+APG,Recursive descent  backtracking,ABNF,C  C  JavaScript  Java,DP|Separate,none,Yes|All,No,Free  GNU GPL
+AXE,Recursive descent,AXE/C,C17  C11,DA|Mixed,none,Some|Any with C17 or C11 standard compiler,No,Free  Boost
+Beaver,LALR(1),EBNF,Java,DA|Mixed,external,Some|Java virtual machine,No,Free  BSD
+Belr,Recursive descent,ABNF,C17  C11,DP|Separate,included,Some|POSIX,No,Partial  GNU GPL  proprietary
+Bison,LALR(1)  LR(1)  IELR(1)  GLR,Yacc,C  C  Java,DA|Mixed,external,Yes|All,No,Free  GNU GPL with exception
+Bison[3],LALR(1),?,C,DA|Mixed,external,Some|POSIX,No,Free  GNU GPL
+Bisonc,LALR(1),?,C,DA|Mixed,external,Some|POSIX,No,Free  GNU GPL
+Boozetools,LALR(1) or LR(1) canonical or minimal,BNF with macros in place of EBNF,State machine can be runtimegenerated or saved as JSON,DA|Mixed  separable,included,Some|Python,No,Free  public domain
+BtYacc,Backtracking Bottomup,?,C,DA|Mixed,external,Yes|All,No,Free  public domain
+byacc,LALR(1),Yacc,C,DA|Mixed,external,Yes|All,No,Free  public domain
+BYACC/J,LALR(1),Yacc,C  Java,DA|Mixed,external,Yes|All,No,Free  public domain
+CLYacc,LALR(1),Lisp,Common Lisp,DA|Mixed,external,Yes|All,No,Free  MIT
+Coco/R,LL(1),EBNF,C  C  C#  F#  Java  Ada  Object Pascal  Delphi  Modula2  Oberon  Ruby  Swift  Unicon  Visual Basic NET,DA|Mixed,generated,Some|Java virtual machine  NET Framework  Windows  POSIX (depends on output language),No,Free  GNU GPL
+CookCC,LALR(1),Java annotations,Java,DA|Mixed,generated,Some|Java virtual machine,No,Free  Apache 20
+CppCC,LL(k),?,C,DA|Mixed,generated,Some|POSIX,No,Free  GNU GPL
+CSP,LR(1),?,C,DP|Separate,generated,Some|POSIX,No,Free  Apache 20
+CUP,LALR(1),?,Java,DA|Mixed,external,Some|Java virtual machine,No,Free  BSDlike
+Dragon,LR(1)  LALR(1),?,C  Java,DP|Separate,generated,Yes|All,No,Free  GNU GPL
+eli,LALR(1),?,C,DA|Mixed,generated,Some|POSIX,No,Free  GNU GPL  GNU LGPL
+Tunnel Grammar Studio,Recursive descent  backtracking,ABNF,C,DP|Separate,generated,Some|Windows,Yes,Proprietary
+Essence,LR(?),?,Scheme 48,DA|Mixed,external,Yes|All,No,Free  BSD
+EtoParse,LL(k),BNF  EBNF or C#,N/A (state machine is runtime generated),DP|Separate,internal,Some|NET Framework,No,Free  MIT
+eyapp,LALR(1),?,Perl,DA|Mixed,external or generated,Yes|All,No,Free  Artistic
+Frown,LALR(k),?,Haskell 98,DA|Mixed,external,Yes|All,No,Free  GNU GPL
+geyacc,LALR(1),?,Eiffel,DA|Mixed,external,Yes|All,No,Free  MIT
+GOLD,LALR(1),BNF,x86 assembly language  ANSI C  C#  D  Java  Pascal  Object Pascal  Python  Visual Basic 6  Visual Basic NET  Visual C,DP|Separate,generated,Some|Windows,Yes,Free  zlib modified
+GPPG,LALR(1),Yacc,C#,DP|Separate,external,Some|Windows,Yes,Free  BSD
+Grammatica,LL(k),BNF dialect,C#  Java,DP|Separate,generated,Some|Java virtual machine,No,Free  BSD
+HiLexed,LL(*),EBNF or Java,Java,DP|Separate,internal,Some|Java virtual machine,No,Free  GNU LGPL
+Hime Parser Generator,LALR(1)  GLR,BNF dialect,C#  Java  Rust,DP|Separate,generated,Some|NET Framework  Java virtual machine,No,Free  GNU LGPL
+Hyacc,LR(1)  LALR(1)  LR(0),Yacc,C,DA|Mixed,external,Yes|All,No,Free  GNU GPL
+Irony,LALR(1),C#,N/A (state machine is runtime generated),DP|Separate,internal,Some|NET Framework,Yes,Free  MIT
+iyacc,LALR(1),Yacc,Icon,DA|Mixed,external,Yes|All,No,Free  GNU LGPL
+jacc,LALR(1),?,Java,DA|Mixed,external,Some|Java virtual machine,No,Free  BSD
+JavaCC,LL(k),EBNF,Java  C  JavaScript (via GWT compiler)[4],DA|Mixed,generated,Some|Java virtual machine,Yes,Free  BSD
+jay,LALR(1),Yacc,C#  Java,DA|Mixed,none,Some|Java virtual machine,No,Free  BSD
+JFLAP,LL(1)  LALR(1),?,Java,?,?,Some|Java virtual machine,Yes,?
+JetPAG,LL(k),?,C,DA|Mixed,generated,Yes|All,No,Free  GNU GPL
+JS/CC,LALR(1),EBNF,JavaScript  JScript  ECMAScript,DA|Mixed,internal,Yes|All,Yes,Free  BSD
+KDevelopPGQt,LL(1)  backtracking  shuntingyard,?,C,DA|Mixed,generated or external,Yes|All  KDE,No,Free  GNU LGPL
+Kelbt,Backtracking LALR(1),?,C,DA|Mixed,generated,Some|POSIX,No,Free  GNU GPL
+kmyacc,LALR(1),?,C  Java  Perl  JavaScript,DA|Mixed,external,Yes|All,No,Free  GNU GPL
+Lapg,LALR(1),?,C  C  C#  Java  JavaScript,DA|Mixed,generated,Some|Java virtual machine,No,Free  GNU GPL
+Lark,LALR(1)  Earley  CYK,EBNF,Python (no generation  library),DP|Separate,none,Yes|All,No,Free  MIT
+Lemon,LALR(1),?,C,DA|Mixed,external,Yes|All,No,Free  public domain
+LEPL,Recursive descent,Python,Python (no generation  library),DP|Separate,none,Yes|All,No,Free  MPL  GNU LGPL
+Lime,LALR(1),?,PHP,DA|Mixed,external,Yes|All,No,Free  GNU GPL
+LISA,LR(?)  LL(?)  LALR(?)  SLR(?),?,Java,DA|Mixed,generated,Some|Java virtual machine,Yes,Free  public domain
+LLgen,LL(1),?,C,DA|Mixed,external,Some|POSIX,No,Free  BSD
+LLnextgen,LL(1),?,C,DA|Mixed,external,Yes|All,No,Free  GNU GPL
+LLLPG,LL(k)  syntactic and semantic predicates,ANTLRlike,C#,DA|Mixed,generated (?),Some|NET Framework  Mono,Yes|Visual Studio,Free  GNU LGPL
+LPG,Backtracking LALR(k),?,Java,DA|Mixed,generated,Some|Java virtual machine,No,Free  EPL
+LRSTAR,LALR(1)  LR(1)  LR(*),EBNF  Yacclike,C,DP|Separate,generated,Some|Windows,Yes|Visual Studio,Free  BSD
+Menhir,LR(1),?,OCaml,DA|Mixed,generated,Yes|All,No,Free  QPL
+MLYacc,LALR(1),?,ML,DA|Mixed,external,Yes|All,No,?
+Monkey,LR(1),?,Java,DP|Separate,generated,Some|Java virtual machine,No,Free  GNU GPL
+Msta,LALR(k)  LR(k),YACC  EBNF,C  C,DA|Mixed,external or generated,Some|POSIX  Cygwin,No,Free  GNU GPL
+MTP (More Than Parsing),LL(1),?,Java,DP|Separate,generated,Some|Java virtual machine,No,Free  GNU GPL
+MyParser,LL(*),Markdown,C11,DP|Separate,internal,Some|Any with standard C11 compiler,No,Free  MIT
+NLT,GLR,C#/BNFlike,C#,DA|Mixed,mixed,Some|NET Framework,No,Free  MIT
+ocamlyacc,LALR(1),?,OCaml,DA|Mixed,external,Yes|All,No,Free  QPL
+olex,LL(1),?,C,DA|Mixed,generated,Yes|All,No,Free  GNU GPL
+parglare,Scannerless LALR(1)/SLR(1)/GLR,BNFlike  Python,N/A (state machine is runtime generated),DA|Mixed,none,Yes|All,No,Free  MIT
+Parsec,LL  backtracking,Haskell,Haskell,DA|Mixed,none,Yes|All,No,Free  BSD
+ParseYapp,LALR(1),?,Perl,DA|Mixed,external,Yes|All,No,Free  GNU GPL
+Parser Objects,LL(k),?,Java,DA|Mixed,?,Some|Java virtual machine,No,Free  zlib
+PCCTS,LL,?,C  C,?,?,Yes|All,No,?
+PLY,LALR(1),BNF,Python,DA|Mixed,generated,Yes|All,No,Free  MIT
+PlyPlus,LALR(1),EBNF,Python,DP|Separate,generated,Yes|All,No,Free  MIT
+PRECC,LL(k),?,C,DP|Separate,generated,Some|DOS  POSIX,No,Free  GNU GPL
+QLALR,LALR(1),?,C,DA|Mixed,external,Yes|All,No,Free  GNU GPL
+RPATK,Recursive descent  backtracking,BNF,C (no generation  library),DP|Separate,none,Yes|All,No,Free  GNU GPL
+SableCC,LALR(1),?,C  C  C#  Java  OCaml  Python,DP|Separate,generated,Yes|All,No,Free  GNU LGPL
+SLK[5],LL(k) LR(k) LALR(k),EBNF,C  C  C#  Java  JavaScript,DP|Separate,external,Yes|All,No,SLK[6]
+SP (Simple Parser),Recursive descent,Python,Python,DP|Separate,generated,Yes|All,No,Free  GNU LGPL
+Spirit,Recursive descent,?,C,DA|Mixed,internal,Yes|All,No,Free  Boost
+Sprache,LL  backtracking,C#,interpreted,DA|Mixed,internal,Some|NET Framework,No,Free  MIT
+Styx,LALR(1),?,C  C,DP|Separate,generated,Yes|All,No,Free  GNU LGPL
+Sweet Parser,LALR(1),?,C,DP|Separate,generated,Some|Windows,No,Free  zlib
+Tap,LL(1),?,C,DA|Mixed,generated,Yes|All,No,Free  GNU GPL
+TextTransformer,LL(k),?,C,DA|Mixed,generated,Some|Windows,Yes,Proprietary
+TinyPG,LL(1),?,C#  Visual Basic,?,?,Some|Windows,Yes,Partial  CPOL 10
+Toy Parser Generator,Recursive descent,?,Python,DA|Mixed,generated,Yes|All,No,Free  GNU LGPL
+TP Yacc,LALR(1),?,Turbo Pascal,DA|Mixed,external,Yes|All,Yes,Free  GNU GPL
+UltraGram,LALR(1)  LR(1)  GLR,BNF,C  Java  C#  Visual Basic NET,DP|Separate,external,Some|Windows,Yes,Free  public domain
+UniCC,LALR(1),EBNF,C  C  Python  JavaScript  JSON  XML,DA|Mixed,generated,Some|POSIX,No,Free  BSD
+UrchinCC,LL(1),?,Java,?,generated,Some|Java virtual machine,No,?
+Whale,LR(?)  some conjunctive stuff  see Whale Calf,?,C,DA|Mixed,external,Yes|All,No,Proprietary
+wisent,LALR(1),?,C  Java,DA|Mixed,external,Yes|All,No,Free  GNU GPL
+Yacc AT&T/Sun,LALR(1),Yacc,C,DA|Mixed,external,Some|POSIX,No,Free  CPL & CDDL
+Yacc,LR(1)  LALR(1),Yacc,C  C#,DA|Mixed,generated or external,Yes|All,No,Proprietary
+Yapps,LL(1),?,Python,DA|Mixed,generated,Yes|All,No,Free  MIT
+yecc,LALR(1),?,Erlang,DP|Separate,generated,Yes|All,No,Free  Apache 20
+Visual BNF,LR(1)  LALR(1),?,C#,DP|Separate,generated,Some|NET Framework,Yes,Proprietary
+YooParse,LR(1)  LALR(1),?,C,DA|Mixed,external,Yes|All,No,Free  MIT
+Parse,LR(1),BNF in C types,?,?,none,Some|C11 standard compiler,No,Free  MIT
+GGLL,LL(1),Graph,Java,DA|Mixed,generated,Some|Windows,Yes,Free  MIT
+Product,Parsing algorithm,Input grammar notation,Output languages,Grammar  code,Lexer,Development platform,IDE,License

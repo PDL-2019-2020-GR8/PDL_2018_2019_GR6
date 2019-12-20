@@ -1,0 +1,27 @@
+[empty],Creator,Latest release,User interface,Software license,Cost
+Analyze This,Comoe Networks,[empty],Web GUI,N/A,dunno
+Cain and Abel,Massimiliano Montoro,4956 / April 7  2014,GUI,Proprietary|Freeware,free
+Capsa,Colasoft,111 / release date|2018|04|24[1],GUI,Proprietary,Partial|$0$995  depending on version[2]
+Carnivore,Federal Bureau of Investigation,dunno,dunno,N/A,dunno
+Charles Web Debugging Proxy,Karl van Randow,414 / July 10  2017,GUI,dunno,$30$50 (Free Trial)
+Clarified Analyzer,Clarified Networks,[empty],GUI,Proprietary,Nonfree
+Clusterpoint Network Traffic Surveillance System,Clusterpoint,[empty],web GUI,Proprietary,dunno
+CommView,TamoSoft,65,GUI,Proprietary,Nonfree|$299$599  $149 1 year subscription
+dSniff,Dug Song,23 / December 17  2000[3],CLI,free|BSD License,free
+EtherApe,Juan Toledo,0914 / dts|2016|02|06[4],GUI,free|GNU General Public License,free
+Ettercap,ALoR and NaGA,082Ferri / March 14  2015[5],Both,free|GNU General Public License,free
+Fiddler,Eric Lawrence / Telerik,5020194 / dts|2019|10|03[6],GUI,Proprietary|Freeware,free
+justniffer,The Justniffer team,0515 / March 21  2016[7],CLI,free|GNU General Public License,free
+Kismet,Mike Kershaw (dragorn),201601R1 / January 31  2016[8],CLI,free|GNU General Public License,free
+Microsoft Message Analyzer,Microsoft,14 / October 28  2016 [9],GUI,Proprietary,free
+Microsoft Network Monitor,Microsoft,34 / June 24  2010,GUI,Proprietary,free
+netsniffng,Daniel Borkmann,062 / November 7  2016,CLI,free|GNU General Public License,free
+ngrep,Jordan Ritter,145 (11/18/06),CLI,free|BSDstyle,free
+Observer,Viavi Solutions (formerly Network Instruments),[empty],GUI,Proprietary,Nonfree|Price on request
+OmniPeek (formerly AiroPeek  EtherPeek),Savvius (formerly WildPackets),111 / November  2017,GUI,Proprietary,Nonfree|$1194$5994  depending on version[10]
+SteelCentral Transaction Analyzer,OPNET Technologies/Riverbed Technology,170TPL1 / June 9  2014[11],GUI,Proprietary,Nonfree
+snoop,Sun Microsystems,Solaris 10 / December 11  2006,CLI,free|CDDL,free
+tcpdump,The Tcpdump team,492 / dts|2017|09|04[12],CLI,free|BSD License,free
+Tranalyzer,The Tranalyzer team,075 / dts|2018|2|10[13],CLI,free|GNU General Public License,free
+Wireshark (formerly Ethereal),The Wireshark team,303 / dts|2019|07|17[14],Both,free|GNU General Public License,free
+Xplico,The Xplico team,120 / release date|2017|02|01[15],Both,free|GNU General Public License,free
