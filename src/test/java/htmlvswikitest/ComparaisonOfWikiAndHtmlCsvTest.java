@@ -26,6 +26,7 @@ import helper.Utils;
 import helper.WikiRunner;
 import interfaces.FileHandler;
 import interfaces.Statistics;
+import wikipedia.html.HTMLExtractor;
 import wikipedia.wiki.WikiExtractor;
 import wikipedia.html.HTMLConverter;
 import wikipedia.wiki.WikiConverter;
@@ -150,16 +151,30 @@ class ComparaisonOfWikiAndHtmlCsvTest {
 //			    System.out.println("------------------------------------------------------------------------------------------------\n");
 				// data.clear();
 //				data2.clear();
-				number++;
+				// number++;
+				int totalExtacted = 0;
+				for(Statistics s : HTMLExtractor.statisticsList) {
+					totalExtacted += s.getExtractedTablesNumber();
+				}
+				System.out.println("Number of extracted pertinent tables : "+totalExtacted);
+				Utils.displayInfo(HTMLExtractor.statisticsList, "HTML Extractor");
+				
+				int totalExtacted1 = 0;
+				for(Statistics s : WikiExtractor.statisticsList) {
+					totalExtacted1 += s.getExtractedTablesNumber();
+				}
+				System.out.println("Number of extracted pertinent tables : "+totalExtacted1);
+				Utils.displayInfo(WikiExtractor.statisticsList, "WIKI Extractor");
+
 			}
 			
-			System.out.println("------------------------------------------------------------------------------------------------\n");
-			System.out.println("------------------------------------------------------------------------------------------------\n");
-			System.out.println("CSV serialization finished, "+number+" urls have been tested \n");
-			System.out.println( "there are "+z+ " urls that have all the compliant tables in their html and wiki files.\n");
-			System.out.println( "an error rate of " +(double)((number-z)*100)/number +"%");
-			System.out.println("------------------------------------------------------------------------------------------------\n");
-			System.out.println("------------------------------------------------------------------------------------------------\n");
+			//System.out.println("------------------------------------------------------------------------------------------------\n");
+			//System.out.println("------------------------------------------------------------------------------------------------\n");
+			//System.out.println("CSV serialization finished, "+number+" urls have been tested \n");
+			//System.out.println( "there are "+z+ " urls that have all the compliant tables in their html and wiki files.\n");
+			//System.out.println( "an error rate of " +(double)((number-z)*100)/number +"%");
+			//System.out.println("------------------------------------------------------------------------------------------------\n");
+			//System.out.println("------------------------------------------------------------------------------------------------\n");
 		} catch (Exception e) {
 		} finally {
 			try {
